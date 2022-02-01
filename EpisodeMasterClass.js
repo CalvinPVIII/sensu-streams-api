@@ -15,15 +15,15 @@ class EpisodeMasterClass {
         this.dbz = dragonBallZ;
         this.dbkai = dragonBallKai;
         this.dbs = dragonBallSuper;
-        this.dbgt = streamPlaylist;
+        this.dbgt = dragonBallGt;
         this.dbMovies = "Coming soon";
         this.streamPlaylist = streamPlaylist;
 
         this.streamStatus = {
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 362,
-            currentTime: 5900,
+            currentEpisode: 0,
+            currentTime: 0,
             currentSeries: "",
             currentEpisodeInSeries: "",
             isInitialized: false,
