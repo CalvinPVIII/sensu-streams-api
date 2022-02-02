@@ -16,7 +16,9 @@ const chromium = require("chrome-aws-lambda");
  */
 module.exports.getMediaSources = function (pageUrl, options = {}) {
     return new Promise(async (resolve) => {
-        let browser = await chromium.puppeteer.launch();
+        let browser = await chromium.puppeteer.launch({
+            args: ["--no-sandbox", "--disable-setuid-sandbox"],
+        });
         let page = await browser.newPage();
 
         let sources = [];
