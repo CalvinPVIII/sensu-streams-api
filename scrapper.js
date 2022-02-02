@@ -4,7 +4,7 @@
  * @version 1.2.0
  */
 
-let puppeteer = require("puppeteer");
+let puppeteer = require("puppeteer-core");
 let request = require("request-promise");
 const chromium = require("chrome-aws-lambda");
 
