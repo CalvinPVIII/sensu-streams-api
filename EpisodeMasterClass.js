@@ -1,5 +1,5 @@
 const ffmpeg = require("fluent-ffmpeg");
-let scraper = require("jwplayer-scraper");
+let scraper = require("./scrapper");
 const {
     dragonBallSuper,
     dragonBallKai,

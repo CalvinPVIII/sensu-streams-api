@@ -17,6 +17,7 @@
         "fluent-ffmpeg": "^2.1.2",
         "install": "^0.13.0",
         "jwplayer-scraper": "^1.2.0",
-        "npm": "^8.3.0"
+        "npm": "^8.3.0",
+        "puppeteer-core": "^13.1.3"
     }
 }
