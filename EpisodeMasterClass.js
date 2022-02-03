@@ -1,5 +1,5 @@
 const ffmpeg = require("fluent-ffmpeg");
-let scraper = require("./scrapper");
+let scraper = require("./scraper");
 const {
     dragonBallSuper,
     dragonBallKai,
