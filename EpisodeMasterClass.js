@@ -23,7 +23,7 @@ class EpisodeMasterClass {
             currentSubFiles: "",
             currentDubFiles: "",
             currentEpisode: 0,
-            currentTime: 0,
+            currentTime: 1375,
             currentSeries: "",
             currentEpisodeInSeries: "",
             isInitialized: false,
@@ -119,7 +119,7 @@ class EpisodeMasterClass {
         }
     }
 
-    async episodeDurationInitialize() {
+    initializeEpisode() {
         console.log("Initializing episode");
         this.streamStatus.isInitialized = false;
         let currentSubEpisode =
@@ -136,60 +136,70 @@ class EpisodeMasterClass {
         this.streamStatus.subDuration = subEpisodeDuration;
         this.streamStatus.dubDuration = dubEpisodeDuration;
         this.setCurrentSeriesInfo(currentDubEpisode);
-        try {
-            let subFiles = await scraper.getMediaSources(currentSubEpisode);
-            let dubFiles = await scraper.getMediaSources(currentDubEpisode);
-
-            if (dubFiles === undefined || dubFiles.length === 0) {
-                this.streamStatus.currentDubFiles = subFiles;
-                console.log("----------Failed To Load Dub--------");
-                this.streamStatus.dubLoadError = true;
-            } else {
-                this.streamStatus.currentDubFiles = dubFiles;
-                this.streamStatus.dubLoadError = false;
-            }
-
-            if (subFiles === undefined || subFiles.length === 0) {
-                this.streamStatus.currentSubFiles = dubFiles;
-                console.log("----------Failed To Load Sub--------");
-                this.streamStatus.subLoadError = true;
-            } else {
-                this.streamStatus.currentSubFiles = subFiles;
-                this.streamStatus.subLoadError = false;
-            }
-
-            if (
-                this.streamStatus.dubLoadError &&
-                this.streamStatus.subLoadError
-            ) {
-                console.log("dub and sub load error");
-                await this.episodeDurationInitialize();
-            }
-
-            if (
-                (subEpisodeDuration > dubEpisodeDuration &&
-                    !this.streamStatus.subLoadError) ||
-                (subEpisodeDuration < dubEpisodeDuration &&
-                    this.streamStatus.dubLoadError)
-            ) {
-                this.streamStatus.isInitialized = true;
-
-                return subEpisodeDuration;
-            } else if (
-                (dubEpisodeDuration > subEpisodeDuration &&
-                    !this.streamStatus.dubLoadError) ||
-                (dubEpisodeDuration < subEpisodeDuration &&
-                    this.streamStatus.subLoadError)
-            ) {
-                this.streamStatus.isInitialized = true;
-                return dubEpisodeDuration;
-            } else if (dubEpisodeDuration === subEpisodeDuration) {
-                this.streamStatus.isInitialized = true;
-                return subEpisodeDuration;
-            }
-        } catch (error) {
-            console.log("There was an error: " + error);
+        this.streamStatus.currentSubFiles = currentSubEpisode;
+        this.streamStatus.currentDubFiles = currentDubEpisode;
+        if (subEpisodeDuration > dubEpisodeDuration) {
+            this.streamStatus.episodeDuration = subEpisodeDuration;
+        } else if (dubEpisodeDuration > subEpisodeDuration) {
+            this.streamStatus.episodeDuration = dubEpisodeDuration;
+        } else {
+            this.streamStatus.episodeDuration = subEpisodeDuration;
         }
+        this.streamStatus.isInitialized = true;
+        // try {
+        //     let subFiles = await scraper.getMediaSources(currentSubEpisode);
+        //     let dubFiles = await scraper.getMediaSources(currentDubEpisode);
+
+        //     if (dubFiles === undefined || dubFiles.length === 0) {
+        //         this.streamStatus.currentDubFiles = subFiles;
+        //         console.log("----------Failed To Load Dub--------");
+        //         this.streamStatus.dubLoadError = true;
+        //     } else {
+        //         this.streamStatus.currentDubFiles = dubFiles;
+        //         this.streamStatus.dubLoadError = false;
+        //     }
+
+        //     if (subFiles === undefined || subFiles.length === 0) {
+        //         this.streamStatus.currentSubFiles = dubFiles;
+        //         console.log("----------Failed To Load Sub--------");
+        //         this.streamStatus.subLoadError = true;
+        //     } else {
+        //         this.streamStatus.currentSubFiles = subFiles;
+        //         this.streamStatus.subLoadError = false;
+        //     }
+
+        //     if (
+        //         this.streamStatus.dubLoadError &&
+        //         this.streamStatus.subLoadError
+        //     ) {
+        //         console.log("dub and sub load error");
+        //         await this.episodeDurationInitialize();
+        //     }
+
+        //     if (
+        //         (subEpisodeDuration > dubEpisodeDuration &&
+        //             !this.streamStatus.subLoadError) ||
+        //         (subEpisodeDuration < dubEpisodeDuration &&
+        //             this.streamStatus.dubLoadError)
+        //     ) {
+        //         this.streamStatus.isInitialized = true;
+
+        //         return subEpisodeDuration;
+        //     } else if (
+        //         (dubEpisodeDuration > subEpisodeDuration &&
+        //             !this.streamStatus.dubLoadError) ||
+        //         (dubEpisodeDuration < subEpisodeDuration &&
+        //             this.streamStatus.subLoadError)
+        //     ) {
+        //         this.streamStatus.isInitialized = true;
+        //         return dubEpisodeDuration;
+        //     } else if (dubEpisodeDuration === subEpisodeDuration) {
+        //         this.streamStatus.isInitialized = true;
+        //         return subEpisodeDuration;
+        //     }
+        // } catch (error) {
+        //     console.log("There was an error: " + error);
+        // }
     }
 
     handleMoveToNextEpisode() {
@@ -210,8 +220,7 @@ class EpisodeMasterClass {
 
         if (!this.streamStatus.isInitialized) {
             console.log("Handle video stream: streamStatus is not initialized");
-            this.streamStatus.episodeDuration =
-                await this.episodeDurationInitialize();
+            this.initializeEpisode();
             console.log(this.streamStatus.currentDubFiles);
         }
         console.log(`episode duration ${this.streamStatus.episodeDuration}`);
