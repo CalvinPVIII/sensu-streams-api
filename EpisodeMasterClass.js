@@ -1,5 +1,7 @@
 const ffmpeg = require("fluent-ffmpeg");
-let scraper = require("./scraper");
+const axios = require("axios");
+const cheerio = require("cheerio");
+
 const {
     dragonBallSuper,
     dragonBallKai,
@@ -23,7 +25,7 @@ class EpisodeMasterClass {
             currentSubFiles: "",
             currentDubFiles: "",
             currentEpisode: 0,
-            currentTime: 1375,
+            currentTime: 0,
             currentSeries: "",
             currentEpisodeInSeries: "",
             isInitialized: false,
@@ -34,31 +36,53 @@ class EpisodeMasterClass {
             dubLoadError: false,
             subLoadError: false,
         };
-
-        // this is what the stream is using for the video playlist. It is an array of objects
     }
 
-    async getEpisodeFiles(episodeLink) {
+    async getEpisodeGogoApi(url) {
         try {
-            let files = await scraper.getMediaSources(episodeLink);
+            const { data } = await axios.get(url);
+            return data.data;
+        } catch (error) {
+            console.log("error");
+            console.log(error);
+            return "error";
+        }
+    }
+
+    async kimAnimeScrape(url) {
+        try {
+            const data = await axios.get(url);
+            const $ = cheerio.load(data.data);
+            const page = $.html();
+            const link = page.match(/(?<=embed)(.*?)(?=&quot)/gm)[0].slice(1);
+
+            const embedPage = await axios.get(
+                "https://kimanime.com/episode/embed" + link
+            );
+            const $$ = cheerio.load(embedPage.data);
+            const video = $$("video");
+
+            let files = [];
+            Object.values(video.children("source")).forEach((child) => {
+                if (child.attribs) {
+                    files.push(child.attribs);
+                }
+            });
+
             return files;
         } catch (error) {
-            console.log("There was an error: " + error);
+            console.log("error");
+            console.log(error);
+            return "error";
         }
     }
 
-    async getEpisode(episode) {
-        try {
-            episode.dub.files = await scraper.getMediaSources(
-                episode.dub.video
-            );
-            episode.sub.files = await scraper.getMediaSources(
-                episode.sub.video
-            );
-            return episode;
-        } catch (error) {
-            console.log("There was an error: " + error);
-        }
+    owlOrganizer(url) {
+        return {
+            file: url,
+            label: "Auto",
+            type: "mp4",
+        };
     }
 
     startStream() {
@@ -119,87 +143,90 @@ class EpisodeMasterClass {
         }
     }
 
-    initializeEpisode() {
+    async initializeEpisode() {
         console.log("Initializing episode");
         this.streamStatus.isInitialized = false;
-        let currentSubEpisode =
-            this.streamPlaylist[this.streamStatus.currentEpisode].sub.video;
+        let currentSubSources =
+            this.streamPlaylist[this.streamStatus.currentEpisode].sub.sources;
         let subEpisodeDuration =
             this.streamPlaylist[this.streamStatus.currentEpisode].sub
                 .episodeLength;
 
-        let currentDubEpisode =
-            this.streamPlaylist[this.streamStatus.currentEpisode].dub.video;
+        let currentDubSources =
+            this.streamPlaylist[this.streamStatus.currentEpisode].dub.sources;
         let dubEpisodeDuration =
             this.streamPlaylist[this.streamStatus.currentEpisode].dub
                 .episodeLength;
         this.streamStatus.subDuration = subEpisodeDuration;
         this.streamStatus.dubDuration = dubEpisodeDuration;
-        this.setCurrentSeriesInfo(currentDubEpisode);
-        this.streamStatus.currentSubFiles = currentSubEpisode;
-        this.streamStatus.currentDubFiles = currentDubEpisode;
-        if (subEpisodeDuration > dubEpisodeDuration) {
-            this.streamStatus.episodeDuration = subEpisodeDuration;
-        } else if (dubEpisodeDuration > subEpisodeDuration) {
-            this.streamStatus.episodeDuration = dubEpisodeDuration;
-        } else {
-            this.streamStatus.episodeDuration = subEpisodeDuration;
-        }
-        this.streamStatus.isInitialized = true;
+        // this.setCurrentSeriesInfo(currentDubEpisode);
         // try {
-        //     let subFiles = await scraper.getMediaSources(currentSubEpisode);
-        //     let dubFiles = await scraper.getMediaSources(currentDubEpisode);
+        // this gets and organizes the files for each source
+        let subFiles = [];
+        let dubFiles = [];
+        currentSubSources.forEach(async (source) => {
+            if (source.source === "Anime Owl") {
+                let obj = {
+                    source: "Anime Owl",
+                    files: this.owlOrganizer(source.video),
+                };
+                subFiles.push(obj);
+            }
+            if (source.source === "Gogoanime") {
+                const gogoFiles = await this.getEpisodeGogoApi(source.video);
+                const obj = {
+                    source: "Gogoanime",
+                    files: gogoFiles,
+                };
+                subFiles.push(obj);
+            }
+            if (source.source === "KimAnime") {
+                const kimFiles = await this.kimAnimeScrape(source.video);
+                const obj = {
+                    source: "KimAnime",
+                    files: kimFiles,
+                };
+                subFiles.push(obj);
+            }
+        });
 
-        //     if (dubFiles === undefined || dubFiles.length === 0) {
-        //         this.streamStatus.currentDubFiles = subFiles;
-        //         console.log("----------Failed To Load Dub--------");
-        //         this.streamStatus.dubLoadError = true;
-        //     } else {
-        //         this.streamStatus.currentDubFiles = dubFiles;
-        //         this.streamStatus.dubLoadError = false;
-        //     }
+        currentDubSources.forEach(async (source) => {
+            if (source.source === "Anime Owl") {
+                let obj = {
+                    source: "Anime Owl",
+                    files: this.owlOrganizer(source.video),
+                };
+                dubFiles.push(obj);
+            }
+            if (source.source === "Gogoanime") {
+                const gogoFiles = await this.getEpisodeGogoApi(source.video);
+                const obj = {
+                    source: "Gogoanime",
+                    files: gogoFiles,
+                };
+                dubFiles.push(obj);
+            }
+            if (source.source === "KimAnime") {
+                const kimFiles = await this.kimAnimeScrape(source.video);
+                const obj = {
+                    source: "KimAnime",
+                    files: kimFiles,
+                };
+                dubFiles.push(obj);
+            }
+        });
 
-        //     if (subFiles === undefined || subFiles.length === 0) {
-        //         this.streamStatus.currentSubFiles = dubFiles;
-        //         console.log("----------Failed To Load Sub--------");
-        //         this.streamStatus.subLoadError = true;
-        //     } else {
-        //         this.streamStatus.currentSubFiles = subFiles;
-        //         this.streamStatus.subLoadError = false;
-        //     }
+        this.streamStatus.currentDubFiles = dubFiles;
+        this.streamStatus.currentSubFiles = subFiles;
 
-        //     if (
-        //         this.streamStatus.dubLoadError &&
-        //         this.streamStatus.subLoadError
-        //     ) {
-        //         console.log("dub and sub load error");
-        //         await this.episodeDurationInitialize();
-        //     }
-
-        //     if (
-        //         (subEpisodeDuration > dubEpisodeDuration &&
-        //             !this.streamStatus.subLoadError) ||
-        //         (subEpisodeDuration < dubEpisodeDuration &&
-        //             this.streamStatus.dubLoadError)
-        //     ) {
-        //         this.streamStatus.isInitialized = true;
-
-        //         return subEpisodeDuration;
-        //     } else if (
-        //         (dubEpisodeDuration > subEpisodeDuration &&
-        //             !this.streamStatus.dubLoadError) ||
-        //         (dubEpisodeDuration < subEpisodeDuration &&
-        //             this.streamStatus.subLoadError)
-        //     ) {
-        //         this.streamStatus.isInitialized = true;
-        //         return dubEpisodeDuration;
-        //     } else if (dubEpisodeDuration === subEpisodeDuration) {
-        //         this.streamStatus.isInitialized = true;
-        //         return subEpisodeDuration;
-        //     }
-        // } catch (error) {
-        //     console.log("There was an error: " + error);
-        // }
+        // this sets the episode duration
+        if (subEpisodeDuration >= dubEpisodeDuration) {
+            this.streamStatus.isInitialized = true;
+            return subEpisodeDuration;
+        } else {
+            this.streamStatus.isInitialized = true;
+            return dubEpisodeDuration;
+        }
     }
 
     handleMoveToNextEpisode() {
@@ -220,7 +247,7 @@ class EpisodeMasterClass {
 
         if (!this.streamStatus.isInitialized) {
             console.log("Handle video stream: streamStatus is not initialized");
-            this.initializeEpisode();
+            this.streamStatus.episodeDuration = await this.initializeEpisode();
             console.log(this.streamStatus.currentDubFiles);
         }
         console.log(`episode duration ${this.streamStatus.episodeDuration}`);
