@@ -37,6 +37,7 @@ app.get("/movies", (req, res) => {
 });
 
 app.get("/streaminfo", (req, res) => {
+    res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(episodeMasterList.streamStatus);
 });
 

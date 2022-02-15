@@ -24,8 +24,8 @@ class EpisodeMasterClass {
         this.streamStatus = {
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 0,
-            currentTime: 0,
+            currentEpisode: 166,
+            currentTime: 1340,
             currentSeries: "",
             currentEpisodeInSeries: "",
             isInitialized: false,
@@ -65,7 +65,12 @@ class EpisodeMasterClass {
             let files = [];
             Object.values(video.children("source")).forEach((child) => {
                 if (child.attribs) {
-                    files.push(child.attribs);
+                    const fileObj = {
+                        file: child.attribs.src,
+                        label: child.attribs.size,
+                        type: child.attribs.type,
+                    };
+                    files.push(fileObj);
                 }
             });
 
@@ -78,11 +83,13 @@ class EpisodeMasterClass {
     }
 
     owlOrganizer(url) {
-        return {
-            file: url,
-            label: "Auto",
-            type: "mp4",
-        };
+        return [
+            {
+                file: url,
+                label: "Auto",
+                type: "mp4",
+            },
+        ];
     }
 
     startStream() {
@@ -182,6 +189,7 @@ class EpisodeMasterClass {
             }
             if (source.source === "KimAnime") {
                 const kimFiles = await this.kimAnimeScrape(source.video);
+
                 const obj = {
                     source: "KimAnime",
                     files: kimFiles,
