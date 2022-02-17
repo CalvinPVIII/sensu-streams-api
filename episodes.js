@@ -34,6 +34,7 @@ dragonBall = {
             ],
             episodeLength: 1451.966,
         },
+        episodeInfo: "Dragon Ball Episode 1",
     },
     2: {
         dub: {
@@ -70,6 +71,7 @@ dragonBall = {
             ],
             episodeLength: 1449.296,
         },
+        episodeInfo: "Dragon Ball Episode 2",
     },
     3: {
         dub: {
@@ -106,6 +108,7 @@ dragonBall = {
             ],
             episodeLength: 1449.296,
         },
+        episodeInfo: "Dragon Ball Episode 3",
     },
     4: {
         dub: {
@@ -142,6 +145,7 @@ dragonBall = {
             ],
             episodeLength: 1449.459,
         },
+        episodeInfo: "Dragon Ball Episode 4",
     },
     5: {
         dub: {
@@ -178,6 +182,7 @@ dragonBall = {
             ],
             episodeLength: 1449.459,
         },
+        episodeInfo: "Dragon Ball Episode 5",
     },
     6: {
         dub: {
@@ -214,6 +219,7 @@ dragonBall = {
             ],
             episodeLength: 1449.459,
         },
+        episodeInfo: "Dragon Ball Episode 6",
     },
     7: {
         dub: {
@@ -250,6 +256,7 @@ dragonBall = {
             ],
             episodeLength: 1449.784,
         },
+        episodeInfo: "Dragon Ball Episode 7",
     },
     8: {
         dub: {
@@ -286,6 +293,7 @@ dragonBall = {
             ],
             episodeLength: 1448.46,
         },
+        episodeInfo: "Dragon Ball Episode 8",
     },
     9: {
         dub: {
@@ -322,6 +330,7 @@ dragonBall = {
             ],
             episodeLength: 1448.46,
         },
+        episodeInfo: "Dragon Ball Episode 9",
     },
     10: {
         dub: {
@@ -358,6 +367,7 @@ dragonBall = {
             ],
             episodeLength: 1449,
         },
+        episodeInfo: "Dragon Ball Episode 10",
     },
     11: {
         dub: {
@@ -394,6 +404,7 @@ dragonBall = {
             ],
             episodeLength: 1448.623,
         },
+        episodeInfo: "Dragon Ball Episode 11",
     },
     12: {
         dub: {
@@ -430,6 +441,7 @@ dragonBall = {
             ],
             episodeLength: 1448.298,
         },
+        episodeInfo: "Dragon Ball Episode 12",
     },
     13: {
         dub: {
@@ -466,6 +478,7 @@ dragonBall = {
             ],
             episodeLength: 1448.623,
         },
+        episodeInfo: "Dragon Ball Episode 13",
     },
     14: {
         dub: {
@@ -502,6 +515,7 @@ dragonBall = {
             ],
             episodeLength: 1460.558,
         },
+        episodeInfo: "Dragon Ball Episode 14",
     },
     15: {
         dub: {
@@ -535,6 +549,7 @@ dragonBall = {
             ],
             episodeLength: 1461.045,
         },
+        episodeInfo: "Dragon Ball Episode 15",
     },
     16: {
         dub: {
@@ -571,6 +586,7 @@ dragonBall = {
             ],
             episodeLength: 1461.022,
         },
+        episodeInfo: "Dragon Ball Episode 16",
     },
     17: {
         dub: {
@@ -607,6 +623,7 @@ dragonBall = {
             ],
             episodeLength: 1461.185,
         },
+        episodeInfo: "Dragon Ball Episode 17",
     },
     18: {
         dub: {
@@ -643,6 +660,7 @@ dragonBall = {
             ],
             episodeLength: 1461.301,
         },
+        episodeInfo: "Dragon Ball Episode 18",
     },
     19: {
         dub: {
@@ -679,6 +697,7 @@ dragonBall = {
             ],
             episodeLength: 1461.231,
         },
+        episodeInfo: "Dragon Ball Episode 19",
     },
     20: {
         dub: {
@@ -715,6 +734,7 @@ dragonBall = {
             ],
             episodeLength: 1462,
         },
+        episodeInfo: "Dragon Ball Episode 20",
     },
     21: {
         dub: {
@@ -751,6 +771,7 @@ dragonBall = {
             ],
             episodeLength: 1462,
         },
+        episodeInfo: "Dragon Ball Episode 21",
     },
     22: {
         dub: {
@@ -787,6 +808,7 @@ dragonBall = {
             ],
             episodeLength: 1461.254,
         },
+        episodeInfo: "Dragon Ball Episode 22",
     },
     23: {
         dub: {
@@ -823,6 +845,7 @@ dragonBall = {
             ],
             episodeLength: 1461.231,
         },
+        episodeInfo: "Dragon Ball Episode 23",
     },
     24: {
         dub: {
@@ -859,6 +882,7 @@ dragonBall = {
             ],
             episodeLength: 1461.231,
         },
+        episodeInfo: "Dragon Ball Episode 24",
     },
     25: {
         dub: {
@@ -895,6 +919,7 @@ dragonBall = {
             ],
             episodeLength: 1462.671,
         },
+        episodeInfo: "Dragon Ball Episode 25",
     },
     26: {
         dub: {
@@ -931,6 +956,7 @@ dragonBall = {
             ],
             episodeLength: 1462,
         },
+        episodeInfo: "Dragon Ball Episode 26",
     },
     27: {
         dub: {
@@ -967,6 +993,7 @@ dragonBall = {
             ],
             episodeLength: 1461.254,
         },
+        episodeInfo: "Dragon Ball Episode 27",
     },
     28: {
         dub: {
@@ -1003,6 +1030,7 @@ dragonBall = {
             ],
             episodeLength: 1461.138,
         },
+        episodeInfo: "Dragon Ball Episode 28",
     },
     29: {
         dub: {
@@ -1039,6 +1067,7 @@ dragonBall = {
             ],
             episodeLength: 1461.138,
         },
+        episodeInfo: "Dragon Ball Episode 29",
     },
     30: {
         dub: {
@@ -1075,6 +1104,7 @@ dragonBall = {
             ],
             episodeLength: 1461.254,
         },
+        episodeInfo: "Dragon Ball Episode 30",
     },
     31: {
         dub: {
@@ -1111,6 +1141,7 @@ dragonBall = {
             ],
             episodeLength: 1461.254,
         },
+        episodeInfo: "Dragon Ball Episode 31",
     },
     32: {
         dub: {
@@ -1147,6 +1178,7 @@ dragonBall = {
             ],
             episodeLength: 1461.254,
         },
+        episodeInfo: "Dragon Ball Episode 32",
     },
     33: {
         dub: {
@@ -1183,6 +1215,7 @@ dragonBall = {
             ],
             episodeLength: 1461.301,
         },
+        episodeInfo: "Dragon Ball Episode 33",
     },
     34: {
         dub: {
@@ -1219,6 +1252,7 @@ dragonBall = {
             ],
             episodeLength: 1461.138,
         },
+        episodeInfo: "Dragon Ball Episode 34",
     },
     35: {
         dub: {
@@ -1255,6 +1289,7 @@ dragonBall = {
             ],
             episodeLength: 1461.347,
         },
+        episodeInfo: "Dragon Ball Episode 35",
     },
     36: {
         dub: {
@@ -1291,6 +1326,7 @@ dragonBall = {
             ],
             episodeLength: 1461.301,
         },
+        episodeInfo: "Dragon Ball Episode 36",
     },
     37: {
         dub: {
@@ -1327,6 +1363,7 @@ dragonBall = {
             ],
             episodeLength: 1456.634,
         },
+        episodeInfo: "Dragon Ball Episode 37",
     },
     38: {
         dub: {
@@ -1363,6 +1400,7 @@ dragonBall = {
             ],
             episodeLength: 1456.68,
         },
+        episodeInfo: "Dragon Ball Episode 38",
     },
     39: {
         dub: {
@@ -1399,6 +1437,7 @@ dragonBall = {
             ],
             episodeLength: 1456.634,
         },
+        episodeInfo: "Dragon Ball Episode 39",
     },
     40: {
         dub: {
@@ -1435,6 +1474,7 @@ dragonBall = {
             ],
             episodeLength: 1456.634,
         },
+        episodeInfo: "Dragon Ball Episode 40",
     },
     41: {
         dub: {
@@ -1471,6 +1511,7 @@ dragonBall = {
             ],
             episodeLength: 1456.634,
         },
+        episodeInfo: "Dragon Ball Episode 41",
     },
     42: {
         dub: {
@@ -1507,6 +1548,7 @@ dragonBall = {
             ],
             episodeLength: 1456.634,
         },
+        episodeInfo: "Dragon Ball Episode 42",
     },
     43: {
         dub: {
@@ -1543,6 +1585,7 @@ dragonBall = {
             ],
             episodeLength: 1458.886,
         },
+        episodeInfo: "Dragon Ball Episode 43",
     },
     44: {
         dub: {
@@ -1579,6 +1622,7 @@ dragonBall = {
             ],
             episodeLength: 1458.886,
         },
+        episodeInfo: "Dragon Ball Episode 44",
     },
     45: {
         dub: {
@@ -1615,6 +1659,7 @@ dragonBall = {
             ],
             episodeLength: 1458.932,
         },
+        episodeInfo: "Dragon Ball Episode 45",
     },
     46: {
         dub: {
@@ -1651,6 +1696,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 46",
     },
     47: {
         dub: {
@@ -1687,6 +1733,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 47",
     },
     48: {
         dub: {
@@ -1723,6 +1770,7 @@ dragonBall = {
             ],
             episodeLength: 1458.584,
         },
+        episodeInfo: "Dragon Ball Episode 48",
     },
     49: {
         dub: {
@@ -1759,6 +1807,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 49",
     },
     50: {
         dub: {
@@ -1795,6 +1844,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 50",
     },
     51: {
         dub: {
@@ -1831,6 +1881,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 51",
     },
     52: {
         dub: {
@@ -1867,6 +1918,7 @@ dragonBall = {
             ],
             episodeLength: 1459.188,
         },
+        episodeInfo: "Dragon Ball Episode 52",
     },
     53: {
         dub: {
@@ -1903,6 +1955,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 53",
     },
     54: {
         dub: {
@@ -1939,6 +1992,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 54",
     },
     55: {
         dub: {
@@ -1975,6 +2029,7 @@ dragonBall = {
             ],
             episodeLength: 1457.841,
         },
+        episodeInfo: "Dragon Ball Episode 55",
     },
     56: {
         dub: {
@@ -2011,6 +2066,7 @@ dragonBall = {
             ],
             episodeLength: 1458.259,
         },
+        episodeInfo: "Dragon Ball Episode 56",
     },
     57: {
         dub: {
@@ -2047,6 +2103,7 @@ dragonBall = {
             ],
             episodeLength: 1457.934,
         },
+        episodeInfo: "Dragon Ball Episode 57",
     },
     58: {
         dub: {
@@ -2083,6 +2140,7 @@ dragonBall = {
             ],
             episodeLength: 1458.584,
         },
+        episodeInfo: "Dragon Ball Episode 58",
     },
     59: {
         dub: {
@@ -2119,6 +2177,7 @@ dragonBall = {
             ],
             episodeLength: 1457.795,
         },
+        episodeInfo: "Dragon Ball Episode 59",
     },
     60: {
         dub: {
@@ -2155,6 +2214,7 @@ dragonBall = {
             ],
             episodeLength: 1457.168,
         },
+        episodeInfo: "Dragon Ball Episode 60",
     },
     61: {
         dub: {
@@ -2191,6 +2251,7 @@ dragonBall = {
             ],
             episodeLength: 1458.561,
         },
+        episodeInfo: "Dragon Ball Episode 61",
     },
     62: {
         dub: {
@@ -2227,6 +2288,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 62",
     },
     63: {
         dub: {
@@ -2263,6 +2325,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 63",
     },
     64: {
         dub: {
@@ -2299,6 +2362,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 64",
     },
     65: {
         dub: {
@@ -2335,6 +2399,7 @@ dragonBall = {
             ],
             episodeLength: 1458.515,
         },
+        episodeInfo: "Dragon Ball Episode 65",
     },
     66: {
         dub: {
@@ -2371,6 +2436,7 @@ dragonBall = {
             ],
             episodeLength: 1458.561,
         },
+        episodeInfo: "Dragon Ball Episode 66",
     },
     67: {
         dub: {
@@ -2407,6 +2473,7 @@ dragonBall = {
             ],
             episodeLength: 1458.561,
         },
+        episodeInfo: "Dragon Ball Episode 67",
     },
     68: {
         dub: {
@@ -2443,6 +2510,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 68",
     },
     69: {
         dub: {
@@ -2479,6 +2547,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 69",
     },
     70: {
         dub: {
@@ -2515,6 +2584,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 70",
     },
     71: {
         dub: {
@@ -2551,6 +2621,7 @@ dragonBall = {
             ],
             episodeLength: 1460.186,
         },
+        episodeInfo: "Dragon Ball Episode 71",
     },
     72: {
         dub: {
@@ -2587,6 +2658,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 72",
     },
     73: {
         dub: {
@@ -2623,6 +2695,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 73",
     },
     74: {
         dub: {
@@ -2659,6 +2732,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 74",
     },
     75: {
         dub: {
@@ -2695,6 +2769,7 @@ dragonBall = {
             ],
             episodeLength: 1460.14,
         },
+        episodeInfo: "Dragon Ball Episode 75",
     },
     76: {
         dub: {
@@ -2731,6 +2806,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 76",
     },
     77: {
         dub: {
@@ -2767,6 +2843,7 @@ dragonBall = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Episode 77",
     },
     78: {
         dub: {
@@ -2803,6 +2880,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 78",
     },
     79: {
         dub: {
@@ -2839,6 +2917,7 @@ dragonBall = {
             ],
             episodeLength: 1460.047,
         },
+        episodeInfo: "Dragon Ball Episode 79",
     },
     80: {
         dub: {
@@ -2875,6 +2954,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 80",
     },
     81: {
         dub: {
@@ -2911,6 +2991,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 81",
     },
     82: {
         dub: {
@@ -2947,6 +3028,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 82",
     },
     83: {
         dub: {
@@ -2983,6 +3065,7 @@ dragonBall = {
             ],
             episodeLength: 1458.468,
         },
+        episodeInfo: "Dragon Ball Episode 83",
     },
     84: {
         dub: {
@@ -3019,6 +3102,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 84",
     },
     85: {
         dub: {
@@ -3055,6 +3139,7 @@ dragonBall = {
             ],
             episodeLength: 1457.795,
         },
+        episodeInfo: "Dragon Ball Episode 85",
     },
     86: {
         dub: {
@@ -3091,6 +3176,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 86",
     },
     87: {
         dub: {
@@ -3127,6 +3213,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 87",
     },
     88: {
         dub: {
@@ -3163,6 +3250,7 @@ dragonBall = {
             ],
             episodeLength: 1156.794,
         },
+        episodeInfo: "Dragon Ball Episode 88",
     },
     89: {
         dub: {
@@ -3199,6 +3287,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 89",
     },
     90: {
         dub: {
@@ -3235,6 +3324,7 @@ dragonBall = {
             ],
             episodeLength: 1458.584,
         },
+        episodeInfo: "Dragon Ball Episode 90",
     },
     91: {
         dub: {
@@ -3271,6 +3361,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 91",
     },
     92: {
         dub: {
@@ -3307,6 +3398,7 @@ dragonBall = {
             ],
             episodeLength: 1460.186,
         },
+        episodeInfo: "Dragon Ball Episode 92",
     },
     93: {
         dub: {
@@ -3343,6 +3435,7 @@ dragonBall = {
             ],
             episodeLength: 1458.584,
         },
+        episodeInfo: "Dragon Ball Episode 93",
     },
     94: {
         dub: {
@@ -3379,6 +3472,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 94",
     },
     95: {
         dub: {
@@ -3415,6 +3509,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 95",
     },
     96: {
         dub: {
@@ -3451,6 +3546,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 96",
     },
     97: {
         dub: {
@@ -3487,6 +3583,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 97",
     },
     98: {
         dub: {
@@ -3523,6 +3620,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 98",
     },
     99: {
         dub: {
@@ -3559,6 +3657,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 99",
     },
     100: {
         dub: {
@@ -3595,6 +3694,7 @@ dragonBall = {
             ],
             episodeLength: 1458.793,
         },
+        episodeInfo: "Dragon Ball Episode 100",
     },
     101: {
         dub: {
@@ -3631,6 +3731,7 @@ dragonBall = {
             ],
             episodeLength: 1460.302,
         },
+        episodeInfo: "Dragon Ball Episode 101",
     },
     102: {
         dub: {
@@ -3667,6 +3768,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 102",
     },
     103: {
         dub: {
@@ -3703,6 +3805,7 @@ dragonBall = {
             ],
             episodeLength: 1458.515,
         },
+        episodeInfo: "Dragon Ball Episode 103",
     },
     104: {
         dub: {
@@ -3739,6 +3842,7 @@ dragonBall = {
             ],
             episodeLength: 1181.152,
         },
+        episodeInfo: "Dragon Ball Episode 104",
     },
     105: {
         dub: {
@@ -3775,6 +3879,7 @@ dragonBall = {
             ],
             episodeLength: 1458.352,
         },
+        episodeInfo: "Dragon Ball Episode 105",
     },
     106: {
         dub: {
@@ -3811,6 +3916,7 @@ dragonBall = {
             ],
             episodeLength: 1458.84,
         },
+        episodeInfo: "Dragon Ball Episode 106",
     },
     107: {
         dub: {
@@ -3847,6 +3953,7 @@ dragonBall = {
             ],
             episodeLength: 1458.932,
         },
+        episodeInfo: "Dragon Ball Episode 107",
     },
     108: {
         dub: {
@@ -3883,6 +3990,7 @@ dragonBall = {
             ],
             episodeLength: 1458.84,
         },
+        episodeInfo: "Dragon Ball Episode 108",
     },
     109: {
         dub: {
@@ -3919,6 +4027,7 @@ dragonBall = {
             ],
             episodeLength: 1175.765,
         },
+        episodeInfo: "Dragon Ball Episode 109",
     },
     110: {
         dub: {
@@ -3955,6 +4064,7 @@ dragonBall = {
             ],
             episodeLength: 1458.932,
         },
+        episodeInfo: "Dragon Ball Episode 110",
     },
     111: {
         dub: {
@@ -3991,6 +4101,7 @@ dragonBall = {
             ],
             episodeLength: 1459,
         },
+        episodeInfo: "Dragon Ball Episode 111",
     },
     112: {
         dub: {
@@ -4027,6 +4138,7 @@ dragonBall = {
             ],
             episodeLength: 1458.932,
         },
+        episodeInfo: "Dragon Ball Episode 112",
     },
     113: {
         dub: {
@@ -4063,6 +4175,7 @@ dragonBall = {
             ],
             episodeLength: 1458.793,
         },
+        episodeInfo: "Dragon Ball Episode 113",
     },
     114: {
         dub: {
@@ -4099,6 +4212,7 @@ dragonBall = {
             ],
             episodeLength: 1458.84,
         },
+        episodeInfo: "Dragon Ball Episode 114",
     },
     115: {
         dub: {
@@ -4135,6 +4249,7 @@ dragonBall = {
             ],
             episodeLength: 1458.886,
         },
+        episodeInfo: "Dragon Ball Episode 115",
     },
     116: {
         dub: {
@@ -4171,6 +4286,7 @@ dragonBall = {
             ],
             episodeLength: 1458.886,
         },
+        episodeInfo: "Dragon Ball Episode 116",
     },
     117: {
         dub: {
@@ -4207,6 +4323,7 @@ dragonBall = {
             ],
             episodeLength: 1458.84,
         },
+        episodeInfo: "Dragon Ball Episode 117",
     },
     118: {
         dub: {
@@ -4243,6 +4360,7 @@ dragonBall = {
             ],
             episodeLength: 1458.84,
         },
+        episodeInfo: "Dragon Ball Episode 118",
     },
     119: {
         dub: {
@@ -4279,6 +4397,7 @@ dragonBall = {
             ],
             episodeLength: 1458.584,
         },
+        episodeInfo: "Dragon Ball Episode 119",
     },
     120: {
         dub: {
@@ -4315,6 +4434,7 @@ dragonBall = {
             ],
             episodeLength: 1452.129,
         },
+        episodeInfo: "Dragon Ball Episode 120",
     },
     121: {
         dub: {
@@ -4348,6 +4468,7 @@ dragonBall = {
             ],
             episodeLength: 1452.129,
         },
+        episodeInfo: "Dragon Ball Episode 121",
     },
     122: {
         dub: {
@@ -4384,6 +4505,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 122",
     },
     123: {
         dub: {
@@ -4420,6 +4542,7 @@ dragonBall = {
             ],
             episodeLength: 1459,
         },
+        episodeInfo: "Dragon Ball Episode 123",
     },
     124: {
         dub: {
@@ -4456,6 +4579,7 @@ dragonBall = {
             ],
             episodeLength: 1459,
         },
+        episodeInfo: "Dragon Ball Episode 124",
     },
     125: {
         dub: {
@@ -4492,6 +4616,7 @@ dragonBall = {
             ],
             episodeLength: 1458.375,
         },
+        episodeInfo: "Dragon Ball Episode 125",
     },
     126: {
         dub: {
@@ -4528,6 +4653,7 @@ dragonBall = {
             ],
             episodeLength: 1458.306,
         },
+        episodeInfo: "Dragon Ball Episode 126",
     },
     127: {
         dub: {
@@ -4564,6 +4690,7 @@ dragonBall = {
             ],
             episodeLength: 1458.584,
         },
+        episodeInfo: "Dragon Ball Episode 127",
     },
     128: {
         dub: {
@@ -4600,6 +4727,7 @@ dragonBall = {
             ],
             episodeLength: 1458.422,
         },
+        episodeInfo: "Dragon Ball Episode 128",
     },
     129: {
         dub: {
@@ -4636,6 +4764,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 129",
     },
     130: {
         dub: {
@@ -4672,6 +4801,7 @@ dragonBall = {
             ],
             episodeLength: 1179.805,
         },
+        episodeInfo: "Dragon Ball Episode 130",
     },
     131: {
         dub: {
@@ -4708,6 +4838,7 @@ dragonBall = {
             ],
             episodeLength: 1456.727,
         },
+        episodeInfo: "Dragon Ball Episode 131",
     },
     132: {
         dub: {
@@ -4744,6 +4875,7 @@ dragonBall = {
             ],
             episodeLength: 1457.679,
         },
+        episodeInfo: "Dragon Ball Episode 132",
     },
     133: {
         dub: {
@@ -4780,6 +4912,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 133",
     },
     134: {
         dub: {
@@ -4816,6 +4949,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 134",
     },
     135: {
         dub: {
@@ -4852,6 +4986,7 @@ dragonBall = {
             ],
             episodeLength: 1458.584,
         },
+        episodeInfo: "Dragon Ball Episode 135",
     },
     136: {
         dub: {
@@ -4888,6 +5023,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 136",
     },
     137: {
         dub: {
@@ -4924,6 +5060,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 137",
     },
     138: {
         dub: {
@@ -4960,6 +5097,7 @@ dragonBall = {
             ],
             episodeLength: 1458.561,
         },
+        episodeInfo: "Dragon Ball Episode 138",
     },
     139: {
         dub: {
@@ -4996,6 +5134,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 139",
     },
     140: {
         dub: {
@@ -5032,6 +5171,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 140",
     },
     141: {
         dub: {
@@ -5068,6 +5208,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 141",
     },
     142: {
         dub: {
@@ -5104,6 +5245,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 142",
     },
     143: {
         dub: {
@@ -5140,6 +5282,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 143",
     },
     144: {
         dub: {
@@ -5176,6 +5319,7 @@ dragonBall = {
             ],
             episodeLength: 1458.677,
         },
+        episodeInfo: "Dragon Ball Episode 144",
     },
     145: {
         dub: {
@@ -5212,6 +5356,7 @@ dragonBall = {
             ],
             episodeLength: 1458,
         },
+        episodeInfo: "Dragon Ball Episode 145",
     },
     146: {
         dub: {
@@ -5248,6 +5393,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 146",
     },
     147: {
         dub: {
@@ -5284,6 +5430,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 147",
     },
     148: {
         dub: {
@@ -5320,6 +5467,7 @@ dragonBall = {
             ],
             episodeLength: 1458.422,
         },
+        episodeInfo: "Dragon Ball Episode 148",
     },
     149: {
         dub: {
@@ -5356,6 +5504,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 149",
     },
     150: {
         dub: {
@@ -5392,6 +5541,7 @@ dragonBall = {
             ],
             episodeLength: 1459,
         },
+        episodeInfo: "Dragon Ball Episode 150",
     },
     151: {
         dub: {
@@ -5428,6 +5578,7 @@ dragonBall = {
             ],
             episodeLength: 1458.723,
         },
+        episodeInfo: "Dragon Ball Episode 151",
     },
     152: {
         dub: {
@@ -5464,6 +5615,7 @@ dragonBall = {
             ],
             episodeLength: 1458.631,
         },
+        episodeInfo: "Dragon Ball Episode 152",
     },
     153: {
         dub: {
@@ -5500,6 +5652,7 @@ dragonBall = {
             ],
             episodeLength: 1458.77,
         },
+        episodeInfo: "Dragon Ball Episode 153",
     },
 };
 
@@ -5531,6 +5684,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.139,
         },
+        episodeInfo: "Dragon Ball Z Episode 1",
     },
     2: {
         dub: {
@@ -5559,6 +5713,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.909,
         },
+        episodeInfo: "Dragon Ball Z Episode 2",
     },
     3: {
         dub: {
@@ -5587,6 +5742,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.534,
         },
+        episodeInfo: "Dragon Ball Z Episode 3",
     },
     4: {
         dub: {
@@ -5615,6 +5771,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.868,
         },
+        episodeInfo: "Dragon Ball Z Episode 4",
     },
     5: {
         dub: {
@@ -5643,6 +5800,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 5",
     },
     6: {
         dub: {
@@ -5671,6 +5829,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 6",
     },
     7: {
         dub: {
@@ -5699,6 +5858,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 7",
     },
     8: {
         dub: {
@@ -5727,6 +5887,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.534,
         },
+        episodeInfo: "Dragon Ball Z Episode 8",
     },
     9: {
         dub: {
@@ -5755,6 +5916,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 9",
     },
     10: {
         dub: {
@@ -5783,6 +5945,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 10",
     },
     11: {
         dub: {
@@ -5811,6 +5974,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.658,
         },
+        episodeInfo: "Dragon Ball Z Episode 11",
     },
     12: {
         dub: {
@@ -5839,6 +6003,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.242,
         },
+        episodeInfo: "Dragon Ball Z Episode 12",
     },
     13: {
         dub: {
@@ -5867,6 +6032,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 13",
     },
     14: {
         dub: {
@@ -5895,6 +6061,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 14",
     },
     15: {
         dub: {
@@ -5923,6 +6090,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 15",
     },
     16: {
         dub: {
@@ -5951,6 +6119,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 16",
     },
     17: {
         dub: {
@@ -5979,6 +6148,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 17",
     },
     18: {
         dub: {
@@ -6007,6 +6177,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 18",
     },
     19: {
         dub: {
@@ -6035,6 +6206,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 19",
     },
     20: {
         dub: {
@@ -6063,6 +6235,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 20",
     },
     21: {
         dub: {
@@ -6091,6 +6264,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 21",
     },
     22: {
         dub: {
@@ -6119,6 +6293,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.242,
         },
+        episodeInfo: "Dragon Ball Z Episode 22",
     },
     23: {
         dub: {
@@ -6147,6 +6322,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 23",
     },
     24: {
         dub: {
@@ -6175,6 +6351,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 24",
     },
     25: {
         dub: {
@@ -6203,6 +6380,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.534,
         },
+        episodeInfo: "Dragon Ball Z Episode 25",
     },
     26: {
         dub: {
@@ -6231,6 +6409,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 26",
     },
     27: {
         dub: {
@@ -6259,6 +6438,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.534,
         },
+        episodeInfo: "Dragon Ball Z Episode 27",
     },
     28: {
         dub: {
@@ -6287,6 +6467,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 28",
     },
     29: {
         dub: {
@@ -6315,6 +6496,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 29",
     },
     30: {
         dub: {
@@ -6343,6 +6525,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.16,
         },
+        episodeInfo: "Dragon Ball Z Episode 30",
     },
     31: {
         dub: {
@@ -6371,6 +6554,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 31",
     },
     32: {
         dub: {
@@ -6399,6 +6583,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 32",
     },
     33: {
         dub: {
@@ -6427,6 +6612,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.576,
         },
+        episodeInfo: "Dragon Ball Z Episode 33",
     },
     34: {
         dub: {
@@ -6455,6 +6641,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 34",
     },
     35: {
         dub: {
@@ -6483,6 +6670,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.117,
         },
+        episodeInfo: "Dragon Ball Z Episode 35",
     },
     36: {
         dub: {
@@ -6511,6 +6699,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.075,
         },
+        episodeInfo: "Dragon Ball Z Episode 36",
     },
     37: {
         dub: {
@@ -6539,6 +6728,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.075,
         },
+        episodeInfo: "Dragon Ball Z Episode 37",
     },
     38: {
         dub: {
@@ -6567,6 +6757,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.117,
         },
+        episodeInfo: "Dragon Ball Z Episode 38",
     },
     39: {
         dub: {
@@ -6595,6 +6786,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.117,
         },
+        episodeInfo: "Dragon Ball Z Episode 39",
     },
     40: {
         dub: {
@@ -6623,6 +6815,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 40",
     },
     41: {
         dub: {
@@ -6651,6 +6844,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 41",
     },
     42: {
         dub: {
@@ -6679,6 +6873,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 42",
     },
     43: {
         dub: {
@@ -6707,6 +6902,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 43",
     },
     44: {
         dub: {
@@ -6735,6 +6931,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 44",
     },
     45: {
         dub: {
@@ -6763,6 +6960,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 45",
     },
     46: {
         dub: {
@@ -6791,6 +6989,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 46",
     },
     47: {
         dub: {
@@ -6819,6 +7018,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 47",
     },
     48: {
         dub: {
@@ -6847,6 +7047,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.283,
         },
+        episodeInfo: "Dragon Ball Z Episode 48",
     },
     49: {
         dub: {
@@ -6875,6 +7076,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 49",
     },
     50: {
         dub: {
@@ -6903,6 +7105,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 50",
     },
     51: {
         dub: {
@@ -6931,6 +7134,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 51",
     },
     52: {
         dub: {
@@ -6959,6 +7163,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 52",
     },
     53: {
         dub: {
@@ -6987,6 +7192,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 53",
     },
     54: {
         dub: {
@@ -7015,6 +7221,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 54",
     },
     55: {
         dub: {
@@ -7043,6 +7250,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 55",
     },
     56: {
         dub: {
@@ -7068,6 +7276,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451,
         },
+        episodeInfo: "Dragon Ball Z Episode 56",
     },
     57: {
         dub: {
@@ -7096,6 +7305,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 57",
     },
     58: {
         dub: {
@@ -7124,6 +7334,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 58",
     },
     59: {
         dub: {
@@ -7152,6 +7363,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451,
         },
+        episodeInfo: "Dragon Ball Z Episode 59",
     },
     60: {
         dub: {
@@ -7180,6 +7392,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 60",
     },
     61: {
         dub: {
@@ -7208,6 +7421,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 61",
     },
     62: {
         dub: {
@@ -7236,6 +7450,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 62",
     },
     63: {
         dub: {
@@ -7264,6 +7479,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 63",
     },
     64: {
         dub: {
@@ -7292,6 +7508,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 64",
     },
     65: {
         dub: {
@@ -7320,6 +7537,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 65",
     },
     66: {
         dub: {
@@ -7348,6 +7566,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 66",
     },
     67: {
         dub: {
@@ -7376,6 +7595,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.324,
         },
+        episodeInfo: "Dragon Ball Z Episode 67",
     },
     68: {
         dub: {
@@ -7404,6 +7624,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 68",
     },
     69: {
         dub: {
@@ -7429,6 +7650,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.367,
         },
+        episodeInfo: "Dragon Ball Z Episode 69",
     },
     70: {
         dub: {
@@ -7457,6 +7679,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 70",
     },
     71: {
         dub: {
@@ -7485,6 +7708,7 @@ dragonBallZ = {
             ],
             episodeLength: 1453,
         },
+        episodeInfo: "Dragon Ball Z Episode 71",
     },
     72: {
         dub: {
@@ -7513,6 +7737,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 72",
     },
     73: {
         dub: {
@@ -7541,6 +7766,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 73",
     },
     74: {
         dub: {
@@ -7569,6 +7795,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 74",
     },
     75: {
         dub: {
@@ -7597,6 +7824,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 75",
     },
     76: {
         dub: {
@@ -7625,6 +7853,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 76",
     },
     77: {
         dub: {
@@ -7653,6 +7882,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 77",
     },
     78: {
         dub: {
@@ -7681,6 +7911,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 78",
     },
     79: {
         dub: {
@@ -7709,6 +7940,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 79",
     },
     80: {
         dub: {
@@ -7737,6 +7969,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 80",
     },
     81: {
         dub: {
@@ -7765,6 +7998,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 81",
     },
     82: {
         dub: {
@@ -7793,6 +8027,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 82",
     },
     83: {
         dub: {
@@ -7821,6 +8056,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 83",
     },
     84: {
         dub: {
@@ -7849,6 +8085,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 84",
     },
     85: {
         dub: {
@@ -7877,6 +8114,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 85",
     },
     86: {
         dub: {
@@ -7905,6 +8143,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 86",
     },
     87: {
         dub: {
@@ -7933,6 +8172,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 87",
     },
     88: {
         dub: {
@@ -7961,6 +8201,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 88",
     },
     89: {
         dub: {
@@ -7989,6 +8230,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 89",
     },
     90: {
         dub: {
@@ -8017,6 +8259,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.367,
         },
+        episodeInfo: "Dragon Ball Z Episode 90",
     },
     91: {
         dub: {
@@ -8045,6 +8288,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 91",
     },
     92: {
         dub: {
@@ -8073,6 +8317,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 92",
     },
     93: {
         dub: {
@@ -8098,6 +8343,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 93",
     },
     94: {
         dub: {
@@ -8126,6 +8372,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 94",
     },
     95: {
         dub: {
@@ -8154,6 +8401,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 95",
     },
     96: {
         dub: {
@@ -8182,6 +8430,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 96",
     },
     97: {
         dub: {
@@ -8210,6 +8459,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 97",
     },
     98: {
         dub: {
@@ -8238,6 +8488,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 98",
     },
     99: {
         dub: {
@@ -8266,6 +8517,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.367,
         },
+        episodeInfo: "Dragon Ball Z Episode 99",
     },
     100: {
         dub: {
@@ -8294,6 +8546,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 100",
     },
     101: {
         dub: {
@@ -8322,6 +8575,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 101",
     },
     102: {
         dub: {
@@ -8350,6 +8604,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 102",
     },
     103: {
         dub: {
@@ -8378,6 +8633,7 @@ dragonBallZ = {
             ],
             episodeLength: 1453,
         },
+        episodeInfo: "Dragon Ball Z Episode 103",
     },
     104: {
         dub: {
@@ -8406,6 +8662,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 104",
     },
     105: {
         dub: {
@@ -8434,6 +8691,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 105",
     },
     106: {
         dub: {
@@ -8462,6 +8720,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 106",
     },
     107: {
         dub: {
@@ -8490,6 +8749,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 107",
     },
     108: {
         dub: {
@@ -8518,6 +8778,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 108",
     },
     109: {
         dub: {
@@ -8546,6 +8807,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 109",
     },
     110: {
         dub: {
@@ -8574,6 +8836,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 110",
     },
     111: {
         dub: {
@@ -8602,6 +8865,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.52,
         },
+        episodeInfo: "Dragon Ball Z Episode 111",
     },
     112: {
         dub: {
@@ -8630,6 +8894,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 112",
     },
     113: {
         dub: {
@@ -8658,6 +8923,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.414,
         },
+        episodeInfo: "Dragon Ball Z Episode 113",
     },
     114: {
         dub: {
@@ -8686,6 +8952,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.414,
         },
+        episodeInfo: "Dragon Ball Z Episode 114",
     },
     115: {
         dub: {
@@ -8714,6 +8981,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.242,
         },
+        episodeInfo: "Dragon Ball Z Episode 115",
     },
     116: {
         dub: {
@@ -8742,6 +9010,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.414,
         },
+        episodeInfo: "Dragon Ball Z Episode 116",
     },
     117: {
         dub: {
@@ -8770,6 +9039,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.414,
         },
+        episodeInfo: "Dragon Ball Z Episode 117",
     },
     118: {
         dub: {
@@ -8798,6 +9068,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.286,
         },
+        episodeInfo: "Dragon Ball Z Episode 118",
     },
     119: {
         dub: {
@@ -8826,6 +9097,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.243,
         },
+        episodeInfo: "Dragon Ball Z Episode 119",
     },
     120: {
         dub: {
@@ -8854,6 +9126,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 120",
     },
     121: {
         dub: {
@@ -8882,6 +9155,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 121",
     },
     122: {
         dub: {
@@ -8910,6 +9184,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 122",
     },
     123: {
         dub: {
@@ -8938,6 +9213,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 123",
     },
     124: {
         dub: {
@@ -8966,6 +9242,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 124",
     },
     125: {
         dub: {
@@ -8994,6 +9271,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.414,
         },
+        episodeInfo: "Dragon Ball Z Episode 125",
     },
     126: {
         dub: {
@@ -9022,6 +9300,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 126",
     },
     127: {
         dub: {
@@ -9050,6 +9329,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 127",
     },
     128: {
         dub: {
@@ -9078,6 +9358,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 128",
     },
     129: {
         dub: {
@@ -9106,6 +9387,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 129",
     },
     130: {
         dub: {
@@ -9134,6 +9416,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.414,
         },
+        episodeInfo: "Dragon Ball Z Episode 130",
     },
     131: {
         dub: {
@@ -9162,6 +9445,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 131",
     },
     132: {
         dub: {
@@ -9190,6 +9474,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 132",
     },
     133: {
         dub: {
@@ -9218,6 +9503,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 133",
     },
     134: {
         dub: {
@@ -9246,6 +9532,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 134",
     },
     135: {
         dub: {
@@ -9274,6 +9561,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 135",
     },
     136: {
         dub: {
@@ -9302,6 +9590,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 136",
     },
     137: {
         dub: {
@@ -9330,6 +9619,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 137",
     },
     138: {
         dub: {
@@ -9358,6 +9648,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.606,
         },
+        episodeInfo: "Dragon Ball Z Episode 138",
     },
     139: {
         dub: {
@@ -9386,6 +9677,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.414,
         },
+        episodeInfo: "Dragon Ball Z Episode 139",
     },
     140: {
         dub: {
@@ -9414,6 +9706,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 140",
     },
     141: {
         dub: {
@@ -9442,6 +9735,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 141",
     },
     142: {
         dub: {
@@ -9470,6 +9764,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.869,
         },
+        episodeInfo: "Dragon Ball Z Episode 142",
     },
     143: {
         dub: {
@@ -9498,6 +9793,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 143",
     },
     144: {
         dub: {
@@ -9526,6 +9822,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 144",
     },
     145: {
         dub: {
@@ -9554,6 +9851,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 145",
     },
     146: {
         dub: {
@@ -9582,6 +9880,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 146",
     },
     147: {
         dub: {
@@ -9610,6 +9909,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 147",
     },
     148: {
         dub: {
@@ -9638,6 +9938,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.869,
         },
+        episodeInfo: "Dragon Ball Z Episode 148",
     },
     149: {
         dub: {
@@ -9666,6 +9967,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 149",
     },
     150: {
         dub: {
@@ -9691,6 +9993,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 150",
     },
     151: {
         dub: {
@@ -9719,6 +10022,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 151",
     },
     152: {
         dub: {
@@ -9747,6 +10051,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 152",
     },
     153: {
         dub: {
@@ -9775,6 +10080,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 153",
     },
     154: {
         dub: {
@@ -9803,6 +10109,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 154",
     },
     155: {
         dub: {
@@ -9831,6 +10138,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 155",
     },
     156: {
         dub: {
@@ -9859,6 +10167,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.367,
         },
+        episodeInfo: "Dragon Ball Z Episode 156",
     },
     157: {
         dub: {
@@ -9887,6 +10196,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 157",
     },
     158: {
         dub: {
@@ -9915,6 +10225,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 158",
     },
     159: {
         dub: {
@@ -9943,6 +10254,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 159",
     },
     160: {
         dub: {
@@ -9968,6 +10280,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 160",
     },
     161: {
         dub: {
@@ -9996,6 +10309,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 161",
     },
     162: {
         dub: {
@@ -10024,6 +10338,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 162",
     },
     163: {
         dub: {
@@ -10052,6 +10367,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 163",
     },
     164: {
         dub: {
@@ -10080,6 +10396,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 164",
     },
     165: {
         dub: {
@@ -10108,6 +10425,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 165",
     },
     166: {
         dub: {
@@ -10136,6 +10454,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 166",
     },
     167: {
         dub: {
@@ -10164,6 +10483,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 167",
     },
     168: {
         dub: {
@@ -10192,6 +10512,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.907,
         },
+        episodeInfo: "Dragon Ball Z Episode 168",
     },
     169: {
         dub: {
@@ -10220,6 +10541,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 169",
     },
     170: {
         dub: {
@@ -10248,6 +10570,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 170",
     },
     171: {
         dub: {
@@ -10276,6 +10599,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 171",
     },
     172: {
         dub: {
@@ -10304,6 +10628,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 172",
     },
     173: {
         dub: {
@@ -10332,6 +10657,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.367,
         },
+        episodeInfo: "Dragon Ball Z Episode 173",
     },
     174: {
         dub: {
@@ -10360,6 +10686,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.95,
         },
+        episodeInfo: "Dragon Ball Z Episode 174",
     },
     175: {
         dub: {
@@ -10388,6 +10715,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 175",
     },
     176: {
         dub: {
@@ -10416,6 +10744,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 176",
     },
     177: {
         dub: {
@@ -10444,6 +10773,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 177",
     },
     178: {
         dub: {
@@ -10472,6 +10802,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 178",
     },
     179: {
         dub: {
@@ -10500,6 +10831,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 179",
     },
     180: {
         dub: {
@@ -10528,6 +10860,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.907,
         },
+        episodeInfo: "Dragon Ball Z Episode 180",
     },
     181: {
         dub: {
@@ -10556,6 +10889,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 181",
     },
     182: {
         dub: {
@@ -10584,6 +10918,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 182",
     },
     183: {
         dub: {
@@ -10612,6 +10947,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 183",
     },
     184: {
         dub: {
@@ -10640,6 +10976,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.284,
         },
+        episodeInfo: "Dragon Ball Z Episode 184",
     },
     185: {
         dub: {
@@ -10668,6 +11005,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 185",
     },
     186: {
         dub: {
@@ -10696,6 +11034,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 186",
     },
     187: {
         dub: {
@@ -10724,6 +11063,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 187",
     },
     188: {
         dub: {
@@ -10752,6 +11092,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 188",
     },
     189: {
         dub: {
@@ -10780,6 +11121,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 189",
     },
     190: {
         dub: {
@@ -10808,6 +11150,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 190",
     },
     191: {
         dub: {
@@ -10836,6 +11179,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.367,
         },
+        episodeInfo: "Dragon Ball Z Episode 191",
     },
     192: {
         dub: {
@@ -10864,6 +11208,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 192",
     },
     193: {
         dub: {
@@ -10892,6 +11237,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.325,
         },
+        episodeInfo: "Dragon Ball Z Episode 193",
     },
     194: {
         dub: {
@@ -10920,6 +11266,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.367,
         },
+        episodeInfo: "Dragon Ball Z Episode 194",
     },
     195: {
         dub: {
@@ -10948,6 +11295,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.492,
         },
+        episodeInfo: "Dragon Ball Z Episode 195",
     },
     196: {
         dub: {
@@ -10976,6 +11324,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.492,
         },
+        episodeInfo: "Dragon Ball Z Episode 196",
     },
     197: {
         dub: {
@@ -11004,6 +11353,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.994,
         },
+        episodeInfo: "Dragon Ball Z Episode 197",
     },
     198: {
         dub: {
@@ -11032,6 +11382,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.492,
         },
+        episodeInfo: "Dragon Ball Z Episode 198",
     },
     199: {
         dub: {
@@ -11060,6 +11411,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.492,
         },
+        episodeInfo: "Dragon Ball Z Episode 199",
     },
     200: {
         dub: {
@@ -11088,6 +11440,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 200",
     },
     201: {
         dub: {
@@ -11116,6 +11469,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 201",
     },
     202: {
         dub: {
@@ -11144,6 +11498,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 202",
     },
     203: {
         dub: {
@@ -11172,6 +11527,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.993,
         },
+        episodeInfo: "Dragon Ball Z Episode 203",
     },
     204: {
         dub: {
@@ -11200,6 +11556,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 204",
     },
     205: {
         dub: {
@@ -11228,6 +11585,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 205",
     },
     206: {
         dub: {
@@ -11256,6 +11614,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451,
         },
+        episodeInfo: "Dragon Ball Z Episode 206",
     },
     207: {
         dub: {
@@ -11284,6 +11643,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.366,
         },
+        episodeInfo: "Dragon Ball Z Episode 207",
     },
     208: {
         dub: {
@@ -11312,6 +11672,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.993,
         },
+        episodeInfo: "Dragon Ball Z Episode 208",
     },
     209: {
         dub: {
@@ -11340,6 +11701,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 209",
     },
     210: {
         dub: {
@@ -11368,6 +11730,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 210",
     },
     211: {
         dub: {
@@ -11396,6 +11759,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 211",
     },
     212: {
         dub: {
@@ -11424,6 +11788,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 212",
     },
     213: {
         dub: {
@@ -11452,6 +11817,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 213",
     },
     214: {
         dub: {
@@ -11480,6 +11846,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.408,
         },
+        episodeInfo: "Dragon Ball Z Episode 214",
     },
     215: {
         dub: {
@@ -11508,6 +11875,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 215",
     },
     216: {
         dub: {
@@ -11536,6 +11904,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 216",
     },
     217: {
         dub: {
@@ -11564,6 +11933,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 217",
     },
     218: {
         dub: {
@@ -11592,6 +11962,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 218",
     },
     219: {
         dub: {
@@ -11620,6 +11991,7 @@ dragonBallZ = {
             ],
             episodeLength: 1450.491,
         },
+        episodeInfo: "Dragon Ball Z Episode 219",
     },
     220: {
         dub: {
@@ -11648,6 +12020,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 220",
     },
     221: {
         dub: {
@@ -11676,6 +12049,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 221",
     },
     222: {
         dub: {
@@ -11704,6 +12078,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.286,
         },
+        episodeInfo: "Dragon Ball Z Episode 222",
     },
     223: {
         dub: {
@@ -11732,6 +12107,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 223",
     },
     224: {
         dub: {
@@ -11760,6 +12136,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 224",
     },
     225: {
         dub: {
@@ -11788,6 +12165,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 225",
     },
     226: {
         dub: {
@@ -11816,6 +12194,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 226",
     },
     227: {
         dub: {
@@ -11844,6 +12223,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 227",
     },
     228: {
         dub: {
@@ -11872,6 +12252,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 228",
     },
     229: {
         dub: {
@@ -11900,6 +12281,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 229",
     },
     230: {
         dub: {
@@ -11928,6 +12310,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 230",
     },
     231: {
         dub: {
@@ -11956,6 +12339,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 231",
     },
     232: {
         dub: {
@@ -11984,6 +12368,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 232",
     },
     233: {
         dub: {
@@ -12012,6 +12397,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 233",
     },
     234: {
         dub: {
@@ -12040,6 +12426,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 234",
     },
     235: {
         dub: {
@@ -12068,6 +12455,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 235",
     },
     236: {
         dub: {
@@ -12096,6 +12484,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 236",
     },
     237: {
         dub: {
@@ -12124,6 +12513,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 237",
     },
     238: {
         dub: {
@@ -12152,6 +12542,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 238",
     },
     239: {
         dub: {
@@ -12180,6 +12571,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 239",
     },
     240: {
         dub: {
@@ -12208,6 +12600,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 240",
     },
     241: {
         dub: {
@@ -12236,6 +12629,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 241",
     },
     242: {
         dub: {
@@ -12264,6 +12658,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 242",
     },
     243: {
         dub: {
@@ -12292,6 +12687,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 243",
     },
     244: {
         dub: {
@@ -12320,6 +12716,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 244",
     },
     245: {
         dub: {
@@ -12348,6 +12745,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 245",
     },
     246: {
         dub: {
@@ -12376,6 +12774,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 246",
     },
     247: {
         dub: {
@@ -12404,6 +12803,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 247",
     },
     248: {
         dub: {
@@ -12432,6 +12832,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 248",
     },
     249: {
         dub: {
@@ -12460,6 +12861,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 249",
     },
     250: {
         dub: {
@@ -12488,6 +12890,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 250",
     },
     251: {
         dub: {
@@ -12516,6 +12919,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 251",
     },
     252: {
         dub: {
@@ -12541,6 +12945,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 252",
     },
     253: {
         dub: {
@@ -12569,6 +12974,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 253",
     },
     254: {
         dub: {
@@ -12597,6 +13003,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 254",
     },
     255: {
         dub: {
@@ -12625,6 +13032,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 255",
     },
     256: {
         dub: {
@@ -12653,6 +13061,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 256",
     },
     257: {
         dub: {
@@ -12681,6 +13090,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 257",
     },
     258: {
         dub: {
@@ -12709,6 +13119,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 258",
     },
     259: {
         dub: {
@@ -12737,6 +13148,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 259",
     },
     260: {
         dub: {
@@ -12765,6 +13177,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 260",
     },
     261: {
         dub: {
@@ -12793,6 +13206,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 261",
     },
     262: {
         dub: {
@@ -12821,6 +13235,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 262",
     },
     263: {
         dub: {
@@ -12849,6 +13264,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 263",
     },
     264: {
         dub: {
@@ -12877,6 +13293,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 264",
     },
     265: {
         dub: {
@@ -12905,6 +13322,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452.992,
         },
+        episodeInfo: "Dragon Ball Z Episode 265",
     },
     266: {
         dub: {
@@ -12933,6 +13351,7 @@ dragonBallZ = {
             ],
             episodeLength: 1453.014,
         },
+        episodeInfo: "Dragon Ball Z Episode 266",
     },
     267: {
         dub: {
@@ -12961,6 +13380,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 267",
     },
     268: {
         dub: {
@@ -12989,6 +13409,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 268",
     },
     269: {
         dub: {
@@ -13017,6 +13438,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 269",
     },
     270: {
         dub: {
@@ -13045,6 +13467,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 270",
     },
     271: {
         dub: {
@@ -13073,6 +13496,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 271",
     },
     272: {
         dub: {
@@ -13101,6 +13525,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 272",
     },
     273: {
         dub: {
@@ -13129,6 +13554,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 273",
     },
     274: {
         dub: {
@@ -13157,6 +13583,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 274",
     },
     275: {
         dub: {
@@ -13185,6 +13612,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 275",
     },
     276: {
         dub: {
@@ -13213,6 +13641,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 276",
     },
     277: {
         dub: {
@@ -13241,6 +13670,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 277",
     },
     278: {
         dub: {
@@ -13269,6 +13699,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 278",
     },
     279: {
         dub: {
@@ -13297,6 +13728,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 279",
     },
     280: {
         dub: {
@@ -13325,6 +13757,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 280",
     },
     281: {
         dub: {
@@ -13353,6 +13786,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.286,
         },
+        episodeInfo: "Dragon Ball Z Episode 281",
     },
     282: {
         dub: {
@@ -13381,6 +13815,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 282",
     },
     283: {
         dub: {
@@ -13409,6 +13844,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 283",
     },
     284: {
         dub: {
@@ -13437,6 +13873,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 284",
     },
     285: {
         dub: {
@@ -13465,6 +13902,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 285",
     },
     286: {
         dub: {
@@ -13493,6 +13931,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 286",
     },
     287: {
         dub: {
@@ -13521,6 +13960,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 287",
     },
     288: {
         dub: {
@@ -13549,6 +13989,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 288",
     },
     289: {
         dub: {
@@ -13577,6 +14018,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.264,
         },
+        episodeInfo: "Dragon Ball Z Episode 289",
     },
     290: {
         dub: {
@@ -13605,6 +14047,7 @@ dragonBallZ = {
             ],
             episodeLength: 1452,
         },
+        episodeInfo: "Dragon Ball Z Episode 290",
     },
     291: {
         dub: {
@@ -13633,6 +14076,7 @@ dragonBallZ = {
             ],
             episodeLength: 1451.328,
         },
+        episodeInfo: "Dragon Ball Z Episode 291",
     },
 };
 
@@ -13664,6 +14108,7 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094018,
         },
+        episodeInfo: "Dragon Ball Kai Episode 1",
     },
     2: {
         dub: {
@@ -13692,6 +14137,7 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219144,
         },
+        episodeInfo: "Dragon Ball Kai Episode 2",
     },
     3: {
         dub: {
@@ -13720,6 +14166,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172432,
         },
+        episodeInfo: "Dragon Ball Kai Episode 3",
     },
     4: {
         dub: {
@@ -13748,6 +14195,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172447,
         },
+        episodeInfo: "Dragon Ball Kai Episode 4",
     },
     5: {
         dub: {
@@ -13776,6 +14224,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172432,
         },
+        episodeInfo: "Dragon Ball Kai Episode 5",
     },
     6: {
         dub: {
@@ -13804,6 +14253,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172429,
         },
+        episodeInfo: "Dragon Ball Kai Episode 6",
     },
     7: {
         dub: {
@@ -13832,6 +14282,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.089015,
         },
+        episodeInfo: "Dragon Ball Kai Episode 7",
     },
     8: {
         dub: {
@@ -13860,6 +14311,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.17241,
         },
+        episodeInfo: "Dragon Ball Kai Episode 8",
     },
     9: {
         dub: {
@@ -13888,6 +14340,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.13073,
         },
+        episodeInfo: "Dragon Ball Kai Episode 9",
     },
     10: {
         dub: {
@@ -13916,6 +14369,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.089021,
         },
+        episodeInfo: "Dragon Ball Kai Episode 10",
     },
     11: {
         dub: {
@@ -13944,6 +14398,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172443,
         },
+        episodeInfo: "Dragon Ball Kai Episode 11",
     },
     12: {
         dub: {
@@ -13972,6 +14427,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172433,
         },
+        episodeInfo: "Dragon Ball Kai Episode 12",
     },
     13: {
         dub: {
@@ -14000,6 +14456,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172446,
         },
+        episodeInfo: "Dragon Ball Kai Episode 13",
     },
     14: {
         dub: {
@@ -14028,6 +14485,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172429,
         },
+        episodeInfo: "Dragon Ball Kai Episode 14",
     },
     15: {
         dub: {
@@ -14056,6 +14514,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172449,
         },
+        episodeInfo: "Dragon Ball Kai Episode 15",
     },
     16: {
         dub: {
@@ -14084,6 +14543,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172449,
         },
+        episodeInfo: "Dragon Ball Kai Episode 16",
     },
     17: {
         dub: {
@@ -14112,6 +14572,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130749,
         },
+        episodeInfo: "Dragon Ball Kai Episode 17",
     },
     18: {
         dub: {
@@ -14140,6 +14601,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.17245,
         },
+        episodeInfo: "Dragon Ball Kai Episode 18",
     },
     19: {
         dub: {
@@ -14168,6 +14630,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.089035,
         },
+        episodeInfo: "Dragon Ball Kai Episode 19",
     },
     20: {
         dub: {
@@ -14196,6 +14659,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.17244,
         },
+        episodeInfo: "Dragon Ball Kai Episode 20",
     },
     21: {
         dub: {
@@ -14224,6 +14688,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130744,
         },
+        episodeInfo: "Dragon Ball Kai Episode 21",
     },
     22: {
         dub: {
@@ -14252,6 +14717,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130741,
         },
+        episodeInfo: "Dragon Ball Kai Episode 22",
     },
     23: {
         dub: {
@@ -14280,6 +14746,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172438,
         },
+        episodeInfo: "Dragon Ball Kai Episode 23",
     },
     24: {
         dub: {
@@ -14308,6 +14775,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214152,
         },
+        episodeInfo: "Dragon Ball Kai Episode 24",
     },
     25: {
         dub: {
@@ -14336,6 +14804,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214158,
         },
+        episodeInfo: "Dragon Ball Kai Episode 25",
     },
     26: {
         dub: {
@@ -14364,6 +14833,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130742,
         },
+        episodeInfo: "Dragon Ball Kai Episode 26",
     },
     27: {
         dub: {
@@ -14392,6 +14862,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130749,
         },
+        episodeInfo: "Dragon Ball Kai Episode 27",
     },
     28: {
         dub: {
@@ -14420,6 +14891,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214154,
         },
+        episodeInfo: "Dragon Ball Kai Episode 28",
     },
     29: {
         dub: {
@@ -14437,7 +14909,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-29",
@@ -14445,6 +14916,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172451,
         },
+        episodeInfo: "Dragon Ball Kai Episode 29",
     },
     30: {
         dub: {
@@ -14473,6 +14945,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130727,
         },
+        episodeInfo: "Dragon Ball Kai Episode 30",
     },
     31: {
         dub: {
@@ -14501,6 +14974,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130742,
         },
+        episodeInfo: "Dragon Ball Kai Episode 31",
     },
     32: {
         dub: {
@@ -14529,6 +15003,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.13073,
         },
+        episodeInfo: "Dragon Ball Kai Episode 32",
     },
     33: {
         dub: {
@@ -14557,6 +15032,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130744,
         },
+        episodeInfo: "Dragon Ball Kai Episode 33",
     },
     34: {
         dub: {
@@ -14585,6 +15061,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130742,
         },
+        episodeInfo: "Dragon Ball Kai Episode 34",
     },
     35: {
         dub: {
@@ -14613,6 +15090,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.089045,
         },
+        episodeInfo: "Dragon Ball Kai Episode 35",
     },
     36: {
         dub: {
@@ -14641,6 +15119,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130734,
         },
+        episodeInfo: "Dragon Ball Kai Episode 36",
     },
     37: {
         dub: {
@@ -14669,6 +15148,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.089024,
         },
+        episodeInfo: "Dragon Ball Kai Episode 37",
     },
     38: {
         dub: {
@@ -14697,6 +15177,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130742,
         },
+        episodeInfo: "Dragon Ball Kai Episode 38",
     },
     39: {
         dub: {
@@ -14725,6 +15206,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130743,
         },
+        episodeInfo: "Dragon Ball Kai Episode 39",
     },
     40: {
         dub: {
@@ -14753,6 +15235,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.17245,
         },
+        episodeInfo: "Dragon Ball Kai Episode 40",
     },
     41: {
         dub: {
@@ -14781,6 +15264,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.17245,
         },
+        episodeInfo: "Dragon Ball Kai Episode 41",
     },
     42: {
         dub: {
@@ -14809,6 +15293,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130747,
         },
+        episodeInfo: "Dragon Ball Kai Episode 42",
     },
     43: {
         dub: {
@@ -14837,6 +15322,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172443,
         },
+        episodeInfo: "Dragon Ball Kai Episode 43",
     },
     44: {
         dub: {
@@ -14865,6 +15351,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172439,
         },
+        episodeInfo: "Dragon Ball Kai Episode 44",
     },
     45: {
         dub: {
@@ -14893,6 +15380,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214156,
         },
+        episodeInfo: "Dragon Ball Kai Episode 45",
     },
     46: {
         dub: {
@@ -14921,6 +15409,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130733,
         },
+        episodeInfo: "Dragon Ball Kai Episode 46",
     },
     47: {
         dub: {
@@ -14949,6 +15438,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172458,
         },
+        episodeInfo: "Dragon Ball Kai Episode 47",
     },
     48: {
         dub: {
@@ -14977,6 +15467,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172448,
         },
+        episodeInfo: "Dragon Ball Kai Episode 48",
     },
     49: {
         dub: {
@@ -15005,6 +15496,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.21416,
         },
+        episodeInfo: "Dragon Ball Kai Episode 49",
     },
     50: {
         dub: {
@@ -15033,6 +15525,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214155,
         },
+        episodeInfo: "Dragon Ball Kai Episode 50",
     },
     51: {
         dub: {
@@ -15061,6 +15554,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172437,
         },
+        episodeInfo: "Dragon Ball Kai Episode 51",
     },
     52: {
         dub: {
@@ -15089,6 +15583,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172455,
         },
+        episodeInfo: "Dragon Ball Kai Episode 52",
     },
     53: {
         dub: {
@@ -15117,6 +15612,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130753,
         },
+        episodeInfo: "Dragon Ball Kai Episode 53",
     },
     54: {
         dub: {
@@ -15145,6 +15641,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172456,
         },
+        episodeInfo: "Dragon Ball Kai Episode 54",
     },
     55: {
         dub: {
@@ -15173,6 +15670,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172439,
         },
+        episodeInfo: "Dragon Ball Kai Episode 55",
     },
     56: {
         dub: {
@@ -15201,11 +15699,11 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214149,
         },
+        episodeInfo: "Dragon Ball Kai Episode 56",
     },
     57: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-57",
@@ -15226,6 +15724,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172439,
         },
+        episodeInfo: "Dragon Ball Kai Episode 57",
     },
     58: {
         dub: {
@@ -15254,6 +15753,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130731,
         },
+        episodeInfo: "Dragon Ball Kai Episode 58",
     },
     59: {
         dub: {
@@ -15282,6 +15782,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214153,
         },
+        episodeInfo: "Dragon Ball Kai Episode 59",
     },
     60: {
         dub: {
@@ -15310,6 +15811,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130746,
         },
+        episodeInfo: "Dragon Ball Kai Episode 60",
     },
     61: {
         dub: {
@@ -15338,6 +15840,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172445,
         },
+        episodeInfo: "Dragon Ball Kai Episode 61",
     },
     62: {
         dub: {
@@ -15366,6 +15869,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172444,
         },
+        episodeInfo: "Dragon Ball Kai Episode 62",
     },
     63: {
         dub: {
@@ -15394,6 +15898,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172443,
         },
+        episodeInfo: "Dragon Ball Kai Episode 63",
     },
     64: {
         dub: {
@@ -15422,6 +15927,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172445,
         },
+        episodeInfo: "Dragon Ball Kai Episode 64",
     },
     65: {
         dub: {
@@ -15450,6 +15956,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.17244,
         },
+        episodeInfo: "Dragon Ball Kai Episode 65",
     },
     66: {
         dub: {
@@ -15478,6 +15985,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130747,
         },
+        episodeInfo: "Dragon Ball Kai Episode 66",
     },
     67: {
         dub: {
@@ -15506,6 +16014,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172448,
         },
+        episodeInfo: "Dragon Ball Kai Episode 67",
     },
     68: {
         dub: {
@@ -15534,6 +16043,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214159,
         },
+        episodeInfo: "Dragon Ball Kai Episode 68",
     },
     69: {
         dub: {
@@ -15562,6 +16072,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172437,
         },
+        episodeInfo: "Dragon Ball Kai Episode 69",
     },
     70: {
         dub: {
@@ -15590,6 +16101,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172447,
         },
+        episodeInfo: "Dragon Ball Kai Episode 70",
     },
     71: {
         dub: {
@@ -15618,6 +16130,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.17245,
         },
+        episodeInfo: "Dragon Ball Kai Episode 71",
     },
     72: {
         dub: {
@@ -15646,6 +16159,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.13075,
         },
+        episodeInfo: "Dragon Ball Kai Episode 72",
     },
     73: {
         dub: {
@@ -15674,6 +16188,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130731,
         },
+        episodeInfo: "Dragon Ball Kai Episode 73",
     },
     74: {
         dub: {
@@ -15702,6 +16217,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172433,
         },
+        episodeInfo: "Dragon Ball Kai Episode 74",
     },
     75: {
         dub: {
@@ -15730,6 +16246,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130749,
         },
+        episodeInfo: "Dragon Ball Kai Episode 75",
     },
     76: {
         dub: {
@@ -15758,6 +16275,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.13073,
         },
+        episodeInfo: "Dragon Ball Kai Episode 76",
     },
     77: {
         dub: {
@@ -15786,6 +16304,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.13075,
         },
+        episodeInfo: "Dragon Ball Kai Episode 77",
     },
     78: {
         dub: {
@@ -15814,6 +16333,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130751,
         },
+        episodeInfo: "Dragon Ball Kai Episode 78",
     },
     79: {
         dub: {
@@ -15842,6 +16362,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214159,
         },
+        episodeInfo: "Dragon Ball Kai Episode 79",
     },
     80: {
         dub: {
@@ -15870,6 +16391,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214158,
         },
+        episodeInfo: "Dragon Ball Kai Episode 80",
     },
     81: {
         dub: {
@@ -15898,6 +16420,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130758,
         },
+        episodeInfo: "Dragon Ball Kai Episode 81",
     },
     82: {
         dub: {
@@ -15926,6 +16449,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130757,
         },
+        episodeInfo: "Dragon Ball Kai Episode 82",
     },
     83: {
         dub: {
@@ -15954,6 +16478,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130751,
         },
+        episodeInfo: "Dragon Ball Kai Episode 83",
     },
     84: {
         dub: {
@@ -15982,6 +16507,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172444,
         },
+        episodeInfo: "Dragon Ball Kai Episode 84",
     },
     85: {
         dub: {
@@ -16010,6 +16536,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130751,
         },
+        episodeInfo: "Dragon Ball Kai Episode 85",
     },
     86: {
         dub: {
@@ -16038,6 +16565,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172445,
         },
+        episodeInfo: "Dragon Ball Kai Episode 86",
     },
     87: {
         dub: {
@@ -16066,6 +16594,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172451,
         },
+        episodeInfo: "Dragon Ball Kai Episode 87",
     },
     88: {
         dub: {
@@ -16094,6 +16623,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130739,
         },
+        episodeInfo: "Dragon Ball Kai Episode 88",
     },
     89: {
         dub: {
@@ -16122,6 +16652,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130747,
         },
+        episodeInfo: "Dragon Ball Kai Episode 89",
     },
     90: {
         dub: {
@@ -16150,6 +16681,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214155,
         },
+        episodeInfo: "Dragon Ball Kai Episode 90",
     },
     91: {
         dub: {
@@ -16178,6 +16710,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.130755,
         },
+        episodeInfo: "Dragon Ball Kai Episode 91",
     },
     92: {
         dub: {
@@ -16206,6 +16739,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172433,
         },
+        episodeInfo: "Dragon Ball Kai Episode 92",
     },
     93: {
         dub: {
@@ -16234,6 +16768,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.089035,
         },
+        episodeInfo: "Dragon Ball Kai Episode 93",
     },
     94: {
         dub: {
@@ -16262,6 +16797,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.214145,
         },
+        episodeInfo: "Dragon Ball Kai Episode 94",
     },
     95: {
         dub: {
@@ -16290,6 +16826,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172447,
         },
+        episodeInfo: "Dragon Ball Kai Episode 95",
     },
     96: {
         dub: {
@@ -16318,6 +16855,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172436,
         },
+        episodeInfo: "Dragon Ball Kai Episode 96",
     },
     97: {
         dub: {
@@ -16346,6 +16884,7 @@ dragonBallKai = {
             ],
             episodeLength: 1382.172442,
         },
+        episodeInfo: "Dragon Ball Kai Episode 97",
     },
     98: {
         dub: {
@@ -16374,11 +16913,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094015,
         },
+        episodeInfo: "Dragon Ball Kai Episode 98",
     },
     99: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-1",
@@ -16388,7 +16927,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-1",
@@ -16396,11 +16934,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177429,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 1",
     },
     100: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-2",
@@ -16410,7 +16948,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-2",
@@ -16418,11 +16955,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094025,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 2",
     },
     101: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-3",
@@ -16432,7 +16969,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-3",
@@ -16440,11 +16976,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135757,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 3",
     },
     102: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-4",
@@ -16454,7 +16990,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-4",
@@ -16462,11 +16997,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219143,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 4",
     },
     103: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-5",
@@ -16476,7 +17011,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-5",
@@ -16484,11 +17018,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052319,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 5",
     },
     104: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-6",
@@ -16498,7 +17032,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-6",
@@ -16506,11 +17039,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177442,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 6",
     },
     105: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-7",
@@ -16520,7 +17053,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-7",
@@ -16528,11 +17060,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094029,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 7",
     },
     106: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-8",
@@ -16542,7 +17074,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-8",
@@ -16550,11 +17081,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094025,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 8",
     },
     107: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-9",
@@ -16564,7 +17095,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-9",
@@ -16572,11 +17102,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052304,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 9",
     },
     108: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-10",
@@ -16586,7 +17116,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-10",
@@ -16594,11 +17123,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094026,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 10",
     },
     109: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-11",
@@ -16608,7 +17137,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-11",
@@ -16616,11 +17144,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177439,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 11",
     },
     110: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-12",
@@ -16630,7 +17158,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-12",
@@ -16638,11 +17165,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052318,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 12",
     },
     111: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-13",
@@ -16652,7 +17179,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-13",
@@ -16660,11 +17186,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.21916,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 13",
     },
     112: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-14",
@@ -16674,7 +17200,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-14",
@@ -16682,11 +17207,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177443,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 14",
     },
     113: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-15",
@@ -16696,7 +17221,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-15",
@@ -16704,11 +17228,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094024,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 15",
     },
     114: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-16",
@@ -16718,7 +17242,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-16",
@@ -16726,11 +17249,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094042,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 16",
     },
     115: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-17",
@@ -16740,7 +17263,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-17",
@@ -16748,11 +17270,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094025,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 17",
     },
     116: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-18",
@@ -16762,7 +17284,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-18",
@@ -16770,11 +17291,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052312,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 18",
     },
     117: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-19",
@@ -16784,7 +17305,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-19",
@@ -16792,11 +17312,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177434,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 19",
     },
     118: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-20",
@@ -16806,7 +17326,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-20",
@@ -16814,11 +17333,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052321,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 20",
     },
     119: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-21",
@@ -16828,7 +17347,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-21",
@@ -16836,11 +17354,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094029,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 21",
     },
     120: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-22",
@@ -16850,7 +17368,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-22",
@@ -16858,11 +17375,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135755,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 22",
     },
     121: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-23",
@@ -16872,7 +17389,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-23",
@@ -16880,11 +17396,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177433,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 23",
     },
     122: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-24",
@@ -16894,7 +17410,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-24",
@@ -16902,11 +17417,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135735,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 24",
     },
     123: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-25",
@@ -16916,7 +17431,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-25",
@@ -16924,11 +17438,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135741,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 25",
     },
     124: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-26",
@@ -16938,7 +17452,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-26",
@@ -16946,11 +17459,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094025,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 26",
     },
     125: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-27",
@@ -16960,7 +17473,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-27",
@@ -16968,11 +17480,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135736,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 27",
     },
     126: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-28",
@@ -16982,7 +17494,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-28",
@@ -16990,11 +17501,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.260863,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 28",
     },
     127: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-29",
@@ -17004,7 +17515,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-29",
@@ -17012,11 +17522,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.260867,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 29",
     },
     128: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-30",
@@ -17026,7 +17536,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-30",
@@ -17034,11 +17543,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135745,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 30",
     },
     129: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-31",
@@ -17048,7 +17557,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-31",
@@ -17056,11 +17564,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135747,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 31",
     },
     130: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-32",
@@ -17070,7 +17578,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-32",
@@ -17078,11 +17585,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094028,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 32",
     },
     131: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-33",
@@ -17092,7 +17599,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-33",
@@ -17100,11 +17606,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135751,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 33",
     },
     132: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-34",
@@ -17114,7 +17620,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-34",
@@ -17122,11 +17627,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177446,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 34",
     },
     133: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-35",
@@ -17136,7 +17641,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-35",
@@ -17144,11 +17648,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135723,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 35",
     },
     134: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-36",
@@ -17158,7 +17662,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-36",
@@ -17166,11 +17669,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219156,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 36",
     },
     135: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-37",
@@ -17180,7 +17683,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-37",
@@ -17188,11 +17690,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.17744,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 37",
     },
     136: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-38",
@@ -17202,7 +17704,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-38",
@@ -17210,11 +17711,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094044,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 38",
     },
     137: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-39",
@@ -17224,7 +17725,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-39",
@@ -17232,11 +17732,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177438,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 39",
     },
     138: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-40",
@@ -17246,7 +17746,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-40",
@@ -17254,11 +17753,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219151,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 40",
     },
     139: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-41",
@@ -17268,7 +17767,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-41",
@@ -17276,11 +17774,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.21916,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 41",
     },
     140: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-42",
@@ -17290,7 +17788,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-42",
@@ -17298,11 +17795,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094033,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 42",
     },
     141: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-43",
@@ -17312,7 +17809,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-43",
@@ -17320,11 +17816,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219146,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 43",
     },
     142: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-44",
@@ -17334,7 +17830,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-44",
@@ -17342,11 +17837,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177434,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 44",
     },
     143: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-45",
@@ -17356,7 +17851,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-45",
@@ -17364,11 +17858,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135736,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 45",
     },
     144: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-46",
@@ -17378,7 +17872,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-46",
@@ -17386,11 +17879,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135743,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 46",
     },
     145: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-47",
@@ -17400,7 +17893,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-47",
@@ -17408,11 +17900,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219155,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 47",
     },
     146: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-48",
@@ -17422,7 +17914,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-48",
@@ -17430,11 +17921,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.26086,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 48",
     },
     147: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-49",
@@ -17444,7 +17935,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-49",
@@ -17452,11 +17942,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135738,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 49",
     },
     148: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-50",
@@ -17466,7 +17956,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-50",
@@ -17474,11 +17963,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135748,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 50",
     },
     149: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-51",
@@ -17488,7 +17977,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-51",
@@ -17496,11 +17984,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.177441,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 51",
     },
     150: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-52",
@@ -17510,7 +17998,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-52",
@@ -17518,11 +18005,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135742,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 52",
     },
     151: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-53",
@@ -17532,7 +18019,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-53",
@@ -17540,11 +18026,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135737,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 53",
     },
     152: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-54",
@@ -17554,7 +18040,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-54",
@@ -17562,11 +18047,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094028,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 54",
     },
     153: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-55",
@@ -17576,7 +18061,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-55",
@@ -17584,11 +18068,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.094026,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 55",
     },
     154: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-56",
@@ -17598,7 +18082,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-56",
@@ -17606,11 +18089,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135732,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 56",
     },
     155: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-57",
@@ -17620,7 +18103,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-57",
@@ -17628,11 +18110,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135739,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 57",
     },
     156: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-58",
@@ -17642,7 +18124,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-58",
@@ -17650,11 +18131,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052321,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 58",
     },
     157: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-59",
@@ -17664,7 +18145,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-59",
@@ -17672,11 +18152,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219151,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 59",
     },
     158: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-60",
@@ -17686,7 +18166,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-60",
@@ -17694,11 +18173,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.13573,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 60",
     },
     159: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-61",
@@ -17708,7 +18187,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-61",
@@ -17716,11 +18194,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135732,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 61",
     },
     160: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-62",
@@ -17730,7 +18208,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-62",
@@ -17738,11 +18215,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135734,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 62",
     },
     161: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-63",
@@ -17752,7 +18229,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-63",
@@ -17760,11 +18236,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052313,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 63",
     },
     162: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-64",
@@ -17774,7 +18250,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-64",
@@ -17782,11 +18257,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.09404,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 64",
     },
     163: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-65",
@@ -17796,7 +18271,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-65",
@@ -17804,11 +18278,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.219152,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 65",
     },
     164: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-66",
@@ -17818,7 +18292,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-66",
@@ -17826,11 +18299,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.052319,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 66",
     },
     165: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-67",
@@ -17840,7 +18313,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-67",
@@ -17848,11 +18320,11 @@ dragonBallKai = {
             ],
             episodeLength: 1387.135743,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 67",
     },
     166: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-68",
@@ -17862,7 +18334,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-68",
@@ -17870,11 +18341,11 @@ dragonBallKai = {
             ],
             episodeLength: 1357.189162,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 68",
     },
     167: {
         dub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-69",
@@ -17884,7 +18355,6 @@ dragonBallKai = {
         },
         sub: {
             sources: [
-                { source: "Anime Owl" },
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-69",
@@ -17892,6 +18362,7 @@ dragonBallKai = {
             ],
             episodeLength: 1357.189162,
         },
+        episodeInfo: "Dragon Ball Kai The Final Chapters Episode 69",
     },
 };
 
@@ -17931,6 +18402,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.19245,
         },
+        episodeInfo: "Dragon Ball Super Episode 1",
     },
     2: {
         dub: {
@@ -17967,6 +18439,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109027,
         },
+        episodeInfo: "Dragon Ball Super Episode 2",
     },
     3: {
         dub: {
@@ -18003,6 +18476,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109032,
         },
+        episodeInfo: "Dragon Ball Super Episode 3",
     },
     4: {
         dub: {
@@ -18039,6 +18513,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109035,
         },
+        episodeInfo: "Dragon Ball Super Episode 4",
     },
     5: {
         dub: {
@@ -18075,6 +18550,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109027,
         },
+        episodeInfo: "Dragon Ball Super Episode 5",
     },
     6: {
         dub: {
@@ -18111,6 +18587,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150731,
         },
+        episodeInfo: "Dragon Ball Super Episode 6",
     },
     7: {
         dub: {
@@ -18147,6 +18624,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150721,
         },
+        episodeInfo: "Dragon Ball Super Episode 7",
     },
     8: {
         dub: {
@@ -18183,6 +18661,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192439,
         },
+        episodeInfo: "Dragon Ball Super Episode 8",
     },
     9: {
         dub: {
@@ -18219,6 +18698,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192438,
         },
+        episodeInfo: "Dragon Ball Super Episode 9",
     },
     10: {
         dub: {
@@ -18255,6 +18735,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192438,
         },
+        episodeInfo: "Dragon Ball Super Episode 10",
     },
     11: {
         dub: {
@@ -18291,6 +18772,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192443,
         },
+        episodeInfo: "Dragon Ball Super Episode 11",
     },
     12: {
         dub: {
@@ -18327,6 +18809,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.15073,
         },
+        episodeInfo: "Dragon Ball Super Episode 12",
     },
     13: {
         dub: {
@@ -18363,6 +18846,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192431,
         },
+        episodeInfo: "Dragon Ball Super Episode 13",
     },
     14: {
         dub: {
@@ -18399,6 +18883,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.19244,
         },
+        episodeInfo: "Dragon Ball Super Episode 14",
     },
     15: {
         dub: {
@@ -18435,6 +18920,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192443,
         },
+        episodeInfo: "Dragon Ball Super Episode 15",
     },
     16: {
         dub: {
@@ -18471,6 +18957,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.19244,
         },
+        episodeInfo: "Dragon Ball Super Episode 16",
     },
     17: {
         dub: {
@@ -18507,6 +18994,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192443,
         },
+        episodeInfo: "Dragon Ball Super Episode 17",
     },
     18: {
         dub: {
@@ -18543,6 +19031,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192432,
         },
+        episodeInfo: "Dragon Ball Super Episode 18",
     },
     19: {
         dub: {
@@ -18579,6 +19068,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192439,
         },
+        episodeInfo: "Dragon Ball Super Episode 19",
     },
     20: {
         dub: {
@@ -18615,6 +19105,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192451,
         },
+        episodeInfo: "Dragon Ball Super Episode 20",
     },
     21: {
         dub: {
@@ -18651,6 +19142,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192441,
         },
+        episodeInfo: "Dragon Ball Super Episode 21",
     },
     22: {
         dub: {
@@ -18687,6 +19179,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192447,
         },
+        episodeInfo: "Dragon Ball Super Episode 22",
     },
     23: {
         dub: {
@@ -18723,6 +19216,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192447,
         },
+        episodeInfo: "Dragon Ball Super Episode 23",
     },
     24: {
         dub: {
@@ -18759,6 +19253,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150737,
         },
+        episodeInfo: "Dragon Ball Super Episode 24",
     },
     25: {
         dub: {
@@ -18795,6 +19290,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192453,
         },
+        episodeInfo: "Dragon Ball Super Episode 25",
     },
     26: {
         dub: {
@@ -18831,6 +19327,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150731,
         },
+        episodeInfo: "Dragon Ball Super Episode 26",
     },
     27: {
         dub: {
@@ -18867,6 +19364,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192435,
         },
+        episodeInfo: "Dragon Ball Super Episode 27",
     },
     28: {
         dub: {
@@ -18903,6 +19401,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192434,
         },
+        episodeInfo: "Dragon Ball Super Episode 28",
     },
     29: {
         dub: {
@@ -18939,6 +19438,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192444,
         },
+        episodeInfo: "Dragon Ball Super Episode 29",
     },
     30: {
         dub: {
@@ -18975,6 +19475,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192441,
         },
+        episodeInfo: "Dragon Ball Super Episode 30",
     },
     31: {
         dub: {
@@ -19011,6 +19512,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192433,
         },
+        episodeInfo: "Dragon Ball Super Episode 31",
     },
     32: {
         dub: {
@@ -19047,6 +19549,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192441,
         },
+        episodeInfo: "Dragon Ball Super Episode 32",
     },
     33: {
         dub: {
@@ -19083,6 +19586,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.19244,
         },
+        episodeInfo: "Dragon Ball Super Episode 33",
     },
     34: {
         dub: {
@@ -19119,6 +19623,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150734,
         },
+        episodeInfo: "Dragon Ball Super Episode 34",
     },
     35: {
         dub: {
@@ -19155,6 +19660,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150723,
         },
+        episodeInfo: "Dragon Ball Super Episode 35",
     },
     36: {
         dub: {
@@ -19191,6 +19697,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1405.23716,
         },
+        episodeInfo: "Dragon Ball Super Episode 36",
     },
     37: {
         dub: {
@@ -19227,6 +19734,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150743,
         },
+        episodeInfo: "Dragon Ball Super Episode 37",
     },
     38: {
         dub: {
@@ -19263,6 +19771,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192442,
         },
+        episodeInfo: "Dragon Ball Super Episode 38",
     },
     39: {
         dub: {
@@ -19299,6 +19808,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150737,
         },
+        episodeInfo: "Dragon Ball Super Episode 39",
     },
     40: {
         dub: {
@@ -19335,6 +19845,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192439,
         },
+        episodeInfo: "Dragon Ball Super Episode 40",
     },
     41: {
         dub: {
@@ -19371,6 +19882,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150722,
         },
+        episodeInfo: "Dragon Ball Super Episode 41",
     },
     42: {
         dub: {
@@ -19407,6 +19919,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192441,
         },
+        episodeInfo: "Dragon Ball Super Episode 42",
     },
     43: {
         dub: {
@@ -19443,6 +19956,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192433,
         },
+        episodeInfo: "Dragon Ball Super Episode 43",
     },
     44: {
         dub: {
@@ -19479,6 +19993,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150731,
         },
+        episodeInfo: "Dragon Ball Super Episode 44",
     },
     45: {
         dub: {
@@ -19515,6 +20030,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.15073,
         },
+        episodeInfo: "Dragon Ball Super Episode 45",
     },
     46: {
         dub: {
@@ -19551,6 +20067,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192445,
         },
+        episodeInfo: "Dragon Ball Super Episode 46",
     },
     47: {
         dub: {
@@ -19587,6 +20104,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192432,
         },
+        episodeInfo: "Dragon Ball Super Episode 47",
     },
     48: {
         dub: {
@@ -19623,6 +20141,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192445,
         },
+        episodeInfo: "Dragon Ball Super Episode 48",
     },
     49: {
         dub: {
@@ -19659,6 +20178,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.19245,
         },
+        episodeInfo: "Dragon Ball Super Episode 49",
     },
     50: {
         dub: {
@@ -19695,6 +20215,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150727,
         },
+        episodeInfo: "Dragon Ball Super Episode 50",
     },
     51: {
         dub: {
@@ -19731,6 +20252,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150733,
         },
+        episodeInfo: "Dragon Ball Super Episode 51",
     },
     52: {
         dub: {
@@ -19767,6 +20289,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192454,
         },
+        episodeInfo: "Dragon Ball Super Episode 52",
     },
     53: {
         dub: {
@@ -19803,6 +20326,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192448,
         },
+        episodeInfo: "Dragon Ball Super Episode 53",
     },
     54: {
         dub: {
@@ -19839,6 +20363,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192446,
         },
+        episodeInfo: "Dragon Ball Super Episode 54",
     },
     55: {
         dub: {
@@ -19875,6 +20400,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1404.694948,
         },
+        episodeInfo: "Dragon Ball Super Episode 55",
     },
     56: {
         dub: {
@@ -19911,6 +20437,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109024,
         },
+        episodeInfo: "Dragon Ball Super Episode 56",
     },
     57: {
         dub: {
@@ -19947,6 +20474,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150735,
         },
+        episodeInfo: "Dragon Ball Super Episode 57",
     },
     58: {
         dub: {
@@ -19983,6 +20511,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150742,
         },
+        episodeInfo: "Dragon Ball Super Episode 58",
     },
     59: {
         dub: {
@@ -20019,6 +20548,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192446,
         },
+        episodeInfo: "Dragon Ball Super Episode 59",
     },
     60: {
         dub: {
@@ -20055,6 +20585,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150731,
         },
+        episodeInfo: "Dragon Ball Super Episode 60",
     },
     61: {
         dub: {
@@ -20091,6 +20622,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1403.93331,
         },
+        episodeInfo: "Dragon Ball Super Episode 61",
     },
     62: {
         dub: {
@@ -20127,6 +20659,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192458,
         },
+        episodeInfo: "Dragon Ball Super Episode 62",
     },
     63: {
         dub: {
@@ -20163,6 +20696,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.317565,
         },
+        episodeInfo: "Dragon Ball Super Episode 63",
     },
     64: {
         dub: {
@@ -20199,6 +20733,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150723,
         },
+        episodeInfo: "Dragon Ball Super Episode 64",
     },
     65: {
         dub: {
@@ -20235,6 +20770,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.19244,
         },
+        episodeInfo: "Dragon Ball Super Episode 65",
     },
     66: {
         dub: {
@@ -20271,6 +20807,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.359278,
         },
+        episodeInfo: "Dragon Ball Super Episode 66",
     },
     67: {
         dub: {
@@ -20307,6 +20844,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1408.156778,
         },
+        episodeInfo: "Dragon Ball Super Episode 67",
     },
     68: {
         dub: {
@@ -20343,6 +20881,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.442735,
         },
+        episodeInfo: "Dragon Ball Super Episode 68",
     },
     69: {
         dub: {
@@ -20379,6 +20918,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192435,
         },
+        episodeInfo: "Dragon Ball Super Episode 69",
     },
     70: {
         dub: {
@@ -20415,6 +20955,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.359328,
         },
+        episodeInfo: "Dragon Ball Super Episode 70",
     },
     71: {
         dub: {
@@ -20451,6 +20992,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192475,
         },
+        episodeInfo: "Dragon Ball Super Episode 71",
     },
     72: {
         dub: {
@@ -20487,6 +21029,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.317606,
         },
+        episodeInfo: "Dragon Ball Super Episode 72",
     },
     73: {
         dub: {
@@ -20523,6 +21066,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192475,
         },
+        episodeInfo: "Dragon Ball Super Episode 73",
     },
     74: {
         dub: {
@@ -20559,6 +21103,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192476,
         },
+        episodeInfo: "Dragon Ball Super Episode 74",
     },
     75: {
         dub: {
@@ -20595,6 +21140,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192483,
         },
+        episodeInfo: "Dragon Ball Super Episode 75",
     },
     76: {
         dub: {
@@ -20631,6 +21177,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192476,
         },
+        episodeInfo: "Dragon Ball Super Episode 76",
     },
     77: {
         dub: {
@@ -20667,6 +21214,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.234189,
         },
+        episodeInfo: "Dragon Ball Super Episode 77",
     },
     78: {
         dub: {
@@ -20703,6 +21251,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.19247,
         },
+        episodeInfo: "Dragon Ball Super Episode 78",
     },
     79: {
         dub: {
@@ -20739,6 +21288,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.234191,
         },
+        episodeInfo: "Dragon Ball Super Episode 79",
     },
     80: {
         dub: {
@@ -20775,6 +21325,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.176224,
         },
+        episodeInfo: "Dragon Ball Super Episode 80",
     },
     81: {
         dub: {
@@ -20811,6 +21362,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.234152,
         },
+        episodeInfo: "Dragon Ball Super Episode 81",
     },
     82: {
         dub: {
@@ -20847,6 +21399,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192461,
         },
+        episodeInfo: "Dragon Ball Super Episode 82",
     },
     83: {
         dub: {
@@ -20883,6 +21436,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.275877,
         },
+        episodeInfo: "Dragon Ball Super Episode 83",
     },
     84: {
         dub: {
@@ -20919,6 +21473,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.275869,
         },
+        episodeInfo: "Dragon Ball Super Episode 84",
     },
     85: {
         dub: {
@@ -20955,6 +21510,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1401.817107,
         },
+        episodeInfo: "Dragon Ball Super Episode 85",
     },
     86: {
         dub: {
@@ -20991,6 +21547,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109068,
         },
+        episodeInfo: "Dragon Ball Super Episode 86",
     },
     87: {
         dub: {
@@ -21027,6 +21584,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150775,
         },
+        episodeInfo: "Dragon Ball Super Episode 87",
     },
     88: {
         dub: {
@@ -21063,6 +21621,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.192465,
         },
+        episodeInfo: "Dragon Ball Super Episode 88",
     },
     89: {
         dub: {
@@ -21099,6 +21658,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150774,
         },
+        episodeInfo: "Dragon Ball Super Episode 89",
     },
     90: {
         dub: {
@@ -21135,6 +21695,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.275895,
         },
+        episodeInfo: "Dragon Ball Super Episode 90",
     },
     91: {
         dub: {
@@ -21171,6 +21732,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150785,
         },
+        episodeInfo: "Dragon Ball Super Episode 91",
     },
     92: {
         dub: {
@@ -21207,6 +21769,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109066,
         },
+        episodeInfo: "Dragon Ball Super Episode 92",
     },
     93: {
         dub: {
@@ -21243,6 +21806,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1401.900524,
         },
+        episodeInfo: "Dragon Ball Super Episode 93",
     },
     94: {
         dub: {
@@ -21279,6 +21843,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1401.900544,
         },
+        episodeInfo: "Dragon Ball Super Episode 94",
     },
     95: {
         dub: {
@@ -21315,6 +21880,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109069,
         },
+        episodeInfo: "Dragon Ball Super Episode 95",
     },
     96: {
         dub: {
@@ -21351,6 +21917,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.15077,
         },
+        episodeInfo: "Dragon Ball Super Episode 96",
     },
     97: {
         dub: {
@@ -21387,6 +21954,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.275866,
         },
+        episodeInfo: "Dragon Ball Super Episode 97",
     },
     98: {
         dub: {
@@ -21423,6 +21991,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1401.56685,
         },
+        episodeInfo: "Dragon Ball Super Episode 98",
     },
     99: {
         dub: {
@@ -21459,6 +22028,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1401.691977,
         },
+        episodeInfo: "Dragon Ball Super Episode 99",
     },
     100: {
         dub: {
@@ -21495,6 +22065,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150776,
         },
+        episodeInfo: "Dragon Ball Super Episode 100",
     },
     101: {
         dub: {
@@ -21531,6 +22102,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150773,
         },
+        episodeInfo: "Dragon Ball Super Episode 101",
     },
     102: {
         dub: {
@@ -21567,6 +22139,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150787,
         },
+        episodeInfo: "Dragon Ball Super Episode 102",
     },
     103: {
         dub: {
@@ -21603,6 +22176,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1401.858798,
         },
+        episodeInfo: "Dragon Ball Super Episode 103",
     },
     104: {
         dub: {
@@ -21639,6 +22213,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150792,
         },
+        episodeInfo: "Dragon Ball Super Episode 104",
     },
     105: {
         dub: {
@@ -21675,6 +22250,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.109072,
         },
+        episodeInfo: "Dragon Ball Super Episode 105",
     },
     106: {
         dub: {
@@ -21711,6 +22287,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150774,
         },
+        episodeInfo: "Dragon Ball Super Episode 106",
     },
     107: {
         dub: {
@@ -21747,6 +22324,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150783,
         },
+        episodeInfo: "Dragon Ball Super Episode 107",
     },
     108: {
         dub: {
@@ -21783,6 +22361,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1402.150778,
         },
+        episodeInfo: "Dragon Ball Super Episode 108",
     },
     109: {
         dub: {
@@ -21819,6 +22398,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1387.260897,
         },
+        episodeInfo: "Dragon Ball Super Episode 109",
     },
     110: {
         dub: {
@@ -21855,6 +22435,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1444.651558,
         },
+        episodeInfo: "Dragon Ball Super Episode 110",
     },
     111: {
         dub: {
@@ -21891,6 +22472,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1387.302572,
         },
+        episodeInfo: "Dragon Ball Super Episode 111",
     },
     112: {
         dub: {
@@ -21927,6 +22509,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1387.135776,
         },
+        episodeInfo: "Dragon Ball Super Episode 112",
     },
     113: {
         dub: {
@@ -21963,6 +22546,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.249182,
         },
+        episodeInfo: "Dragon Ball Super Episode 113",
     },
     114: {
         dub: {
@@ -21999,6 +22583,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.207476,
         },
+        episodeInfo: "Dragon Ball Super Episode 114",
     },
     115: {
         dub: {
@@ -22035,6 +22620,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290904,
         },
+        episodeInfo: "Dragon Ball Super Episode 115",
     },
     116: {
         dub: {
@@ -22071,6 +22657,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290894,
         },
+        episodeInfo: "Dragon Ball Super Episode 116",
     },
     117: {
         dub: {
@@ -22107,6 +22694,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.165768,
         },
+        episodeInfo: "Dragon Ball Super Episode 117",
     },
     118: {
         dub: {
@@ -22143,6 +22731,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.332601,
         },
+        episodeInfo: "Dragon Ball Super Episode 118",
     },
     119: {
         dub: {
@@ -22179,6 +22768,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290896,
         },
+        episodeInfo: "Dragon Ball Super Episode 119",
     },
     120: {
         dub: {
@@ -22215,6 +22805,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.16576,
         },
+        episodeInfo: "Dragon Ball Super Episode 120",
     },
     121: {
         dub: {
@@ -22251,6 +22842,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.2909,
         },
+        episodeInfo: "Dragon Ball Super Episode 121",
     },
     122: {
         dub: {
@@ -22287,6 +22879,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290865,
         },
+        episodeInfo: "Dragon Ball Super Episode 122",
     },
     123: {
         dub: {
@@ -22323,6 +22916,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.165774,
         },
+        episodeInfo: "Dragon Ball Super Episode 123",
     },
     124: {
         dub: {
@@ -22359,6 +22953,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290905,
         },
+        episodeInfo: "Dragon Ball Super Episode 124",
     },
     125: {
         dub: {
@@ -22395,6 +22990,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290898,
         },
+        episodeInfo: "Dragon Ball Super Episode 125",
     },
     126: {
         dub: {
@@ -22431,6 +23027,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290901,
         },
+        episodeInfo: "Dragon Ball Super Episode 126",
     },
     127: {
         dub: {
@@ -22467,6 +23064,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.24918,
         },
+        episodeInfo: "Dragon Ball Super Episode 127",
     },
     128: {
         dub: {
@@ -22503,6 +23101,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.37428,
         },
+        episodeInfo: "Dragon Ball Super Episode 128",
     },
     129: {
         dub: {
@@ -22539,6 +23138,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290905,
         },
+        episodeInfo: "Dragon Ball Super Episode 129",
     },
     130: {
         dub: {
@@ -22575,6 +23175,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1417.290911,
         },
+        episodeInfo: "Dragon Ball Super Episode 130",
     },
     131: {
         dub: {
@@ -22611,6 +23212,7 @@ dragonBallSuper = {
             ],
             episodeLength: 1387.177483,
         },
+        episodeInfo: "Dragon Ball Super Episode 131",
     },
 };
 
@@ -22650,6 +23252,7 @@ dragonBallGt = {
             ],
             episodeLength: 1480.811,
         },
+        episodeInfo: "Dragon Ball GT Episode 1",
     },
     2: {
         dub: {
@@ -22686,6 +23289,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.686,
         },
+        episodeInfo: "Dragon Ball GT Episode 2",
     },
     3: {
         dub: {
@@ -22722,6 +23326,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.784,
         },
+        episodeInfo: "Dragon Ball GT Episode 3",
     },
     4: {
         dub: {
@@ -22758,6 +23363,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.19,
         },
+        episodeInfo: "Dragon Ball GT Episode 4",
     },
     5: {
         dub: {
@@ -22794,6 +23400,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.763,
         },
+        episodeInfo: "Dragon Ball GT Episode 5",
     },
     6: {
         dub: {
@@ -22830,6 +23437,7 @@ dragonBallGt = {
             ],
             episodeLength: 1480.79,
         },
+        episodeInfo: "Dragon Ball GT Episode 6",
     },
     7: {
         dub: {
@@ -22866,6 +23474,7 @@ dragonBallGt = {
             ],
             episodeLength: 1480.555,
         },
+        episodeInfo: "Dragon Ball GT Episode 7",
     },
     8: {
         dub: {
@@ -22902,6 +23511,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 8",
     },
     9: {
         dub: {
@@ -22938,6 +23548,7 @@ dragonBallGt = {
             ],
             episodeLength: 1480.299,
         },
+        episodeInfo: "Dragon Ball GT Episode 9",
     },
     10: {
         dub: {
@@ -22974,6 +23585,7 @@ dragonBallGt = {
             ],
             episodeLength: 1480.15,
         },
+        episodeInfo: "Dragon Ball GT Episode 10",
     },
     11: {
         dub: {
@@ -23010,6 +23622,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 11",
     },
     12: {
         dub: {
@@ -23046,6 +23659,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.061,
         },
+        episodeInfo: "Dragon Ball GT Episode 12",
     },
     13: {
         dub: {
@@ -23082,6 +23696,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 13",
     },
     14: {
         dub: {
@@ -23118,6 +23733,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 14",
     },
     15: {
         dub: {
@@ -23154,6 +23770,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 15",
     },
     16: {
         dub: {
@@ -23190,6 +23807,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 16",
     },
     17: {
         dub: {
@@ -23226,6 +23844,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.686,
         },
+        episodeInfo: "Dragon Ball GT Episode 17",
     },
     18: {
         dub: {
@@ -23262,6 +23881,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.686,
         },
+        episodeInfo: "Dragon Ball GT Episode 18",
     },
     19: {
         dub: {
@@ -23298,6 +23918,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 19",
     },
     20: {
         dub: {
@@ -23334,6 +23955,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.275,
         },
+        episodeInfo: "Dragon Ball GT Episode 20",
     },
     21: {
         dub: {
@@ -23370,6 +23992,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 21",
     },
     22: {
         dub: {
@@ -23403,6 +24026,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.02,
         },
+        episodeInfo: "Dragon Ball GT Episode 22",
     },
     23: {
         dub: {
@@ -23439,6 +24063,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 23",
     },
     24: {
         dub: {
@@ -23475,6 +24100,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 24",
     },
     25: {
         dub: {
@@ -23511,6 +24137,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.686,
         },
+        episodeInfo: "Dragon Ball GT Episode 25",
     },
     26: {
         dub: {
@@ -23547,6 +24174,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.686,
         },
+        episodeInfo: "Dragon Ball GT Episode 26",
     },
     27: {
         dub: {
@@ -23583,6 +24211,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 27",
     },
     28: {
         dub: {
@@ -23619,6 +24248,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.02,
         },
+        episodeInfo: "Dragon Ball GT Episode 28",
     },
     29: {
         dub: {
@@ -23655,6 +24285,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 29",
     },
     30: {
         dub: {
@@ -23691,6 +24322,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 30",
     },
     31: {
         dub: {
@@ -23727,6 +24359,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 31",
     },
     32: {
         dub: {
@@ -23763,6 +24396,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 32",
     },
     33: {
         dub: {
@@ -23799,6 +24433,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 33",
     },
     34: {
         dub: {
@@ -23835,6 +24470,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 34",
     },
     35: {
         dub: {
@@ -23871,6 +24507,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.02,
         },
+        episodeInfo: "Dragon Ball GT Episode 35",
     },
     36: {
         dub: {
@@ -23904,6 +24541,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 36",
     },
     37: {
         dub: {
@@ -23940,6 +24578,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 37",
     },
     38: {
         dub: {
@@ -23976,6 +24615,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 38",
     },
     39: {
         dub: {
@@ -24012,6 +24652,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 39",
     },
     40: {
         dub: {
@@ -24048,6 +24689,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.02,
         },
+        episodeInfo: "Dragon Ball GT Episode 40",
     },
     41: {
         dub: {
@@ -24084,6 +24726,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 41",
     },
     42: {
         dub: {
@@ -24120,6 +24763,7 @@ dragonBallGt = {
             ],
             episodeLength: 1477.846,
         },
+        episodeInfo: "Dragon Ball GT Episode 42",
     },
     43: {
         dub: {
@@ -24156,6 +24800,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.061,
         },
+        episodeInfo: "Dragon Ball GT Episode 43",
     },
     44: {
         dub: {
@@ -24192,6 +24837,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.061,
         },
+        episodeInfo: "Dragon Ball GT Episode 44",
     },
     45: {
         dub: {
@@ -24228,6 +24874,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.061,
         },
+        episodeInfo: "Dragon Ball GT Episode 45",
     },
     46: {
         dub: {
@@ -24264,6 +24911,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.061,
         },
+        episodeInfo: "Dragon Ball GT Episode 46",
     },
     47: {
         dub: {
@@ -24300,6 +24948,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.061,
         },
+        episodeInfo: "Dragon Ball GT Episode 47",
     },
     48: {
         dub: {
@@ -24336,6 +24985,7 @@ dragonBallGt = {
             ],
             episodeLength: 1480,
         },
+        episodeInfo: "Dragon Ball GT Episode 48",
     },
     49: {
         dub: {
@@ -24372,6 +25022,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.061,
         },
+        episodeInfo: "Dragon Ball GT Episode 49",
     },
     50: {
         dub: {
@@ -24408,6 +25059,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.232,
         },
+        episodeInfo: "Dragon Ball GT Episode 50",
     },
     51: {
         dub: {
@@ -24444,6 +25096,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.531,
         },
+        episodeInfo: "Dragon Ball GT Episode 51",
     },
     52: {
         dub: {
@@ -24480,6 +25133,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 52",
     },
     53: {
         dub: {
@@ -24516,6 +25170,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.895,
         },
+        episodeInfo: "Dragon Ball GT Episode 53",
     },
     54: {
         dub: {
@@ -24552,6 +25207,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.702,
         },
+        episodeInfo: "Dragon Ball GT Episode 54",
     },
     55: {
         dub: {
@@ -24588,6 +25244,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.424,
         },
+        episodeInfo: "Dragon Ball GT Episode 55",
     },
     56: {
         dub: {
@@ -24624,6 +25281,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 56",
     },
     57: {
         dub: {
@@ -24660,6 +25318,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.934,
         },
+        episodeInfo: "Dragon Ball GT Episode 57",
     },
     58: {
         dub: {
@@ -24696,6 +25355,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 58",
     },
     59: {
         dub: {
@@ -24732,6 +25392,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 59",
     },
     60: {
         dub: {
@@ -24768,6 +25429,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 60",
     },
     61: {
         dub: {
@@ -24804,6 +25466,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 61",
     },
     62: {
         dub: {
@@ -24840,6 +25503,7 @@ dragonBallGt = {
             ],
             episodeLength: 1478.853,
         },
+        episodeInfo: "Dragon Ball GT Episode 62",
     },
     63: {
         dub: {
@@ -24876,6 +25540,7 @@ dragonBallGt = {
             ],
             episodeLength: 1479.02,
         },
+        episodeInfo: "Dragon Ball GT Episode 63",
     },
     64: {
         dub: {
@@ -24912,6 +25577,7 @@ dragonBallGt = {
             ],
             episodeLength: 1449.574,
         },
+        episodeInfo: "Dragon Ball GT Episode 64",
     },
 };
 

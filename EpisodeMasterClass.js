@@ -25,9 +25,8 @@ class EpisodeMasterClass {
             currentSubFiles: "",
             currentDubFiles: "",
             currentEpisode: 166,
-            currentTime: 1340,
-            currentSeries: "",
-            currentEpisodeInSeries: "",
+            currentTime: 1200,
+            episodeInfo: "",
             isInitialized: false,
             episodeDuration: 0,
             dubDuration: 0,
@@ -64,7 +63,7 @@ class EpisodeMasterClass {
 
             let files = [];
             Object.values(video.children("source")).forEach((child) => {
-                if (child.attribs) {
+                if (child.attribs && !child.attribs.src.includes("gogo-cdn")) {
                     const fileObj = {
                         file: child.attribs.src,
                         label: child.attribs.size,
@@ -166,6 +165,8 @@ class EpisodeMasterClass {
                 .episodeLength;
         this.streamStatus.subDuration = subEpisodeDuration;
         this.streamStatus.dubDuration = dubEpisodeDuration;
+        this.streamStatus.episodeInfo =
+            this.streamPlaylist[this.streamStatus.currentEpisode].episodeInfo;
         // this.setCurrentSeriesInfo(currentDubEpisode);
         // try {
         // this gets and organizes the files for each source
