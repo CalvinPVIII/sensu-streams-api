@@ -24,8 +24,8 @@ class EpisodeMasterClass {
         this.streamStatus = {
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 166,
-            currentTime: 1200,
+            currentEpisode: 167,
+            currentTime: 1340,
             episodeInfo: "",
             isInitialized: false,
             episodeDuration: 0,
@@ -113,6 +113,71 @@ class EpisodeMasterClass {
         });
     }
 
+    // returns structured episode
+    async getEpisode(episode) {
+        let subFiles = [];
+        let dubFiles = [];
+
+        await Promise.all(
+            episode.dub.sources.map(async (source) => {
+                if (source.source === "Anime Owl") {
+                    let obj = {
+                        source: "Anime Owl",
+                        files: this.owlOrganizer(source.video),
+                    };
+                    subFiles.push(obj);
+                }
+                if (source.source === "Gogoanime") {
+                    const gogoFiles = await this.getEpisodeGogoApi(
+                        source.video
+                    );
+                    const obj = {
+                        source: "Gogoanime",
+                        files: gogoFiles,
+                    };
+                    subFiles.push(obj);
+                }
+                if (source.source === "KimAnime") {
+                    const kimFiles = await this.kimAnimeScrape(source.video);
+                    const obj = {
+                        source: "KimAnime",
+                        files: kimFiles,
+                    };
+                    subFiles.push(obj);
+                }
+            }),
+            episode.sub.sources.map(async (source) => {
+                if (source.source === "Anime Owl") {
+                    let obj = {
+                        source: "Anime Owl",
+                        files: this.owlOrganizer(source.video),
+                    };
+                    dubFiles.push(obj);
+                }
+                if (source.source === "Gogoanime") {
+                    const gogoFiles = await this.getEpisodeGogoApi(
+                        source.video
+                    );
+                    const obj = {
+                        source: "Gogoanime",
+                        files: gogoFiles,
+                    };
+                    dubFiles.push(obj);
+                }
+                if (source.source === "KimAnime") {
+                    const kimFiles = await this.kimAnimeScrape(source.video);
+                    const obj = {
+                        source: "KimAnime",
+                        files: kimFiles,
+                    };
+                    dubFiles.push(obj);
+                }
+            })
+        );
+
+        return { dub: dubFiles, sub: subFiles };
+    }
+
     // this is used to get every episode length for a given object
     async getAllDuration(episodeObject) {
         for (const episode in episodeObject) {
@@ -125,27 +190,6 @@ class EpisodeMasterClass {
             );
             episodeObject[episode].sub.episodeLength = subLength;
             console.log(episodeObject[episode]);
-        }
-    }
-
-    setCurrentSeriesInfo(dubSeriesUrl) {
-        if (dubSeriesUrl.includes("movie")) {
-            let series = dubSeriesUrl.substring(dubSeriesUrl.indexOf("/d") + 1);
-            this.streamStatus.currentSeries = series
-                .substring(0, series.indexOf("-movie"))
-                .replace(/-/g, " ");
-            this.streamStatus.currentEpisodeInSeries = series
-                .substring(series.indexOf("-m"), series.indexOf("-dub"))
-                .replace(/-/g, " ")
-                .substring(1);
-        } else {
-            let series = dubSeriesUrl.substring(dubSeriesUrl.indexOf("/d") + 1);
-            this.streamStatus.currentSeries = series
-                .substring(0, series.indexOf("-dub"))
-                .replace(/-/g, " ");
-            this.streamStatus.currentEpisodeInSeries = dubSeriesUrl
-                .split("-")
-                .pop();
         }
     }
 
@@ -167,66 +211,14 @@ class EpisodeMasterClass {
         this.streamStatus.dubDuration = dubEpisodeDuration;
         this.streamStatus.episodeInfo =
             this.streamPlaylist[this.streamStatus.currentEpisode].episodeInfo;
-        // this.setCurrentSeriesInfo(currentDubEpisode);
-        // try {
+
         // this gets and organizes the files for each source
-        let subFiles = [];
-        let dubFiles = [];
-        currentSubSources.forEach(async (source) => {
-            if (source.source === "Anime Owl") {
-                let obj = {
-                    source: "Anime Owl",
-                    files: this.owlOrganizer(source.video),
-                };
-                subFiles.push(obj);
-            }
-            if (source.source === "Gogoanime") {
-                const gogoFiles = await this.getEpisodeGogoApi(source.video);
-                const obj = {
-                    source: "Gogoanime",
-                    files: gogoFiles,
-                };
-                subFiles.push(obj);
-            }
-            if (source.source === "KimAnime") {
-                const kimFiles = await this.kimAnimeScrape(source.video);
+        const episodeFiles = await this.getEpisode(
+            this.streamPlaylist[this.streamStatus.currentEpisode]
+        );
 
-                const obj = {
-                    source: "KimAnime",
-                    files: kimFiles,
-                };
-                subFiles.push(obj);
-            }
-        });
-
-        currentDubSources.forEach(async (source) => {
-            if (source.source === "Anime Owl") {
-                let obj = {
-                    source: "Anime Owl",
-                    files: this.owlOrganizer(source.video),
-                };
-                dubFiles.push(obj);
-            }
-            if (source.source === "Gogoanime") {
-                const gogoFiles = await this.getEpisodeGogoApi(source.video);
-                const obj = {
-                    source: "Gogoanime",
-                    files: gogoFiles,
-                };
-                dubFiles.push(obj);
-            }
-            if (source.source === "KimAnime") {
-                const kimFiles = await this.kimAnimeScrape(source.video);
-                const obj = {
-                    source: "KimAnime",
-                    files: kimFiles,
-                };
-                dubFiles.push(obj);
-            }
-        });
-
-        this.streamStatus.currentDubFiles = dubFiles;
-        this.streamStatus.currentSubFiles = subFiles;
+        this.streamStatus.currentDubFiles = episodeFiles.dub;
+        this.streamStatus.currentSubFiles = episodeFiles.sub;
 
         // this sets the episode duration
         if (subEpisodeDuration >= dubEpisodeDuration) {
