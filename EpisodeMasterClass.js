@@ -24,7 +24,7 @@ class EpisodeMasterClass {
         this.streamStatus = {
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 167,
+            currentEpisode: 170,
             currentTime: 1340,
             episodeInfo: "",
             isInitialized: false,
@@ -125,7 +125,7 @@ class EpisodeMasterClass {
                         source: "Anime Owl",
                         files: this.owlOrganizer(source.video),
                     };
-                    subFiles.push(obj);
+                    dubFiles.push(obj);
                 }
                 if (source.source === "Gogoanime") {
                     const gogoFiles = await this.getEpisodeGogoApi(
@@ -135,7 +135,7 @@ class EpisodeMasterClass {
                         source: "Gogoanime",
                         files: gogoFiles,
                     };
-                    subFiles.push(obj);
+                    dubFiles.push(obj);
                 }
                 if (source.source === "KimAnime") {
                     const kimFiles = await this.kimAnimeScrape(source.video);
@@ -143,7 +143,7 @@ class EpisodeMasterClass {
                         source: "KimAnime",
                         files: kimFiles,
                     };
-                    subFiles.push(obj);
+                    dubFiles.push(obj);
                 }
             }),
             episode.sub.sources.map(async (source) => {
@@ -152,7 +152,7 @@ class EpisodeMasterClass {
                         source: "Anime Owl",
                         files: this.owlOrganizer(source.video),
                     };
-                    dubFiles.push(obj);
+                    subFiles.push(obj);
                 }
                 if (source.source === "Gogoanime") {
                     const gogoFiles = await this.getEpisodeGogoApi(
@@ -162,7 +162,7 @@ class EpisodeMasterClass {
                         source: "Gogoanime",
                         files: gogoFiles,
                     };
-                    dubFiles.push(obj);
+                    subFiles.push(obj);
                 }
                 if (source.source === "KimAnime") {
                     const kimFiles = await this.kimAnimeScrape(source.video);
@@ -170,7 +170,7 @@ class EpisodeMasterClass {
                         source: "KimAnime",
                         files: kimFiles,
                     };
-                    dubFiles.push(obj);
+                    subFiles.push(obj);
                 }
             })
         );
