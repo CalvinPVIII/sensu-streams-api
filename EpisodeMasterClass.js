@@ -10,6 +10,7 @@ const {
     dragonBallZ,
     streamPlaylist,
 } = require("./episodes");
+const e = require("express");
 
 class EpisodeMasterClass {
     constructor() {
@@ -20,11 +21,11 @@ class EpisodeMasterClass {
         this.dbgt = dragonBallGt;
         this.dbMovies = "Coming soon";
         this.streamPlaylist = streamPlaylist;
-
+        this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
         this.streamStatus = {
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 170,
+            currentEpisode: 193,
             currentTime: 1340,
             episodeInfo: "",
             isInitialized: false,
@@ -35,6 +36,21 @@ class EpisodeMasterClass {
             dubLoadError: false,
             subLoadError: false,
         };
+    }
+
+    async gogoPlayScrape(url) {
+        try {
+            const { data } = await axios.get(url);
+            const $ = cheerio.load(data);
+            const iframe = $("iframe");
+            const src = iframe[0].attribs.src;
+            const id = src.match(/(?<=id=)(.*?)(?=&title)/gm)[0];
+            const videos = await axios.get(`https://s04.shiro.is/json/${id}`);
+            return videos.data.mp4;
+        } catch {
+            console.log(error);
+            return "error";
+        }
     }
 
     async getEpisodeGogoApi(url) {
@@ -72,7 +88,9 @@ class EpisodeMasterClass {
                     files.push(fileObj);
                 }
             });
-
+            if (files.length === 0) {
+                return "error";
+            }
             return files;
         } catch (error) {
             console.log("error");
@@ -120,57 +138,85 @@ class EpisodeMasterClass {
 
         await Promise.all(
             episode.dub.sources.map(async (source) => {
-                if (source.source === "Anime Owl") {
-                    let obj = {
-                        source: "Anime Owl",
-                        files: this.owlOrganizer(source.video),
-                    };
-                    dubFiles.push(obj);
-                }
-                if (source.source === "Gogoanime") {
-                    const gogoFiles = await this.getEpisodeGogoApi(
-                        source.video
-                    );
-                    const obj = {
-                        source: "Gogoanime",
-                        files: gogoFiles,
-                    };
-                    dubFiles.push(obj);
-                }
-                if (source.source === "KimAnime") {
-                    const kimFiles = await this.kimAnimeScrape(source.video);
-                    const obj = {
-                        source: "KimAnime",
-                        files: kimFiles,
-                    };
-                    dubFiles.push(obj);
+                if (!this.currentNonWorkingSources.includes(source.source)) {
+                    if (source.source === "Anime Owl") {
+                        let obj = {
+                            source: "Anime Owl",
+                            files: this.owlOrganizer(source.video),
+                        };
+                        dubFiles.push(obj);
+                    }
+                    if (source.source === "Gogoanime") {
+                        const gogoFiles = await this.getEpisodeGogoApi(
+                            source.video
+                        );
+                        const obj = {
+                            source: "Gogoanime",
+                            files: gogoFiles,
+                        };
+                        dubFiles.push(obj);
+                    }
+                    if (source.source === "KimAnime") {
+                        const kimFiles = await this.kimAnimeScrape(
+                            source.video
+                        );
+                        const obj = {
+                            source: "KimAnime",
+                            files: kimFiles,
+                        };
+                        dubFiles.push(obj);
+                    }
+                    if (source.source === "Gogo") {
+                        const gogoFiles = await this.gogoPlayScrape(
+                            source.video
+                        );
+                        const obj = {
+                            source: "Gogo",
+                            files: gogoFiles,
+                        };
+                        dubFiles.push(obj);
+                    }
                 }
             }),
             episode.sub.sources.map(async (source) => {
-                if (source.source === "Anime Owl") {
-                    let obj = {
-                        source: "Anime Owl",
-                        files: this.owlOrganizer(source.video),
-                    };
-                    subFiles.push(obj);
-                }
-                if (source.source === "Gogoanime") {
-                    const gogoFiles = await this.getEpisodeGogoApi(
-                        source.video
-                    );
-                    const obj = {
-                        source: "Gogoanime",
-                        files: gogoFiles,
-                    };
-                    subFiles.push(obj);
-                }
-                if (source.source === "KimAnime") {
-                    const kimFiles = await this.kimAnimeScrape(source.video);
-                    const obj = {
-                        source: "KimAnime",
-                        files: kimFiles,
-                    };
-                    subFiles.push(obj);
+                if (!this.currentNonWorkingSources.includes(source.source)) {
+                    if (source.source === "Anime Owl") {
+                        let obj = {
+                            source: "Anime Owl",
+                            files: this.owlOrganizer(source.video),
+                        };
+                        subFiles.push(obj);
+                    }
+                    if (source.source === "Gogoanime") {
+                        const gogoFiles = await this.getEpisodeGogoApi(
+                            source.video
+                        );
+                        const obj = {
+                            source: "Gogoanime",
+                            files: gogoFiles,
+                        };
+                        subFiles.push(obj);
+                    }
+                    if (source.source === "KimAnime") {
+                        const kimFiles = await this.kimAnimeScrape(
+                            source.video
+                        );
+                        const obj = {
+                            source: "KimAnime",
+                            files: kimFiles,
+                        };
+                        subFiles.push(obj);
+                    }
+                    if (source.source === "Gogo") {
+                        const gogoFiles = await this.gogoPlayScrape(
+                            source.video
+                        );
+                        const obj = {
+                            source: "Gogo",
+                            files: gogoFiles,
+                        };
+                        subFiles.push(obj);
+                    }
                 }
             })
         );

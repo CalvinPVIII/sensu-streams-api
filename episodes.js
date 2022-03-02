@@ -14,6 +14,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8291/dragon-ball-dub-episode-001",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-1",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -30,6 +34,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5871/dragon-ball-episode-001",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-1",
                 },
             ],
             episodeLength: 1451.966,
@@ -51,6 +59,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8288/dragon-ball-dub-episode-002",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-2",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -67,6 +79,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5868/dragon-ball-episode-002",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-2",
                 },
             ],
             episodeLength: 1449.296,
@@ -88,6 +104,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8285/dragon-ball-dub-episode-003",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-3",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -104,6 +124,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5865/dragon-ball-episode-003",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-3",
                 },
             ],
             episodeLength: 1449.296,
@@ -125,6 +149,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8282/dragon-ball-dub-episode-004",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-4",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -141,6 +169,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5862/dragon-ball-episode-004",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-4",
                 },
             ],
             episodeLength: 1449.459,
@@ -162,6 +194,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8279/dragon-ball-dub-episode-005",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-5",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -178,6 +214,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5859/dragon-ball-episode-005",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-5",
                 },
             ],
             episodeLength: 1449.459,
@@ -199,6 +239,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8276/dragon-ball-dub-episode-006",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-6",
+                },
             ],
             episodeLength: 1452,
         },
@@ -215,6 +259,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5856/dragon-ball-episode-006",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-6",
                 },
             ],
             episodeLength: 1449.459,
@@ -236,6 +284,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8273/dragon-ball-dub-episode-007",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-7",
+                },
             ],
             episodeLength: 1451.642,
         },
@@ -252,6 +304,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5854/dragon-ball-episode-007",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-7",
                 },
             ],
             episodeLength: 1449.784,
@@ -273,6 +329,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8270/dragon-ball-dub-episode-008",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-8",
+                },
             ],
             episodeLength: 1452,
         },
@@ -289,6 +349,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5850/dragon-ball-episode-008",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-8",
                 },
             ],
             episodeLength: 1448.46,
@@ -310,6 +374,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8265/dragon-ball-dub-episode-009",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-9",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -326,6 +394,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5847/dragon-ball-episode-009",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-9",
                 },
             ],
             episodeLength: 1448.46,
@@ -347,6 +419,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8263/dragon-ball-dub-episode-010",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-10",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -363,6 +439,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5845/dragon-ball-episode-010",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-10",
                 },
             ],
             episodeLength: 1449,
@@ -384,6 +464,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8261/dragon-ball-dub-episode-011",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-11",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -400,6 +484,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5842/dragon-ball-episode-011",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-11",
                 },
             ],
             episodeLength: 1448.623,
@@ -421,6 +509,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8258/dragon-ball-dub-episode-012",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-12",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -437,6 +529,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5839/dragon-ball-episode-012",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-12",
                 },
             ],
             episodeLength: 1448.298,
@@ -458,6 +554,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8254/dragon-ball-dub-episode-013",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-13",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -474,6 +574,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5835/dragon-ball-episode-013",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-13",
                 },
             ],
             episodeLength: 1448.623,
@@ -495,6 +599,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8252/dragon-ball-dub-episode-014",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-14",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -511,6 +619,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5832/dragon-ball-episode-014",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-14",
                 },
             ],
             episodeLength: 1460.558,
@@ -532,6 +644,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8248/dragon-ball-dub-episode-015",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-15",
+                },
             ],
             episodeLength: 1451.827,
         },
@@ -545,6 +661,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5828/dragon-ball-episode-015",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-15",
                 },
             ],
             episodeLength: 1461.045,
@@ -566,6 +686,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8246/dragon-ball-dub-episode-016",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-16",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -582,6 +706,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5825/dragon-ball-episode-016",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-16",
                 },
             ],
             episodeLength: 1461.022,
@@ -603,6 +731,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8243/dragon-ball-dub-episode-017",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-17",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -619,6 +751,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5823/dragon-ball-episode-017",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-17",
                 },
             ],
             episodeLength: 1461.185,
@@ -640,6 +776,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8240/dragon-ball-dub-episode-018",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-18",
+                },
             ],
             episodeLength: 1452,
         },
@@ -656,6 +796,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5821/dragon-ball-episode-018",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-18",
                 },
             ],
             episodeLength: 1461.301,
@@ -677,6 +821,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8237/dragon-ball-dub-episode-019",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-19",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -693,6 +841,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5818/dragon-ball-episode-019",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-19",
                 },
             ],
             episodeLength: 1461.231,
@@ -714,6 +866,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8234/dragon-ball-dub-episode-020",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-20",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -730,6 +886,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5815/dragon-ball-episode-020",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-20",
                 },
             ],
             episodeLength: 1462,
@@ -751,6 +911,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8231/dragon-ball-dub-episode-021",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-21",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -767,6 +931,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5812/dragon-ball-episode-021",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-21",
                 },
             ],
             episodeLength: 1462,
@@ -788,6 +956,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8229/dragon-ball-dub-episode-022",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-22",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -804,6 +976,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5810/dragon-ball-episode-022",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-22",
                 },
             ],
             episodeLength: 1461.254,
@@ -825,6 +1001,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8226/dragon-ball-dub-episode-023",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-23",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -841,6 +1021,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5808/dragon-ball-episode-023",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-23",
                 },
             ],
             episodeLength: 1461.231,
@@ -862,6 +1046,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8223/dragon-ball-dub-episode-024",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-24",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -878,6 +1066,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5805/dragon-ball-episode-024",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-24",
                 },
             ],
             episodeLength: 1461.231,
@@ -899,6 +1091,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8220/dragon-ball-dub-episode-025",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-25",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -915,6 +1111,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5802/dragon-ball-episode-025",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-25",
                 },
             ],
             episodeLength: 1462.671,
@@ -936,6 +1136,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8217/dragon-ball-dub-episode-026",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-26",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -952,6 +1156,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5799/dragon-ball-episode-026",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-26",
                 },
             ],
             episodeLength: 1462,
@@ -973,6 +1181,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8214/dragon-ball-dub-episode-027",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-27",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -989,6 +1201,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5797/dragon-ball-episode-027",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-27",
                 },
             ],
             episodeLength: 1461.254,
@@ -1010,6 +1226,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8210/dragon-ball-dub-episode-028",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-28",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1026,6 +1246,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5796/dragon-ball-episode-028",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-28",
                 },
             ],
             episodeLength: 1461.138,
@@ -1047,6 +1271,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8207/dragon-ball-dub-episode-029",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-29",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1063,6 +1291,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5793/dragon-ball-episode-029",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-29",
                 },
             ],
             episodeLength: 1461.138,
@@ -1084,6 +1316,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8204/dragon-ball-dub-episode-030",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-30",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1100,6 +1336,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5790/dragon-ball-episode-030",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-30",
                 },
             ],
             episodeLength: 1461.254,
@@ -1121,6 +1361,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8201/dragon-ball-dub-episode-031",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-31",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1137,6 +1381,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5787/dragon-ball-episode-031",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-31",
                 },
             ],
             episodeLength: 1461.254,
@@ -1158,6 +1406,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8198/dragon-ball-dub-episode-032",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-32",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -1174,6 +1426,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5784/dragon-ball-episode-032",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-32",
                 },
             ],
             episodeLength: 1461.254,
@@ -1195,6 +1451,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8195/dragon-ball-dub-episode-033",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-33",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1211,6 +1471,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5781/dragon-ball-episode-033",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-33",
                 },
             ],
             episodeLength: 1461.301,
@@ -1232,6 +1496,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8192/dragon-ball-dub-episode-034",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-34",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -1248,6 +1516,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5779/dragon-ball-episode-034",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-34",
                 },
             ],
             episodeLength: 1461.138,
@@ -1269,6 +1541,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8189/dragon-ball-dub-episode-035",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-35",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1285,6 +1561,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5777/dragon-ball-episode-035",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-35",
                 },
             ],
             episodeLength: 1461.347,
@@ -1306,6 +1586,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8186/dragon-ball-dub-episode-036",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-36",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -1322,6 +1606,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5773/dragon-ball-episode-036",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-36",
                 },
             ],
             episodeLength: 1461.301,
@@ -1343,6 +1631,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8184/dragon-ball-dub-episode-037",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-37",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -1359,6 +1651,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5771/dragon-ball-episode-037",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-37",
                 },
             ],
             episodeLength: 1456.634,
@@ -1380,6 +1676,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8181/dragon-ball-dub-episode-038",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-38",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1396,6 +1696,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5769/dragon-ball-episode-038",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-38",
                 },
             ],
             episodeLength: 1456.68,
@@ -1417,6 +1721,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8179/dragon-ball-dub-episode-039",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-39",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1433,6 +1741,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5767/dragon-ball-episode-039",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-39",
                 },
             ],
             episodeLength: 1456.634,
@@ -1454,6 +1766,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8176/dragon-ball-dub-episode-040",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-40",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -1470,6 +1786,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5765/dragon-ball-episode-040",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-40",
                 },
             ],
             episodeLength: 1456.634,
@@ -1491,6 +1811,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8173/dragon-ball-dub-episode-041",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-41",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1507,6 +1831,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5762/dragon-ball-episode-041",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-41",
                 },
             ],
             episodeLength: 1456.634,
@@ -1528,6 +1856,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8170/dragon-ball-dub-episode-042",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-42",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1544,6 +1876,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5760/dragon-ball-episode-042",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-42",
                 },
             ],
             episodeLength: 1456.634,
@@ -1565,6 +1901,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8168/dragon-ball-dub-episode-043",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-43",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1581,6 +1921,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5757/dragon-ball-episode-043",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-43",
                 },
             ],
             episodeLength: 1458.886,
@@ -1602,6 +1946,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8163/dragon-ball-dub-episode-044",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-44",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1618,6 +1966,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5754/dragon-ball-episode-044",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-44",
                 },
             ],
             episodeLength: 1458.886,
@@ -1639,6 +1991,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8160/dragon-ball-dub-episode-045",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-45",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -1655,6 +2011,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5751/dragon-ball-episode-045",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-45",
                 },
             ],
             episodeLength: 1458.932,
@@ -1676,6 +2036,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8157/dragon-ball-dub-episode-046",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-46",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -1692,6 +2056,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5748/dragon-ball-episode-046",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-46",
                 },
             ],
             episodeLength: 1458.77,
@@ -1713,6 +2081,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8154/dragon-ball-dub-episode-047",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-47",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1729,6 +2101,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5745/dragon-ball-episode-047",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-47",
                 },
             ],
             episodeLength: 1458.723,
@@ -1750,6 +2126,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8151/dragon-ball-dub-episode-048",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-48",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -1766,6 +2146,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5742/dragon-ball-episode-048",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-48",
                 },
             ],
             episodeLength: 1458.584,
@@ -1787,6 +2171,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8148/dragon-ball-dub-episode-049",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-49",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1803,6 +2191,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5739/dragon-ball-episode-049",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-49",
                 },
             ],
             episodeLength: 1458.77,
@@ -1824,6 +2216,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8145/dragon-ball-dub-episode-050",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-50",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1840,6 +2236,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5736/dragon-ball-episode-050",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-50",
                 },
             ],
             episodeLength: 1458.723,
@@ -1861,6 +2261,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8142/dragon-ball-dub-episode-051",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-51",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -1877,6 +2281,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5733/dragon-ball-episode-051",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-51",
                 },
             ],
             episodeLength: 1458.77,
@@ -1898,6 +2306,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8139/dragon-ball-dub-episode-052",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-52",
+                },
             ],
             episodeLength: 1451.642,
         },
@@ -1914,6 +2326,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5730/dragon-ball-episode-052",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-52",
                 },
             ],
             episodeLength: 1459.188,
@@ -1935,6 +2351,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8136/dragon-ball-dub-episode-053",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-53",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -1951,6 +2371,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5729/dragon-ball-episode-053",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-53",
                 },
             ],
             episodeLength: 1458.677,
@@ -1972,6 +2396,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8133/dragon-ball-dub-episode-054",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-54",
+                },
             ],
             episodeLength: 1452,
         },
@@ -1988,6 +2416,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5728/dragon-ball-episode-054",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-54",
                 },
             ],
             episodeLength: 1458.77,
@@ -2009,6 +2441,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8130/dragon-ball-dub-episode-055",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-55",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2025,6 +2461,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5726/dragon-ball-episode-055",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-55",
                 },
             ],
             episodeLength: 1457.841,
@@ -2046,6 +2486,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8126/dragon-ball-dub-episode-056",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-56",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -2062,6 +2506,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5724/dragon-ball-episode-056",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-56",
                 },
             ],
             episodeLength: 1458.259,
@@ -2083,6 +2531,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8123/dragon-ball-dub-episode-057",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-57",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -2099,6 +2551,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5722/dragon-ball-episode-057",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-57",
                 },
             ],
             episodeLength: 1457.934,
@@ -2120,6 +2576,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8120/dragon-ball-dub-episode-058",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-58",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2136,6 +2596,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5720/dragon-ball-episode-058",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-58",
                 },
             ],
             episodeLength: 1458.584,
@@ -2157,6 +2621,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8116/dragon-ball-dub-episode-059",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-59",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2173,6 +2641,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5718/dragon-ball-episode-059",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-59",
                 },
             ],
             episodeLength: 1457.795,
@@ -2194,6 +2666,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8112/dragon-ball-dub-episode-060",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-60",
+                },
             ],
             episodeLength: 1452,
         },
@@ -2210,6 +2686,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5716/dragon-ball-episode-060",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-60",
                 },
             ],
             episodeLength: 1457.168,
@@ -2231,6 +2711,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8109/dragon-ball-dub-episode-061",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-61",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -2247,6 +2731,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5713/dragon-ball-episode-061",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-61",
                 },
             ],
             episodeLength: 1458.561,
@@ -2268,6 +2756,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8107/dragon-ball-dub-episode-062",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-62",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -2284,6 +2776,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5711/dragon-ball-episode-062",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-62",
                 },
             ],
             episodeLength: 1458.631,
@@ -2305,6 +2801,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8103/dragon-ball-dub-episode-063",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-63",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2321,6 +2821,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5709/dragon-ball-episode-063",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-63",
                 },
             ],
             episodeLength: 1458.631,
@@ -2342,6 +2846,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8100/dragon-ball-dub-episode-064",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-64",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -2358,6 +2866,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5707/dragon-ball-episode-064",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-64",
                 },
             ],
             episodeLength: 1458.631,
@@ -2379,6 +2891,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8097/dragon-ball-dub-episode-065",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-65",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -2395,6 +2911,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5705/dragon-ball-episode-065",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-65",
                 },
             ],
             episodeLength: 1458.515,
@@ -2416,6 +2936,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8094/dragon-ball-dub-episode-066",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-66",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -2432,6 +2956,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5703/dragon-ball-episode-066",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-66",
                 },
             ],
             episodeLength: 1458.561,
@@ -2453,6 +2981,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8091/dragon-ball-dub-episode-067",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-67",
+                },
             ],
             episodeLength: 1452,
         },
@@ -2469,6 +3001,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5702/dragon-ball-episode-067",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-67",
                 },
             ],
             episodeLength: 1458.561,
@@ -2490,6 +3026,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8088/dragon-ball-dub-episode-068",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-68",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -2506,6 +3046,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5701/dragon-ball-episode-068",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-68",
                 },
             ],
             episodeLength: 1458.77,
@@ -2527,6 +3071,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8085/dragon-ball-dub-episode-069",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-69",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -2543,6 +3091,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5699/dragon-ball-episode-069",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-69",
                 },
             ],
             episodeLength: 1458.77,
@@ -2564,6 +3116,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8081/dragon-ball-dub-episode-070",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-70",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -2580,6 +3136,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5697/dragon-ball-episode-070",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-70",
                 },
             ],
             episodeLength: 1458.723,
@@ -2601,6 +3161,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8078/dragon-ball-dub-episode-071",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-71",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2617,6 +3181,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5695/dragon-ball-episode-071",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-71",
                 },
             ],
             episodeLength: 1460.186,
@@ -2638,6 +3206,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8075/dragon-ball-dub-episode-072",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-72",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2654,6 +3226,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5692/dragon-ball-episode-072",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-72",
                 },
             ],
             episodeLength: 1458.631,
@@ -2675,6 +3251,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8072/dragon-ball-dub-episode-073",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-73",
+                },
             ],
             episodeLength: 1452,
         },
@@ -2691,6 +3271,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5689/dragon-ball-episode-073",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-73",
                 },
             ],
             episodeLength: 1458.631,
@@ -2712,6 +3296,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8069/dragon-ball-dub-episode-074",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-74",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2728,6 +3316,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5686/dragon-ball-episode-074",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-74",
                 },
             ],
             episodeLength: 1458.677,
@@ -2749,6 +3341,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8066/dragon-ball-dub-episode-075",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-75",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2765,6 +3361,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5683/dragon-ball-episode-075",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-75",
                 },
             ],
             episodeLength: 1460.14,
@@ -2786,6 +3386,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8064/dragon-ball-dub-episode-076",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-76",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -2802,6 +3406,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5681/dragon-ball-episode-076",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-76",
                 },
             ],
             episodeLength: 1458.723,
@@ -2823,6 +3431,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8060/dragon-ball-dub-episode-077",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-77",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -2839,6 +3451,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5679/dragon-ball-episode-077",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-77",
                 },
             ],
             episodeLength: 1452,
@@ -2860,6 +3476,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8057/dragon-ball-dub-episode-078",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-78",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -2876,6 +3496,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5676/dragon-ball-episode-078",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-78",
                 },
             ],
             episodeLength: 1458.631,
@@ -2897,6 +3521,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8054/dragon-ball-dub-episode-079",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-79",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -2913,6 +3541,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5673/dragon-ball-episode-079",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-79",
                 },
             ],
             episodeLength: 1460.047,
@@ -2934,6 +3566,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8051/dragon-ball-dub-episode-080",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-80",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -2950,6 +3586,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5670/dragon-ball-episode-080",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-80",
                 },
             ],
             episodeLength: 1458.677,
@@ -2971,6 +3611,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8049/dragon-ball-dub-episode-081",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-81",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -2987,6 +3631,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5667/dragon-ball-episode-081",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-81",
                 },
             ],
             episodeLength: 1458.631,
@@ -3008,6 +3656,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8046/dragon-ball-dub-episode-082",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-82",
+                },
             ],
             episodeLength: 1451.618,
         },
@@ -3024,6 +3676,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5664/dragon-ball-episode-082",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-82",
                 },
             ],
             episodeLength: 1458.723,
@@ -3045,6 +3701,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8042/dragon-ball-dub-episode-083",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-83",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -3061,6 +3721,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5662/dragon-ball-episode-083",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-83",
                 },
             ],
             episodeLength: 1458.468,
@@ -3082,6 +3746,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8040/dragon-ball-dub-episode-084",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-84",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -3098,6 +3766,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5660/dragon-ball-episode-084",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-84",
                 },
             ],
             episodeLength: 1458.631,
@@ -3119,6 +3791,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8038/dragon-ball-dub-episode-085",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-85",
+                },
             ],
             episodeLength: 1451.804,
         },
@@ -3135,6 +3811,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5657/dragon-ball-episode-085",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-85",
                 },
             ],
             episodeLength: 1457.795,
@@ -3156,6 +3836,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8035/dragon-ball-dub-episode-086",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-86",
+                },
             ],
             episodeLength: 1452,
         },
@@ -3172,6 +3856,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5654/dragon-ball-episode-086",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-86",
                 },
             ],
             episodeLength: 1458.631,
@@ -3193,6 +3881,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8033/dragon-ball-dub-episode-087",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-87",
+                },
             ],
             episodeLength: 1451.758,
         },
@@ -3209,6 +3901,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5651/dragon-ball-episode-087",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-87",
                 },
             ],
             episodeLength: 1458.631,
@@ -3230,6 +3926,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8031/dragon-ball-dub-episode-088",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-88",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -3246,6 +3946,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5648/dragon-ball-episode-088",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-88",
                 },
             ],
             episodeLength: 1156.794,
@@ -3267,6 +3971,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8028/dragon-ball-dub-episode-089",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-89",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -3283,6 +3991,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5645/dragon-ball-episode-089",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-89",
                 },
             ],
             episodeLength: 1458.77,
@@ -3304,6 +4016,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8026/dragon-ball-dub-episode-090",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-90",
+                },
             ],
             episodeLength: 1451.711,
         },
@@ -3320,6 +4036,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5642/dragon-ball-episode-090",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-90",
                 },
             ],
             episodeLength: 1458.584,
@@ -3341,6 +4061,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8023/dragon-ball-dub-episode-091",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-91",
+                },
             ],
             episodeLength: 1452,
         },
@@ -3357,6 +4081,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5639/dragon-ball-episode-091",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-91",
                 },
             ],
             episodeLength: 1458.677,
@@ -3378,6 +4106,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8020/dragon-ball-dub-episode-092",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-92",
+                },
             ],
             episodeLength: 1451.665,
         },
@@ -3394,6 +4126,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5636/dragon-ball-episode-092",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-92",
                 },
             ],
             episodeLength: 1460.186,
@@ -3415,6 +4151,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8018/dragon-ball-dub-episode-093",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-93",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3431,6 +4171,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5633/dragon-ball-episode-093",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-93",
                 },
             ],
             episodeLength: 1458.584,
@@ -3452,6 +4196,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8016/dragon-ball-dub-episode-094",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-94",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3468,6 +4216,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5630/dragon-ball-episode-094",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-94",
                 },
             ],
             episodeLength: 1458.677,
@@ -3489,6 +4241,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8012/dragon-ball-dub-episode-095",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-95",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3505,6 +4261,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5629/dragon-ball-episode-095",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-95",
                 },
             ],
             episodeLength: 1458.677,
@@ -3526,6 +4286,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8010/dragon-ball-dub-episode-096",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-96",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3542,6 +4306,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5628/dragon-ball-episode-096",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-96",
                 },
             ],
             episodeLength: 1458.677,
@@ -3563,6 +4331,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8009/dragon-ball-dub-episode-097",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-97",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3579,6 +4351,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5626/dragon-ball-episode-097",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-97",
                 },
             ],
             episodeLength: 1458.677,
@@ -3600,6 +4376,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8007/dragon-ball-dub-episode-098",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-98",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3616,6 +4396,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5623/dragon-ball-episode-098",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-98",
                 },
             ],
             episodeLength: 1458.723,
@@ -3637,6 +4421,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8004/dragon-ball-dub-episode-099",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-99",
+                },
             ],
             episodeLength: 1452.222,
         },
@@ -3653,6 +4441,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5620/dragon-ball-episode-099",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-99",
                 },
             ],
             episodeLength: 1458.723,
@@ -3674,6 +4466,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8002/dragon-ball-dub-episode-100",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-100",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -3690,6 +4486,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5617/dragon-ball-episode-100",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-100",
                 },
             ],
             episodeLength: 1458.793,
@@ -3711,6 +4511,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/8000/dragon-ball-dub-episode-101",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-101",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3727,6 +4531,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5614/dragon-ball-episode-101",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-101",
                 },
             ],
             episodeLength: 1460.302,
@@ -3748,6 +4556,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7997/dragon-ball-dub-episode-102",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-102",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3764,6 +4576,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5611/dragon-ball-episode-102",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-102",
                 },
             ],
             episodeLength: 1458.723,
@@ -3785,6 +4601,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7994/dragon-ball-dub-episode-103",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-103",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3801,6 +4621,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5608/dragon-ball-episode-103",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-103",
                 },
             ],
             episodeLength: 1458.515,
@@ -3822,6 +4646,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7991/dragon-ball-dub-episode-104",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-104",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -3838,6 +4666,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5606/dragon-ball-episode-104",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-104",
                 },
             ],
             episodeLength: 1181.152,
@@ -3859,6 +4691,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7988/dragon-ball-dub-episode-105",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-105",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3875,6 +4711,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5604/dragon-ball-episode-105",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-105",
                 },
             ],
             episodeLength: 1458.352,
@@ -3896,6 +4736,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7985/dragon-ball-dub-episode-106",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-106",
+                },
             ],
             episodeLength: 1452.431,
         },
@@ -3912,6 +4756,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5601/dragon-ball-episode-106",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-106",
                 },
             ],
             episodeLength: 1458.84,
@@ -3933,6 +4781,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7982/dragon-ball-dub-episode-107",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-107",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -3949,6 +4801,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5599/dragon-ball-episode-107",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-107",
                 },
             ],
             episodeLength: 1458.932,
@@ -3970,6 +4826,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7979/dragon-ball-dub-episode-108",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-108",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -3986,6 +4846,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5597/dragon-ball-episode-108",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-108",
                 },
             ],
             episodeLength: 1458.84,
@@ -4007,6 +4871,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7975/dragon-ball-dub-episode-109",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-109",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4023,6 +4891,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5595/dragon-ball-episode-109",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-109",
                 },
             ],
             episodeLength: 1175.765,
@@ -4044,6 +4916,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7972/dragon-ball-dub-episode-110",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-110",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4060,6 +4936,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5593/dragon-ball-episode-110",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-110",
                 },
             ],
             episodeLength: 1458.932,
@@ -4081,6 +4961,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7969/dragon-ball-dub-episode-111",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-111",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4097,6 +4981,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5590/dragon-ball-episode-111",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-111",
                 },
             ],
             episodeLength: 1459,
@@ -4118,6 +5006,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7965/dragon-ball-dub-episode-112",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-112",
+                },
             ],
             episodeLength: 1452.153,
         },
@@ -4134,6 +5026,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5588/dragon-ball-episode-112",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-112",
                 },
             ],
             episodeLength: 1458.932,
@@ -4155,6 +5051,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7963/dragon-ball-dub-episode-113",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-113",
+                },
             ],
             episodeLength: 1452.454,
         },
@@ -4171,6 +5071,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5586/dragon-ball-episode-113",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-113",
                 },
             ],
             episodeLength: 1458.793,
@@ -4192,6 +5096,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7961/dragon-ball-dub-episode-114",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-114",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -4208,6 +5116,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5584/dragon-ball-episode-114",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-114",
                 },
             ],
             episodeLength: 1458.84,
@@ -4229,6 +5141,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7959/dragon-ball-dub-episode-115",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-115",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -4245,6 +5161,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5582/dragon-ball-episode-115",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-115",
                 },
             ],
             episodeLength: 1458.886,
@@ -4266,6 +5186,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7957/dragon-ball-dub-episode-116",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-116",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4282,6 +5206,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5580/dragon-ball-episode-116",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-116",
                 },
             ],
             episodeLength: 1458.886,
@@ -4303,6 +5231,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7955/dragon-ball-dub-episode-117",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-117",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4319,6 +5251,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5578/dragon-ball-episode-117",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-117",
                 },
             ],
             episodeLength: 1458.84,
@@ -4340,6 +5276,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7953/dragon-ball-dub-episode-118",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-118",
+                },
             ],
             episodeLength: 1453,
         },
@@ -4356,6 +5296,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5576/dragon-ball-episode-118",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-118",
                 },
             ],
             episodeLength: 1458.84,
@@ -4377,6 +5321,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7951/dragon-ball-dub-episode-119",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-119",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4393,6 +5341,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5574/dragon-ball-episode-119",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-119",
                 },
             ],
             episodeLength: 1458.584,
@@ -4414,6 +5366,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7948/dragon-ball-dub-episode-120",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-120",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4430,6 +5386,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5572/dragon-ball-episode-120",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-120",
                 },
             ],
             episodeLength: 1452.129,
@@ -4451,6 +5411,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7947/dragon-ball-dub-episode-121",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-121",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4464,6 +5428,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5571/dragon-ball-episode-121",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-121",
                 },
             ],
             episodeLength: 1452.129,
@@ -4485,6 +5453,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7945/dragon-ball-dub-episode-122",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-122",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4501,6 +5473,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5569/dragon-ball-episode-122",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-122",
                 },
             ],
             episodeLength: 1458.723,
@@ -4522,6 +5498,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7943/dragon-ball-dub-episode-123",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-123",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -4538,6 +5518,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5567/dragon-ball-episode-123",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-123",
                 },
             ],
             episodeLength: 1459,
@@ -4559,6 +5543,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7940/dragon-ball-dub-episode-124",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-124",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4575,6 +5563,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5565/dragon-ball-episode-124",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-124",
                 },
             ],
             episodeLength: 1459,
@@ -4596,6 +5588,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7938/dragon-ball-dub-episode-125",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-125",
+                },
             ],
             episodeLength: 1458.491,
         },
@@ -4612,6 +5608,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5563/dragon-ball-episode-125",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-125",
                 },
             ],
             episodeLength: 1458.375,
@@ -4633,6 +5633,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7936/dragon-ball-dub-episode-126",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-126",
+                },
             ],
             episodeLength: 1452.431,
         },
@@ -4649,6 +5653,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5561/dragon-ball-episode-126",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-126",
                 },
             ],
             episodeLength: 1458.306,
@@ -4670,6 +5678,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7934/dragon-ball-dub-episode-127",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-127",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4686,6 +5698,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5559/dragon-ball-episode-127",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-127",
                 },
             ],
             episodeLength: 1458.584,
@@ -4707,6 +5723,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7932/dragon-ball-dub-episode-128",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-128",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4723,6 +5743,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5557/dragon-ball-episode-128",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-128",
                 },
             ],
             episodeLength: 1458.422,
@@ -4744,6 +5768,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7930/dragon-ball-dub-episode-129",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-129",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4760,6 +5788,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5555/dragon-ball-episode-129",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-129",
                 },
             ],
             episodeLength: 1458.631,
@@ -4781,6 +5813,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7928/dragon-ball-dub-episode-130",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-130",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4797,6 +5833,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5553/dragon-ball-episode-130",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-130",
                 },
             ],
             episodeLength: 1179.805,
@@ -4818,6 +5858,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7926/dragon-ball-dub-episode-131",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-131",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4834,6 +5878,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5550/dragon-ball-episode-131",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-131",
                 },
             ],
             episodeLength: 1456.727,
@@ -4855,6 +5903,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7924/dragon-ball-dub-episode-132",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-132",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4871,6 +5923,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5548/dragon-ball-episode-132",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-132",
                 },
             ],
             episodeLength: 1457.679,
@@ -4892,6 +5948,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7922/dragon-ball-dub-episode-133",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-133",
+                },
             ],
             episodeLength: 1458.77,
         },
@@ -4908,6 +5968,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5546/dragon-ball-episode-133",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-133",
                 },
             ],
             episodeLength: 1458.677,
@@ -4929,6 +5993,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7920/dragon-ball-dub-episode-134",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-134",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -4945,6 +6013,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5544/dragon-ball-episode-134",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-134",
                 },
             ],
             episodeLength: 1458.77,
@@ -4966,6 +6038,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7916/dragon-ball-dub-episode-135",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-135",
+                },
             ],
             episodeLength: 1458.7,
         },
@@ -4982,6 +6058,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5542/dragon-ball-episode-135",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-135",
                 },
             ],
             episodeLength: 1458.584,
@@ -5003,6 +6083,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7913/dragon-ball-dub-episode-136",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-136",
+                },
             ],
             episodeLength: 1458.723,
         },
@@ -5019,6 +6103,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5540/dragon-ball-episode-136",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-136",
                 },
             ],
             episodeLength: 1458.631,
@@ -5040,6 +6128,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7910/dragon-ball-dub-episode-137",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-137",
+                },
             ],
             episodeLength: 1458.77,
         },
@@ -5056,6 +6148,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5538/dragon-ball-episode-137",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-137",
                 },
             ],
             episodeLength: 1458.631,
@@ -5077,6 +6173,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7908/dragon-ball-dub-episode-138",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-138",
+                },
             ],
             episodeLength: 1458.584,
         },
@@ -5093,6 +6193,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5536/dragon-ball-episode-138",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-138",
                 },
             ],
             episodeLength: 1458.561,
@@ -5114,6 +6218,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7906/dragon-ball-dub-episode-139",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-139",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -5130,6 +6238,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5534/dragon-ball-episode-139",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-139",
                 },
             ],
             episodeLength: 1458.631,
@@ -5151,6 +6263,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7903/dragon-ball-dub-episode-140",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-140",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -5167,6 +6283,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5532/dragon-ball-episode-140",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-140",
                 },
             ],
             episodeLength: 1458.631,
@@ -5188,6 +6308,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7900/dragon-ball-dub-episode-141",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-141",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -5204,6 +6328,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5530/dragon-ball-episode-141",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-141",
                 },
             ],
             episodeLength: 1458.723,
@@ -5225,6 +6353,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7897/dragon-ball-dub-episode-142",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-142",
+                },
             ],
             episodeLength: 1459,
         },
@@ -5241,6 +6373,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5528/dragon-ball-episode-142",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-142",
                 },
             ],
             episodeLength: 1458.631,
@@ -5262,6 +6398,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7894/dragon-ball-dub-episode-143",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-143",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -5278,6 +6418,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5526/dragon-ball-episode-143",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-143",
                 },
             ],
             episodeLength: 1458.723,
@@ -5299,6 +6443,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7890/dragon-ball-dub-episode-144",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-144",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -5315,6 +6463,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5525/dragon-ball-episode-144",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-144",
                 },
             ],
             episodeLength: 1458.677,
@@ -5336,6 +6488,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7887/dragon-ball-dub-episode-145",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-145",
+                },
             ],
             episodeLength: 1458,
         },
@@ -5352,6 +6508,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5523/dragon-ball-episode-145",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-145",
                 },
             ],
             episodeLength: 1458,
@@ -5373,6 +6533,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7884/dragon-ball-dub-episode-146",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-146",
+                },
             ],
             episodeLength: 1458.793,
         },
@@ -5389,6 +6553,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5520/dragon-ball-episode-146",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-146",
                 },
             ],
             episodeLength: 1458.77,
@@ -5410,6 +6578,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7881/dragon-ball-dub-episode-147",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-147",
+                },
             ],
             episodeLength: 1458.793,
         },
@@ -5426,6 +6598,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5517/dragon-ball-episode-147",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-147",
                 },
             ],
             episodeLength: 1458.77,
@@ -5447,6 +6623,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7878/dragon-ball-dub-episode-148",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-148",
+                },
             ],
             episodeLength: 1458.468,
         },
@@ -5463,6 +6643,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5514/dragon-ball-episode-148",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-148",
                 },
             ],
             episodeLength: 1458.422,
@@ -5484,6 +6668,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7874/dragon-ball-dub-episode-149",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-149",
+                },
             ],
             episodeLength: 1453,
         },
@@ -5500,6 +6688,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5510/dragon-ball-episode-149",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-149",
                 },
             ],
             episodeLength: 1458.723,
@@ -5521,6 +6713,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7872/dragon-ball-dub-episode-150",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-150",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -5537,6 +6733,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5507/dragon-ball-episode-150",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-150",
                 },
             ],
             episodeLength: 1459,
@@ -5558,6 +6758,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7869/dragon-ball-dub-episode-151",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-151",
+                },
             ],
             episodeLength: 1458.77,
         },
@@ -5574,6 +6778,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5505/dragon-ball-episode-151",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-151",
                 },
             ],
             episodeLength: 1458.723,
@@ -5595,6 +6803,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7866/dragon-ball-dub-episode-152",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-152",
+                },
             ],
             episodeLength: 1458.723,
         },
@@ -5611,6 +6823,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5500/dragon-ball-episode-152",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-152",
                 },
             ],
             episodeLength: 1458.631,
@@ -5632,6 +6848,10 @@ dragonBall = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/7863/dragon-ball-dub-episode-153",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-dub-episode-153",
+                },
             ],
             episodeLength: 1459,
         },
@@ -5648,6 +6868,10 @@ dragonBall = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/5497/dragon-ball-episode-153",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-episode-153",
                 },
             ],
             episodeLength: 1458.77,
@@ -5668,6 +6892,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-1",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-1",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -5680,6 +6908,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-1",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-1",
                 },
             ],
             episodeLength: 1452.139,
@@ -5697,6 +6929,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-2",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-2",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -5709,6 +6945,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-2",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-2",
                 },
             ],
             episodeLength: 1451.909,
@@ -5726,6 +6966,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-3",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-3",
+                },
             ],
             episodeLength: 1454,
         },
@@ -5738,6 +6982,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-3",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-3",
                 },
             ],
             episodeLength: 1451.534,
@@ -5755,6 +7003,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-4",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-4",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -5767,6 +7019,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-4",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-4",
                 },
             ],
             episodeLength: 1451.868,
@@ -5784,6 +7040,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-5",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-5",
+                },
             ],
             episodeLength: 1453.174,
         },
@@ -5796,6 +7056,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-5",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-5",
                 },
             ],
             episodeLength: 1451.576,
@@ -5813,6 +7077,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-6",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-6",
+                },
             ],
             episodeLength: 1453.336,
         },
@@ -5825,6 +7093,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-6",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-6",
                 },
             ],
             episodeLength: 1451.576,
@@ -5842,6 +7114,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-7",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-7",
+                },
             ],
             episodeLength: 1453.383333,
         },
@@ -5854,6 +7130,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-7",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-7",
                 },
             ],
             episodeLength: 1451.576,
@@ -5871,6 +7151,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-8",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-8",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -5883,6 +7167,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-8",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-8",
                 },
             ],
             episodeLength: 1451.534,
@@ -5900,6 +7188,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-9",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-9",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -5912,6 +7204,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-9",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-9",
                 },
             ],
             episodeLength: 1451.576,
@@ -5929,6 +7225,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-10",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-10",
+                },
             ],
             episodeLength: 1453.29,
         },
@@ -5941,6 +7241,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-10",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-10",
                 },
             ],
             episodeLength: 1451.576,
@@ -5958,6 +7262,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-11",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-11",
+                },
             ],
             episodeLength: 1453.29,
         },
@@ -5970,6 +7278,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-11",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-11",
                 },
             ],
             episodeLength: 1450.658,
@@ -5987,6 +7299,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-12",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-12",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -5999,6 +7315,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-12",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-12",
                 },
             ],
             episodeLength: 1451.242,
@@ -6016,6 +7336,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-13",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-13",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6028,6 +7352,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-13",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-13",
                 },
             ],
             episodeLength: 1451.284,
@@ -6045,6 +7373,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-14",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-14",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6057,6 +7389,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-14",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-14",
                 },
             ],
             episodeLength: 1451.284,
@@ -6074,6 +7410,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-15",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-15",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6086,6 +7426,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-15",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-15",
                 },
             ],
             episodeLength: 1451.284,
@@ -6103,6 +7447,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-16",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-16",
+                },
             ],
             episodeLength: 1453.29,
         },
@@ -6115,6 +7463,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-16",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-16",
                 },
             ],
             episodeLength: 1451.284,
@@ -6132,6 +7484,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-17",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-17",
+                },
             ],
             episodeLength: 1453.336667,
         },
@@ -6144,6 +7500,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-17",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-17",
                 },
             ],
             episodeLength: 1451.325,
@@ -6161,6 +7521,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-18",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-18",
+                },
             ],
             episodeLength: 1453.29,
         },
@@ -6173,6 +7537,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-18",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-18",
                 },
             ],
             episodeLength: 1451.284,
@@ -6190,6 +7558,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-19",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-19",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6202,6 +7574,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-19",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-19",
                 },
             ],
             episodeLength: 1451.284,
@@ -6219,6 +7595,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-20",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-20",
+                },
             ],
             episodeLength: 1453.336,
         },
@@ -6231,6 +7611,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-20",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-20",
                 },
             ],
             episodeLength: 1451.325,
@@ -6248,6 +7632,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-21",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-21",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -6260,6 +7648,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-21",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-21",
                 },
             ],
             episodeLength: 1451.325,
@@ -6277,6 +7669,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-22",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-22",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6289,6 +7685,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-22",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-22",
                 },
             ],
             episodeLength: 1451.242,
@@ -6306,6 +7706,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-23",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-23",
+                },
             ],
             episodeLength: 1453.383,
         },
@@ -6318,6 +7722,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-23",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-23",
                 },
             ],
             episodeLength: 1451.325,
@@ -6335,6 +7743,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-24",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-24",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6347,6 +7759,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-24",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-24",
                 },
             ],
             episodeLength: 1451.284,
@@ -6364,6 +7780,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-25",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-25",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6376,6 +7796,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-25",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-25",
                 },
             ],
             episodeLength: 1451.534,
@@ -6393,6 +7817,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-26",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-26",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6405,6 +7833,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-26",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-26",
                 },
             ],
             episodeLength: 1452,
@@ -6422,6 +7854,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-27",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-27",
+                },
             ],
             episodeLength: 1453.243333,
         },
@@ -6434,6 +7870,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-27",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-27",
                 },
             ],
             episodeLength: 1451.534,
@@ -6451,6 +7891,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-28",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-28",
+                },
             ],
             episodeLength: 1453.547,
         },
@@ -6463,6 +7907,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-28",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-28",
                 },
             ],
             episodeLength: 1451.576,
@@ -6480,6 +7928,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-29",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-29",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6492,6 +7944,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-29",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-29",
                 },
             ],
             episodeLength: 1452,
@@ -6509,6 +7965,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-30",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-30",
+                },
             ],
             episodeLength: 1454,
         },
@@ -6521,6 +7981,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-30",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-30",
                 },
             ],
             episodeLength: 1452.16,
@@ -6538,6 +8002,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-31",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-31",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -6550,6 +8018,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-31",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-31",
                 },
             ],
             episodeLength: 1451.576,
@@ -6567,6 +8039,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-32",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-32",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6579,6 +8055,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-32",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-32",
                 },
             ],
             episodeLength: 1451.576,
@@ -6596,6 +8076,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-33",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-33",
+                },
             ],
             episodeLength: 1453.174,
         },
@@ -6608,6 +8092,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-33",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-33",
                 },
             ],
             episodeLength: 1451.576,
@@ -6625,6 +8113,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-34",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-34",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6637,6 +8129,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-34",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-34",
                 },
             ],
             episodeLength: 1452,
@@ -6654,6 +8150,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-35",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-35",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6666,6 +8166,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-35",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-35",
                 },
             ],
             episodeLength: 1451.117,
@@ -6683,6 +8187,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-36",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-36",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6695,6 +8203,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-36",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-36",
                 },
             ],
             episodeLength: 1451.075,
@@ -6712,6 +8224,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-37",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-37",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6724,6 +8240,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-37",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-37",
                 },
             ],
             episodeLength: 1451.075,
@@ -6741,6 +8261,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-38",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-38",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6753,6 +8277,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-38",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-38",
                 },
             ],
             episodeLength: 1451.117,
@@ -6770,6 +8298,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-39",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-39",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -6782,6 +8314,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-39",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-39",
                 },
             ],
             episodeLength: 1451.117,
@@ -6799,6 +8335,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-40",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-40",
+                },
             ],
             episodeLength: 1452.221667,
         },
@@ -6811,6 +8351,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-40",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-40",
                 },
             ],
             episodeLength: 1450.324,
@@ -6828,6 +8372,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-41",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-41",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -6840,6 +8388,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-41",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-41",
                 },
             ],
             episodeLength: 1450.324,
@@ -6857,6 +8409,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-42",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-42",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -6869,6 +8425,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-42",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-42",
                 },
             ],
             episodeLength: 1450.324,
@@ -6886,6 +8446,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-43",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-43",
+                },
             ],
             episodeLength: 1453,
         },
@@ -6898,6 +8462,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-43",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-43",
                 },
             ],
             episodeLength: 1450.324,
@@ -6915,6 +8483,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-44",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-44",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -6927,6 +8499,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-44",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-44",
                 },
             ],
             episodeLength: 1450.366,
@@ -6944,6 +8520,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-45",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-45",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -6956,6 +8536,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-45",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-45",
                 },
             ],
             episodeLength: 1450.324,
@@ -6973,6 +8557,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-46",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-46",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -6985,6 +8573,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-46",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-46",
                 },
             ],
             episodeLength: 1450.366,
@@ -7002,6 +8594,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-47",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-47",
+                },
             ],
             episodeLength: 1452.128333,
         },
@@ -7014,6 +8610,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-47",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-47",
                 },
             ],
             episodeLength: 1450.324,
@@ -7031,6 +8631,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-48",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-48",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7043,6 +8647,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-48",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-48",
                 },
             ],
             episodeLength: 1450.283,
@@ -7060,6 +8668,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-49",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-49",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -7072,6 +8684,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-49",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-49",
                 },
             ],
             episodeLength: 1450.324,
@@ -7089,6 +8705,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-50",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-50",
+                },
             ],
             episodeLength: 1452.128333,
         },
@@ -7101,6 +8721,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-50",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-50",
                 },
             ],
             episodeLength: 1450.324,
@@ -7118,6 +8742,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-51",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-51",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7130,6 +8758,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-51",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-51",
                 },
             ],
             episodeLength: 1450.366,
@@ -7147,6 +8779,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-52",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-52",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -7159,6 +8795,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-52",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-52",
                 },
             ],
             episodeLength: 1450.366,
@@ -7176,6 +8816,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-53",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-53",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -7188,6 +8832,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-53",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-53",
                 },
             ],
             episodeLength: 1450.366,
@@ -7205,6 +8853,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-54",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-54",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -7217,6 +8869,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-54",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-54",
                 },
             ],
             episodeLength: 1450.324,
@@ -7234,6 +8890,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-55",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-55",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -7246,6 +8906,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-55",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-55",
                 },
             ],
             episodeLength: 1450.366,
@@ -7263,6 +8927,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-56",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-56",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -7272,6 +8940,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-56",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-56",
                 },
             ],
             episodeLength: 1451,
@@ -7289,6 +8961,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-57",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-57",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7301,6 +8977,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-57",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-57",
                 },
             ],
             episodeLength: 1450.324,
@@ -7318,6 +8998,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-58",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-58",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7330,6 +9014,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-58",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-58",
                 },
             ],
             episodeLength: 1450.324,
@@ -7347,6 +9035,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-59",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-59",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7359,6 +9051,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-59",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-59",
                 },
             ],
             episodeLength: 1451,
@@ -7376,6 +9072,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-60",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-60",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -7388,6 +9088,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-60",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-60",
                 },
             ],
             episodeLength: 1450.324,
@@ -7405,6 +9109,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-61",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-61",
+                },
             ],
             episodeLength: 1452.222,
         },
@@ -7417,6 +9125,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-61",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-61",
                 },
             ],
             episodeLength: 1450.324,
@@ -7434,6 +9146,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-62",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-62",
+                },
             ],
             episodeLength: 1452.221667,
         },
@@ -7446,6 +9162,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-62",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-62",
                 },
             ],
             episodeLength: 1450.324,
@@ -7463,6 +9183,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-63",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-63",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7475,6 +9199,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-63",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-63",
                 },
             ],
             episodeLength: 1450.324,
@@ -7492,6 +9220,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-64",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-64",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -7504,6 +9236,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-64",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-64",
                 },
             ],
             episodeLength: 1450.324,
@@ -7521,6 +9257,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-65",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-65",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7533,6 +9273,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-65",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-65",
                 },
             ],
             episodeLength: 1450.324,
@@ -7550,6 +9294,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-66",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-66",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -7562,6 +9310,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-66",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-66",
                 },
             ],
             episodeLength: 1450.366,
@@ -7579,6 +9331,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-67",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-67",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7591,6 +9347,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-67",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-67",
                 },
             ],
             episodeLength: 1450.324,
@@ -7608,6 +9368,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-68",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-68",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7620,6 +9384,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-68",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-68",
                 },
             ],
             episodeLength: 1452,
@@ -7637,6 +9405,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-69",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-69",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7646,6 +9418,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-69",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-69",
                 },
             ],
             episodeLength: 1451.367,
@@ -7663,6 +9439,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-70",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-70",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7675,6 +9455,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-70",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-70",
                 },
             ],
             episodeLength: 1451.325,
@@ -7692,6 +9476,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-71",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-71",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7704,6 +9492,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-71",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-71",
                 },
             ],
             episodeLength: 1453,
@@ -7721,6 +9513,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-72",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-72",
+                },
             ],
             episodeLength: 1452.222,
         },
@@ -7733,6 +9529,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-72",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-72",
                 },
             ],
             episodeLength: 1451.284,
@@ -7750,6 +9550,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-73",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-73",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -7762,6 +9566,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-73",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-73",
                 },
             ],
             episodeLength: 1451.284,
@@ -7779,6 +9587,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-74",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-74",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -7791,6 +9603,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-74",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-74",
                 },
             ],
             episodeLength: 1451.284,
@@ -7808,6 +9624,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-75",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-75",
+                },
             ],
             episodeLength: 1453.383,
         },
@@ -7820,6 +9640,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-75",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-75",
                 },
             ],
             episodeLength: 1451.284,
@@ -7837,6 +9661,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-76",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-76",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7849,6 +9677,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-76",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-76",
                 },
             ],
             episodeLength: 1451.284,
@@ -7866,6 +9698,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-77",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-77",
+                },
             ],
             episodeLength: 1454,
         },
@@ -7878,6 +9714,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-77",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-77",
                 },
             ],
             episodeLength: 1451.284,
@@ -7895,6 +9735,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-78",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-78",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7907,6 +9751,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-78",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-78",
                 },
             ],
             episodeLength: 1451.325,
@@ -7924,6 +9772,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-79",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-79",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7936,6 +9788,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-79",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-79",
                 },
             ],
             episodeLength: 1451.325,
@@ -7953,6 +9809,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-80",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-80",
+                },
             ],
             episodeLength: 1453.059,
         },
@@ -7965,6 +9825,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-80",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-80",
                 },
             ],
             episodeLength: 1451.325,
@@ -7982,6 +9846,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-81",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-81",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -7994,6 +9862,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-81",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-81",
                 },
             ],
             episodeLength: 1451.325,
@@ -8011,6 +9883,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-82",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-82",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8023,6 +9899,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-82",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-82",
                 },
             ],
             episodeLength: 1451.325,
@@ -8040,6 +9920,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-83",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-83",
+                },
             ],
             episodeLength: 1454,
         },
@@ -8052,6 +9936,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-83",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-83",
                 },
             ],
             episodeLength: 1451.325,
@@ -8069,6 +9957,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-84",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-84",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -8081,6 +9973,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-84",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-84",
                 },
             ],
             episodeLength: 1451.325,
@@ -8098,6 +9994,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-85",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-85",
+                },
             ],
             episodeLength: 1453.081,
         },
@@ -8110,6 +10010,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-85",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-85",
                 },
             ],
             episodeLength: 1451.325,
@@ -8127,6 +10031,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-86",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-86",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8139,6 +10047,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-86",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-86",
                 },
             ],
             episodeLength: 1451.325,
@@ -8156,6 +10068,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-87",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-87",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8168,6 +10084,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-87",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-87",
                 },
             ],
             episodeLength: 1451.325,
@@ -8185,6 +10105,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-88",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-88",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8197,6 +10121,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-88",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-88",
                 },
             ],
             episodeLength: 1451.325,
@@ -8214,6 +10142,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-89",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-89",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8226,6 +10158,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-89",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-89",
                 },
             ],
             episodeLength: 1452,
@@ -8243,6 +10179,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-90",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-90",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8255,6 +10195,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-90",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-90",
                 },
             ],
             episodeLength: 1451.367,
@@ -8272,6 +10216,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-91",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-91",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -8284,6 +10232,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-91",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-91",
                 },
             ],
             episodeLength: 1451.325,
@@ -8301,6 +10253,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-92",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-92",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8313,6 +10269,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-92",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-92",
                 },
             ],
             episodeLength: 1451.284,
@@ -8327,6 +10287,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-93",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-93",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -8339,6 +10303,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-93",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-93",
                 },
             ],
             episodeLength: 1451.325,
@@ -8356,6 +10324,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-94",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-94",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8368,6 +10340,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-94",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-94",
                 },
             ],
             episodeLength: 1451.325,
@@ -8385,6 +10361,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-95",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-95",
+                },
             ],
             episodeLength: 1453.081,
         },
@@ -8397,6 +10377,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-95",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-95",
                 },
             ],
             episodeLength: 1451.325,
@@ -8414,6 +10398,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-96",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-96",
+                },
             ],
             episodeLength: 1453.174,
         },
@@ -8426,6 +10414,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-96",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-96",
                 },
             ],
             episodeLength: 1451.325,
@@ -8443,6 +10435,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-97",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-97",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8455,6 +10451,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-97",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-97",
                 },
             ],
             episodeLength: 1451.325,
@@ -8472,6 +10472,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-98",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-98",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -8484,6 +10488,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-98",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-98",
                 },
             ],
             episodeLength: 1451.325,
@@ -8501,6 +10509,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-99",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-99",
+                },
             ],
             episodeLength: 1453.336,
         },
@@ -8513,6 +10525,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-99",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-99",
                 },
             ],
             episodeLength: 1451.367,
@@ -8530,6 +10546,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-100",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-100",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -8542,6 +10562,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-100",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-100",
                 },
             ],
             episodeLength: 1451.325,
@@ -8559,6 +10583,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-101",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-101",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8571,6 +10599,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-101",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-101",
                 },
             ],
             episodeLength: 1451.325,
@@ -8588,6 +10620,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-102",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-102",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8600,6 +10636,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-102",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-102",
                 },
             ],
             episodeLength: 1451.325,
@@ -8617,6 +10657,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-103",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-103",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8629,6 +10673,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-103",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-103",
                 },
             ],
             episodeLength: 1453,
@@ -8646,6 +10694,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-104",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-104",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8658,6 +10710,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-104",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-104",
                 },
             ],
             episodeLength: 1451.284,
@@ -8675,6 +10731,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-105",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-105",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8687,6 +10747,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-105",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-105",
                 },
             ],
             episodeLength: 1451.325,
@@ -8704,6 +10768,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-106",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-106",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -8716,6 +10784,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-106",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-106",
                 },
             ],
             episodeLength: 1451.325,
@@ -8733,6 +10805,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-107",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-107",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8745,6 +10821,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-107",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-107",
                 },
             ],
             episodeLength: 1451.325,
@@ -8762,6 +10842,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-108",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-108",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8774,6 +10858,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-108",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-108",
                 },
             ],
             episodeLength: 1451.606,
@@ -8791,6 +10879,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-109",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-109",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8803,6 +10895,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-109",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-109",
                 },
             ],
             episodeLength: 1451.606,
@@ -8820,6 +10916,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-110",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-110",
+                },
             ],
             episodeLength: 1453,
         },
@@ -8832,6 +10932,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-110",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-110",
                 },
             ],
             episodeLength: 1451.606,
@@ -8849,6 +10953,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-111",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-111",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -8861,6 +10969,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-111",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-111",
                 },
             ],
             episodeLength: 1451.52,
@@ -8878,6 +10990,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-112",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-112",
+                },
             ],
             episodeLength: 1454,
         },
@@ -8890,6 +11006,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-112",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-112",
                 },
             ],
             episodeLength: 1451.606,
@@ -8907,6 +11027,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-113",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-113",
+                },
             ],
             episodeLength: 1454,
         },
@@ -8919,6 +11043,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-113",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-113",
                 },
             ],
             episodeLength: 1451.414,
@@ -8936,6 +11064,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-114",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-114",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8948,6 +11080,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-114",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-114",
                 },
             ],
             episodeLength: 1451.414,
@@ -8965,6 +11101,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-115",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-115",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -8977,6 +11117,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-115",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-115",
                 },
             ],
             episodeLength: 1451.242,
@@ -8994,6 +11138,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-116",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-116",
+                },
             ],
             episodeLength: 1453.174,
         },
@@ -9006,6 +11154,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-116",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-116",
                 },
             ],
             episodeLength: 1451.414,
@@ -9023,6 +11175,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-117",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-117",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9035,6 +11191,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-117",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-117",
                 },
             ],
             episodeLength: 1451.414,
@@ -9052,6 +11212,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-118",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-118",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -9064,6 +11228,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-118",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-118",
                 },
             ],
             episodeLength: 1451.286,
@@ -9081,6 +11249,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-119",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-119",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9093,6 +11265,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-119",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-119",
                 },
             ],
             episodeLength: 1451.243,
@@ -9110,6 +11286,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-120",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-120",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9122,6 +11302,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-120",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-120",
                 },
             ],
             episodeLength: 1451.606,
@@ -9139,6 +11323,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-121",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-121",
+                },
             ],
             episodeLength: 1453.08,
         },
@@ -9151,6 +11339,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-121",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-121",
                 },
             ],
             episodeLength: 1451.606,
@@ -9168,6 +11360,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-122",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-122",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9180,6 +11376,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-122",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-122",
                 },
             ],
             episodeLength: 1451.606,
@@ -9197,6 +11397,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-123",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-123",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9209,6 +11413,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-123",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-123",
                 },
             ],
             episodeLength: 1451.606,
@@ -9226,6 +11434,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-124",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-124",
+                },
             ],
             episodeLength: 1454,
         },
@@ -9238,6 +11450,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-124",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-124",
                 },
             ],
             episodeLength: 1452,
@@ -9255,6 +11471,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-125",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-125",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9267,6 +11487,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-125",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-125",
                 },
             ],
             episodeLength: 1451.414,
@@ -9284,6 +11508,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-126",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-126",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9296,6 +11524,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-126",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-126",
                 },
             ],
             episodeLength: 1452,
@@ -9313,6 +11545,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-127",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-127",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9325,6 +11561,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-127",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-127",
                 },
             ],
             episodeLength: 1451.606,
@@ -9342,6 +11582,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-128",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-128",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9354,6 +11598,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-128",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-128",
                 },
             ],
             episodeLength: 1451.606,
@@ -9371,6 +11619,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-129",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-129",
+                },
             ],
             episodeLength: 1454,
         },
@@ -9383,6 +11635,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-129",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-129",
                 },
             ],
             episodeLength: 1451.606,
@@ -9400,6 +11656,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-130",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-130",
+                },
             ],
             episodeLength: 1452,
         },
@@ -9412,6 +11672,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-130",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-130",
                 },
             ],
             episodeLength: 1451.414,
@@ -9429,6 +11693,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-131",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-131",
+                },
             ],
             episodeLength: 1453.174,
         },
@@ -9441,6 +11709,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-131",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-131",
                 },
             ],
             episodeLength: 1451.606,
@@ -9458,6 +11730,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-132",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-132",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9470,6 +11746,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-132",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-132",
                 },
             ],
             episodeLength: 1451.606,
@@ -9487,6 +11767,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-133",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-133",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9499,6 +11783,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-133",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-133",
                 },
             ],
             episodeLength: 1451.606,
@@ -9516,6 +11804,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-134",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-134",
+                },
             ],
             episodeLength: 1453.081,
         },
@@ -9528,6 +11820,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-134",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-134",
                 },
             ],
             episodeLength: 1451.606,
@@ -9545,6 +11841,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-135",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-135",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9557,6 +11857,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-135",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-135",
                 },
             ],
             episodeLength: 1451.328,
@@ -9574,6 +11878,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-136",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-136",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9586,6 +11894,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-136",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-136",
                 },
             ],
             episodeLength: 1451.606,
@@ -9603,6 +11915,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-137",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-137",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9615,6 +11931,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-137",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-137",
                 },
             ],
             episodeLength: 1451.606,
@@ -9632,6 +11952,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-138",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-138",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9644,6 +11968,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-138",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-138",
                 },
             ],
             episodeLength: 1451.606,
@@ -9661,6 +11989,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-139",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-139",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9673,6 +12005,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-139",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-139",
                 },
             ],
             episodeLength: 1451.414,
@@ -9690,6 +12026,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-140",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-140",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9702,6 +12042,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-140",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-140",
                 },
             ],
             episodeLength: 1451.284,
@@ -9719,6 +12063,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-141",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-141",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9731,6 +12079,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-141",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-141",
                 },
             ],
             episodeLength: 1451.325,
@@ -9748,6 +12100,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-142",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-142",
+                },
             ],
             episodeLength: 1454,
         },
@@ -9760,6 +12116,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-142",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-142",
                 },
             ],
             episodeLength: 1452.869,
@@ -9777,6 +12137,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-143",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-143",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9789,6 +12153,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-143",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-143",
                 },
             ],
             episodeLength: 1451.325,
@@ -9806,6 +12174,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-144",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-144",
+                },
             ],
             episodeLength: 1454,
         },
@@ -9818,6 +12190,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-144",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-144",
                 },
             ],
             episodeLength: 1451.325,
@@ -9835,6 +12211,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-145",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-145",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -9847,6 +12227,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-145",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-145",
                 },
             ],
             episodeLength: 1451.325,
@@ -9864,6 +12248,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-146",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-146",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -9876,6 +12264,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-146",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-146",
                 },
             ],
             episodeLength: 1451.325,
@@ -9893,6 +12285,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-147",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-147",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9905,6 +12301,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-147",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-147",
                 },
             ],
             episodeLength: 1451.325,
@@ -9922,6 +12322,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-148",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-148",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9934,6 +12338,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-148",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-148",
                 },
             ],
             episodeLength: 1452.869,
@@ -9951,6 +12359,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-149",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-149",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -9963,6 +12375,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-149",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-149",
                 },
             ],
             episodeLength: 1451.325,
@@ -9980,6 +12396,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-150",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-150",
+                },
             ],
             episodeLength: 1453.243333,
         },
@@ -9989,6 +12409,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-150",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-150",
                 },
             ],
             episodeLength: 1451.284,
@@ -10006,6 +12430,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-151",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-151",
+                },
             ],
             episodeLength: 1453.08,
         },
@@ -10018,6 +12446,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-151",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-151",
                 },
             ],
             episodeLength: 1451.284,
@@ -10035,6 +12467,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-152",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-152",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10047,6 +12483,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-152",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-152",
                 },
             ],
             episodeLength: 1451.284,
@@ -10064,6 +12504,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-153",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-153",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10076,6 +12520,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-153",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-153",
                 },
             ],
             episodeLength: 1451.284,
@@ -10093,6 +12541,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-154",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-154",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10105,6 +12557,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-154",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-154",
                 },
             ],
             episodeLength: 1451.284,
@@ -10122,6 +12578,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-155",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-155",
+                },
             ],
             episodeLength: 1453.174,
         },
@@ -10134,6 +12594,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-155",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-155",
                 },
             ],
             episodeLength: 1451.284,
@@ -10151,6 +12615,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-156",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-156",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10163,6 +12631,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-156",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-156",
                 },
             ],
             episodeLength: 1451.367,
@@ -10180,6 +12652,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-157",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-157",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10192,6 +12668,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-157",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-157",
                 },
             ],
             episodeLength: 1451.284,
@@ -10209,6 +12689,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-158",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-158",
+                },
             ],
             episodeLength: 1454,
         },
@@ -10221,6 +12705,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-158",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-158",
                 },
             ],
             episodeLength: 1451.284,
@@ -10238,6 +12726,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-159",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-159",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10250,6 +12742,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-159",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-159",
                 },
             ],
             episodeLength: 1452,
@@ -10267,6 +12763,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-160",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-160",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10276,6 +12776,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-160",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-160",
                 },
             ],
             episodeLength: 1451.325,
@@ -10293,6 +12797,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-161",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-161",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10305,6 +12813,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-161",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-161",
                 },
             ],
             episodeLength: 1451.284,
@@ -10322,6 +12834,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-162",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-162",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10334,6 +12850,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-162",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-162",
                 },
             ],
             episodeLength: 1451.284,
@@ -10351,6 +12871,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-163",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-163",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -10363,6 +12887,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-163",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-163",
                 },
             ],
             episodeLength: 1451.284,
@@ -10380,6 +12908,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-164",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-164",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10392,6 +12924,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-164",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-164",
                 },
             ],
             episodeLength: 1451.284,
@@ -10409,6 +12945,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-165",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-165",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10421,6 +12961,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-165",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-165",
                 },
             ],
             episodeLength: 1452,
@@ -10438,6 +12982,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-166",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-166",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10450,6 +12998,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-166",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-166",
                 },
             ],
             episodeLength: 1452,
@@ -10467,6 +13019,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-167",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-167",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10479,6 +13035,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-167",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-167",
                 },
             ],
             episodeLength: 1451.284,
@@ -10496,6 +13056,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-168",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-168",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10508,6 +13072,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-168",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-168",
                 },
             ],
             episodeLength: 1452.907,
@@ -10525,6 +13093,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-169",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-169",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10537,6 +13109,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-169",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-169",
                 },
             ],
             episodeLength: 1451.325,
@@ -10554,6 +13130,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-170",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-170",
+                },
             ],
             episodeLength: 1453.206,
         },
@@ -10566,6 +13146,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-170",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-170",
                 },
             ],
             episodeLength: 1451.284,
@@ -10583,6 +13167,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-171",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-171",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10595,6 +13183,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-171",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-171",
                 },
             ],
             episodeLength: 1451.325,
@@ -10612,6 +13204,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-172",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-172",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10624,6 +13220,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-172",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-172",
                 },
             ],
             episodeLength: 1451.325,
@@ -10641,6 +13241,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-173",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-173",
+                },
             ],
             episodeLength: 1454,
         },
@@ -10653,6 +13257,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-173",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-173",
                 },
             ],
             episodeLength: 1451.367,
@@ -10670,6 +13278,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-174",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-174",
+                },
             ],
             episodeLength: 1454,
         },
@@ -10682,6 +13294,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-174",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-174",
                 },
             ],
             episodeLength: 1452.95,
@@ -10699,6 +13315,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-175",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-175",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10711,6 +13331,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-175",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-175",
                 },
             ],
             episodeLength: 1451.325,
@@ -10728,6 +13352,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-176",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-176",
+                },
             ],
             episodeLength: 1453.174,
         },
@@ -10740,6 +13368,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-176",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-176",
                 },
             ],
             episodeLength: 1451.284,
@@ -10757,6 +13389,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-177",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-177",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10769,6 +13405,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-177",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-177",
                 },
             ],
             episodeLength: 1451.284,
@@ -10786,6 +13426,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-178",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-178",
+                },
             ],
             episodeLength: 1453.081,
         },
@@ -10798,6 +13442,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-178",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-178",
                 },
             ],
             episodeLength: 1451.284,
@@ -10815,6 +13463,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-179",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-179",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10827,6 +13479,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-179",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-179",
                 },
             ],
             episodeLength: 1451.325,
@@ -10844,6 +13500,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-180",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-180",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10856,6 +13516,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-180",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-180",
                 },
             ],
             episodeLength: 1452.907,
@@ -10873,6 +13537,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-181",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-181",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -10885,6 +13553,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-181",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-181",
                 },
             ],
             episodeLength: 1451.325,
@@ -10902,6 +13574,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-182",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-182",
+                },
             ],
             episodeLength: 1453.244,
         },
@@ -10914,6 +13590,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-182",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-182",
                 },
             ],
             episodeLength: 1451.325,
@@ -10931,6 +13611,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-183",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-183",
+                },
             ],
             episodeLength: 1453.081,
         },
@@ -10943,6 +13627,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-183",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-183",
                 },
             ],
             episodeLength: 1451.325,
@@ -10960,6 +13648,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-184",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-184",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -10972,6 +13664,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-184",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-184",
                 },
             ],
             episodeLength: 1451.284,
@@ -10989,6 +13685,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-185",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-185",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11001,6 +13701,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-185",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-185",
                 },
             ],
             episodeLength: 1451.325,
@@ -11018,6 +13722,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-186",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-186",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11030,6 +13738,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-186",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-186",
                 },
             ],
             episodeLength: 1451.325,
@@ -11047,6 +13759,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-187",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-187",
+                },
             ],
             episodeLength: 1453.22,
         },
@@ -11059,6 +13775,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-187",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-187",
                 },
             ],
             episodeLength: 1451.325,
@@ -11076,6 +13796,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-188",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-188",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11088,6 +13812,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-188",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-188",
                 },
             ],
             episodeLength: 1451.325,
@@ -11105,6 +13833,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-189",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-189",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11117,6 +13849,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-189",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-189",
                 },
             ],
             episodeLength: 1451.325,
@@ -11134,6 +13870,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-190",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-190",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11146,6 +13886,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-190",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-190",
                 },
             ],
             episodeLength: 1451.325,
@@ -11163,6 +13907,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-191",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-191",
+                },
             ],
             episodeLength: 1453.126667,
         },
@@ -11175,6 +13923,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-191",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-191",
                 },
             ],
             episodeLength: 1451.367,
@@ -11192,6 +13944,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-192",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-192",
+                },
             ],
             episodeLength: 1453.244,
         },
@@ -11204,6 +13960,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-192",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-192",
                 },
             ],
             episodeLength: 1451.325,
@@ -11221,6 +13981,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-193",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-193",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11233,6 +13997,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-193",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-193",
                 },
             ],
             episodeLength: 1451.325,
@@ -11250,6 +14018,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-194",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-194",
+                },
             ],
             episodeLength: 1453.127,
         },
@@ -11262,6 +14034,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-194",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-194",
                 },
             ],
             episodeLength: 1451.367,
@@ -11279,6 +14055,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-195",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-195",
+                },
             ],
             episodeLength: 1453.081,
         },
@@ -11291,6 +14071,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-195",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-195",
                 },
             ],
             episodeLength: 1451.492,
@@ -11308,6 +14092,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-196",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-196",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11320,6 +14108,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-196",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-196",
                 },
             ],
             episodeLength: 1451.492,
@@ -11337,6 +14129,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-197",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-197",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11349,6 +14145,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-197",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-197",
                 },
             ],
             episodeLength: 1452.994,
@@ -11366,6 +14166,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-198",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-198",
+                },
             ],
             episodeLength: 1453.035,
         },
@@ -11378,6 +14182,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-198",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-198",
                 },
             ],
             episodeLength: 1451.492,
@@ -11395,6 +14203,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-199",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-199",
+                },
             ],
             episodeLength: 1453.08,
         },
@@ -11407,6 +14219,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-199",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-199",
                 },
             ],
             episodeLength: 1451.492,
@@ -11424,6 +14240,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-200",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-200",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11436,6 +14256,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-200",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-200",
                 },
             ],
             episodeLength: 1450.491,
@@ -11453,6 +14277,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-201",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-201",
+                },
             ],
             episodeLength: 1452.128333,
         },
@@ -11465,6 +14293,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-201",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-201",
                 },
             ],
             episodeLength: 1450.491,
@@ -11482,6 +14314,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-202",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-202",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11494,6 +14330,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-202",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-202",
                 },
             ],
             episodeLength: 1450.491,
@@ -11511,6 +14351,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-203",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-203",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -11523,6 +14367,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-203",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-203",
                 },
             ],
             episodeLength: 1451.993,
@@ -11540,6 +14388,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-204",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-204",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -11552,6 +14404,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-204",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-204",
                 },
             ],
             episodeLength: 1450.491,
@@ -11569,6 +14425,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-205",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-205",
+                },
             ],
             episodeLength: 1452.128333,
         },
@@ -11581,6 +14441,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-205",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-205",
                 },
             ],
             episodeLength: 1450.491,
@@ -11598,6 +14462,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-206",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-206",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11610,6 +14478,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-206",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-206",
                 },
             ],
             episodeLength: 1451,
@@ -11627,6 +14499,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-207",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-207",
+                },
             ],
             episodeLength: 1452.454,
         },
@@ -11639,6 +14515,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-207",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-207",
                 },
             ],
             episodeLength: 1450.366,
@@ -11656,6 +14536,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-208",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-208",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -11668,6 +14552,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-208",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-208",
                 },
             ],
             episodeLength: 1451.993,
@@ -11685,6 +14573,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-209",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-209",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -11697,6 +14589,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-209",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-209",
                 },
             ],
             episodeLength: 1450.491,
@@ -11714,6 +14610,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-210",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-210",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11726,6 +14626,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-210",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-210",
                 },
             ],
             episodeLength: 1450.491,
@@ -11743,6 +14647,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-211",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-211",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11755,6 +14663,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-211",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-211",
                 },
             ],
             episodeLength: 1450.491,
@@ -11772,6 +14684,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-212",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-212",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11784,6 +14700,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-212",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-212",
                 },
             ],
             episodeLength: 1450.491,
@@ -11801,6 +14721,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-213",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-213",
+                },
             ],
             episodeLength: 1452.431,
         },
@@ -11813,6 +14737,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-213",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-213",
                 },
             ],
             episodeLength: 1450.491,
@@ -11830,6 +14758,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-214",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-214",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -11842,6 +14774,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-214",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-214",
                 },
             ],
             episodeLength: 1450.408,
@@ -11859,6 +14795,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-215",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-215",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11871,6 +14811,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-215",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-215",
                 },
             ],
             episodeLength: 1450.491,
@@ -11888,6 +14832,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-216",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-216",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -11900,6 +14848,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-216",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-216",
                 },
             ],
             episodeLength: 1450.491,
@@ -11917,6 +14869,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-217",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-217",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -11929,6 +14885,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-217",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-217",
                 },
             ],
             episodeLength: 1450.491,
@@ -11946,6 +14906,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-218",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-218",
+                },
             ],
             episodeLength: 1452.43,
         },
@@ -11958,6 +14922,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-218",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-218",
                 },
             ],
             episodeLength: 1450.491,
@@ -11975,6 +14943,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-219",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-219",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -11987,6 +14959,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-219",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-219",
                 },
             ],
             episodeLength: 1450.491,
@@ -12004,6 +14980,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-220",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-220",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -12016,6 +14996,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-220",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-220",
                 },
             ],
             episodeLength: 1452,
@@ -12033,6 +15017,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-221",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-221",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -12045,6 +15033,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-221",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-221",
                 },
             ],
             episodeLength: 1451.328,
@@ -12062,6 +15054,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-222",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-222",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -12074,6 +15070,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-222",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-222",
                 },
             ],
             episodeLength: 1451.286,
@@ -12091,6 +15091,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-223",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-223",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -12103,6 +15107,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-223",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-223",
                 },
             ],
             episodeLength: 1451.328,
@@ -12120,6 +15128,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-224",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-224",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -12132,6 +15144,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-224",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-224",
                 },
             ],
             episodeLength: 1451.328,
@@ -12149,6 +15165,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-225",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-225",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -12161,6 +15181,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-225",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-225",
                 },
             ],
             episodeLength: 1451.328,
@@ -12178,6 +15202,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-226",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-226",
+                },
             ],
             episodeLength: 1452.338333,
         },
@@ -12190,6 +15218,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-226",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-226",
                 },
             ],
             episodeLength: 1451.328,
@@ -12207,6 +15239,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-227",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-227",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -12219,6 +15255,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-227",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-227",
                 },
             ],
             episodeLength: 1452,
@@ -12236,6 +15276,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-228",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-228",
+                },
             ],
             episodeLength: 1453,
         },
@@ -12248,6 +15292,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-228",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-228",
                 },
             ],
             episodeLength: 1451.328,
@@ -12265,6 +15313,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-229",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-229",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -12277,6 +15329,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-229",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-229",
                 },
             ],
             episodeLength: 1451.328,
@@ -12294,6 +15350,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-230",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-230",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -12306,6 +15366,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-230",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-230",
                 },
             ],
             episodeLength: 1452,
@@ -12323,6 +15387,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-231",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-231",
+                },
             ],
             episodeLength: 1453,
         },
@@ -12335,6 +15403,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-231",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-231",
                 },
             ],
             episodeLength: 1451.328,
@@ -12352,6 +15424,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-232",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-232",
+                },
             ],
             episodeLength: 1452.384,
         },
@@ -12364,6 +15440,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-232",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-232",
                 },
             ],
             episodeLength: 1451.328,
@@ -12381,6 +15461,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-233",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-233",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -12393,6 +15477,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-233",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-233",
                 },
             ],
             episodeLength: 1451.328,
@@ -12410,6 +15498,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-234",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-234",
+                },
             ],
             episodeLength: 1453,
         },
@@ -12422,6 +15514,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-234",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-234",
                 },
             ],
             episodeLength: 1451.328,
@@ -12439,6 +15535,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-235",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-235",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -12451,6 +15551,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-235",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-235",
                 },
             ],
             episodeLength: 1451.328,
@@ -12468,6 +15572,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-236",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-236",
+                },
             ],
             episodeLength: 1452.384,
         },
@@ -12480,6 +15588,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-236",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-236",
                 },
             ],
             episodeLength: 1451.328,
@@ -12497,6 +15609,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-237",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-237",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -12509,6 +15625,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-237",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-237",
                 },
             ],
             episodeLength: 1452,
@@ -12526,6 +15646,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-238",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-238",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -12538,6 +15662,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-238",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-238",
                 },
             ],
             episodeLength: 1451.328,
@@ -12555,6 +15683,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-239",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-239",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -12567,6 +15699,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-239",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-239",
                 },
             ],
             episodeLength: 1451.328,
@@ -12584,6 +15720,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-240",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-240",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -12596,6 +15736,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-240",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-240",
                 },
             ],
             episodeLength: 1451.328,
@@ -12613,6 +15757,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-241",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-241",
+                },
             ],
             episodeLength: 1452.384,
         },
@@ -12625,6 +15773,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-241",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-241",
                 },
             ],
             episodeLength: 1451.328,
@@ -12642,6 +15794,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-242",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-242",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -12654,6 +15810,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-242",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-242",
                 },
             ],
             episodeLength: 1451.328,
@@ -12671,6 +15831,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-243",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-243",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -12683,6 +15847,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-243",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-243",
                 },
             ],
             episodeLength: 1451.328,
@@ -12700,6 +15868,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-244",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-244",
+                },
             ],
             episodeLength: 1453,
         },
@@ -12712,6 +15884,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-244",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-244",
                 },
             ],
             episodeLength: 1451.328,
@@ -12729,6 +15905,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-245",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-245",
+                },
             ],
             episodeLength: 1453,
         },
@@ -12741,6 +15921,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-245",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-245",
                 },
             ],
             episodeLength: 1451.328,
@@ -12758,6 +15942,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-246",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-246",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -12770,6 +15958,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-246",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-246",
                 },
             ],
             episodeLength: 1452,
@@ -12787,6 +15979,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-247",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-247",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -12799,6 +15995,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-247",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-247",
                 },
             ],
             episodeLength: 1451.328,
@@ -12816,6 +16016,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-248",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-248",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -12828,6 +16032,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-248",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-248",
                 },
             ],
             episodeLength: 1451.328,
@@ -12845,6 +16053,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-249",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-249",
+                },
             ],
             episodeLength: 1452.454,
         },
@@ -12857,6 +16069,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-249",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-249",
                 },
             ],
             episodeLength: 1451.328,
@@ -12874,6 +16090,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-250",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-250",
+                },
             ],
             episodeLength: 1452.384,
         },
@@ -12886,6 +16106,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-250",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-250",
                 },
             ],
             episodeLength: 1451.328,
@@ -12903,6 +16127,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-251",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-251",
+                },
             ],
             episodeLength: 1452.222,
         },
@@ -12915,6 +16143,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-251",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-251",
                 },
             ],
             episodeLength: 1451.328,
@@ -12932,6 +16164,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-252",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-252",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -12941,6 +16177,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-252",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-252",
                 },
             ],
             episodeLength: 1451.328,
@@ -12958,6 +16198,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-253",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-253",
+                },
             ],
             episodeLength: 1453,
         },
@@ -12970,6 +16214,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-253",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-253",
                 },
             ],
             episodeLength: 1451.328,
@@ -12987,6 +16235,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-254",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-254",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -12999,6 +16251,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-254",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-254",
                 },
             ],
             episodeLength: 1452.992,
@@ -13016,6 +16272,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-255",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-255",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13028,6 +16288,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-255",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-255",
                 },
             ],
             episodeLength: 1452.992,
@@ -13045,6 +16309,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-256",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-256",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13057,6 +16325,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-256",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-256",
                 },
             ],
             episodeLength: 1452.992,
@@ -13074,6 +16346,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-257",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-257",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13086,6 +16362,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-257",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-257",
                 },
             ],
             episodeLength: 1452.992,
@@ -13103,6 +16383,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-258",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-258",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13115,6 +16399,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-258",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-258",
                 },
             ],
             episodeLength: 1452.992,
@@ -13132,6 +16420,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-259",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-259",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13144,6 +16436,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-259",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-259",
                 },
             ],
             episodeLength: 1452.992,
@@ -13161,6 +16457,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-260",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-260",
+                },
             ],
             episodeLength: 1454,
         },
@@ -13173,6 +16473,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-260",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-260",
                 },
             ],
             episodeLength: 1451.328,
@@ -13190,6 +16494,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-261",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-261",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -13202,6 +16510,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-261",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-261",
                 },
             ],
             episodeLength: 1451.328,
@@ -13219,6 +16531,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-262",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-262",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13231,6 +16547,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-262",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-262",
                 },
             ],
             episodeLength: 1452.992,
@@ -13248,6 +16568,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-263",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-263",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13260,6 +16584,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-263",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-263",
                 },
             ],
             episodeLength: 1452.992,
@@ -13277,6 +16605,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-264",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-264",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -13289,6 +16621,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-264",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-264",
                 },
             ],
             episodeLength: 1452.992,
@@ -13306,6 +16642,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-265",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-265",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13318,6 +16658,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-265",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-265",
                 },
             ],
             episodeLength: 1452.992,
@@ -13335,6 +16679,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-266",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-266",
+                },
             ],
             episodeLength: 1452.129,
         },
@@ -13347,6 +16695,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-266",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-266",
                 },
             ],
             episodeLength: 1453.014,
@@ -13364,6 +16716,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-267",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-267",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13376,6 +16732,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-267",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-267",
                 },
             ],
             episodeLength: 1451.328,
@@ -13393,6 +16753,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-268",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-268",
+                },
             ],
             episodeLength: 1453,
         },
@@ -13405,6 +16769,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-268",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-268",
                 },
             ],
             episodeLength: 1451.328,
@@ -13422,6 +16790,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-269",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-269",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13434,6 +16806,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-269",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-269",
                 },
             ],
             episodeLength: 1451.328,
@@ -13451,6 +16827,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-270",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-270",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13463,6 +16843,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-270",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-270",
                 },
             ],
             episodeLength: 1451.328,
@@ -13480,6 +16864,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-271",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-271",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13492,6 +16880,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-271",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-271",
                 },
             ],
             episodeLength: 1451.328,
@@ -13509,6 +16901,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-272",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-272",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13521,6 +16917,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-272",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-272",
                 },
             ],
             episodeLength: 1451.328,
@@ -13538,6 +16938,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-273",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-273",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13550,6 +16954,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-273",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-273",
                 },
             ],
             episodeLength: 1451.328,
@@ -13567,6 +16975,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-274",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-274",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13579,6 +16991,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-274",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-274",
                 },
             ],
             episodeLength: 1451.328,
@@ -13596,6 +17012,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-275",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-275",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13608,6 +17028,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-275",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-275",
                 },
             ],
             episodeLength: 1451.328,
@@ -13625,6 +17049,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-276",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-276",
+                },
             ],
             episodeLength: 1452.43,
         },
@@ -13637,6 +17065,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-276",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-276",
                 },
             ],
             episodeLength: 1451.328,
@@ -13654,6 +17086,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-277",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-277",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13666,6 +17102,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-277",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-277",
                 },
             ],
             episodeLength: 1451.328,
@@ -13683,6 +17123,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-278",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-278",
+                },
             ],
             episodeLength: 1452.292,
         },
@@ -13695,6 +17139,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-278",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-278",
                 },
             ],
             episodeLength: 1451.328,
@@ -13712,6 +17160,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-279",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-279",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13724,6 +17176,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-279",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-279",
                 },
             ],
             episodeLength: 1451.328,
@@ -13741,6 +17197,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-280",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-280",
+                },
             ],
             episodeLength: 1452.245,
         },
@@ -13753,6 +17213,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-280",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-280",
                 },
             ],
             episodeLength: 1452,
@@ -13770,6 +17234,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-281",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-281",
+                },
             ],
             episodeLength: 1452.222,
         },
@@ -13782,6 +17250,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-281",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-281",
                 },
             ],
             episodeLength: 1451.286,
@@ -13799,6 +17271,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-282",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-282",
+                },
             ],
             episodeLength: 1452.222,
         },
@@ -13811,6 +17287,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-282",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-282",
                 },
             ],
             episodeLength: 1451.328,
@@ -13828,6 +17308,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-283",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-283",
+                },
             ],
             episodeLength: 1452.383333,
         },
@@ -13840,6 +17324,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-283",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-283",
                 },
             ],
             episodeLength: 1452,
@@ -13857,6 +17345,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-284",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-284",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13869,6 +17361,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-284",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-284",
                 },
             ],
             episodeLength: 1451.328,
@@ -13886,6 +17382,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-285",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-285",
+                },
             ],
             episodeLength: 1452.175,
         },
@@ -13898,6 +17398,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-285",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-285",
                 },
             ],
             episodeLength: 1451.328,
@@ -13915,6 +17419,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-286",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-286",
+                },
             ],
             episodeLength: 1452.291667,
         },
@@ -13927,6 +17435,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-286",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-286",
                 },
             ],
             episodeLength: 1451.328,
@@ -13944,6 +17456,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-287",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-287",
+                },
             ],
             episodeLength: 1453,
         },
@@ -13956,6 +17472,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-287",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-287",
                 },
             ],
             episodeLength: 1452,
@@ -13973,6 +17493,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-288",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-288",
+                },
             ],
             episodeLength: 1452.454,
         },
@@ -13985,6 +17509,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-288",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-288",
                 },
             ],
             episodeLength: 1451.328,
@@ -14002,6 +17530,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-289",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-289",
+                },
             ],
             episodeLength: 1453,
         },
@@ -14014,6 +17546,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-289",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-289",
                 },
             ],
             episodeLength: 1451.264,
@@ -14031,6 +17567,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-290",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-290",
+                },
             ],
             episodeLength: 1452.338,
         },
@@ -14043,6 +17583,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-290",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-290",
                 },
             ],
             episodeLength: 1452,
@@ -14060,6 +17604,10 @@ dragonBallZ = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-dub-episode-291",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-dub-episode-291",
+                },
             ],
             episodeLength: 1452.454,
         },
@@ -14072,6 +17620,10 @@ dragonBallZ = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-episode-291",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-z-episode-291",
                 },
             ],
             episodeLength: 1451.328,
@@ -14092,6 +17644,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-1",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-1",
+                },
             ],
             episodeLength: 1387.09402,
         },
@@ -14104,6 +17660,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-1",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-1",
                 },
             ],
             episodeLength: 1387.094018,
@@ -14121,6 +17681,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-2",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-2",
+                },
             ],
             episodeLength: 1387.177432,
         },
@@ -14133,6 +17697,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-2",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-2",
                 },
             ],
             episodeLength: 1387.219144,
@@ -14150,6 +17718,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-3",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-3",
+                },
             ],
             episodeLength: 1382.17243,
         },
@@ -14162,6 +17734,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-3",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-3",
                 },
             ],
             episodeLength: 1382.172432,
@@ -14179,6 +17755,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-4",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-4",
+                },
             ],
             episodeLength: 1382.172441,
         },
@@ -14191,6 +17771,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-4",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-4",
                 },
             ],
             episodeLength: 1382.172447,
@@ -14208,6 +17792,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-5",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-5",
+                },
             ],
             episodeLength: 1382.130726,
         },
@@ -14220,6 +17808,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-5",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-5",
                 },
             ],
             episodeLength: 1382.172432,
@@ -14237,6 +17829,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-6",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-6",
+                },
             ],
             episodeLength: 1382.172424,
         },
@@ -14249,6 +17845,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-6",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-6",
                 },
             ],
             episodeLength: 1382.172429,
@@ -14266,6 +17866,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-7",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-7",
+                },
             ],
             episodeLength: 1382.089016,
         },
@@ -14278,6 +17882,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-7",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-7",
                 },
             ],
             episodeLength: 1382.089015,
@@ -14295,6 +17903,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-8",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-8",
+                },
             ],
             episodeLength: 1382.172409,
         },
@@ -14307,6 +17919,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-8",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-8",
                 },
             ],
             episodeLength: 1382.17241,
@@ -14324,6 +17940,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-9",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-9",
+                },
             ],
             episodeLength: 1382.130726,
         },
@@ -14336,6 +17956,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-9",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-9",
                 },
             ],
             episodeLength: 1382.13073,
@@ -14353,6 +17977,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-10",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-10",
+                },
             ],
             episodeLength: 1382.130731,
         },
@@ -14365,6 +17993,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-10",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-10",
                 },
             ],
             episodeLength: 1382.089021,
@@ -14382,6 +18014,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-11",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-11",
+                },
             ],
             episodeLength: 1382.13073,
         },
@@ -14394,6 +18030,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-11",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-11",
                 },
             ],
             episodeLength: 1382.172443,
@@ -14411,6 +18051,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-12",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-12",
+                },
             ],
             episodeLength: 1382.130735,
         },
@@ -14423,6 +18067,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-12",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-12",
                 },
             ],
             episodeLength: 1382.172433,
@@ -14440,6 +18088,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-13",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-13",
+                },
             ],
             episodeLength: 1382.130741,
         },
@@ -14452,6 +18104,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-13",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-13",
                 },
             ],
             episodeLength: 1382.172446,
@@ -14469,6 +18125,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-14",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-14",
+                },
             ],
             episodeLength: 1382.130738,
         },
@@ -14481,6 +18141,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-14",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-14",
                 },
             ],
             episodeLength: 1382.172429,
@@ -14498,6 +18162,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-15",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-15",
+                },
             ],
             episodeLength: 1382.172438,
         },
@@ -14510,6 +18178,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-15",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-15",
                 },
             ],
             episodeLength: 1382.172449,
@@ -14527,6 +18199,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-16",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-16",
+                },
             ],
             episodeLength: 1382.172453,
         },
@@ -14539,6 +18215,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-16",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-16",
                 },
             ],
             episodeLength: 1382.172449,
@@ -14556,6 +18236,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-17",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-17",
+                },
             ],
             episodeLength: 1382.13074,
         },
@@ -14568,6 +18252,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-17",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-17",
                 },
             ],
             episodeLength: 1382.130749,
@@ -14585,6 +18273,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-18",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-18",
+                },
             ],
             episodeLength: 1382.172448,
         },
@@ -14597,6 +18289,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-18",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-18",
                 },
             ],
             episodeLength: 1382.17245,
@@ -14614,6 +18310,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-19",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-19",
+                },
             ],
             episodeLength: 1382.130745,
         },
@@ -14626,6 +18326,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-19",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-19",
                 },
             ],
             episodeLength: 1382.089035,
@@ -14643,6 +18347,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-20",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-20",
+                },
             ],
             episodeLength: 1382.214157,
         },
@@ -14655,6 +18363,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-20",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-20",
                 },
             ],
             episodeLength: 1382.17244,
@@ -14672,6 +18384,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-21",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-21",
+                },
             ],
             episodeLength: 1382.130743,
         },
@@ -14684,6 +18400,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-21",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-21",
                 },
             ],
             episodeLength: 1382.130744,
@@ -14701,6 +18421,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-22",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-22",
+                },
             ],
             episodeLength: 1382.130744,
         },
@@ -14713,6 +18437,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-22",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-22",
                 },
             ],
             episodeLength: 1382.130741,
@@ -14730,6 +18458,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-23",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-23",
+                },
             ],
             episodeLength: 1382.17244,
         },
@@ -14742,6 +18474,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-23",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-23",
                 },
             ],
             episodeLength: 1382.172438,
@@ -14759,6 +18495,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-24",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-24",
+                },
             ],
             episodeLength: 1382.172441,
         },
@@ -14771,6 +18511,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-24",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-24",
                 },
             ],
             episodeLength: 1382.214152,
@@ -14788,6 +18532,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-25",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-25",
+                },
             ],
             episodeLength: 1382.21416,
         },
@@ -14800,6 +18548,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-25",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-25",
                 },
             ],
             episodeLength: 1382.214158,
@@ -14817,6 +18569,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-26",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-26",
+                },
             ],
             episodeLength: 1382.130745,
         },
@@ -14829,6 +18585,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-26",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-26",
                 },
             ],
             episodeLength: 1382.130742,
@@ -14846,6 +18606,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-27",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-27",
+                },
             ],
             episodeLength: 1382.13074,
         },
@@ -14858,6 +18622,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-27",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-27",
                 },
             ],
             episodeLength: 1382.130749,
@@ -14875,6 +18643,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-28",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-28",
+                },
             ],
             episodeLength: 1382.214153,
         },
@@ -14887,6 +18659,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-28",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-28",
                 },
             ],
             episodeLength: 1382.214154,
@@ -14904,6 +18680,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-29",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-29",
+                },
             ],
             episodeLength: 1382.130745,
         },
@@ -14912,6 +18692,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-29",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-29",
                 },
             ],
             episodeLength: 1382.172451,
@@ -14929,6 +18713,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-30",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-30",
+                },
             ],
             episodeLength: 1382.130726,
         },
@@ -14941,6 +18729,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-30",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-30",
                 },
             ],
             episodeLength: 1382.130727,
@@ -14958,6 +18750,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-31",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-31",
+                },
             ],
             episodeLength: 1382.130739,
         },
@@ -14970,6 +18766,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-31",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-31",
                 },
             ],
             episodeLength: 1382.130742,
@@ -14987,6 +18787,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-32",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-32",
+                },
             ],
             episodeLength: 1382.172434,
         },
@@ -14999,6 +18803,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-32",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-32",
                 },
             ],
             episodeLength: 1382.13073,
@@ -15016,6 +18824,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-33",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-33",
+                },
             ],
             episodeLength: 1382.172443,
         },
@@ -15028,6 +18840,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-33",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-33",
                 },
             ],
             episodeLength: 1382.130744,
@@ -15045,6 +18861,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-34",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-34",
+                },
             ],
             episodeLength: 1382.130746,
         },
@@ -15057,6 +18877,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-34",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-34",
                 },
             ],
             episodeLength: 1382.130742,
@@ -15074,6 +18898,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-35",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-35",
+                },
             ],
             episodeLength: 1382.089043,
         },
@@ -15086,6 +18914,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-35",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-35",
                 },
             ],
             episodeLength: 1382.089045,
@@ -15103,6 +18935,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-36",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-36",
+                },
             ],
             episodeLength: 1382.130741,
         },
@@ -15115,6 +18951,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-36",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-36",
                 },
             ],
             episodeLength: 1382.130734,
@@ -15132,6 +18972,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-37",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-37",
+                },
             ],
             episodeLength: 1382.089031,
         },
@@ -15144,6 +18988,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-37",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-37",
                 },
             ],
             episodeLength: 1382.089024,
@@ -15161,6 +19009,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-38",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-38",
+                },
             ],
             episodeLength: 1382.172435,
         },
@@ -15173,6 +19025,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-38",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-38",
                 },
             ],
             episodeLength: 1382.130742,
@@ -15190,6 +19046,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-39",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-39",
+                },
             ],
             episodeLength: 1382.130748,
         },
@@ -15202,6 +19062,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-39",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-39",
                 },
             ],
             episodeLength: 1382.130743,
@@ -15219,6 +19083,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-40",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-40",
+                },
             ],
             episodeLength: 1382.172447,
         },
@@ -15231,6 +19099,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-40",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-40",
                 },
             ],
             episodeLength: 1382.17245,
@@ -15248,6 +19120,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-41",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-41",
+                },
             ],
             episodeLength: 1382.17245,
         },
@@ -15260,6 +19136,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-41",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-41",
                 },
             ],
             episodeLength: 1382.17245,
@@ -15277,6 +19157,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-42",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-42",
+                },
             ],
             episodeLength: 1382.089037,
         },
@@ -15289,6 +19173,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-42",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-42",
                 },
             ],
             episodeLength: 1382.130747,
@@ -15306,6 +19194,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-43",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-43",
+                },
             ],
             episodeLength: 1382.172443,
         },
@@ -15318,6 +19210,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-43",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-43",
                 },
             ],
             episodeLength: 1382.172443,
@@ -15335,6 +19231,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-44",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-44",
+                },
             ],
             episodeLength: 1382.172438,
         },
@@ -15347,6 +19247,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-44",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-44",
                 },
             ],
             episodeLength: 1382.172439,
@@ -15364,6 +19268,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-45",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-45",
+                },
             ],
             episodeLength: 1382.172434,
         },
@@ -15376,6 +19284,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-45",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-45",
                 },
             ],
             episodeLength: 1382.214156,
@@ -15393,6 +19305,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-46",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-46",
+                },
             ],
             episodeLength: 1382.089024,
         },
@@ -15405,6 +19321,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-46",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-46",
                 },
             ],
             episodeLength: 1382.130733,
@@ -15422,6 +19342,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-47",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-47",
+                },
             ],
             episodeLength: 1382.13076,
         },
@@ -15434,6 +19358,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-47",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-47",
                 },
             ],
             episodeLength: 1382.172458,
@@ -15451,6 +19379,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-48",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-48",
+                },
             ],
             episodeLength: 1382.172439,
         },
@@ -15463,6 +19395,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-48",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-48",
                 },
             ],
             episodeLength: 1382.172448,
@@ -15480,6 +19416,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-49",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-49",
+                },
             ],
             episodeLength: 1382.17244,
         },
@@ -15492,6 +19432,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-49",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-49",
                 },
             ],
             episodeLength: 1382.21416,
@@ -15509,6 +19453,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-50",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-50",
+                },
             ],
             episodeLength: 1382.172444,
         },
@@ -15521,6 +19469,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-50",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-50",
                 },
             ],
             episodeLength: 1382.214155,
@@ -15538,6 +19490,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-51",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-51",
+                },
             ],
             episodeLength: 1382.172427,
         },
@@ -15550,6 +19506,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-51",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-51",
                 },
             ],
             episodeLength: 1382.172437,
@@ -15567,6 +19527,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-52",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-52",
+                },
             ],
             episodeLength: 1382.172456,
         },
@@ -15579,6 +19543,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-52",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-52",
                 },
             ],
             episodeLength: 1382.172455,
@@ -15596,6 +19564,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-53",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-53",
+                },
             ],
             episodeLength: 1382.130749,
         },
@@ -15608,6 +19580,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-53",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-53",
                 },
             ],
             episodeLength: 1382.130753,
@@ -15625,6 +19601,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-54",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-54",
+                },
             ],
             episodeLength: 1382.130747,
         },
@@ -15637,6 +19617,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-54",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-54",
                 },
             ],
             episodeLength: 1382.172456,
@@ -15654,6 +19638,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-55",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-55",
+                },
             ],
             episodeLength: 1382.172433,
         },
@@ -15666,6 +19654,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-55",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-55",
                 },
             ],
             episodeLength: 1382.172439,
@@ -15683,6 +19675,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-56",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-56",
+                },
             ],
             episodeLength: 1382.214151,
         },
@@ -15696,6 +19692,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-56",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-56",
+                },
             ],
             episodeLength: 1382.214149,
         },
@@ -15707,6 +19707,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-57",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-57",
                 },
             ],
             episodeLength: 1382.13073,
@@ -15720,6 +19724,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-57",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-57",
                 },
             ],
             episodeLength: 1382.172439,
@@ -15737,6 +19745,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-58",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-58",
+                },
             ],
             episodeLength: 1382.130739,
         },
@@ -15749,6 +19761,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-58",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-58",
                 },
             ],
             episodeLength: 1382.130731,
@@ -15766,6 +19782,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-59",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-59",
+                },
             ],
             episodeLength: 1382.172448,
         },
@@ -15778,6 +19798,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-59",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-59",
                 },
             ],
             episodeLength: 1382.214153,
@@ -15795,6 +19819,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-60",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-60",
+                },
             ],
             episodeLength: 1382.172445,
         },
@@ -15807,6 +19835,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-60",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-60",
                 },
             ],
             episodeLength: 1382.130746,
@@ -15824,6 +19856,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-61",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-61",
+                },
             ],
             episodeLength: 1382.214157,
         },
@@ -15836,6 +19872,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-61",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-61",
                 },
             ],
             episodeLength: 1382.172445,
@@ -15853,6 +19893,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-62",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-62",
+                },
             ],
             episodeLength: 1382.17244,
         },
@@ -15865,6 +19909,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-62",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-62",
                 },
             ],
             episodeLength: 1382.172444,
@@ -15882,6 +19930,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-63",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-63",
+                },
             ],
             episodeLength: 1382.172441,
         },
@@ -15894,6 +19946,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-63",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-63",
                 },
             ],
             episodeLength: 1382.172443,
@@ -15911,6 +19967,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-64",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-64",
+                },
             ],
             episodeLength: 1382.214158,
         },
@@ -15923,6 +19983,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-64",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-64",
                 },
             ],
             episodeLength: 1382.172445,
@@ -15940,6 +20004,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-65",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-65",
+                },
             ],
             episodeLength: 1382.130745,
         },
@@ -15952,6 +20020,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-65",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-65",
                 },
             ],
             episodeLength: 1382.17244,
@@ -15969,6 +20041,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-66",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-66",
+                },
             ],
             episodeLength: 1382.172453,
         },
@@ -15981,6 +20057,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-66",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-66",
                 },
             ],
             episodeLength: 1382.130747,
@@ -15998,6 +20078,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-67",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-67",
+                },
             ],
             episodeLength: 1382.130748,
         },
@@ -16010,6 +20094,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-67",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-67",
                 },
             ],
             episodeLength: 1382.172448,
@@ -16027,6 +20115,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-68",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-68",
+                },
             ],
             episodeLength: 1382.214159,
         },
@@ -16039,6 +20131,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-68",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-68",
                 },
             ],
             episodeLength: 1382.214159,
@@ -16056,6 +20152,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-69",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-69",
+                },
             ],
             episodeLength: 1382.172437,
         },
@@ -16068,6 +20168,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-69",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-69",
                 },
             ],
             episodeLength: 1382.172437,
@@ -16085,6 +20189,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-70",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-70",
+                },
             ],
             episodeLength: 1382.089046,
         },
@@ -16097,6 +20205,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-70",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-70",
                 },
             ],
             episodeLength: 1382.172447,
@@ -16114,6 +20226,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-71",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-71",
+                },
             ],
             episodeLength: 1382.214154,
         },
@@ -16126,6 +20242,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-71",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-71",
                 },
             ],
             episodeLength: 1382.17245,
@@ -16143,6 +20263,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-72",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-72",
+                },
             ],
             episodeLength: 1382.172444,
         },
@@ -16155,6 +20279,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-72",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-72",
                 },
             ],
             episodeLength: 1382.13075,
@@ -16172,6 +20300,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-73",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-73",
+                },
             ],
             episodeLength: 1382.130726,
         },
@@ -16184,6 +20316,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-73",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-73",
                 },
             ],
             episodeLength: 1382.130731,
@@ -16201,6 +20337,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-74",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-74",
+                },
             ],
             episodeLength: 1382.172428,
         },
@@ -16213,6 +20353,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-74",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-74",
                 },
             ],
             episodeLength: 1382.172433,
@@ -16230,6 +20374,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-75",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-75",
+                },
             ],
             episodeLength: 1382.130749,
         },
@@ -16242,6 +20390,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-75",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-75",
                 },
             ],
             episodeLength: 1382.130749,
@@ -16259,6 +20411,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-76",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-76",
+                },
             ],
             episodeLength: 1382.130741,
         },
@@ -16271,6 +20427,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-76",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-76",
                 },
             ],
             episodeLength: 1382.13073,
@@ -16288,6 +20448,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-77",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-77",
+                },
             ],
             episodeLength: 1382.172431,
         },
@@ -16300,6 +20464,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-77",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-77",
                 },
             ],
             episodeLength: 1382.13075,
@@ -16317,6 +20485,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-78",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-78",
+                },
             ],
             episodeLength: 1382.130751,
         },
@@ -16329,6 +20501,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-78",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-78",
                 },
             ],
             episodeLength: 1382.130751,
@@ -16346,6 +20522,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-79",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-79",
+                },
             ],
             episodeLength: 1382.172445,
         },
@@ -16358,6 +20538,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-79",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-79",
                 },
             ],
             episodeLength: 1382.214159,
@@ -16375,6 +20559,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-80",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-80",
+                },
             ],
             episodeLength: 1382.214162,
         },
@@ -16387,6 +20575,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-80",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-80",
                 },
             ],
             episodeLength: 1382.214158,
@@ -16404,6 +20596,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-81",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-81",
+                },
             ],
             episodeLength: 1382.172451,
         },
@@ -16416,6 +20612,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-81",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-81",
                 },
             ],
             episodeLength: 1382.130758,
@@ -16433,6 +20633,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-82",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-82",
+                },
             ],
             episodeLength: 1382.172455,
         },
@@ -16445,6 +20649,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-82",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-82",
                 },
             ],
             episodeLength: 1382.130757,
@@ -16462,6 +20670,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-83",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-83",
+                },
             ],
             episodeLength: 1382.130744,
         },
@@ -16474,6 +20686,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-83",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-83",
                 },
             ],
             episodeLength: 1382.130751,
@@ -16491,6 +20707,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-84",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-84",
+                },
             ],
             episodeLength: 1382.172449,
         },
@@ -16503,6 +20723,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-84",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-84",
                 },
             ],
             episodeLength: 1382.172444,
@@ -16520,6 +20744,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-85",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-85",
+                },
             ],
             episodeLength: 1382.130747,
         },
@@ -16532,6 +20760,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-85",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-85",
                 },
             ],
             episodeLength: 1382.130751,
@@ -16549,6 +20781,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-86",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-86",
+                },
             ],
             episodeLength: 1382.130753,
         },
@@ -16561,6 +20797,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-86",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-86",
                 },
             ],
             episodeLength: 1382.172445,
@@ -16578,6 +20818,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-87",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-87",
+                },
             ],
             episodeLength: 1382.172444,
         },
@@ -16590,6 +20834,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-87",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-87",
                 },
             ],
             episodeLength: 1382.172451,
@@ -16607,6 +20855,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-88",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-88",
+                },
             ],
             episodeLength: 1382.130738,
         },
@@ -16619,6 +20871,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-88",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-88",
                 },
             ],
             episodeLength: 1382.130739,
@@ -16636,6 +20892,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-89",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-89",
+                },
             ],
             episodeLength: 1382.089032,
         },
@@ -16648,6 +20908,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-89",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-89",
                 },
             ],
             episodeLength: 1382.130747,
@@ -16665,6 +20929,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-90",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-90",
+                },
             ],
             episodeLength: 1382.172441,
         },
@@ -16677,6 +20945,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-90",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-90",
                 },
             ],
             episodeLength: 1382.214155,
@@ -16694,6 +20966,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-91",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-91",
+                },
             ],
             episodeLength: 1382.172453,
         },
@@ -16706,6 +20982,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-91",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-91",
                 },
             ],
             episodeLength: 1382.130755,
@@ -16723,6 +21003,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-92",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-92",
+                },
             ],
             episodeLength: 1382.130728,
         },
@@ -16735,6 +21019,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-92",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-92",
                 },
             ],
             episodeLength: 1382.172433,
@@ -16752,6 +21040,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-93",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-93",
+                },
             ],
             episodeLength: 1382.047322,
         },
@@ -16764,6 +21056,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-93",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-93",
                 },
             ],
             episodeLength: 1382.089035,
@@ -16781,6 +21077,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-94",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-94",
+                },
             ],
             episodeLength: 1382.214151,
         },
@@ -16793,6 +21093,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-94",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-94",
                 },
             ],
             episodeLength: 1382.214145,
@@ -16810,6 +21114,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-95",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-95",
+                },
             ],
             episodeLength: 1382.130746,
         },
@@ -16822,6 +21130,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-95",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-95",
                 },
             ],
             episodeLength: 1382.172447,
@@ -16839,6 +21151,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-96",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-96",
+                },
             ],
             episodeLength: 1382.130732,
         },
@@ -16851,6 +21167,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-96",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-96",
                 },
             ],
             episodeLength: 1382.172436,
@@ -16868,6 +21188,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-97",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-97",
+                },
             ],
             episodeLength: 1382.172436,
         },
@@ -16880,6 +21204,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-97",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-97",
                 },
             ],
             episodeLength: 1382.172442,
@@ -16897,6 +21225,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-dub-episode-98",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-dub-episode-98",
+                },
             ],
             episodeLength: 1387.177426,
         },
@@ -16910,6 +21242,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-episode-98",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-episode-98",
+                },
             ],
             episodeLength: 1387.094015,
         },
@@ -16922,6 +21258,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-1",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-1",
+                },
             ],
             episodeLength: 1387.135728,
         },
@@ -16930,6 +21270,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-1",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-1",
                 },
             ],
             episodeLength: 1387.177429,
@@ -16943,6 +21287,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-2",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-2",
+                },
             ],
             episodeLength: 1387.094022,
         },
@@ -16951,6 +21299,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-2",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-2",
                 },
             ],
             episodeLength: 1387.094025,
@@ -16964,6 +21316,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-3",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-3",
+                },
             ],
             episodeLength: 1387.052326,
         },
@@ -16972,6 +21328,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-3",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-3",
                 },
             ],
             episodeLength: 1387.135757,
@@ -16985,6 +21345,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-4",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-4",
+                },
             ],
             episodeLength: 1387.177419,
         },
@@ -16993,6 +21357,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-4",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-4",
                 },
             ],
             episodeLength: 1387.219143,
@@ -17006,6 +21374,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-5",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-5",
+                },
             ],
             episodeLength: 1387.052322,
         },
@@ -17014,6 +21386,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-5",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-5",
                 },
             ],
             episodeLength: 1387.052319,
@@ -17027,6 +21403,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-6",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-6",
+                },
             ],
             episodeLength: 1387.177442,
         },
@@ -17035,6 +21415,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-6",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-6",
                 },
             ],
             episodeLength: 1387.177442,
@@ -17048,6 +21432,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-7",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-7",
+                },
             ],
             episodeLength: 1387.094027,
         },
@@ -17056,6 +21444,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-7",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-7",
                 },
             ],
             episodeLength: 1387.094029,
@@ -17069,6 +21461,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-8",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-8",
+                },
             ],
             episodeLength: 1387.052311,
         },
@@ -17077,6 +21473,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-8",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-8",
                 },
             ],
             episodeLength: 1387.094025,
@@ -17090,6 +21490,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-9",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-9",
+                },
             ],
             episodeLength: 1387.052307,
         },
@@ -17098,6 +21502,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-9",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-9",
                 },
             ],
             episodeLength: 1387.052304,
@@ -17111,6 +21519,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-10",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-10",
+                },
             ],
             episodeLength: 1387.177437,
         },
@@ -17119,6 +21531,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-10",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-10",
                 },
             ],
             episodeLength: 1387.094026,
@@ -17132,6 +21548,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-11",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-11",
+                },
             ],
             episodeLength: 1387.177435,
         },
@@ -17140,6 +21560,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-11",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-11",
                 },
             ],
             episodeLength: 1387.177439,
@@ -17153,6 +21577,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-12",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-12",
+                },
             ],
             episodeLength: 1387.052314,
         },
@@ -17161,6 +21589,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-12",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-12",
                 },
             ],
             episodeLength: 1387.052318,
@@ -17174,6 +21606,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-13",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-13",
+                },
             ],
             episodeLength: 1387.219159,
         },
@@ -17182,6 +21618,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-13",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-13",
                 },
             ],
             episodeLength: 1387.21916,
@@ -17195,6 +21635,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-14",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-14",
+                },
             ],
             episodeLength: 1387.177441,
         },
@@ -17203,6 +21647,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-14",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-14",
                 },
             ],
             episodeLength: 1387.177443,
@@ -17216,6 +21664,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-15",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-15",
+                },
             ],
             episodeLength: 1387.094025,
         },
@@ -17224,6 +21676,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-15",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-15",
                 },
             ],
             episodeLength: 1387.094024,
@@ -17237,6 +21693,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-16",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-16",
+                },
             ],
             episodeLength: 1387.094043,
         },
@@ -17245,6 +21705,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-16",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-16",
                 },
             ],
             episodeLength: 1387.094042,
@@ -17258,6 +21722,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-17",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-17",
+                },
             ],
             episodeLength: 1387.094022,
         },
@@ -17266,6 +21734,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-17",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-17",
                 },
             ],
             episodeLength: 1387.094025,
@@ -17279,6 +21751,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-18",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-18",
+                },
             ],
             episodeLength: 1387.052313,
         },
@@ -17287,6 +21763,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-18",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-18",
                 },
             ],
             episodeLength: 1387.052312,
@@ -17300,6 +21780,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-19",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-19",
+                },
             ],
             episodeLength: 1387.177433,
         },
@@ -17308,6 +21792,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-19",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-19",
                 },
             ],
             episodeLength: 1387.177434,
@@ -17321,6 +21809,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-20",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-20",
+                },
             ],
             episodeLength: 1387.052317,
         },
@@ -17329,6 +21821,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-20",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-20",
                 },
             ],
             episodeLength: 1387.052321,
@@ -17342,6 +21838,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-21",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-21",
+                },
             ],
             episodeLength: 1387.135739,
         },
@@ -17350,6 +21850,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-21",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-21",
                 },
             ],
             episodeLength: 1387.094029,
@@ -17363,6 +21867,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-22",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-22",
+                },
             ],
             episodeLength: 1387.135745,
         },
@@ -17371,6 +21879,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-22",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-22",
                 },
             ],
             episodeLength: 1387.135755,
@@ -17384,6 +21896,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-23",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-23",
+                },
             ],
             episodeLength: 1387.177432,
         },
@@ -17392,6 +21908,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-23",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-23",
                 },
             ],
             episodeLength: 1387.177433,
@@ -17405,6 +21925,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-24",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-24",
+                },
             ],
             episodeLength: 1387.135734,
         },
@@ -17413,6 +21937,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-24",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-24",
                 },
             ],
             episodeLength: 1387.135735,
@@ -17426,6 +21954,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-25",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-25",
+                },
             ],
             episodeLength: 1387.135744,
         },
@@ -17434,6 +21966,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-25",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-25",
                 },
             ],
             episodeLength: 1387.135741,
@@ -17447,6 +21983,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-26",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-26",
+                },
             ],
             episodeLength: 1387.094028,
         },
@@ -17455,6 +21995,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-26",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-26",
                 },
             ],
             episodeLength: 1387.094025,
@@ -17468,6 +22012,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-27",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-27",
+                },
             ],
             episodeLength: 1387.135735,
         },
@@ -17476,6 +22024,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-27",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-27",
                 },
             ],
             episodeLength: 1387.135736,
@@ -17489,6 +22041,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-28",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-28",
+                },
             ],
             episodeLength: 1387.260863,
         },
@@ -17497,6 +22053,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-28",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-28",
                 },
             ],
             episodeLength: 1387.260863,
@@ -17510,6 +22070,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-29",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-29",
+                },
             ],
             episodeLength: 1387.177448,
         },
@@ -17518,6 +22082,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-29",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-29",
                 },
             ],
             episodeLength: 1387.260867,
@@ -17531,6 +22099,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-30",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-30",
+                },
             ],
             episodeLength: 1387.094033,
         },
@@ -17539,6 +22111,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-30",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-30",
                 },
             ],
             episodeLength: 1387.135745,
@@ -17552,6 +22128,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-31",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-31",
+                },
             ],
             episodeLength: 1387.135744,
         },
@@ -17560,6 +22140,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-31",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-31",
                 },
             ],
             episodeLength: 1387.135747,
@@ -17573,6 +22157,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-32",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-32",
+                },
             ],
             episodeLength: 1387.094025,
         },
@@ -17581,6 +22169,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-32",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-32",
                 },
             ],
             episodeLength: 1387.094028,
@@ -17594,6 +22186,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-33",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-33",
+                },
             ],
             episodeLength: 1387.135748,
         },
@@ -17602,6 +22198,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-33",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-33",
                 },
             ],
             episodeLength: 1387.135751,
@@ -17615,6 +22215,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-34",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-34",
+                },
             ],
             episodeLength: 1387.177447,
         },
@@ -17623,6 +22227,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-34",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-34",
                 },
             ],
             episodeLength: 1387.177446,
@@ -17636,6 +22244,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-35",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-35",
+                },
             ],
             episodeLength: 1387.135723,
         },
@@ -17644,6 +22256,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-35",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-35",
                 },
             ],
             episodeLength: 1387.135723,
@@ -17657,6 +22273,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-36",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-36",
+                },
             ],
             episodeLength: 1387.177439,
         },
@@ -17665,6 +22285,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-36",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-36",
                 },
             ],
             episodeLength: 1387.219156,
@@ -17678,6 +22302,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-37",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-37",
+                },
             ],
             episodeLength: 1387.177442,
         },
@@ -17686,6 +22314,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-37",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-37",
                 },
             ],
             episodeLength: 1387.17744,
@@ -17699,6 +22331,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-38",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-38",
+                },
             ],
             episodeLength: 1387.135752,
         },
@@ -17707,6 +22343,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-38",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-38",
                 },
             ],
             episodeLength: 1387.094044,
@@ -17720,6 +22360,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-39",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-39",
+                },
             ],
             episodeLength: 1387.177441,
         },
@@ -17728,6 +22372,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-39",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-39",
                 },
             ],
             episodeLength: 1387.177438,
@@ -17741,6 +22389,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-40",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-40",
+                },
             ],
             episodeLength: 1387.219146,
         },
@@ -17749,6 +22401,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-40",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-40",
                 },
             ],
             episodeLength: 1387.219151,
@@ -17762,6 +22418,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-41",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-41",
+                },
             ],
             episodeLength: 1387.219165,
         },
@@ -17770,6 +22430,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-41",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-41",
                 },
             ],
             episodeLength: 1387.21916,
@@ -17783,6 +22447,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-42",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-42",
+                },
             ],
             episodeLength: 1387.135744,
         },
@@ -17791,6 +22459,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-42",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-42",
                 },
             ],
             episodeLength: 1387.094033,
@@ -17804,6 +22476,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-43",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-43",
+                },
             ],
             episodeLength: 1387.177443,
         },
@@ -17812,6 +22488,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-43",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-43",
                 },
             ],
             episodeLength: 1387.219146,
@@ -17825,6 +22505,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-44",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-44",
+                },
             ],
             episodeLength: 1387.177434,
         },
@@ -17833,6 +22517,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-44",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-44",
                 },
             ],
             episodeLength: 1387.177434,
@@ -17846,6 +22534,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-45",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-45",
+                },
             ],
             episodeLength: 1387.135732,
         },
@@ -17854,6 +22546,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-45",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-45",
                 },
             ],
             episodeLength: 1387.135736,
@@ -17867,6 +22563,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-46",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-46",
+                },
             ],
             episodeLength: 1387.135742,
         },
@@ -17875,6 +22575,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-46",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-46",
                 },
             ],
             episodeLength: 1387.135743,
@@ -17888,6 +22592,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-47",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-47",
+                },
             ],
             episodeLength: 1387.219149,
         },
@@ -17896,6 +22604,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-47",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-47",
                 },
             ],
             episodeLength: 1387.219155,
@@ -17909,6 +22621,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-48",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-48",
+                },
             ],
             episodeLength: 1387.219147,
         },
@@ -17917,6 +22633,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-48",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-48",
                 },
             ],
             episodeLength: 1387.26086,
@@ -17930,6 +22650,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-49",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-49",
+                },
             ],
             episodeLength: 1387.135734,
         },
@@ -17938,6 +22662,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-49",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-49",
                 },
             ],
             episodeLength: 1387.135738,
@@ -17951,6 +22679,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-50",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-50",
+                },
             ],
             episodeLength: 1387.135747,
         },
@@ -17959,6 +22691,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-50",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-50",
                 },
             ],
             episodeLength: 1387.135748,
@@ -17972,6 +22708,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-51",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-51",
+                },
             ],
             episodeLength: 1387.177435,
         },
@@ -17980,6 +22720,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-51",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-51",
                 },
             ],
             episodeLength: 1387.177441,
@@ -17993,6 +22737,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-52",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-52",
+                },
             ],
             episodeLength: 1387.135742,
         },
@@ -18001,6 +22749,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-52",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-52",
                 },
             ],
             episodeLength: 1387.135742,
@@ -18014,6 +22766,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-53",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-53",
+                },
             ],
             episodeLength: 1387.094026,
         },
@@ -18022,6 +22778,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-53",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-53",
                 },
             ],
             episodeLength: 1387.135737,
@@ -18035,6 +22795,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-54",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-54",
+                },
             ],
             episodeLength: 1387.09403,
         },
@@ -18043,6 +22807,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-54",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-54",
                 },
             ],
             episodeLength: 1387.094028,
@@ -18056,6 +22824,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-55",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-55",
+                },
             ],
             episodeLength: 1387.094024,
         },
@@ -18064,6 +22836,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-55",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-55",
                 },
             ],
             episodeLength: 1387.094026,
@@ -18077,6 +22853,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-56",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-56",
+                },
             ],
             episodeLength: 1387.135725,
         },
@@ -18085,6 +22865,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-56",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-56",
                 },
             ],
             episodeLength: 1387.135732,
@@ -18098,6 +22882,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-57",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-57",
+                },
             ],
             episodeLength: 1387.177438,
         },
@@ -18106,6 +22894,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-57",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-57",
                 },
             ],
             episodeLength: 1387.135739,
@@ -18119,6 +22911,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-58",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-58",
+                },
             ],
             episodeLength: 1387.052318,
         },
@@ -18127,6 +22923,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-58",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-58",
                 },
             ],
             episodeLength: 1387.052321,
@@ -18140,6 +22940,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-59",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-59",
+                },
             ],
             episodeLength: 1387.21915,
         },
@@ -18148,6 +22952,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-59",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-59",
                 },
             ],
             episodeLength: 1387.219151,
@@ -18161,6 +22969,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-60",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-60",
+                },
             ],
             episodeLength: 1387.135728,
         },
@@ -18169,6 +22981,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-60",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-60",
                 },
             ],
             episodeLength: 1387.13573,
@@ -18182,6 +22998,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-61",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-61",
+                },
             ],
             episodeLength: 1387.135736,
         },
@@ -18190,6 +23010,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-61",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-61",
                 },
             ],
             episodeLength: 1387.135732,
@@ -18203,6 +23027,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-62",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-62",
+                },
             ],
             episodeLength: 1387.135733,
         },
@@ -18211,6 +23039,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-62",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-62",
                 },
             ],
             episodeLength: 1387.135734,
@@ -18224,6 +23056,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-63",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-63",
+                },
             ],
             episodeLength: 1387.052308,
         },
@@ -18232,6 +23068,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-63",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-63",
                 },
             ],
             episodeLength: 1387.052313,
@@ -18245,6 +23085,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-64",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-64",
+                },
             ],
             episodeLength: 1387.094041,
         },
@@ -18253,6 +23097,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-64",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-64",
                 },
             ],
             episodeLength: 1387.09404,
@@ -18266,6 +23114,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-65",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-65",
+                },
             ],
             episodeLength: 1387.219156,
         },
@@ -18274,6 +23126,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-65",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-65",
                 },
             ],
             episodeLength: 1387.219152,
@@ -18287,6 +23143,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-66",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-66",
+                },
             ],
             episodeLength: 1387.052322,
         },
@@ -18295,6 +23155,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-66",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-66",
                 },
             ],
             episodeLength: 1387.052319,
@@ -18308,6 +23172,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-67",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-67",
+                },
             ],
             episodeLength: 1387.135743,
         },
@@ -18316,6 +23184,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-67",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-67",
                 },
             ],
             episodeLength: 1387.135743,
@@ -18329,6 +23201,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-68",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-68",
+                },
             ],
             episodeLength: 1357.189167,
         },
@@ -18337,6 +23213,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-68",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-68",
                 },
             ],
             episodeLength: 1357.189162,
@@ -18350,6 +23230,10 @@ dragonBallKai = {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-dub-episode-69",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-dub-episode-69",
+                },
             ],
             episodeLength: 1357.189167,
         },
@@ -18358,6 +23242,10 @@ dragonBallKai = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-kai-2014-episode-69",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-kai-2014-episode-69",
                 },
             ],
             episodeLength: 1357.189162,
@@ -18382,6 +23270,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66433/dragon-ball-super-dub-episode-001",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-1",
+                },
             ],
             episodeLength: 1387.177449,
         },
@@ -18398,6 +23290,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84025/dragon-ball-super-episode-001",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-1",
                 },
             ],
             episodeLength: 1402.19245,
@@ -18419,6 +23315,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66431/dragon-ball-super-dub-episode-002",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-2",
+                },
             ],
             episodeLength: 1387.135731,
         },
@@ -18435,6 +23335,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84024/dragon-ball-super-episode-002",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-2",
                 },
             ],
             episodeLength: 1402.109027,
@@ -18456,6 +23360,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66428/dragon-ball-super-dub-episode-003",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-3",
+                },
             ],
             episodeLength: 1387.094032,
         },
@@ -18472,6 +23380,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84023/dragon-ball-super-episode-003",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-3",
                 },
             ],
             episodeLength: 1402.109032,
@@ -18493,6 +23405,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66426/dragon-ball-super-dub-episode-004",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-4",
+                },
             ],
             episodeLength: 1387.052329,
         },
@@ -18509,6 +23425,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84022/dragon-ball-super-episode-004",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-4",
                 },
             ],
             episodeLength: 1402.109035,
@@ -18530,6 +23450,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66425/dragon-ball-super-dub-episode-005",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-5",
+                },
             ],
             episodeLength: 1387.052314,
         },
@@ -18546,6 +23470,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84021/dragon-ball-super-episode-005",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-5",
                 },
             ],
             episodeLength: 1402.109027,
@@ -18567,6 +23495,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66424/dragon-ball-super-dub-episode-006",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-6",
+                },
             ],
             episodeLength: 1387.135716,
         },
@@ -18583,6 +23515,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84020/dragon-ball-super-episode-006",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-6",
                 },
             ],
             episodeLength: 1402.150731,
@@ -18604,6 +23540,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66422/dragon-ball-super-dub-episode-007",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-7",
+                },
             ],
             episodeLength: 1387.135741,
         },
@@ -18620,6 +23560,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84019/dragon-ball-super-episode-007",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-7",
                 },
             ],
             episodeLength: 1402.150721,
@@ -18641,6 +23585,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66421/dragon-ball-super-dub-episode-008",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-8",
+                },
             ],
             episodeLength: 1387.17744,
         },
@@ -18657,6 +23605,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84018/dragon-ball-super-episode-008",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-8",
                 },
             ],
             episodeLength: 1402.192439,
@@ -18678,6 +23630,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66420/dragon-ball-super-dub-episode-009",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-9",
+                },
             ],
             episodeLength: 1387.177451,
         },
@@ -18694,6 +23650,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84017/dragon-ball-super-episode-009",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-9",
                 },
             ],
             episodeLength: 1402.192438,
@@ -18715,6 +23675,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66419/dragon-ball-super-dub-episode-010",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-10",
+                },
             ],
             episodeLength: 1358.273559,
         },
@@ -18731,6 +23695,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84016/dragon-ball-super-episode-010",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-10",
                 },
             ],
             episodeLength: 1402.192438,
@@ -18752,6 +23720,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66416/dragon-ball-super-dub-episode-011",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-11",
+                },
             ],
             episodeLength: 1387.177439,
         },
@@ -18768,6 +23740,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84015/dragon-ball-super-episode-011",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-11",
                 },
             ],
             episodeLength: 1402.192443,
@@ -18789,6 +23765,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66413/dragon-ball-super-dub-episode-012",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-12",
+                },
             ],
             episodeLength: 1387.135749,
         },
@@ -18805,6 +23785,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84014/dragon-ball-super-episode-012",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-12",
                 },
             ],
             episodeLength: 1402.15073,
@@ -18826,6 +23810,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66411/dragon-ball-super-dub-episode-013",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-13",
+                },
             ],
             episodeLength: 1387.135735,
         },
@@ -18842,6 +23830,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84013/dragon-ball-super-episode-013",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-13",
                 },
             ],
             episodeLength: 1402.192431,
@@ -18863,6 +23855,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66409/dragon-ball-super-dub-episode-014",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-14",
+                },
             ],
             episodeLength: 1387.135732,
         },
@@ -18879,6 +23875,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84012/dragon-ball-super-episode-014",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-14",
                 },
             ],
             episodeLength: 1402.19244,
@@ -18900,6 +23900,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66408/dragon-ball-super-dub-episode-015",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-15",
+                },
             ],
             episodeLength: 1387.177448,
         },
@@ -18916,6 +23920,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84011/dragon-ball-super-episode-015",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-15",
                 },
             ],
             episodeLength: 1402.192443,
@@ -18937,6 +23945,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66406/dragon-ball-super-dub-episode-016",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-16",
+                },
             ],
             episodeLength: 1387.177441,
         },
@@ -18953,6 +23965,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84010/dragon-ball-super-episode-016",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-16",
                 },
             ],
             episodeLength: 1402.19244,
@@ -18974,6 +23990,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66404/dragon-ball-super-dub-episode-017",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-17",
+                },
             ],
             episodeLength: 1387.17744,
         },
@@ -18990,6 +24010,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84009/dragon-ball-super-episode-017",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-17",
                 },
             ],
             episodeLength: 1402.192443,
@@ -19011,6 +24035,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66402/dragon-ball-super-dub-episode-018",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-18",
+                },
             ],
             episodeLength: 1387.135739,
         },
@@ -19027,6 +24055,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84008/dragon-ball-super-episode-018",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-18",
                 },
             ],
             episodeLength: 1402.192432,
@@ -19048,6 +24080,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66400/dragon-ball-super-dub-episode-019",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-19",
+                },
             ],
             episodeLength: 1387.177434,
         },
@@ -19064,6 +24100,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84007/dragon-ball-super-episode-019",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-19",
                 },
             ],
             episodeLength: 1402.192439,
@@ -19085,6 +24125,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66398/dragon-ball-super-dub-episode-020",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-20",
+                },
             ],
             episodeLength: 1355.145476,
         },
@@ -19101,6 +24145,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84006/dragon-ball-super-episode-020",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-20",
                 },
             ],
             episodeLength: 1402.192451,
@@ -19122,6 +24170,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66396/dragon-ball-super-dub-episode-021",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-21",
+                },
             ],
             episodeLength: 1355.145472,
         },
@@ -19138,6 +24190,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84005/dragon-ball-super-episode-021",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-21",
                 },
             ],
             episodeLength: 1402.192441,
@@ -19159,6 +24215,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66394/dragon-ball-super-dub-episode-022",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-22",
+                },
             ],
             episodeLength: 1355.145474,
         },
@@ -19175,6 +24235,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84004/dragon-ball-super-episode-022",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-22",
                 },
             ],
             episodeLength: 1402.192447,
@@ -19196,6 +24260,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66392/dragon-ball-super-dub-episode-023",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-23",
+                },
             ],
             episodeLength: 1355.145476,
         },
@@ -19212,6 +24280,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84003/dragon-ball-super-episode-023",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-23",
                 },
             ],
             episodeLength: 1402.192447,
@@ -19233,6 +24305,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66390/dragon-ball-super-dub-episode-024",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-24",
+                },
             ],
             episodeLength: 1387.177441,
         },
@@ -19249,6 +24325,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84002/dragon-ball-super-episode-024",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-24",
                 },
             ],
             episodeLength: 1402.150737,
@@ -19270,6 +24350,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66388/dragon-ball-super-dub-episode-025",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-25",
+                },
             ],
             episodeLength: 1355.145446,
         },
@@ -19286,6 +24370,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84001/dragon-ball-super-episode-025",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-25",
                 },
             ],
             episodeLength: 1402.192453,
@@ -19307,6 +24395,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66386/dragon-ball-super-dub-episode-026",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-26",
+                },
             ],
             episodeLength: 1355.103766,
         },
@@ -19323,6 +24415,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/84000/dragon-ball-super-episode-026",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-26",
                 },
             ],
             episodeLength: 1402.150731,
@@ -19344,6 +24440,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66384/dragon-ball-super-dub-episode-027",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-27",
+                },
             ],
             episodeLength: 1355.145471,
         },
@@ -19360,6 +24460,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83999/dragon-ball-super-episode-027",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-27",
                 },
             ],
             episodeLength: 1402.192435,
@@ -19381,6 +24485,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66382/dragon-ball-super-dub-episode-028",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-28",
+                },
             ],
             episodeLength: 1355.145448,
         },
@@ -19397,6 +24505,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83998/dragon-ball-super-episode-028",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-28",
                 },
             ],
             episodeLength: 1402.192434,
@@ -19418,6 +24530,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66380/dragon-ball-super-dub-episode-029",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-29",
+                },
             ],
             episodeLength: 1360.150478,
         },
@@ -19434,6 +24550,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83997/dragon-ball-super-episode-029",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-29",
                 },
             ],
             episodeLength: 1402.192444,
@@ -19455,6 +24575,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66378/dragon-ball-super-dub-episode-030",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-30",
+                },
             ],
             episodeLength: 1360.150476,
         },
@@ -19471,6 +24595,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83996/dragon-ball-super-episode-030",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-30",
                 },
             ],
             episodeLength: 1402.192441,
@@ -19492,6 +24620,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66376/dragon-ball-super-dub-episode-031",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-31",
+                },
             ],
             episodeLength: 1360.15048,
         },
@@ -19508,6 +24640,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83995/dragon-ball-super-episode-031",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-31",
                 },
             ],
             episodeLength: 1402.192433,
@@ -19529,6 +24665,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66374/dragon-ball-super-dub-episode-032",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-32",
+                },
             ],
             episodeLength: 1360.150466,
         },
@@ -19545,6 +24685,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83994/dragon-ball-super-episode-032",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-32",
                 },
             ],
             episodeLength: 1402.192441,
@@ -19566,6 +24710,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66372/dragon-ball-super-dub-episode-033",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-33",
+                },
             ],
             episodeLength: 1360.150467,
         },
@@ -19582,6 +24730,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83993/dragon-ball-super-episode-033",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-33",
                 },
             ],
             episodeLength: 1402.19244,
@@ -19603,6 +24755,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66370/dragon-ball-super-dub-episode-034",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-34",
+                },
             ],
             episodeLength: 1360.150469,
         },
@@ -19619,6 +24775,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83992/dragon-ball-super-episode-034",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-34",
                 },
             ],
             episodeLength: 1402.150734,
@@ -19640,6 +24800,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66368/dragon-ball-super-dub-episode-035",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-35",
+                },
             ],
             episodeLength: 1359.733404,
         },
@@ -19656,6 +24820,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83991/dragon-ball-super-episode-035",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-35",
                 },
             ],
             episodeLength: 1402.150723,
@@ -19677,6 +24845,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66366/dragon-ball-super-dub-episode-036",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-36",
+                },
             ],
             episodeLength: 1359.733402,
         },
@@ -19693,6 +24865,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83990/dragon-ball-super-episode-036",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-36",
                 },
             ],
             episodeLength: 1405.23716,
@@ -19714,6 +24890,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66364/dragon-ball-super-dub-episode-037",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-37",
+                },
             ],
             episodeLength: 1355.103754,
         },
@@ -19730,6 +24910,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83989/dragon-ball-super-episode-037",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-37",
                 },
             ],
             episodeLength: 1402.150743,
@@ -19751,6 +24935,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66362/dragon-ball-super-dub-episode-038",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-38",
+                },
             ],
             episodeLength: 1355.14547,
         },
@@ -19767,6 +24955,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83988/dragon-ball-super-episode-038",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-38",
                 },
             ],
             episodeLength: 1402.192442,
@@ -19788,6 +24980,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66360/dragon-ball-super-dub-episode-039",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-39",
+                },
             ],
             episodeLength: 1357.814811,
         },
@@ -19804,6 +25000,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83987/dragon-ball-super-episode-039",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-39",
                 },
             ],
             episodeLength: 1402.150737,
@@ -19825,6 +25025,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66358/dragon-ball-super-dub-episode-040",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-40",
+                },
             ],
             episodeLength: 1361.943917,
         },
@@ -19841,6 +25045,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83986/dragon-ball-super-episode-040",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-40",
                 },
             ],
             episodeLength: 1402.192439,
@@ -19862,6 +25070,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66356/dragon-ball-super-dub-episode-041",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-41",
+                },
             ],
             episodeLength: 1361.902225,
         },
@@ -19878,6 +25090,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83985/dragon-ball-super-episode-041",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-41",
                 },
             ],
             episodeLength: 1402.150722,
@@ -19899,6 +25115,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66354/dragon-ball-super-dub-episode-042",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-42",
+                },
             ],
             episodeLength: 1361.902239,
         },
@@ -19915,6 +25135,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83984/dragon-ball-super-episode-042",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-42",
                 },
             ],
             episodeLength: 1402.192441,
@@ -19936,6 +25160,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66352/dragon-ball-super-dub-episode-043",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-43",
+                },
             ],
             episodeLength: 1361.9022,
         },
@@ -19952,6 +25180,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83983/dragon-ball-super-episode-043",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-43",
                 },
             ],
             episodeLength: 1402.192433,
@@ -19973,6 +25205,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66350/dragon-ball-super-dub-episode-044",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-44",
+                },
             ],
             episodeLength: 1361.902232,
         },
@@ -19989,6 +25225,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83982/dragon-ball-super-episode-044",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-44",
                 },
             ],
             episodeLength: 1402.150731,
@@ -20010,6 +25250,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66348/dragon-ball-super-dub-episode-045",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-45",
+                },
             ],
             episodeLength: 1361.902202,
         },
@@ -20026,6 +25270,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83981/dragon-ball-super-episode-045",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-45",
                 },
             ],
             episodeLength: 1402.15073,
@@ -20047,6 +25295,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66346/dragon-ball-super-dub-episode-046",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-46",
+                },
             ],
             episodeLength: 1361.902235,
         },
@@ -20063,6 +25315,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83980/dragon-ball-super-episode-046",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-46",
                 },
             ],
             episodeLength: 1402.192445,
@@ -20084,6 +25340,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66344/dragon-ball-super-dub-episode-047",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-47",
+                },
             ],
             episodeLength: 1364.321282,
         },
@@ -20100,6 +25360,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83979/dragon-ball-super-episode-047",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-47",
                 },
             ],
             episodeLength: 1402.192432,
@@ -20121,6 +25385,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66342/dragon-ball-super-dub-episode-048",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-48",
+                },
             ],
             episodeLength: 1364.321294,
         },
@@ -20137,6 +25405,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83978/dragon-ball-super-episode-048",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-48",
                 },
             ],
             episodeLength: 1402.192445,
@@ -20158,6 +25430,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66340/dragon-ball-super-dub-episode-049",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-49",
+                },
             ],
             episodeLength: 1364.321301,
         },
@@ -20174,6 +25450,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83977/dragon-ball-super-episode-049",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-49",
                 },
             ],
             episodeLength: 1402.19245,
@@ -20195,6 +25475,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66338/dragon-ball-super-dub-episode-050",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-50",
+                },
             ],
             episodeLength: 1364.321299,
         },
@@ -20211,6 +25495,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83976/dragon-ball-super-episode-050",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-50",
                 },
             ],
             episodeLength: 1402.150727,
@@ -20232,6 +25520,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66336/dragon-ball-super-dub-episode-051",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-51",
+                },
             ],
             episodeLength: 1364.321301,
         },
@@ -20248,6 +25540,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83975/dragon-ball-super-episode-051",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-51",
                 },
             ],
             episodeLength: 1402.150733,
@@ -20269,6 +25565,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66334/dragon-ball-super-dub-episode-052",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-52",
+                },
             ],
             episodeLength: 1364.279586,
         },
@@ -20285,6 +25585,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83974/dragon-ball-super-episode-052",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-52",
                 },
             ],
             episodeLength: 1402.192454,
@@ -20306,6 +25610,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66332/dragon-ball-super-dub-episode-053",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-53",
+                },
             ],
             episodeLength: 1364.279603,
         },
@@ -20322,6 +25630,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83973/dragon-ball-super-episode-053",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-53",
                 },
             ],
             episodeLength: 1402.192448,
@@ -20343,6 +25655,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66330/dragon-ball-super-dub-episode-054",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-54",
+                },
             ],
             episodeLength: 1364.27961,
         },
@@ -20359,6 +25675,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83972/dragon-ball-super-episode-054",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-54",
                 },
             ],
             episodeLength: 1402.192446,
@@ -20380,6 +25700,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66328/dragon-ball-super-dub-episode-055",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-55",
+                },
             ],
             episodeLength: 1364.279614,
         },
@@ -20396,6 +25720,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83971/dragon-ball-super-episode-055",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-55",
                 },
             ],
             episodeLength: 1404.694948,
@@ -20417,6 +25745,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66326/dragon-ball-super-dub-episode-056",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-56",
+                },
             ],
             episodeLength: 1364.279608,
         },
@@ -20433,6 +25765,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83970/dragon-ball-super-episode-056",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-56",
                 },
             ],
             episodeLength: 1402.109024,
@@ -20454,6 +25790,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66324/dragon-ball-super-dub-episode-057",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-57",
+                },
             ],
             episodeLength: 1364.279617,
         },
@@ -20470,6 +25810,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83969/dragon-ball-super-episode-057",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-57",
                 },
             ],
             episodeLength: 1402.150735,
@@ -20491,6 +25835,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66322/dragon-ball-super-dub-episode-058",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-58",
+                },
             ],
             episodeLength: 1364.279603,
         },
@@ -20507,6 +25855,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83968/dragon-ball-super-episode-058",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-58",
                 },
             ],
             episodeLength: 1402.150742,
@@ -20528,6 +25880,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66320/dragon-ball-super-dub-episode-059",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-59",
+                },
             ],
             episodeLength: 1364.2796,
         },
@@ -20544,6 +25900,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83967/dragon-ball-super-episode-059",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-59",
                 },
             ],
             episodeLength: 1402.192446,
@@ -20565,6 +25925,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66317/dragon-ball-super-dub-episode-060",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-60",
+                },
             ],
             episodeLength: 1364.2796,
         },
@@ -20581,6 +25945,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83966/dragon-ball-super-episode-060",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-60",
                 },
             ],
             episodeLength: 1402.150731,
@@ -20602,6 +25970,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66316/dragon-ball-super-dub-episode-061",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-61",
+                },
             ],
             episodeLength: 1364.279574,
         },
@@ -20618,6 +25990,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83965/dragon-ball-super-episode-061",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-61",
                 },
             ],
             episodeLength: 1403.93331,
@@ -20639,6 +26015,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66315/dragon-ball-super-dub-episode-062",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-62",
+                },
             ],
             episodeLength: 1364.279608,
         },
@@ -20655,6 +26035,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83964/dragon-ball-super-episode-062",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-62",
                 },
             ],
             episodeLength: 1402.192458,
@@ -20676,6 +26060,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66314/dragon-ball-super-dub-episode-063",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-63",
+                },
             ],
             episodeLength: 1364.279609,
         },
@@ -20692,6 +26080,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83963/dragon-ball-super-episode-063",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-63",
                 },
             ],
             episodeLength: 1402.317565,
@@ -20713,6 +26105,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66313/dragon-ball-super-dub-episode-064",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-64",
+                },
             ],
             episodeLength: 1364.279572,
         },
@@ -20729,6 +26125,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83962/dragon-ball-super-episode-064",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-64",
                 },
             ],
             episodeLength: 1402.150723,
@@ -20750,6 +26150,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66312/dragon-ball-super-dub-episode-065",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-65",
+                },
             ],
             episodeLength: 1364.279606,
         },
@@ -20766,6 +26170,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83961/dragon-ball-super-episode-065",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-65",
                 },
             ],
             episodeLength: 1402.19244,
@@ -20787,6 +26195,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66311/dragon-ball-super-dub-episode-066",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-66",
+                },
             ],
             episodeLength: 1355.103741,
         },
@@ -20803,6 +26215,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83960/dragon-ball-super-episode-066",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-66",
                 },
             ],
             episodeLength: 1402.359278,
@@ -20824,6 +26240,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66310/dragon-ball-super-dub-episode-067",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-67",
+                },
             ],
             episodeLength: 1355.103771,
         },
@@ -20840,6 +26260,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83959/dragon-ball-super-episode-067",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-67",
                 },
             ],
             episodeLength: 1408.156778,
@@ -20861,6 +26285,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66309/dragon-ball-super-dub-episode-068",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-68",
+                },
             ],
             episodeLength: 1355.187202,
         },
@@ -20877,6 +26305,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83958/dragon-ball-super-episode-068",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-68",
                 },
             ],
             episodeLength: 1402.442735,
@@ -20898,6 +26330,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66308/dragon-ball-super-dub-episode-069",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-69",
+                },
             ],
             episodeLength: 1355.14547,
         },
@@ -20914,6 +26350,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83957/dragon-ball-super-episode-069",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-69",
                 },
             ],
             episodeLength: 1402.192435,
@@ -20935,6 +26375,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66307/dragon-ball-super-dub-episode-070",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-70",
+                },
             ],
             episodeLength: 1355.10377,
         },
@@ -20951,6 +26395,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83956/dragon-ball-super-episode-070",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-70",
                 },
             ],
             episodeLength: 1402.359328,
@@ -20972,6 +26420,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66306/dragon-ball-super-dub-episode-071",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-71",
+                },
             ],
             episodeLength: 1387.177446,
         },
@@ -20988,6 +26440,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83955/dragon-ball-super-episode-071",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-71",
                 },
             ],
             episodeLength: 1402.192475,
@@ -21009,6 +26465,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66305/dragon-ball-super-dub-episode-072",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-72",
+                },
             ],
             episodeLength: 1355.145475,
         },
@@ -21025,6 +26485,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83954/dragon-ball-super-episode-072",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-72",
                 },
             ],
             episodeLength: 1402.317606,
@@ -21046,6 +26510,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66304/dragon-ball-super-dub-episode-073",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-73",
+                },
             ],
             episodeLength: 1355.145479,
         },
@@ -21062,6 +26530,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83953/dragon-ball-super-episode-073",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-73",
                 },
             ],
             episodeLength: 1402.192475,
@@ -21083,6 +26555,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66303/dragon-ball-super-dub-episode-074",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-74",
+                },
             ],
             episodeLength: 1355.145482,
         },
@@ -21099,6 +26575,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83952/dragon-ball-super-episode-074",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-74",
                 },
             ],
             episodeLength: 1402.192476,
@@ -21120,6 +26600,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66302/dragon-ball-super-dub-episode-075",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-75",
+                },
             ],
             episodeLength: 1386.176467,
         },
@@ -21136,6 +26620,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83951/dragon-ball-super-episode-075",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-75",
                 },
             ],
             episodeLength: 1402.192483,
@@ -21157,6 +26645,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66301/dragon-ball-super-dub-episode-076",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-76",
+                },
             ],
             episodeLength: 1355.145468,
         },
@@ -21173,6 +26665,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83950/dragon-ball-super-episode-076",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-76",
                 },
             ],
             episodeLength: 1402.192476,
@@ -21194,6 +26690,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66300/dragon-ball-super-dub-episode-077",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-77",
+                },
             ],
             episodeLength: 1354.93692,
         },
@@ -21210,6 +26710,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83949/dragon-ball-super-episode-077",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-77",
                 },
             ],
             episodeLength: 1402.234189,
@@ -21231,6 +26735,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66299/dragon-ball-super-dub-episode-078",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-78",
+                },
             ],
             episodeLength: 1354.978639,
         },
@@ -21247,6 +26755,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83948/dragon-ball-super-episode-078",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-78",
                 },
             ],
             episodeLength: 1402.19247,
@@ -21268,6 +26780,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66298/dragon-ball-super-dub-episode-079",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-79",
+                },
             ],
             episodeLength: 1358.106766,
         },
@@ -21284,6 +26800,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83947/dragon-ball-super-episode-079",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-79",
                 },
             ],
             episodeLength: 1402.234191,
@@ -21305,6 +26825,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66297/dragon-ball-super-dub-episode-080",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-80",
+                },
             ],
             episodeLength: 1354.978614,
         },
@@ -21321,6 +26845,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83946/dragon-ball-super-episode-080",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-80",
                 },
             ],
             episodeLength: 1402.176224,
@@ -21342,6 +26870,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66296/dragon-ball-super-dub-episode-081",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-81",
+                },
             ],
             episodeLength: 1354.978641,
         },
@@ -21358,6 +26890,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83945/dragon-ball-super-episode-081",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-81",
                 },
             ],
             episodeLength: 1402.234152,
@@ -21379,6 +26915,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66295/dragon-ball-super-dub-episode-082",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-82",
+                },
             ],
             episodeLength: 1354.936936,
         },
@@ -21395,6 +26935,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83944/dragon-ball-super-episode-082",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-82",
                 },
             ],
             episodeLength: 1402.192461,
@@ -21416,6 +26960,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66294/dragon-ball-super-dub-episode-083",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-83",
+                },
             ],
             episodeLength: 1354.97865,
         },
@@ -21432,6 +26980,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83943/dragon-ball-super-episode-083",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-83",
                 },
             ],
             episodeLength: 1402.275877,
@@ -21453,6 +27005,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66292/dragon-ball-super-dub-episode-084",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-84",
+                },
             ],
             episodeLength: 1355.145466,
         },
@@ -21469,6 +27025,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83942/dragon-ball-super-episode-084",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-84",
                 },
             ],
             episodeLength: 1402.275869,
@@ -21490,6 +27050,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66291/dragon-ball-super-dub-episode-085",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-85",
+                },
             ],
             episodeLength: 1355.145477,
         },
@@ -21506,6 +27070,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83941/dragon-ball-super-episode-085",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-85",
                 },
             ],
             episodeLength: 1401.817107,
@@ -21527,6 +27095,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66290/dragon-ball-super-dub-episode-086",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-86",
+                },
             ],
             episodeLength: 1355.103771,
         },
@@ -21543,6 +27115,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83940/dragon-ball-super-episode-086",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-86",
                 },
             ],
             episodeLength: 1402.109068,
@@ -21564,6 +27140,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66288/dragon-ball-super-dub-episode-087",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-87",
+                },
             ],
             episodeLength: 1355.145477,
         },
@@ -21580,6 +27160,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83939/dragon-ball-super-episode-087",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-87",
                 },
             ],
             episodeLength: 1402.150775,
@@ -21601,6 +27185,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66287/dragon-ball-super-dub-episode-088",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-88",
+                },
             ],
             episodeLength: 1355.14547,
         },
@@ -21617,6 +27205,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83938/dragon-ball-super-episode-088",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-88",
                 },
             ],
             episodeLength: 1402.192465,
@@ -21638,6 +27230,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66286/dragon-ball-super-dub-episode-089",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-89",
+                },
             ],
             episodeLength: 1355.145472,
         },
@@ -21654,6 +27250,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83937/dragon-ball-super-episode-089",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-89",
                 },
             ],
             episodeLength: 1402.150774,
@@ -21675,6 +27275,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66284/dragon-ball-super-dub-episode-090",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-90",
+                },
             ],
             episodeLength: 1355.145476,
         },
@@ -21691,6 +27295,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83936/dragon-ball-super-episode-090",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-90",
                 },
             ],
             episodeLength: 1402.275895,
@@ -21712,6 +27320,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66283/dragon-ball-super-dub-episode-091",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-91",
+                },
             ],
             episodeLength: 1355.145461,
         },
@@ -21728,6 +27340,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83935/dragon-ball-super-episode-091",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-91",
                 },
             ],
             episodeLength: 1402.150785,
@@ -21749,6 +27365,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66282/dragon-ball-super-dub-episode-092",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-92",
+                },
             ],
             episodeLength: 1386.134774,
         },
@@ -21765,6 +27385,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83934/dragon-ball-super-episode-092",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-92",
                 },
             ],
             episodeLength: 1402.109066,
@@ -21786,6 +27410,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66280/dragon-ball-super-dub-episode-093",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-93",
+                },
             ],
             episodeLength: 1355.062063,
         },
@@ -21802,6 +27430,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83933/dragon-ball-super-episode-093",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-93",
                 },
             ],
             episodeLength: 1401.900524,
@@ -21823,6 +27455,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66279/dragon-ball-super-dub-episode-094",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-94",
+                },
             ],
             episodeLength: 1355.145474,
         },
@@ -21839,6 +27475,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83932/dragon-ball-super-episode-094",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-94",
                 },
             ],
             episodeLength: 1401.900544,
@@ -21860,6 +27500,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66278/dragon-ball-super-dub-episode-095",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-95",
+                },
             ],
             episodeLength: 1355.103772,
         },
@@ -21876,6 +27520,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83931/dragon-ball-super-episode-095",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-95",
                 },
             ],
             episodeLength: 1402.109069,
@@ -21897,6 +27545,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66277/dragon-ball-super-dub-episode-096",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-96",
+                },
             ],
             episodeLength: 1355.14547,
         },
@@ -21913,6 +27565,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83930/dragon-ball-super-episode-096",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-96",
                 },
             ],
             episodeLength: 1402.15077,
@@ -21934,6 +27590,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66275/dragon-ball-super-dub-episode-097",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-97",
+                },
             ],
             episodeLength: 1355.10377,
         },
@@ -21950,6 +27610,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83929/dragon-ball-super-episode-097",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-97",
                 },
             ],
             episodeLength: 1402.275866,
@@ -21971,6 +27635,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66272/dragon-ball-super-dub-episode-098",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-98",
+                },
             ],
             episodeLength: 1355.103762,
         },
@@ -21987,6 +27655,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83928/dragon-ball-super-episode-098",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-98",
                 },
             ],
             episodeLength: 1401.56685,
@@ -22008,6 +27680,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66270/dragon-ball-super-dub-episode-099",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-99",
+                },
             ],
             episodeLength: 1355.10376,
         },
@@ -22024,6 +27700,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83927/dragon-ball-super-episode-099",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-99",
                 },
             ],
             episodeLength: 1401.691977,
@@ -22045,6 +27725,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66268/dragon-ball-super-dub-episode-100",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-100",
+                },
             ],
             episodeLength: 1355.145467,
         },
@@ -22061,6 +27745,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83926/dragon-ball-super-episode-100",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-100",
                 },
             ],
             episodeLength: 1402.150776,
@@ -22082,6 +27770,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66266/dragon-ball-super-dub-episode-101",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-101",
+                },
             ],
             episodeLength: 1355.145466,
         },
@@ -22098,6 +27790,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83925/dragon-ball-super-episode-101",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-101",
                 },
             ],
             episodeLength: 1402.150773,
@@ -22119,6 +27815,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66265/dragon-ball-super-dub-episode-102",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-102",
+                },
             ],
             episodeLength: 1355.145474,
         },
@@ -22135,6 +27835,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83924/dragon-ball-super-episode-102",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-102",
                 },
             ],
             episodeLength: 1402.150787,
@@ -22156,6 +27860,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66263/dragon-ball-super-dub-episode-103",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-103",
+                },
             ],
             episodeLength: 1334.733391,
         },
@@ -22172,6 +27880,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83923/dragon-ball-super-episode-103",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-103",
                 },
             ],
             episodeLength: 1401.858798,
@@ -22193,6 +27905,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66260/dragon-ball-super-dub-episode-104",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-104",
+                },
             ],
             episodeLength: 1355.145336,
         },
@@ -22209,6 +27925,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83922/dragon-ball-super-episode-104",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-104",
                 },
             ],
             episodeLength: 1402.150792,
@@ -22230,6 +27950,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66258/dragon-ball-super-dub-episode-105",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-105",
+                },
             ],
             episodeLength: 1355.103759,
         },
@@ -22246,6 +27970,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83921/dragon-ball-super-episode-105",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-105",
                 },
             ],
             episodeLength: 1402.109072,
@@ -22267,6 +27995,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66256/dragon-ball-super-dub-episode-106",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-106",
+                },
             ],
             episodeLength: 1355.145469,
         },
@@ -22283,6 +28015,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83920/dragon-ball-super-episode-106",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-106",
                 },
             ],
             episodeLength: 1402.150774,
@@ -22304,6 +28040,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66254/dragon-ball-super-dub-episode-107",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-107",
+                },
             ],
             episodeLength: 1355.145477,
         },
@@ -22320,6 +28060,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83919/dragon-ball-super-episode-107",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-107",
                 },
             ],
             episodeLength: 1402.150783,
@@ -22341,6 +28085,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66252/dragon-ball-super-dub-episode-108",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-108",
+                },
             ],
             episodeLength: 1355.145472,
         },
@@ -22357,6 +28105,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83918/dragon-ball-super-episode-108",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-108",
                 },
             ],
             episodeLength: 1402.150778,
@@ -22378,6 +28130,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66250/dragon-ball-super-dub-episode-109",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-109",
+                },
             ],
             episodeLength: 1370.160473,
         },
@@ -22394,6 +28150,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83917/dragon-ball-super-episode-109",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-109",
                 },
             ],
             episodeLength: 1387.260897,
@@ -22415,6 +28175,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66248/dragon-ball-super-dub-episode-110",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-110",
+                },
             ],
             episodeLength: 1340.088777,
         },
@@ -22431,6 +28195,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83916/dragon-ball-super-episode-110",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-110",
                 },
             ],
             episodeLength: 1444.651558,
@@ -22452,6 +28220,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66246/dragon-ball-super-dub-episode-111",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-111",
+                },
             ],
             episodeLength: 1355.687633,
         },
@@ -22468,6 +28240,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83915/dragon-ball-super-episode-111",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-111",
                 },
             ],
             episodeLength: 1387.302572,
@@ -22489,6 +28265,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66244/dragon-ball-super-dub-episode-112",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-112",
+                },
             ],
             episodeLength: 1340.088761,
         },
@@ -22505,6 +28285,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83914/dragon-ball-super-episode-112",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-112",
                 },
             ],
             episodeLength: 1387.135776,
@@ -22526,6 +28310,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66242/dragon-ball-super-dub-episode-113",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-113",
+                },
             ],
             episodeLength: 1370.243888,
         },
@@ -22542,6 +28330,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83913/dragon-ball-super-episode-113",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-113",
                 },
             ],
             episodeLength: 1417.249182,
@@ -22563,6 +28355,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66240/dragon-ball-super-dub-episode-114",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-114",
+                },
             ],
             episodeLength: 1370.160459,
         },
@@ -22579,6 +28375,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83912/dragon-ball-super-episode-114",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-114",
                 },
             ],
             episodeLength: 1417.207476,
@@ -22600,6 +28400,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66238/dragon-ball-super-dub-episode-115",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-115",
+                },
             ],
             episodeLength: 1370.160468,
         },
@@ -22616,6 +28420,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83911/dragon-ball-super-episode-115",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-115",
                 },
             ],
             episodeLength: 1417.290904,
@@ -22637,6 +28445,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66236/dragon-ball-super-dub-episode-116",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-116",
+                },
             ],
             episodeLength: 1370.160473,
         },
@@ -22653,6 +28465,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83910/dragon-ball-super-episode-116",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-116",
                 },
             ],
             episodeLength: 1417.290894,
@@ -22674,6 +28490,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66234/dragon-ball-super-dub-episode-117",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-117",
+                },
             ],
             episodeLength: 1260.926334,
         },
@@ -22690,6 +28510,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83909/dragon-ball-super-episode-117",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-117",
                 },
             ],
             episodeLength: 1417.165768,
@@ -22711,6 +28535,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66232/dragon-ball-super-dub-episode-118",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-118",
+                },
             ],
             episodeLength: 1370.160476,
         },
@@ -22727,6 +28555,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83908/dragon-ball-super-episode-118",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-118",
                 },
             ],
             episodeLength: 1417.332601,
@@ -22748,6 +28580,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66230/dragon-ball-super-dub-episode-119",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-119",
+                },
             ],
             episodeLength: 1304.903597,
         },
@@ -22764,6 +28600,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83907/dragon-ball-super-episode-119",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-119",
                 },
             ],
             episodeLength: 1417.290896,
@@ -22785,6 +28625,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66228/dragon-ball-super-dub-episode-120",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-120",
+                },
             ],
             episodeLength: 1370.118774,
         },
@@ -22801,6 +28645,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83906/dragon-ball-super-episode-120",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-120",
                 },
             ],
             episodeLength: 1417.16576,
@@ -22822,6 +28670,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66226/dragon-ball-super-dub-episode-121",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-121",
+                },
             ],
             episodeLength: 1370.160458,
         },
@@ -22838,6 +28690,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83905/dragon-ball-super-episode-121",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-121",
                 },
             ],
             episodeLength: 1417.2909,
@@ -22859,6 +28715,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66224/dragon-ball-super-dub-episode-122",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-122",
+                },
             ],
             episodeLength: 1370.160467,
         },
@@ -22875,6 +28735,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83904/dragon-ball-super-episode-122",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-122",
                 },
             ],
             episodeLength: 1417.290865,
@@ -22896,6 +28760,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66222/dragon-ball-super-dub-episode-123",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-123",
+                },
             ],
             episodeLength: 1370.160467,
         },
@@ -22912,6 +28780,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83903/dragon-ball-super-episode-123",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-123",
                 },
             ],
             episodeLength: 1417.165774,
@@ -22933,6 +28805,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66220/dragon-ball-super-dub-episode-124",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-124",
+                },
             ],
             episodeLength: 1372.162446,
         },
@@ -22949,6 +28825,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83902/dragon-ball-super-episode-124",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-124",
                 },
             ],
             episodeLength: 1417.290905,
@@ -22970,6 +28850,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66218/dragon-ball-super-dub-episode-125",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-125",
+                },
             ],
             episodeLength: 1371.161443,
         },
@@ -22986,6 +28870,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83901/dragon-ball-super-episode-125",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-125",
                 },
             ],
             episodeLength: 1417.290898,
@@ -23007,6 +28895,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66216/dragon-ball-super-dub-episode-126",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-126",
+                },
             ],
             episodeLength: 1372.162447,
         },
@@ -23023,6 +28915,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83900/dragon-ball-super-episode-126",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-126",
                 },
             ],
             episodeLength: 1417.290901,
@@ -23044,6 +28940,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66214/dragon-ball-super-dub-episode-127",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-127",
+                },
             ],
             episodeLength: 1370.118762,
         },
@@ -23060,6 +28960,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83899/dragon-ball-super-episode-127",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-127",
                 },
             ],
             episodeLength: 1417.24918,
@@ -23081,6 +28985,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66212/dragon-ball-super-dub-episode-128",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-128",
+                },
             ],
             episodeLength: 1370.243872,
         },
@@ -23097,6 +29005,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83898/dragon-ball-super-episode-128",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-128",
                 },
             ],
             episodeLength: 1417.37428,
@@ -23118,6 +29030,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66210/dragon-ball-super-dub-episode-129",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-129",
+                },
             ],
             episodeLength: 1370.160484,
         },
@@ -23134,6 +29050,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83897/dragon-ball-super-episode-129",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-129",
                 },
             ],
             episodeLength: 1417.290905,
@@ -23155,6 +29075,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66208/dragon-ball-super-dub-episode-130",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-130",
+                },
             ],
             episodeLength: 1370.160468,
         },
@@ -23171,6 +29095,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83896/dragon-ball-super-episode-130",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-130",
                 },
             ],
             episodeLength: 1417.290911,
@@ -23192,6 +29120,10 @@ dragonBallSuper = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/66206/dragon-ball-super-dub-episode-131",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-dub-episode-131",
+                },
             ],
             episodeLength: 1371.078079,
         },
@@ -23208,6 +29140,10 @@ dragonBallSuper = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/83895/dragon-ball-super-episode-131",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-super-episode-131",
                 },
             ],
             episodeLength: 1387.177483,
@@ -23232,6 +29168,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133815/dragon-ball-gt-dub-episode-001",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-1",
+                },
             ],
             episodeLength: 1479,
         },
@@ -23248,6 +29188,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17634/dragon-ball-gt-episode-001",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-1",
                 },
             ],
             episodeLength: 1480.811,
@@ -23269,6 +29213,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133804/dragon-ball-gt-dub-episode-002",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-2",
+                },
             ],
             episodeLength: 1478.686,
         },
@@ -23285,6 +29233,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17632/dragon-ball-gt-episode-002",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-2",
                 },
             ],
             episodeLength: 1478.686,
@@ -23306,6 +29258,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133795/dragon-ball-gt-dub-episode-003",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-3",
+                },
             ],
             episodeLength: 1478.519,
         },
@@ -23322,6 +29278,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17630/dragon-ball-gt-episode-003",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-3",
                 },
             ],
             episodeLength: 1478.784,
@@ -23343,6 +29303,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133787/dragon-ball-gt-dub-episode-004",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-4",
+                },
             ],
             episodeLength: 1478.686,
         },
@@ -23359,6 +29323,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17628/dragon-ball-gt-episode-004",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-4",
                 },
             ],
             episodeLength: 1479.19,
@@ -23380,6 +29348,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133776/dragon-ball-gt-dub-episode-005",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-5",
+                },
             ],
             episodeLength: 1478.686,
         },
@@ -23396,6 +29368,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17627/dragon-ball-gt-episode-005",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-5",
                 },
             ],
             episodeLength: 1478.763,
@@ -23417,6 +29393,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133767/dragon-ball-gt-dub-episode-006",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-6",
+                },
             ],
             episodeLength: 1479.02,
         },
@@ -23433,6 +29413,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17626/dragon-ball-gt-episode-006",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-6",
                 },
             ],
             episodeLength: 1480.79,
@@ -23454,6 +29438,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133757/dragon-ball-gt-dub-episode-007",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-7",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23470,6 +29458,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17624/dragon-ball-gt-episode-007",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-7",
                 },
             ],
             episodeLength: 1480.555,
@@ -23491,6 +29483,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133745/dragon-ball-gt-dub-episode-008",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-8",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23507,6 +29503,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17622/dragon-ball-gt-episode-008",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-8",
                 },
             ],
             episodeLength: 1478.853,
@@ -23528,6 +29528,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133735/dragon-ball-gt-dub-episode-009",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-9",
+                },
             ],
             episodeLength: 1479.02,
         },
@@ -23544,6 +29548,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17619/dragon-ball-gt-episode-009",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-9",
                 },
             ],
             episodeLength: 1480.299,
@@ -23565,6 +29573,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133724/dragon-ball-gt-dub-episode-010",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-10",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23581,6 +29593,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17618/dragon-ball-gt-episode-010",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-10",
                 },
             ],
             episodeLength: 1480.15,
@@ -23602,6 +29618,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133712/dragon-ball-gt-dub-episode-011",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-11",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23618,6 +29638,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17616/dragon-ball-gt-episode-011",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-11",
                 },
             ],
             episodeLength: 1478.853,
@@ -23639,6 +29663,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133701/dragon-ball-gt-dub-episode-012",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-12",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -23655,6 +29683,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17614/dragon-ball-gt-episode-012",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-12",
                 },
             ],
             episodeLength: 1479.061,
@@ -23676,6 +29708,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133688/dragon-ball-gt-dub-episode-013",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-13",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23692,6 +29728,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17612/dragon-ball-gt-episode-013",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-13",
                 },
             ],
             episodeLength: 1478.853,
@@ -23713,6 +29753,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133679/dragon-ball-gt-dub-episode-014",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-14",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23729,6 +29773,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17610/dragon-ball-gt-episode-014",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-14",
                 },
             ],
             episodeLength: 1478.853,
@@ -23750,6 +29798,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133667/dragon-ball-gt-dub-episode-015",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-15",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23766,6 +29818,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17608/dragon-ball-gt-episode-015",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-15",
                 },
             ],
             episodeLength: 1478.853,
@@ -23787,6 +29843,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133654/dragon-ball-gt-dub-episode-016",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-16",
+                },
             ],
             episodeLength: 1479,
         },
@@ -23803,6 +29863,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17606/dragon-ball-gt-episode-016",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-16",
                 },
             ],
             episodeLength: 1478.853,
@@ -23824,6 +29888,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133632/dragon-ball-gt-dub-episode-017",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-17",
+                },
             ],
             episodeLength: 1478.686,
         },
@@ -23840,6 +29908,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17603/dragon-ball-gt-episode-017",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-17",
                 },
             ],
             episodeLength: 1478.686,
@@ -23861,6 +29933,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133619/dragon-ball-gt-dub-episode-018",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-18",
+                },
             ],
             episodeLength: 1478.686,
         },
@@ -23877,6 +29953,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17601/dragon-ball-gt-episode-018",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-18",
                 },
             ],
             episodeLength: 1478.686,
@@ -23898,6 +29978,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133607/dragon-ball-gt-dub-episode-019",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-19",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23914,6 +29998,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17599/dragon-ball-gt-episode-019",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-19",
                 },
             ],
             episodeLength: 1478.853,
@@ -23935,6 +30023,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133594/dragon-ball-gt-dub-episode-020",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-20",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23951,6 +30043,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17597/dragon-ball-gt-episode-020",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-20",
                 },
             ],
             episodeLength: 1479.275,
@@ -23972,6 +30068,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133582/dragon-ball-gt-dub-episode-021",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-21",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -23988,6 +30088,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17595/dragon-ball-gt-episode-021",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-21",
                 },
             ],
             episodeLength: 1478.853,
@@ -24006,6 +30110,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133568/dragon-ball-gt-dub-episode-022",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-22",
+                },
             ],
             episodeLength: 1479.02,
         },
@@ -24022,6 +30130,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17593/dragon-ball-gt-episode-022",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-22",
                 },
             ],
             episodeLength: 1479.02,
@@ -24043,6 +30155,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133556/dragon-ball-gt-dub-episode-023",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-23",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24059,6 +30175,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17591/dragon-ball-gt-episode-023",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-23",
                 },
             ],
             episodeLength: 1478.853,
@@ -24080,6 +30200,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133541/dragon-ball-gt-dub-episode-024",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-24",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24096,6 +30220,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17589/dragon-ball-gt-episode-024",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-24",
                 },
             ],
             episodeLength: 1478.853,
@@ -24117,6 +30245,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133526/dragon-ball-gt-dub-episode-025",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-25",
+                },
             ],
             episodeLength: 1479,
         },
@@ -24133,6 +30265,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17587/dragon-ball-gt-episode-025",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-25",
                 },
             ],
             episodeLength: 1478.686,
@@ -24154,6 +30290,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133511/dragon-ball-gt-dub-episode-026",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-26",
+                },
             ],
             episodeLength: 1478.686,
         },
@@ -24170,6 +30310,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17585/dragon-ball-gt-episode-026",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-26",
                 },
             ],
             episodeLength: 1478.686,
@@ -24191,6 +30335,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133495/dragon-ball-gt-dub-episode-027",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-27",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24207,6 +30355,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17583/dragon-ball-gt-episode-027",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-27",
                 },
             ],
             episodeLength: 1478.853,
@@ -24228,6 +30380,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133478/dragon-ball-gt-dub-episode-028",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-28",
+                },
             ],
             episodeLength: 1479.02,
         },
@@ -24244,6 +30400,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17580/dragon-ball-gt-episode-028",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-28",
                 },
             ],
             episodeLength: 1479.02,
@@ -24265,6 +30425,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133461/dragon-ball-gt-dub-episode-029",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-29",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24281,6 +30445,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17578/dragon-ball-gt-episode-029",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-29",
                 },
             ],
             episodeLength: 1478.853,
@@ -24302,6 +30470,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133444/dragon-ball-gt-dub-episode-030",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-30",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24318,6 +30490,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17576/dragon-ball-gt-episode-030",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-30",
                 },
             ],
             episodeLength: 1478.853,
@@ -24339,6 +30515,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133427/dragon-ball-gt-dub-episode-031",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-31",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24355,6 +30535,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17574/dragon-ball-gt-episode-031",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-31",
                 },
             ],
             episodeLength: 1478.853,
@@ -24376,6 +30560,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133409/dragon-ball-gt-dub-episode-032",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-32",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24392,6 +30580,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17572/dragon-ball-gt-episode-032",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-32",
                 },
             ],
             episodeLength: 1478.853,
@@ -24413,6 +30605,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133385/dragon-ball-gt-dub-episode-033",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-33",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24429,6 +30625,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17570/dragon-ball-gt-episode-033",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-33",
                 },
             ],
             episodeLength: 1478.853,
@@ -24450,6 +30650,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133365/dragon-ball-gt-dub-episode-034",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-34",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24466,6 +30670,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17568/dragon-ball-gt-episode-034",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-34",
                 },
             ],
             episodeLength: 1478.853,
@@ -24487,6 +30695,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133341/dragon-ball-gt-dub-episode-035",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-35",
+                },
             ],
             episodeLength: 1479.02,
         },
@@ -24503,6 +30715,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17565/dragon-ball-gt-episode-035",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-35",
                 },
             ],
             episodeLength: 1479.02,
@@ -24521,6 +30737,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133317/dragon-ball-gt-dub-episode-036",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-36",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24537,6 +30757,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17563/dragon-ball-gt-episode-036",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-36",
                 },
             ],
             episodeLength: 1478.853,
@@ -24558,6 +30782,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133287/dragon-ball-gt-dub-episode-037",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-37",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24574,6 +30802,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17561/dragon-ball-gt-episode-037",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-37",
                 },
             ],
             episodeLength: 1478.853,
@@ -24595,6 +30827,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133257/dragon-ball-gt-dub-episode-038",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-38",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24611,6 +30847,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17559/dragon-ball-gt-episode-038",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-38",
                 },
             ],
             episodeLength: 1478.853,
@@ -24632,6 +30872,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133224/dragon-ball-gt-dub-episode-039",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-39",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -24648,6 +30892,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17557/dragon-ball-gt-episode-039",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-39",
                 },
             ],
             episodeLength: 1478.853,
@@ -24669,6 +30917,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133188/dragon-ball-gt-dub-episode-040",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-40",
+                },
             ],
             episodeLength: 1479.02,
         },
@@ -24685,6 +30937,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17555/dragon-ball-gt-episode-040",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-40",
                 },
             ],
             episodeLength: 1479.02,
@@ -24706,6 +30962,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133150/dragon-ball-gt-dub-episode-041",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-41",
+                },
             ],
             episodeLength: 1479,
         },
@@ -24722,6 +30982,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17553/dragon-ball-gt-episode-041",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-41",
                 },
             ],
             episodeLength: 1478.853,
@@ -24743,6 +31007,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133120/dragon-ball-gt-dub-episode-042",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-42",
+                },
             ],
             episodeLength: 1477.059,
         },
@@ -24759,6 +31027,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17551/dragon-ball-gt-episode-042",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-42",
                 },
             ],
             episodeLength: 1477.846,
@@ -24780,6 +31052,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133075/dragon-ball-gt-dub-episode-043",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-43",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -24796,6 +31072,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17549/dragon-ball-gt-episode-043",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-43",
                 },
             ],
             episodeLength: 1479.061,
@@ -24817,6 +31097,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/133030/dragon-ball-gt-dub-episode-044",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-44",
+                },
             ],
             episodeLength: 1480,
         },
@@ -24833,6 +31117,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17547/dragon-ball-gt-episode-044",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-44",
                 },
             ],
             episodeLength: 1479.061,
@@ -24854,6 +31142,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132985/dragon-ball-gt-dub-episode-045",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-45",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -24870,6 +31162,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17545/dragon-ball-gt-episode-045",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-45",
                 },
             ],
             episodeLength: 1479.061,
@@ -24891,6 +31187,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132935/dragon-ball-gt-dub-episode-046",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-46",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -24907,6 +31207,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17544/dragon-ball-gt-episode-046",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-46",
                 },
             ],
             episodeLength: 1479.061,
@@ -24928,6 +31232,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132876/dragon-ball-gt-dub-episode-047",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-47",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -24944,6 +31252,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17542/dragon-ball-gt-episode-047",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-47",
                 },
             ],
             episodeLength: 1479.061,
@@ -24965,6 +31277,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132814/dragon-ball-gt-dub-episode-048",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-48",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -24981,6 +31297,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17540/dragon-ball-gt-episode-048",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-48",
                 },
             ],
             episodeLength: 1480,
@@ -25002,6 +31322,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132751/dragon-ball-gt-dub-episode-049",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-49",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -25018,6 +31342,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17538/dragon-ball-gt-episode-049",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-49",
                 },
             ],
             episodeLength: 1479.061,
@@ -25039,6 +31367,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132684/dragon-ball-gt-dub-episode-050",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-50",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -25055,6 +31387,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17537/dragon-ball-gt-episode-050",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-50",
                 },
             ],
             episodeLength: 1479.232,
@@ -25076,6 +31412,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132612/dragon-ball-gt-dub-episode-051",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-51",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25092,6 +31432,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17534/dragon-ball-gt-episode-051",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-51",
                 },
             ],
             episodeLength: 1479.531,
@@ -25113,6 +31457,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132516/dragon-ball-gt-dub-episode-052",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-52",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25129,6 +31477,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17532/dragon-ball-gt-episode-052",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-52",
                 },
             ],
             episodeLength: 1478.853,
@@ -25150,6 +31502,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132415/dragon-ball-gt-dub-episode-053",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-53",
+                },
             ],
             episodeLength: 1478.895,
         },
@@ -25166,6 +31522,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17530/dragon-ball-gt-episode-053",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-53",
                 },
             ],
             episodeLength: 1478.895,
@@ -25187,6 +31547,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132311/dragon-ball-gt-dub-episode-054",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-54",
+                },
             ],
             episodeLength: 1479.061,
         },
@@ -25203,6 +31567,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17528/dragon-ball-gt-episode-054",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-54",
                 },
             ],
             episodeLength: 1479.702,
@@ -25224,6 +31592,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132203/dragon-ball-gt-dub-episode-055",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-55",
+                },
             ],
             episodeLength: 1478.978,
         },
@@ -25240,6 +31612,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17526/dragon-ball-gt-episode-055",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-55",
                 },
             ],
             episodeLength: 1479.424,
@@ -25261,6 +31637,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/132098/dragon-ball-gt-dub-episode-056",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-56",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25277,6 +31657,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17524/dragon-ball-gt-episode-056",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-56",
                 },
             ],
             episodeLength: 1478.853,
@@ -25298,6 +31682,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131986/dragon-ball-gt-dub-episode-057",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-57",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25314,6 +31702,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17522/dragon-ball-gt-episode-057",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-57",
                 },
             ],
             episodeLength: 1478.934,
@@ -25335,6 +31727,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131874/dragon-ball-gt-dub-episode-058",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-58",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25351,6 +31747,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17520/dragon-ball-gt-episode-058",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-58",
                 },
             ],
             episodeLength: 1478.853,
@@ -25372,6 +31772,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131764/dragon-ball-gt-dub-episode-059",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-59",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25388,6 +31792,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17519/dragon-ball-gt-episode-059",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-59",
                 },
             ],
             episodeLength: 1478.853,
@@ -25409,6 +31817,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131657/dragon-ball-gt-dub-episode-060",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-60",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25425,6 +31837,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17517/dragon-ball-gt-episode-060",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-60",
                 },
             ],
             episodeLength: 1478.853,
@@ -25446,6 +31862,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131559/dragon-ball-gt-dub-episode-061",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-61",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25462,6 +31882,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17516/dragon-ball-gt-episode-061",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-61",
                 },
             ],
             episodeLength: 1478.853,
@@ -25483,6 +31907,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131460/dragon-ball-gt-dub-episode-062",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-62",
+                },
             ],
             episodeLength: 1478.853,
         },
@@ -25499,6 +31927,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17514/dragon-ball-gt-episode-062",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-62",
                 },
             ],
             episodeLength: 1478.853,
@@ -25520,6 +31952,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131345/dragon-ball-gt-dub-episode-063",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-63",
+                },
             ],
             episodeLength: 1479.02,
         },
@@ -25536,6 +31972,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17512/dragon-ball-gt-episode-063",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-63",
                 },
             ],
             episodeLength: 1479.02,
@@ -25557,6 +31997,10 @@ dragonBallGt = {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/131231/dragon-ball-gt-dub-episode-064",
                 },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-dub-episode-64",
+                },
             ],
             episodeLength: 1450.048,
         },
@@ -25573,6 +32017,10 @@ dragonBallGt = {
                 {
                     source: "KimAnime",
                     video: "https://kimanime.com/episode/17510/dragon-ball-gt-episode-064",
+                },
+                {
+                    source: "Gogo",
+                    video: "https://gogoplay.io/videos/dragon-ball-gt-episode-64",
                 },
             ],
             episodeLength: 1449.574,
