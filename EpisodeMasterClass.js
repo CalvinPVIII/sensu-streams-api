@@ -25,8 +25,8 @@ class EpisodeMasterClass {
         this.streamStatus = {
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 193,
-            currentTime: 1340,
+            currentEpisode: 0,
+            currentTime: 0,
             episodeInfo: "",
             isInitialized: false,
             episodeDuration: 0,
@@ -40,14 +40,9 @@ class EpisodeMasterClass {
 
     async gogoPlayScrape(url) {
         try {
-            const { data } = await axios.get(url);
-            const $ = cheerio.load(data);
-            const iframe = $("iframe");
-            const src = iframe[0].attribs.src;
-            const id = src.match(/(?<=id=)(.*?)(?=&title)/gm)[0];
-            const videos = await axios.get(`https://s04.shiro.is/json/${id}`);
+            const videos = await axios.get(url);
             return videos.data.mp4;
-        } catch {
+        } catch (error) {
             console.log(error);
             return "error";
         }
