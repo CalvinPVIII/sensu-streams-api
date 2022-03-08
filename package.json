@@ -1,7 +1,7 @@
 {
-    "name": "sensustreams",
+    "name": "senzustreams",
     "version": "1.0.0",
-    "description": "back end api for sensu streams",
+    "description": "back end api for senzu streams",
     "main": "index.js",
     "engines": {
         "node": "14.x"
