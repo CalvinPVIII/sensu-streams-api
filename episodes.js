@@ -27193,17 +27193,32 @@ dragonBallGt = {
     },
 };
 
-const streamPlaylist = Object.values(dragonBallKai).concat(
+const mainStreamPlaylist = Object.values(dragonBallKai).concat(
     Object.values(dragonBallSuper).concat(
         Object.values(dragonBallGt).concat(Object.values(dragonBall))
     )
 );
 
+const mainWithZ = Object.values(dragonBallZ).concat(
+    Object.values(dragonBallSuper).concat(
+        Object.values(dragonBallGt).concat(Object.values(dragonBall))
+    )
+);
+
+const canon = Object.values(dragonBall).concat(
+    Object.values(dragonBallKai).concat(Object.values(dragonBallSuper))
+);
+
+let streamPlaylists = {
+    main: mainStreamPlaylist,
+    mainWithZ: mainWithZ,
+    canon: canon,
+};
 module.exports = {
     dragonBallSuper,
     dragonBallKai,
     dragonBall,
     dragonBallGt,
     dragonBallZ,
-    streamPlaylist,
+    streamPlaylists,
 };

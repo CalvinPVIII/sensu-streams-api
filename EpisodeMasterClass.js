@@ -8,7 +8,7 @@ const {
     dragonBall,
     dragonBallGt,
     dragonBallZ,
-    streamPlaylist,
+    streamPlaylists,
 } = require("./episodes");
 const e = require("express");
 
@@ -20,7 +20,7 @@ class EpisodeMasterClass {
         this.dbs = dragonBallSuper;
         this.dbgt = dragonBallGt;
         this.dbMovies = "Coming soon";
-        this.streamPlaylist = streamPlaylist;
+        this.streamPlaylist = streamPlaylists.mainWithZ;
         this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
         this.streamStatus = {
             currentSubFiles: "",
@@ -172,7 +172,9 @@ class EpisodeMasterClass {
                         dubFiles.push(obj);
                     }
                 }
-            }),
+            })
+        );
+        await Promise.all(
             episode.sub.sources.map(async (source) => {
                 if (!this.currentNonWorkingSources.includes(source.source)) {
                     if (source.source === "Anime Owl") {
