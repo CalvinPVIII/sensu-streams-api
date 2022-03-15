@@ -2,8 +2,8 @@ const EpisodeMasterClass = require("./EpisodeMasterClass");
 const express = require("express");
 const res = require("express/lib/response");
 const bodyParser = require("body-parser");
+const dotenv = require("dotenv").config();
 const episodeMasterList = new EpisodeMasterClass();
-
 const app = express();
 
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -41,29 +41,41 @@ app.get("/movies", (req, res) => {
 });
 // this is where all admin stuff will go, need to change from post to get
 app.post("/admin", (req, res) => {
-    if (req.body.token === 1234) {
+    // console.log(req.body.token);
+
+    // console.log(process.env.TOEKN);
+    if (req.body.token === process.env.TOKEN) {
         switch (req.body.action) {
             case "updateNonWorkingList":
-                console.log(`updating ${req.body.data} in non working list`);
+                const listStatus = episodeMasterList.updateNonWorkingSources(
+                    req.body.data
+                );
+                console.log(
+                    `${listStatus} ${req.body.data} in non working list`
+                );
+                res.end(`${listStatus} ${req.body.data} in non working list`);
                 break;
 
             case "changePlaylist":
-                console.log(`changing to ${req.body.data} playlist`);
+                const playlistStatus = episodeMasterList.changeStreamPlaylist(
+                    req.body.data
+                );
+                console.log(playlistStatus);
+                res.end(playlistStatus);
                 break;
 
             case "setEpisode":
-                console.log(
-                    `setting current episode to ${req.body.data} in playlist`
+                const episodeStatus = episodeMasterList.setCurrentEpiosde(
+                    req.body.data
                 );
+                console.log(episodeStatus);
+                res.end(episodeStatus);
                 break;
 
             case "updateStream":
                 console.log("updatingStream");
                 break;
         }
-        // episodeMasterList.updateNonWorkingSources("Gogo");
-        // console.log(req.body);
-        res.end("Updated Backend");
     } else {
         res.end("You do not have sufficient permissions");
     }

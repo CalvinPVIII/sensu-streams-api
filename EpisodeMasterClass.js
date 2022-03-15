@@ -21,13 +21,13 @@ class EpisodeMasterClass {
         this.dbgt = dragonBallGt;
         this.dbMovies = "Coming soon";
         this.streamPlaylist = streamPlaylists.main;
-        this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
+        this.currentNonWorkingSources = ["KimAnime", "Gogoanime", "Gogo"];
         this.streamStatus = {
             isActive: true,
             currentSubFiles: "",
             currentDubFiles: "",
             currentEpisode: 0,
-            currentTime: 0,
+            currentTime: 1340,
             episodeInfo: "",
             isInitialized: false,
             episodeDuration: 0,
@@ -43,8 +43,28 @@ class EpisodeMasterClass {
         if (this.currentNonWorkingSources.includes(sourceName)) {
             const index = this.currentNonWorkingSources.indexOf(sourceName);
             this.currentNonWorkingSources.splice(index, 1);
+            return "removed";
         } else {
             this.currentNonWorkingSources.push(sourceName);
+            return "added";
+        }
+    }
+
+    changeStreamPlaylist(playlistName) {
+        if (Object.keys(streamPlaylists).includes(playlistName)) {
+            this.streamPlaylist = streamPlaylists[playlistName];
+            return "Changed stream playlist to " + playlistName;
+        } else {
+            return "No playlist found";
+        }
+    }
+
+    setCurrentEpiosde(episodeNumber) {
+        if (episodeNumber >= this.streamPlaylist.length) {
+            return "Episode number outside playlist length";
+        } else {
+            this.streamStatus.currentEpisode = episodeNumber;
+            return "Current episode set to " + episodeNumber;
         }
     }
 
