@@ -20,9 +20,10 @@ class EpisodeMasterClass {
         this.dbs = dragonBallSuper;
         this.dbgt = dragonBallGt;
         this.dbMovies = "Coming soon";
-        this.streamPlaylist = streamPlaylists.mainWithZ;
+        this.streamPlaylist = streamPlaylists.main;
         this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
         this.streamStatus = {
+            isActive: true,
             currentSubFiles: "",
             currentDubFiles: "",
             currentEpisode: 0,
@@ -36,6 +37,15 @@ class EpisodeMasterClass {
             dubLoadError: false,
             subLoadError: false,
         };
+    }
+
+    updateNonWorkingSources(sourceName) {
+        if (this.currentNonWorkingSources.includes(sourceName)) {
+            const index = this.currentNonWorkingSources.indexOf(sourceName);
+            this.currentNonWorkingSources.splice(index, 1);
+        } else {
+            this.currentNonWorkingSources.push(sourceName);
+        }
     }
 
     async gogoPlayScrape(url) {

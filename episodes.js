@@ -27193,7 +27193,7 @@ dragonBallGt = {
     },
 };
 
-const mainStreamPlaylist = Object.values(dragonBallKai).concat(
+const main = Object.values(dragonBallKai).concat(
     Object.values(dragonBallSuper).concat(
         Object.values(dragonBallGt).concat(Object.values(dragonBall))
     )
@@ -27210,7 +27210,7 @@ const canon = Object.values(dragonBall).concat(
 );
 
 let streamPlaylists = {
-    main: mainStreamPlaylist,
+    main: main,
     mainWithZ: mainWithZ,
     canon: canon,
 };
