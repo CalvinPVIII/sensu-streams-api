@@ -72,8 +72,14 @@ app.post("/admin", (req, res) => {
                 res.end(episodeStatus);
                 break;
 
-            case "updateStream":
-                console.log("updatingStream");
+            case "stopStream":
+                const stopStreamStatus = episodeMasterList.stopStream();
+                res.end(stopStreamStatus);
+                break;
+
+            case "startStream":
+                const startStreamStatus = episodeMasterList.startStream();
+                res.end(startStreamStatus);
                 break;
         }
     } else {

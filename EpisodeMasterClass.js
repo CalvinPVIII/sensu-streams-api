@@ -21,12 +21,12 @@ class EpisodeMasterClass {
         this.dbgt = dragonBallGt;
         this.dbMovies = "Coming soon";
         this.streamPlaylist = streamPlaylists.main;
-        this.currentNonWorkingSources = ["KimAnime", "Gogoanime", "Gogo"];
+        this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
         this.streamStatus = {
             isActive: true,
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 0,
+            currentEpisode: 98,
             currentTime: 1340,
             episodeInfo: "",
             isInitialized: false,
@@ -70,7 +70,7 @@ class EpisodeMasterClass {
 
     async gogoPlayScrape(url) {
         try {
-            const videos = await axios.get(url);
+            const videos = await axios.get(url, { timeout: 4000 });
             return videos.data.mp4;
         } catch (error) {
             console.log(error);
@@ -136,7 +136,16 @@ class EpisodeMasterClass {
 
     startStream() {
         console.log("Starting video stream");
+        this.streamStatus.currentTime = 0;
+        this.streamStatus.isActive = true;
         this.handleVideoStream();
+        return "Starting video stream";
+    }
+
+    stopStream() {
+        console.log("Stopping stream");
+        this.streamStatus.isActive = false;
+        return "Stream Stopped";
     }
 
     getDuration(episode) {
@@ -175,31 +184,37 @@ class EpisodeMasterClass {
                         const gogoFiles = await this.getEpisodeGogoApi(
                             source.video
                         );
-                        const obj = {
-                            source: "Gogoanime",
-                            files: gogoFiles,
-                        };
-                        dubFiles.push(obj);
+                        if (gogoFiles != "error") {
+                            const obj = {
+                                source: "Gogoanime",
+                                files: gogoFiles,
+                            };
+                            dubFiles.push(obj);
+                        }
                     }
                     if (source.source === "KimAnime") {
                         const kimFiles = await this.kimAnimeScrape(
                             source.video
                         );
-                        const obj = {
-                            source: "KimAnime",
-                            files: kimFiles,
-                        };
-                        dubFiles.push(obj);
+                        if (kimFiles != "error") {
+                            const obj = {
+                                source: "KimAnime",
+                                files: kimFiles,
+                            };
+                            dubFiles.push(obj);
+                        }
                     }
                     if (source.source === "Gogo") {
                         const gogoFiles = await this.gogoPlayScrape(
                             source.video
                         );
-                        const obj = {
-                            source: "Gogo",
-                            files: gogoFiles,
-                        };
-                        dubFiles.push(obj);
+                        if (gogoFiles != "error") {
+                            const obj = {
+                                source: "Gogo",
+                                files: gogoFiles,
+                            };
+                            dubFiles.push(obj);
+                        }
                     }
                 }
             })
@@ -218,31 +233,37 @@ class EpisodeMasterClass {
                         const gogoFiles = await this.getEpisodeGogoApi(
                             source.video
                         );
-                        const obj = {
-                            source: "Gogoanime",
-                            files: gogoFiles,
-                        };
-                        subFiles.push(obj);
+                        if (gogoFiles != "error") {
+                            const obj = {
+                                source: "Gogoanime",
+                                files: gogoFiles,
+                            };
+                            subFiles.push(obj);
+                        }
                     }
                     if (source.source === "KimAnime") {
                         const kimFiles = await this.kimAnimeScrape(
                             source.video
                         );
-                        const obj = {
-                            source: "KimAnime",
-                            files: kimFiles,
-                        };
-                        subFiles.push(obj);
+                        if (kimFiles != "error") {
+                            const obj = {
+                                source: "KimAnime",
+                                files: kimFiles,
+                            };
+                            subFiles.push(obj);
+                        }
                     }
                     if (source.source === "Gogo") {
                         const gogoFiles = await this.gogoPlayScrape(
                             source.video
                         );
-                        const obj = {
-                            source: "Gogo",
-                            files: gogoFiles,
-                        };
-                        subFiles.push(obj);
+                        if (gogoFiles != "error") {
+                            const obj = {
+                                source: "Gogo",
+                                files: gogoFiles,
+                            };
+                            subFiles.push(obj);
+                        }
                     }
                 }
             })
@@ -317,34 +338,42 @@ class EpisodeMasterClass {
     }
 
     async handleVideoStream() {
-        // this gets the episode duration if it hasn't already been initialized
+        // if the stream is active
+        if (this.streamStatus.isActive) {
+            // this gets the episode duration if it hasn't already been initialized
 
-        if (!this.streamStatus.isInitialized) {
-            console.log("Handle video stream: streamStatus is not initialized");
-            this.streamStatus.episodeDuration = await this.initializeEpisode();
-            console.log(this.streamStatus.currentDubFiles);
-        }
-        console.log(`episode duration ${this.streamStatus.episodeDuration}`);
-        console.log(`episode number ${this.streamStatus.currentEpisode}`);
-
-        // this section is responsible for setting the max duration and updating the info in the class every second
-        setTimeout(() => {
-            // increase the current time every second
-            this.streamStatus.currentTime++;
-            console.log(this.streamStatus.currentTime);
-            // if the current time is greater than or equal the max episode of the duration
-            if (
-                this.streamStatus.currentTime >=
-                this.streamStatus.episodeDuration
-            ) {
-                this.handleMoveToNextEpisode();
+            if (!this.streamStatus.isInitialized) {
                 console.log(
-                    `current episode is ${this.streamStatus.currentEpisode}`
+                    "Handle video stream: streamStatus is not initialized"
                 );
+                this.streamStatus.episodeDuration =
+                    await this.initializeEpisode();
+                console.log(this.streamStatus.currentDubFiles);
             }
-            // call the function again to start the timer over
-            this.handleVideoStream();
-        }, 1000);
+            console.log(
+                `episode duration ${this.streamStatus.episodeDuration}`
+            );
+            console.log(`episode number ${this.streamStatus.currentEpisode}`);
+
+            // this section is responsible for setting the max duration and updating the info in the class every second
+            setTimeout(() => {
+                // increase the current time every second
+                this.streamStatus.currentTime++;
+                console.log(this.streamStatus.currentTime);
+                // if the current time is greater than or equal the max episode of the duration
+                if (
+                    this.streamStatus.currentTime >=
+                    this.streamStatus.episodeDuration
+                ) {
+                    this.handleMoveToNextEpisode();
+                    console.log(
+                        `current episode is ${this.streamStatus.currentEpisode}`
+                    );
+                }
+                // call the function again to start the timer over
+                this.handleVideoStream();
+            }, 1000);
+        }
     }
 }
 module.exports = EpisodeMasterClass;
