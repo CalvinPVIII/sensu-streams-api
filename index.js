@@ -3,11 +3,13 @@ const express = require("express");
 const res = require("express/lib/response");
 const bodyParser = require("body-parser");
 const dotenv = require("dotenv").config();
+const cors = require("cors");
 const episodeMasterList = new EpisodeMasterClass();
 const app = express();
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+app.use(cors());
 
 app.get("/:series/:episodeNumber", async (req, res) => {
     res.setHeader("Access-Control-Allow-Origin", "*");
@@ -39,12 +41,13 @@ app.get("/dbgt", (req, res) => {
 app.get("/movies", (req, res) => {
     res.json(episodeMasterList.dbMovies);
 });
-// this is where all admin stuff will go, need to change from post to get
+// this is where all admin stuff will go, need to change from post to put
 app.post("/admin", (req, res) => {
     // console.log(req.body.token);
 
     // console.log(process.env.TOEKN);
     if (req.body.token === process.env.TOKEN) {
+        console.log("post");
         switch (req.body.action) {
             case "updateNonWorkingList":
                 const listStatus = episodeMasterList.updateNonWorkingSources(
@@ -65,6 +68,7 @@ app.post("/admin", (req, res) => {
                 break;
 
             case "setEpisode":
+                console.log("yes");
                 const episodeStatus = episodeMasterList.setCurrentEpiosde(
                     req.body.data
                 );

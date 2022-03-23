@@ -26,7 +26,7 @@ class EpisodeMasterClass {
             isActive: true,
             currentSubFiles: "",
             currentDubFiles: "",
-            currentEpisode: 98,
+            currentEpisode: 0,
             currentTime: 1340,
             episodeInfo: "",
             isInitialized: false,
@@ -70,8 +70,24 @@ class EpisodeMasterClass {
 
     async gogoPlayScrape(url) {
         try {
+            let files = [];
             const videos = await axios.get(url, { timeout: 4000 });
-            return videos.data.mp4;
+            console.log(videos.data.hls);
+            if (!videos.data.mp4.length === 0) {
+                files.push(videos.data.mp4);
+            }
+            if (videos.data.hls) {
+                files.push({
+                    file: videos.data.hls,
+                    label: "Auto",
+                    type: "hls",
+                });
+            }
+            if (files.length === 0) {
+                return "error";
+            } else {
+                return files;
+            }
         } catch (error) {
             console.log(error);
             return "error";
@@ -138,12 +154,14 @@ class EpisodeMasterClass {
         console.log("Starting video stream");
         this.streamStatus.currentTime = 0;
         this.streamStatus.isActive = true;
+        this.streamStatus.isInitialized = false;
         this.handleVideoStream();
         return "Starting video stream";
     }
 
     stopStream() {
         console.log("Stopping stream");
+
         this.streamStatus.isActive = false;
         return "Stream Stopped";
     }
