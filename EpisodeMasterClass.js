@@ -10,7 +10,7 @@ const {
     dragonBallZ,
     streamPlaylists,
 } = require("./episodes");
-const e = require("express");
+const { moviesPlaylists, dbMovies, dbzMovies, dbsMovies } = require("./movies");
 
 class EpisodeMasterClass {
     constructor() {
@@ -19,9 +19,13 @@ class EpisodeMasterClass {
         this.dbkai = dragonBallKai;
         this.dbs = dragonBallSuper;
         this.dbgt = dragonBallGt;
-        this.dbMovies = "Coming soon";
+        this.movies = {
+            db: dbMovies,
+            dbz: dbzMovies,
+            dbs: dbsMovies,
+        };
         this.streamPlaylist = streamPlaylists.main;
-        this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
+        this.currentNonWorkingSources = ["KimAnime"];
         this.streamStatus = {
             isActive: true,
             currentSubFiles: "",
@@ -68,13 +72,33 @@ class EpisodeMasterClass {
         }
     }
 
+    returnMoviesBySeries(series) {
+        try {
+            return this.movies[series];
+        } catch (error) {
+            return "series not found";
+        }
+    }
+
+    async returnMovie(series, movieNumber) {
+        try {
+            let movie = await await this.getEpisode(
+                this.movies[series][movieNumber]
+            );
+            return movie;
+        } catch (error) {
+            return "error getting movie";
+        }
+    }
+
     async gogoPlayScrape(url) {
         try {
             let files = [];
             const videos = await axios.get(url, { timeout: 4000 });
-            console.log(videos.data.hls);
-            if (!videos.data.mp4.length === 0) {
-                files.push(videos.data.mp4);
+            if (videos.data.mp4.length !== 0) {
+                videos.data.mp4.forEach((file) => {
+                    files.push(file);
+                });
             }
             if (videos.data.hls) {
                 files.push({
@@ -94,16 +118,40 @@ class EpisodeMasterClass {
         }
     }
 
-    async getEpisodeGogoApi(url) {
-        try {
-            const { data } = await axios.get(url);
-            return data.data;
-        } catch (error) {
-            console.log("error");
-            console.log(error);
-            return "error";
-        }
-    }
+    gogoAnimeScrape = async (url) => {
+        const html = await axios.get(url, {
+            mode: "cors",
+        });
+        const $ = cheerio.load(html.data);
+        const iframe = $("iframe").toArray()[0].attribs.src;
+        const videoId = iframe.match(/(?<=\/e\/)(.*?)(?=\?domain)/gm)[0];
+
+        const response = await axios.get(iframe, {
+            mode: "cors",
+            headers: {
+                referer: url,
+            },
+        });
+        const key = response.data.match(/(?<=skey = ')(.*?)(?=')/gm)[0];
+
+        const video = await axios.get(
+            `https://vidstream.pro/info/${videoId}?domain=gogoanime.lol&skey=${key}`,
+            {
+                mode: "cors",
+                headers: {
+                    referer: iframe,
+                },
+            }
+        );
+
+        return [
+            {
+                file: video.data.media.sources[1].file,
+                label: "Auto",
+                type: "HLS",
+            },
+        ];
+    };
 
     async kimAnimeScrape(url) {
         try {
@@ -199,7 +247,7 @@ class EpisodeMasterClass {
                         dubFiles.push(obj);
                     }
                     if (source.source === "Gogoanime") {
-                        const gogoFiles = await this.getEpisodeGogoApi(
+                        const gogoFiles = await this.gogoAnimeScrape(
                             source.video
                         );
                         if (gogoFiles != "error") {
@@ -248,7 +296,7 @@ class EpisodeMasterClass {
                         subFiles.push(obj);
                     }
                     if (source.source === "Gogoanime") {
-                        const gogoFiles = await this.getEpisodeGogoApi(
+                        const gogoFiles = await this.gogoAnimeScrape(
                             source.video
                         );
                         if (gogoFiles != "error") {

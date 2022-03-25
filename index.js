@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cors());
 
-app.get("/:series/:episodeNumber", async (req, res) => {
+app.get("/episode/:series/:episodeNumber", async (req, res) => {
     res.setHeader("Access-Control-Allow-Origin", "*");
     let episode = await episodeMasterList.getEpisode(
         episodeMasterList[req.params.series][req.params.episodeNumber]
@@ -39,13 +39,22 @@ app.get("/dbgt", (req, res) => {
 });
 
 app.get("/movies", (req, res) => {
-    res.json(episodeMasterList.dbMovies);
+    res.json(episodeMasterList.movies);
 });
-// this is where all admin stuff will go, need to change from post to put
-app.post("/admin", (req, res) => {
-    // console.log(req.body.token);
 
-    // console.log(process.env.TOEKN);
+app.get("/movies/:series/", (req, res) => {
+    res.json(episodeMasterList.returnMoviesBySeries(req.params.series));
+});
+
+app.get("/movie/:series/:number", async (req, res) => {
+    let result = await episodeMasterList.returnMovie(
+        req.params.series,
+        req.params.number
+    );
+    res.json(result);
+});
+
+app.post("/admin", (req, res) => {
     if (req.body.token === process.env.TOKEN) {
         console.log("post");
         switch (req.body.action) {
