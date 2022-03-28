@@ -77,7 +77,6 @@ app.post("/admin", (req, res) => {
                 break;
 
             case "setEpisode":
-                console.log("yes");
                 const episodeStatus = episodeMasterList.setCurrentEpiosde(
                     req.body.data
                 );

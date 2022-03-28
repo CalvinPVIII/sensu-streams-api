@@ -94,7 +94,7 @@ class EpisodeMasterClass {
     async gogoPlayScrape(url) {
         try {
             let files = [];
-            const videos = await axios.get(url, { timeout: 4000 });
+            const videos = await axios.get(url, { timeout: 2000 });
             if (videos.data.mp4.length !== 0) {
                 videos.data.mp4.forEach((file) => {
                     files.push(file);
