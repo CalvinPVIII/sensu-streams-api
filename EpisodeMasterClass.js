@@ -423,24 +423,29 @@ class EpisodeMasterClass {
             console.log(`episode number ${this.streamStatus.currentEpisode}`);
 
             // this section is responsible for setting the max duration and updating the info in the class every second
-            setTimeout(() => {
-                // increase the current time every second
-                this.streamStatus.currentTime++;
-                console.log(this.streamStatus.currentTime);
-                // if the current time is greater than or equal the max episode of the duration
-                if (
-                    this.streamStatus.currentTime >=
-                    this.streamStatus.episodeDuration
-                ) {
-                    this.handleMoveToNextEpisode();
-                    console.log(
-                        `current episode is ${this.streamStatus.currentEpisode}`
-                    );
-                }
-                // call the function again to start the timer over
-                this.handleVideoStream();
-            }, 1000);
+
+            // increase the current time every second
+            this.streamStatus.currentTime++;
+            console.log(this.streamStatus.currentTime);
+            // if the current time is greater than or equal the max episode of the duration
+            if (
+                this.streamStatus.currentTime >=
+                this.streamStatus.episodeDuration
+            ) {
+                this.handleMoveToNextEpisode();
+                console.log(
+                    `current episode is ${this.streamStatus.currentEpisode}`
+                );
+            }
+            // call the function again to start the timer over
+            this.progressStream();
         }
+    }
+
+    progressStream() {
+        setTimeout(() => {
+            this.handleVideoStream();
+        }, 1000);
     }
 }
 module.exports = EpisodeMasterClass;
