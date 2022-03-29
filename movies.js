@@ -689,19 +689,7 @@ dbsMovies = {
     },
 };
 
-const allMovies = Object.values(dbMovies).concat(
-    Object.values(dbzMovies).concat(Object.values(dbsMovies))
-);
-
-moviesPlaylists = {
-    allMovies: allMovies,
-    db: Object.values(dbMovies),
-    dbz: Object.values(dbzMovies),
-    dbs: Object.values(dbsMovies),
-};
-
 module.exports = {
-    moviesPlaylists,
     dbMovies,
     dbzMovies,
     dbsMovies,

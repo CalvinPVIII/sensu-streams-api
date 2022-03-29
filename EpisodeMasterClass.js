@@ -8,9 +8,10 @@ const {
     dragonBall,
     dragonBallGt,
     dragonBallZ,
-    streamPlaylists,
 } = require("./episodes");
-const { moviesPlaylists, dbMovies, dbzMovies, dbsMovies } = require("./movies");
+const { dbMovies, dbzMovies, dbsMovies } = require("./movies");
+
+const { streamPlaylists } = require("./playlists");
 
 class EpisodeMasterClass {
     constructor() {
