@@ -12,7 +12,6 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.get("/episode/:series/:episodeNumber", async (req, res) => {
-    res.setHeader("Access-Control-Allow-Origin", "*");
     let episode = await episodeMasterList.getEpisode(
         episodeMasterList[req.params.series][req.params.episodeNumber]
     );
@@ -56,7 +55,6 @@ app.get("/movie/:series/:number", async (req, res) => {
 
 app.post("/admin", (req, res) => {
     if (req.body.token === process.env.TOKEN) {
-        console.log("post");
         switch (req.body.action) {
             case "updateNonWorkingList":
                 const listStatus = episodeMasterList.updateNonWorkingSources(
@@ -100,16 +98,14 @@ app.post("/admin", (req, res) => {
 });
 
 app.get("/streaminfo", (req, res) => {
-    res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(episodeMasterList.streamStatus);
 });
 
 app.get("/allInfo", (req, res) => {
-    res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(episodeMasterList);
 });
 
-app.listen(3001, "0.0.0.0", () => {
+app.listen(3000, "0.0.0.0", () => {
     console.log("Server running on port 3000");
     episodeMasterList.startStream();
 });
