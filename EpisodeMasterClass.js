@@ -24,14 +24,14 @@ class EpisodeMasterClass {
             dbz: dbzMovies,
             dbs: dbsMovies,
         };
-        this.streamPlaylist = streamPlaylists.main;
+        this.streamPlaylist = streamPlaylists.mainWithSuperMovies;
         this.currentNonWorkingSources = ["KimAnime"];
         this.streamStatus = {
             isActive: true,
             currentSubFiles: "",
             currentDubFiles: "",
             currentEpisode: 0,
-            currentTime: 1340,
+            currentTime: 0,
             episodeInfo: "",
             isInitialized: false,
             episodeDuration: 0,
