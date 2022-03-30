@@ -1,4 +1,3 @@
-const ffmpeg = require("fluent-ffmpeg");
 const axios = require("axios");
 const cheerio = require("cheerio");
 
@@ -213,23 +212,6 @@ class EpisodeMasterClass {
 
         this.streamStatus.isActive = false;
         return "Stream Stopped";
-    }
-
-    getDuration(episode) {
-        return new Promise((resolve) => {
-            try {
-                ffmpeg.ffprobe(episode, (error, metadata) => {
-                    if (metadata) {
-                        resolve(metadata.format.duration);
-                        console.log("Duration: " + metadata.format.duration);
-                    } else {
-                        resolve("error " + error);
-                    }
-                });
-            } catch {
-                console.log(error);
-            }
-        });
     }
 
     // returns structured episode
