@@ -148,7 +148,7 @@ class EpisodeMasterClass {
             }
         );
         console.log("video:");
-        console.log(video.data.media.sources[0]);
+        console.log(video.data.media.sources[1]);
 
         return [
             {
