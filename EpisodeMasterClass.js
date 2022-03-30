@@ -134,10 +134,6 @@ class EpisodeMasterClass {
         });
         const key = response.data.match(/(?<=skey = ')(.*?)(?=')/gm)[0];
 
-        console.log("iframe: " + iframe);
-        console.log("videoId: " + videoId);
-        console.log("key: " + key);
-
         const video = await axios.get(
             `https://vidstream.pro/info/${videoId}?domain=gogoanime.lol&skey=${key}`,
             {
@@ -147,8 +143,6 @@ class EpisodeMasterClass {
                 },
             }
         );
-        console.log("video:");
-        console.log(video.data.media.sources[1]);
 
         return [
             {
