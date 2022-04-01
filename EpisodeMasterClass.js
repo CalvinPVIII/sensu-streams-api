@@ -119,38 +119,43 @@ class EpisodeMasterClass {
     }
 
     gogoAnimeScrape = async (url) => {
-        const html = await axios.get(url, {
-            mode: "cors",
-        });
-        const $ = cheerio.load(html.data);
-        const iframe = $("iframe").toArray()[0].attribs.src;
-        const videoId = iframe.match(/(?<=\/e\/)(.*?)(?=\?domain)/gm)[0];
+        try {
+            const html = await axios.get(url, {
+                mode: "cors",
+            });
+            const $ = cheerio.load(html.data);
+            const iframe = $("iframe").toArray()[0].attribs.src;
+            const videoId = iframe.match(/(?<=\/e\/)(.*?)(?=\?domain)/gm)[0];
 
-        const response = await axios.get(iframe, {
-            mode: "cors",
-            headers: {
-                referer: url,
-            },
-        });
-        const key = response.data.match(/(?<=skey = ')(.*?)(?=')/gm)[0];
-
-        const video = await axios.get(
-            `https://vidstream.pro/info/${videoId}?domain=gogoanime.lol&skey=${key}`,
-            {
+            const response = await axios.get(iframe, {
                 mode: "cors",
                 headers: {
-                    referer: iframe,
+                    referer: url,
                 },
-            }
-        );
+            });
+            const key = response.data.match(/(?<=skey = ')(.*?)(?=')/gm)[0];
 
-        return [
-            {
-                file: video.data.media.sources[1].file,
-                label: "Auto",
-                type: "HLS",
-            },
-        ];
+            const video = await axios.get(
+                `https://vidstream.pro/info/${videoId}?domain=gogoanime.lol&skey=${key}`,
+                {
+                    mode: "cors",
+                    headers: {
+                        referer: iframe,
+                    },
+                }
+            );
+
+            return [
+                {
+                    file: video.data.media.sources[1].file,
+                    label: "Auto",
+                    type: "HLS",
+                },
+            ];
+        } catch (error) {
+            console.log(error);
+            return "error";
+        }
     };
 
     async kimAnimeScrape(url) {
