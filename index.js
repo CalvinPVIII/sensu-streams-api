@@ -93,7 +93,7 @@ app.post("/admin", (req, res) => {
                 break;
         }
     } else {
-        res.end("You do not have sufficient permissions");
+        res.status(401).send("You do not have sufficient permissions");
     }
 });
 
