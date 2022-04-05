@@ -1,3 +1,9 @@
 /node_modules
 
 .env
+.greenlockrc
+
+/greenlock.d
+
+/greenlock.d/config.json
+/greenlock.d/config.json.bak
