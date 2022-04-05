@@ -1,3 +1,5 @@
+"use strict";
+
 const EpisodeMasterClass = require("./EpisodeMasterClass");
 const express = require("express");
 const res = require("express/lib/response");
@@ -104,7 +106,4 @@ app.get("/streaminfo", (req, res) => {
 app.get("/allInfo", (req, res) => {
     res.json(episodeMasterList);
 });
-
-// app.listen(80, "0.0.0.0", () => {
-//     console.log("Server running");
-// });
+module.exports = app;
