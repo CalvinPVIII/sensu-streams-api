@@ -100,7 +100,7 @@ class EpisodeMasterClass {
                     files.push(file);
                 });
             }
-            if (videos.data.hls) {
+            if (videos.data.hls && videos.data.hls.length != 0) {
                 files.push({
                     file: videos.data.hls,
                     label: "Auto",
