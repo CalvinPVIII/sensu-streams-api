@@ -147,7 +147,7 @@ class EpisodeMasterClass {
 
             return [
                 {
-                    file: video.data.media.sources[1].file,
+                    file: video.data.media.sources[0].file,
                     label: "Auto",
                     type: "HLS",
                 },
