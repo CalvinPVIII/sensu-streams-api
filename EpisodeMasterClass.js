@@ -166,11 +166,13 @@ class EpisodeMasterClass {
 
         for (let i = 0; i < data.data.sources_bk.length; i++) {
             if (data.data.sources_bk[i].type === "hls") {
-                file = {
-                    file: data.data.sources_bk[i].file,
-                    label: data.data.sources_bk[i].label,
-                    type: "hls",
-                };
+                file = [
+                    {
+                        file: data.data.sources_bk[i].file,
+                        label: data.data.sources_bk[i].label,
+                        type: "hls",
+                    },
+                ];
             }
         }
         return file;
