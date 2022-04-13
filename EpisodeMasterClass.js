@@ -25,7 +25,7 @@ class EpisodeMasterClass {
             dbs: dbsMovies,
         };
         this.streamPlaylist = streamPlaylists.mainWithSuperMovies;
-        this.currentNonWorkingSources = ["KimAnime"];
+        this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
         this.streamStatus = {
             isActive: true,
             currentSubFiles: "",
@@ -100,7 +100,7 @@ class EpisodeMasterClass {
                     files.push(file);
                 });
             }
-            if (videos.data.hls && videos.data.hls.length != 0) {
+            if (videos.data.hls) {
                 files.push({
                     file: videos.data.hls,
                     label: "Auto",
@@ -134,20 +134,18 @@ class EpisodeMasterClass {
                 },
             });
             const key = response.data.match(/(?<=skey = ')(.*?)(?=')/gm)[0];
-
-            const video = await axios.get(
-                `https://vidstream.pro/info/${videoId}?domain=gogoanime.lol&skey=${key}`,
-                {
-                    mode: "cors",
-                    headers: {
-                        referer: iframe,
-                    },
-                }
-            );
+            const videoLink = `https://vidstream.pro/info/${videoId}?domain=gogoanime.lol&skey=${key}`;
+            const video = await axios.get(videoLink, {
+                mode: "cors",
+                headers: {
+                    referer: iframe,
+                },
+            });
 
             return [
                 {
-                    file: video.data.media.sources[0].file,
+                    file: video.data.media.sources[1].file,
+                    referer: videoLink,
                     label: "Auto",
                     type: "HLS",
                 },
@@ -156,6 +154,26 @@ class EpisodeMasterClass {
             console.log(error);
             return "error";
         }
+    };
+
+    gogoApiScrape = async (url) => {
+        const data = await axios.get(url, {
+            mode: "cors",
+            timeout: 4000,
+        });
+
+        let file = "error";
+
+        for (let i = 0; i < data.data.sources_bk.length; i++) {
+            if (data.data.sources_bk[i].type === "hls") {
+                file = {
+                    file: data.data.sources_bk[i].file,
+                    label: data.data.sources_bk[i].label,
+                    type: "hls",
+                };
+            }
+        }
+        return file;
     };
 
     async kimAnimeScrape(url) {
@@ -246,6 +264,16 @@ class EpisodeMasterClass {
                             dubFiles.push(obj);
                         }
                     }
+                    if (source.source === "Gogoapi") {
+                        const apiFiles = await this.gogoApiScrape(source.video);
+                        if (apiFiles != "error") {
+                            const obj = {
+                                source: "Gogoapi",
+                                files: apiFiles,
+                            };
+                            dubFiles.push(obj);
+                        }
+                    }
                     if (source.source === "KimAnime") {
                         const kimFiles = await this.kimAnimeScrape(
                             source.video
@@ -291,6 +319,17 @@ class EpisodeMasterClass {
                             const obj = {
                                 source: "Gogoanime",
                                 files: gogoFiles,
+                            };
+                            subFiles.push(obj);
+                        }
+                    }
+                    if (source.source === "Gogoapi") {
+                        const apiFiles = await this.gogoApiScrape(source.video);
+
+                        if (apiFiles != "error") {
+                            const obj = {
+                                source: "Gogoapi",
+                                files: apiFiles,
                             };
                             subFiles.push(obj);
                         }

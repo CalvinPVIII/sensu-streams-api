@@ -11,6 +11,10 @@ dbMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-curse-of-the-blood-rubies-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-dub-episode-1",
+                },
             ],
             episodeLength: 3015.506,
         },
@@ -24,6 +28,10 @@ dbMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-curse-of-the-blood-rubies/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-episode-1",
                 },
             ],
             episodeLength: 3016.017,
@@ -42,6 +50,10 @@ dbMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-sleeping-princess-in-devils-castle-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-dub-episode-1",
+                },
             ],
             episodeLength: 2555.96,
         },
@@ -55,6 +67,10 @@ dbMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-sleeping-princess-in-devils-castle/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-episode-1",
                 },
             ],
             episodeLength: 2689,
@@ -73,6 +89,10 @@ dbMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-mystical-adventure-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-3-mystical-adventure-dub-episode-1",
+                },
             ],
             episodeLength: 2644.173,
         },
@@ -86,6 +106,10 @@ dbMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-mystical-adventure/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-3-mystical-adventure-episode-1",
                 },
             ],
             episodeLength: 2750,
@@ -104,6 +128,10 @@ dbMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-the-path-to-power-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-4-the-path-to-power-dub-episode-1",
+                },
             ],
             episodeLength: 4782.197,
         },
@@ -117,6 +145,10 @@ dbMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-the-path-to-power/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-movie-4-the-path-to-power-episode-1",
                 },
             ],
             episodeLength: 4776.949,
@@ -138,6 +170,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-dead-zone-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-01-the-dead-zone-dub-episode-1",
+                },
             ],
             episodeLength: 2473.6,
         },
@@ -151,6 +187,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-dead-zone/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-1-dead-zone-episode-1",
                 },
             ],
             episodeLength: 2473.579,
@@ -169,6 +209,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-worlds-strongest-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-02-the-worlds-strongest-dub-episode-1",
+                },
             ],
             episodeLength: 3569.408,
         },
@@ -182,6 +226,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-worlds-strongest/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-2-worlds-strongest-episode-1",
                 },
             ],
             episodeLength: 3569.387,
@@ -200,6 +248,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-tree-of-might-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-03-the-tree-of-might-dub-episode-1",
+                },
             ],
             episodeLength: 3653.782,
         },
@@ -213,6 +265,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-tree-of-might/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-3-tree-of-might-episode-1",
                 },
             ],
             episodeLength: 3653.803,
@@ -231,6 +287,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-lord-slug-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-04-lord-slug-dub-episode-1",
+                },
             ],
             episodeLength: 3109,
         },
@@ -244,6 +304,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-lord-slug/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-4-lord-slug-episode-1",
                 },
             ],
             episodeLength: 3110.251,
@@ -262,6 +326,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-bardock-the-father-of-goku-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen-dub-episode-1",
+                },
             ],
             episodeLength: 2881,
         },
@@ -275,6 +343,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-bardock-the-father-of-goku/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen-episode-1",
                 },
             ],
             episodeLength: 2881,
@@ -293,6 +365,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-coolers-revenge-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-05-coolers-revenge-dub-episode-1",
+                },
             ],
             episodeLength: 2816.939,
         },
@@ -306,6 +382,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-coolers-revenge/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-5-coolers-revenge-episode-1",
                 },
             ],
             episodeLength: 2816.96,
@@ -324,6 +404,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-return-of-cooler-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-06-the-return-of-cooler-dub-episode-1",
+                },
             ],
             episodeLength: 2750.87,
         },
@@ -337,6 +421,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-return-of-cooler/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-6-the-return-of-cooler-episode-1",
                 },
             ],
             episodeLength: 2750.891,
@@ -355,6 +443,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-super-android-13-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-07-super-android-13-dub-episode-1",
+                },
             ],
             episodeLength: 2760.128,
         },
@@ -368,6 +460,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-super-android-13/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-7-super-android-13-episode-1",
                 },
             ],
             episodeLength: 2760.171,
@@ -386,6 +482,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-history-of-trunks-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks-dub-episode-1",
+                },
             ],
             episodeLength: 2898,
         },
@@ -399,6 +499,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-the-history-of-trunks/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks-episode-1",
                 },
             ],
             episodeLength: 2898,
@@ -417,6 +521,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-broly-the-legendary-super-saiyan-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-08-broly-the-legendary-super-saiyan-dub-episode-1",
+                },
             ],
             episodeLength: 4313.899,
         },
@@ -430,6 +538,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-broly-the-legendary-super-saiyan/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-8-broly-the-legendary-super-saiyan-episode-1",
                 },
             ],
             episodeLength: 4313.92,
@@ -448,6 +560,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-bojack-unbound-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-09-bojack-unbound-dub-episode-1",
+                },
             ],
             episodeLength: 3024.022,
         },
@@ -461,6 +577,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-bojack-unbound/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-9-bojack-unbound-episode-1",
                 },
             ],
             episodeLength: 3025.305,
@@ -479,6 +599,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-broly-second-coming-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-10-broly-second-coming-dub-episode-1",
+                },
             ],
             episodeLength: 3128.64,
         },
@@ -492,6 +616,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-broly-second-coming/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-10-broly-second-coming-episode-1",
                 },
             ],
             episodeLength: 3128.64,
@@ -510,6 +638,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-bio-broly-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-11-bio-broly-dub-episode-1",
+                },
             ],
             episodeLength: 2795.798,
         },
@@ -523,6 +655,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-bio-broly/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-11-bio-broly-episode-1",
                 },
             ],
             episodeLength: 2797.076,
@@ -541,6 +677,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-fusion-reborn-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-12-fusion-reborn-dub-episode-1",
+                },
             ],
             episodeLength: 3042.134,
         },
@@ -554,6 +694,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-fusion-reborn/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-12-fusion-reborn-episode-1",
                 },
             ],
             episodeLength: 3043.04,
@@ -572,6 +716,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-wrath-of-the-dragon-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-13-wrath-of-the-dragon-dub-episode-1",
+                },
             ],
             episodeLength: 3107.734,
         },
@@ -585,6 +733,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-wrath-of-the-dragon/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-13-wrath-of-the-dragon-episode-1",
                 },
             ],
             episodeLength: 3107.755,
@@ -603,6 +755,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-battle-of-gods-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-14-battle-of-gods-dub-episode-1",
+                },
             ],
             episodeLength: 6302.358,
         },
@@ -616,6 +772,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-battle-of-gods/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-14-kami-to-kami-episode-1",
                 },
             ],
             episodeLength: 6302.38,
@@ -634,6 +794,10 @@ dbzMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-resurrection-f-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-15-fukkatsu-no-f-dub-episode-1",
+                },
             ],
             episodeLength: 5637.675,
         },
@@ -647,6 +811,10 @@ dbzMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-z-resurrection-f/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-z-movie-15-fukkatsu-no-f-episode-1",
                 },
             ],
             episodeLength: 5637.716,
@@ -668,6 +836,10 @@ dbsMovies = {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-super-broly-dub/full",
                 },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-super-movie-broly-dub-episode-1",
+                },
             ],
             episodeLength: 6085.584,
         },
@@ -681,6 +853,10 @@ dbsMovies = {
                 {
                     source: "Gogoanime",
                     video: "https://gogoanime.lol/dragon-ball-super-broly/full",
+                },
+                {
+                    source: "Gogoapi",
+                    video: "https://gogoanime.herokuapp.com/vidcdn/watch/dragon-ball-super-movie-broly-episode-1",
                 },
             ],
             episodeLength: 6085.584,
