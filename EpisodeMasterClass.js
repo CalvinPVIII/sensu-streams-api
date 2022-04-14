@@ -157,26 +157,31 @@ class EpisodeMasterClass {
     };
 
     gogoApiScrape = async (url) => {
-        const data = await axios.get(url, {
-            mode: "cors",
-            timeout: 4000,
-        });
+        try {
+            const data = await axios.get(url, {
+                mode: "cors",
+                timeout: 4000,
+            });
 
-        let file = "error";
-        if (data.sources.sources_bk) {
-            for (let i = 0; i < data.data.sources_bk.length; i++) {
-                if (data.data.sources_bk[i].type === "hls") {
-                    file = [
-                        {
-                            file: data.data.sources_bk[i].file,
-                            label: data.data.sources_bk[i].label,
-                            type: "hls",
-                        },
-                    ];
+            let file = "error";
+            if (data.sources.sources_bk) {
+                for (let i = 0; i < data.data.sources_bk.length; i++) {
+                    if (data.data.sources_bk[i].type === "hls") {
+                        file = [
+                            {
+                                file: data.data.sources_bk[i].file,
+                                label: data.data.sources_bk[i].label,
+                                type: "hls",
+                            },
+                        ];
+                    }
                 }
             }
+            return file;
+        } catch (error) {
+            console.log(error);
+            return "error";
         }
-        return file;
     };
 
     async kimAnimeScrape(url) {
