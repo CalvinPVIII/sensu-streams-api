@@ -163,16 +163,17 @@ class EpisodeMasterClass {
         });
 
         let file = "error";
-
-        for (let i = 0; i < data.data.sources_bk.length; i++) {
-            if (data.data.sources_bk[i].type === "hls") {
-                file = [
-                    {
-                        file: data.data.sources_bk[i].file,
-                        label: data.data.sources_bk[i].label,
-                        type: "hls",
-                    },
-                ];
+        if (data.sources.sources_bk) {
+            for (let i = 0; i < data.data.sources_bk.length; i++) {
+                if (data.data.sources_bk[i].type === "hls") {
+                    file = [
+                        {
+                            file: data.data.sources_bk[i].file,
+                            label: data.data.sources_bk[i].label,
+                            type: "hls",
+                        },
+                    ];
+                }
             }
         }
         return file;
