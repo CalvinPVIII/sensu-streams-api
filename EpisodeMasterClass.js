@@ -100,13 +100,14 @@ class EpisodeMasterClass {
                     files.push(file);
                 });
             }
-            if (videos.data.hls) {
+            if (videos.data.hls && videos.data.hls.length != 0) {
                 files.push({
                     file: videos.data.hls,
                     label: "Auto",
                     type: "hls",
                 });
             }
+
             if (files.length === 0) {
                 return "error";
             } else {
@@ -164,13 +165,14 @@ class EpisodeMasterClass {
             });
 
             let file = "error";
-            if (data.sources.sources_bk) {
+
+            if (data.data.sources_bk) {
                 for (let i = 0; i < data.data.sources_bk.length; i++) {
                     if (data.data.sources_bk[i].type === "hls") {
                         file = [
                             {
                                 file: data.data.sources_bk[i].file,
-                                label: data.data.sources_bk[i].label,
+                                label: "hls",
                                 type: "hls",
                             },
                         ];
