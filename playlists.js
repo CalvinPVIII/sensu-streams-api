@@ -1,51 +1,54 @@
 const { dbzMovies, dbsMovies, dbMovies } = require("./movies");
 const {
-    dragonBallSuper,
-    dragonBallKai,
-    dragonBall,
-    dragonBallGt,
-    dragonBallZ,
+  dragonBallSuper,
+  dragonBallKai,
+  dragonBall,
+  dragonBallGt,
+  dragonBallZ,
 } = require("./episodes");
 
+const { naruto, shippuden } = require("./narutoEpisodes");
+
+const narutoPlaylist = Object.values(naruto).concat(Object.values(shippuden));
+
 const main = Object.values(dragonBallKai).concat(
-    Object.values(dragonBallSuper).concat(
-        Object.values(dragonBallGt).concat(Object.values(dragonBall))
-    )
+  Object.values(dragonBallSuper).concat(
+    Object.values(dragonBallGt).concat(Object.values(dragonBall))
+  )
 );
 
 const mainWithZ = Object.values(dragonBallZ).concat(
-    Object.values(dragonBallSuper).concat(
-        Object.values(dragonBallGt).concat(Object.values(dragonBall))
-    )
+  Object.values(dragonBallSuper).concat(
+    Object.values(dragonBallGt).concat(Object.values(dragonBall))
+  )
 );
 
 const canon = Object.values(dragonBall).concat(
-    Object.values(dragonBallKai).concat(Object.values(dragonBallSuper))
+  Object.values(dragonBallKai).concat(Object.values(dragonBallSuper))
 );
 
 const mainWithSuperMovies = Object.values(dragonBallKai)
-    .concat(dbzMovies["16"])
-    .concat(dbzMovies["17"])
-    .concat(
-        Object.values(dragonBallSuper)
-            .slice(27)
-            .concat(dbsMovies["1"])
+  .concat(dbzMovies["16"])
+  .concat(dbzMovies["17"])
+  .concat(
+    Object.values(dragonBallSuper)
+      .slice(27)
+      .concat(dbsMovies["1"])
 
-            .concat(
-                Object.values(dragonBallGt).concat(Object.values(dragonBall))
-            )
-    );
+      .concat(Object.values(dragonBallGt).concat(Object.values(dragonBall)))
+  );
 
 const movies = Object.values(dbzMovies).concat(Object.values(dbsMovies));
 
 let streamPlaylists = {
-    main: main,
-    mainWithZ: mainWithZ,
-    canon: canon,
-    mainWithSuperMovies: mainWithSuperMovies,
-    movies: movies,
+  main: main,
+  mainWithZ: mainWithZ,
+  canon: canon,
+  mainWithSuperMovies: mainWithSuperMovies,
+  movies: movies,
+  naruto: narutoPlaylist,
 };
 
 module.exports = {
-    streamPlaylists,
+  streamPlaylists,
 };

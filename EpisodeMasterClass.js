@@ -24,7 +24,7 @@ class EpisodeMasterClass {
       dbz: dbzMovies,
       dbs: dbsMovies,
     };
-    this.streamPlaylist = streamPlaylists.mainWithSuperMovies;
+    this.streamPlaylist = streamPlaylists.main;
     this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
     this.streamStatus = {
       isActive: true,
@@ -159,18 +159,32 @@ class EpisodeMasterClass {
     try {
       const data = await axios.get(url, {
         mode: "cors",
-        timeout: 4000,
+        timeout: 10000,
       });
 
       let file = "error";
 
-      if (data.data.sources_bk) {
+      for (let i = 0; i < data.data.sources.length; i++) {
+        if (data.data.sources[i].file.includes("manifest.prod")) {
+          file = [
+            {
+              file: data.data.sources[i].file,
+              label: data.data.sources[i].label,
+              type: "hls",
+            },
+          ];
+        }
+      }
+      if (file === "error") {
         for (let i = 0; i < data.data.sources_bk.length; i++) {
-          if (data.data.sources_bk[i].type === "hls") {
+          if (
+            data.data.sources_bk[i].type === "hls" ||
+            data.data.sources_bk[i].label === "hls P"
+          ) {
             file = [
               {
                 file: data.data.sources_bk[i].file,
-                label: "hls",
+                label: data.data.sources_bk[i].label,
                 type: "hls",
               },
             ];
