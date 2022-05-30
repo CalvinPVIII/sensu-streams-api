@@ -24,7 +24,7 @@ class EpisodeMasterClass {
       dbz: dbzMovies,
       dbs: dbsMovies,
     };
-    this.streamPlaylist = streamPlaylists.main;
+    this.streamPlaylist = streamPlaylists.mainWithSuperMovies;
     this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
     this.streamStatus = {
       isActive: true,
