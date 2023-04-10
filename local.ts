@@ -5,7 +5,7 @@ import bodyParser from "body-parser";
 import cors from "cors";
 
 import EpisodeHelper from "./src/EpisodeHelper.ts";
-import { series } from "./src/Types";
+import { episode, series } from "./src/Types";
 
 const app = express();
 
@@ -19,24 +19,6 @@ app.use(cors());
 //   );
 //   console.log(episode);
 //   res.json(episode);
-// });
-
-// app.get("/db", (req, res) => {
-//   res.json(episodeMasterList.db);
-// });
-
-// app.get("/dbz", (req, res) => {
-//   res.json(episodeMasterList.dbz);
-// });
-// app.get("/dbkai", (req, res) => {
-//   res.json(episodeMasterList.dbkai);
-// });
-// app.get("/dbs", (req, res) => {
-//   res.json(episodeMasterList.dbs);
-// });
-
-// app.get("/dbgt", (req, res) => {
-//   res.json(episodeMasterList.dbgt);
 // });
 
 // app.get("/movies", (req, res) => {
@@ -119,7 +101,27 @@ app.get("/episodes/:series", (req: express.Request, res: express.Response) => {
   }
 });
 
+app.get(
+  "/episodes/:series/:episodeNumber",
+  (req: express.Request, res: express.Response) => {
+    const series: series = EpisodeHelper.series[req.params.series];
+    if (series) {
+      // eventually will want to scrape url
+      const episode: episode = series[parseInt(req.params.episodeNumber)];
+      if (episode) {
+        res.json(episode);
+      } else {
+        res.status(400).send();
+      }
+    } else {
+      res.status(400).send();
+    }
+  }
+);
+
 app.listen(80, "0.0.0.0", () => {
   console.log("Server running locally on port 80");
   // episodeMasterList.startStream();
 });
+
+// run server using ts-node-esm local.ts
