@@ -13,7 +13,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cors());
 
-app.get("/episode/:series/:episodeNumber", async (req, res) => {
+
+// app.get("/episodes/:series")
+
+app.get("/episodes/:series/:episodeNumber", async (req, res) => {
     let episode = await episodeMasterList.getEpisode(
         episodeMasterList[req.params.series][req.params.episodeNumber]
     );
@@ -24,6 +27,7 @@ app.get("/episode/:series/:episodeNumber", async (req, res) => {
 app.get("/db", (req, res) => {
     res.json(episodeMasterList.db);
 });
+
 
 app.get("/dbz", (req, res) => {
     res.json(episodeMasterList.dbz);

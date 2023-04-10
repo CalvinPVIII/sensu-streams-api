@@ -1,34 +1,42 @@
 {
-    "name": "senzustreams",
-    "version": "1.0.0",
-    "description": "back end api for senzu streams",
-    "main": "index.js",
-    "engines": {
-        "node": "14.x"
-    },
-    "scripts": {
-        "start": "node server.js"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "axios": "^0.25.0",
-        "body-parser": "^1.19.2",
-        "cheerio": "^1.0.0-rc.10",
-        "cors": "^2.8.5",
-        "dotenv": "^16.0.0",
-        "express": "^4.17.2",
-        "greenlock-express": "^4.0.3",
-        "install": "^0.13.0",
-        "npm": "^8.3.0"
-    },
-    "devDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/CalvinPVIII/senzu-streams-api.git"
-    },
-    "bugs": {
-        "url": "https://github.com/CalvinPVIII/senzu-streams-api/issues"
-    },
-    "homepage": "https://github.com/CalvinPVIII/senzu-streams-api#readme"
+  "name": "senzustreams",
+  "version": "1.0.0",
+  "description": "back end api for senzu streams",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "body-parser": "^1.19.2",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "greenlock-express": "^4.0.3",
+    "install": "^0.13.0",
+    "npm": "^8.3.0",
+    "ts-loader": "^9.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalvinPVIII/senzu-streams-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CalvinPVIII/senzu-streams-api/issues"
+  },
+  "homepage": "https://github.com/CalvinPVIII/senzu-streams-api#readme",
+  "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.4"
+  }
 }

@@ -375,7 +375,7 @@ class EpisodeMasterClass {
     return { dub: dubFiles, sub: subFiles };
   }
 
-  // this is used to get every episode length for a given object
+  // this is used to get every episode length for a given object, this is only really
   async getAllDuration(episodeObject) {
     for (const episode in episodeObject) {
       let dubLength = await this.getDuration(episodeObject[episode].dub.video);
