@@ -1,19 +1,25 @@
-export type source = {
+export interface source {
   source: string;
   video: string;
-};
+}
 
-export type languageOption = {
+export interface languageOption {
   sources: Array<source>;
   episodeLength: number;
-};
+}
 
-export type episode = {
+export interface episode {
   dub: languageOption;
   sub: languageOption;
   episodeInfo: string;
-};
+}
 
-export type series = {
+export interface series {
   [key: number]: episode;
-};
+}
+
+export interface file {
+  file: string;
+  label: string;
+  type: string;
+}
