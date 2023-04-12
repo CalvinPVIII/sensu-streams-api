@@ -1,9 +1,12 @@
-import EpisodeHelper from "./EpisodeHelper";
+import EpisodeHelper from "./EpisodeHelper.ts";
+import { episode, file } from "./Types.ts";
+import playlists from "./episodes/Playlists.ts";
 
 export default class Stream {
   isActive: boolean;
-  currentSubFiles: string;
-  currentDubFiles: string;
+
+  currentSubFiles: Array<file>;
+  currentDubFiles: Array<file>;
   currentEpisode: number;
   currentTime: number;
   episodeInfo: string;
@@ -14,15 +17,12 @@ export default class Stream {
   failedToLoadVideo: boolean;
   dubLoadError: boolean;
   subLoadError: boolean;
-  //   streamPlaylist: Array<episode>;
+  streamPlaylist: Array<episode>;
 
   constructor() {
-    // this.streamPlaylist = streamPlaylists.mainWithSuperMovies;
-    // this.currentNonWorkingSources = ["KimAnime", "Gogoanime"];
-
     this.isActive = true;
-    this.currentSubFiles = "";
-    this.currentDubFiles = "";
+    this.currentSubFiles = [];
+    this.currentDubFiles = [];
     this.currentEpisode = 0;
     this.currentTime = 0;
     this.episodeInfo = "";
@@ -33,7 +33,7 @@ export default class Stream {
     this.failedToLoadVideo = false;
     this.dubLoadError = false;
     this.subLoadError = false;
-    // this.streamPlaylist = null;
+    this.streamPlaylist = playlists.main;
   }
 
   //   this should be the method responsible for updating the current info of the stream when a new episode starts. It should set the episodeDuration based on the sub/dub length, call the method(s) from EpisodeHelper to get the video sources for the current episode, return the duration of the episode, based on what is longer, sub or dub.
@@ -41,33 +41,28 @@ export default class Stream {
   async initializeEpisode() {
     console.log("Initializing episode");
     this.isEpisodeInitialized = false;
-    let currentSubSources =
-      this.streamPlaylist[this.currentEpisode].sub.sources;
-    let subEpisodeDuration =
-      this.streamPlaylist[this.currentEpisode].sub.episodeLength;
+    // let currentSubSources = this.streamPlaylist[this.currentEpisode].sub.sources;
+    let subEpisodeDuration = this.streamPlaylist[this.currentEpisode].sub.episodeLength;
 
-    let currentDubSources =
-      this.streamPlaylist[this.currentEpisode].dub.sources;
-    let dubEpisodeDuration =
-      this.streamPlaylist[this.currentEpisode].dub.episodeLength;
+    // let currentDubSources = this.streamPlaylist[this.currentEpisode].dub.sources;
+    let dubEpisodeDuration = this.streamPlaylist[this.currentEpisode].dub.episodeLength;
     this.subDuration = subEpisodeDuration;
     this.dubDuration = dubEpisodeDuration;
     this.episodeInfo = this.streamPlaylist[this.currentEpisode].episodeInfo;
 
     // this gets and organizes the files for each source
-    const episodeFiles = await this.getEpisode(
-      this.streamPlaylist[this.currentEpisode]
-    );
+    // investigate why this isn't waiting
+    const episodeFiles = await EpisodeHelper.getEpisodeFiles(this.streamPlaylist[this.currentEpisode]);
 
     this.currentDubFiles = episodeFiles.dub;
     this.currentSubFiles = episodeFiles.sub;
 
     // this sets the episode duration
     if (subEpisodeDuration >= dubEpisodeDuration) {
-      this.isInitialized = true;
+      this.isEpisodeInitialized = true;
       return subEpisodeDuration;
     } else {
-      this.isInitialized = true;
+      this.isEpisodeInitialized = true;
       return dubEpisodeDuration;
     }
   }
@@ -86,6 +81,19 @@ export default class Stream {
 
     this.isActive = false;
     return "Stream Stopped";
+  }
+
+  handleMoveToNextEpisode() {
+    // reset the current time and move onto the next episode
+    this.currentTime = 0;
+    this.currentEpisode++;
+    this.isEpisodeInitialized = false;
+    // if the next episode is outside of the array
+
+    if (this.currentEpisode == this.streamPlaylist.length) {
+      // reset the episodes to start at the beginning
+      this.currentEpisode = 0;
+    }
   }
 
   async handleVideoStream() {

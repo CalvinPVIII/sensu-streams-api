@@ -1,123 +1,7 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
+import axios from "axios";
+// const cheerio = require("cheerio");
 
 export default class Scraper {
-  static gogoAnimeScrape = async (url: string) => {
-    try {
-      const html = await axios.get(url, {
-        mode: "cors",
-      });
-      const $ = cheerio.load(html.data);
-      const iframe = $("iframe").toArray()[0].attribs.src;
-      const videoId = iframe.match(/(?<=\/e\/)(.*?)(?=\?domain)/gm)[0];
-
-      const response = await axios.get(iframe, {
-        mode: "cors",
-        headers: {
-          referer: url,
-        },
-      });
-      const key = response.data.match(/(?<=skey = ')(.*?)(?=')/gm)[0];
-      const videoLink = `https://vidstream.pro/info/${videoId}?domain=gogoanime.lol&skey=${key}`;
-      const video = await axios.get(videoLink, {
-        mode: "cors",
-        headers: {
-          referer: iframe,
-        },
-      });
-
-      return [
-        {
-          file: video.data.media.sources[1].file,
-          referer: videoLink,
-          label: "Auto",
-          type: "HLS",
-        },
-      ];
-    } catch (error) {
-      console.log(error);
-      return "error";
-    }
-  };
-
-  static gogoApiScrape = async (url: string) => {
-    try {
-      const data = await axios.get(url, {
-        mode: "cors",
-        timeout: 10000,
-      });
-
-      let file = "error";
-
-      for (let i = 0; i < data.data.sources.length; i++) {
-        if (data.data.sources[i].file.includes("manifest.prod")) {
-          file = [
-            {
-              file: data.data.sources[i].file,
-              label: data.data.sources[i].label,
-              type: "hls",
-            },
-          ];
-        }
-      }
-      if (file === "error") {
-        for (let i = 0; i < data.data.sources_bk.length; i++) {
-          if (
-            data.data.sources_bk[i].type === "hls" ||
-            data.data.sources_bk[i].label === "hls P"
-          ) {
-            file = [
-              {
-                file: data.data.sources_bk[i].file,
-                label: data.data.sources_bk[i].label,
-                type: "hls",
-              },
-            ];
-          }
-        }
-      }
-      return file;
-    } catch (error) {
-      console.log(error);
-      return "error";
-    }
-  };
-
-  static async kimAnimeScrape(url: string) {
-    try {
-      const data = await axios.get(url);
-      const $ = cheerio.load(data.data);
-      const page = $.html();
-      const link = page.match(/(?<=embed)(.*?)(?=&quot)/gm)[0].slice(1);
-
-      const embedPage = await axios.get(
-        "https://kimanime.com/episode/embed" + link
-      );
-      const $$ = cheerio.load(embedPage.data);
-      const video = $$("video");
-
-      let files = [];
-      Object.values(video.children("source")).forEach((child) => {
-        if (child.attribs && !child.attribs.src.includes("gogo-cdn")) {
-          const fileObj = {
-            file: child.attribs.src,
-            label: child.attribs.size,
-            type: child.attribs.type,
-          };
-          files.push(fileObj);
-        }
-      });
-      if (files.length === 0) {
-        return "error";
-      }
-      return files;
-    } catch (error) {
-      console.log("error");
-      console.log(error);
-      return "error";
-    }
-  }
-
   static owlOrganizer(url: string) {
     return [
       {
@@ -127,4 +11,43 @@ export default class Scraper {
       },
     ];
   }
+
+  static allAnimeScrape(url: string) {
+    axios.get(url).then((response: any) => {
+      return {
+        file: "https://workfields.backup-server222.lol/" + response.data.match(/lol%2F(.*?)&amp/)[1],
+        label: "auto",
+        type: "mp4",
+      };
+    });
+  }
+
+  static enimeScrape(episodeId: string) {
+    axios.get(`https://api.consumet.org/anime/enime/watch?episodeId=${episodeId}`).then((response: any) => {
+      const output = response.data.sources.map((source: any) => ({
+        file: source.url,
+        label: source.quality,
+        type: "hls",
+      }));
+      return output;
+    });
+  }
+
+  static gogoApiScrape(url: string) {
+    axios.get(url).then((response: any) => {
+      if (response.data.sources) {
+        console.log(response.data.sources);
+        return response.data.sources;
+      } else {
+        return "Error";
+      }
+    });
+  }
+
+  static scraperMethods: { [key: string]: Function } = {
+    "Anime Owl": this.owlOrganizer,
+    Gogoapi: this.gogoApiScrape,
+    AllAnime: this.allAnimeScrape,
+    Enime: this.enimeScrape,
+  };
 }

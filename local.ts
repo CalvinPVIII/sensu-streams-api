@@ -1,13 +1,14 @@
 import express from "express";
 import bodyParser from "body-parser";
-// const dotenv = require("dotenv").config();
-
 import cors from "cors";
 
 import EpisodeHelper from "./src/EpisodeHelper.ts";
+import Stream from "./src/Stream.ts";
 import { episode, series } from "./src/Types";
 
 const app = express();
+
+const stream = new Stream();
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
@@ -79,18 +80,13 @@ app.use(cors());
 //   }
 // });
 
-// app.get("/streaminfo", (req, res) => {
-//   res.json(episodeMasterList.streamStatus);
-// });
+app.get("/stream", (req, res) => {
+  res.json(stream);
+});
 
 // app.get("/allInfo", (req, res) => {
 //   res.json(episodeMasterList);
 // });
-
-app.get("/test", (req: any, res: any) => {
-  // console.log("Loaded")
-  res.json(EpisodeHelper.dragonBallKai);
-});
 
 app.get("/episodes/:series", (req: express.Request, res: express.Response) => {
   const series: series = EpisodeHelper.series[req.params.series];
@@ -101,27 +97,24 @@ app.get("/episodes/:series", (req: express.Request, res: express.Response) => {
   }
 });
 
-app.get(
-  "/episodes/:series/:episodeNumber",
-  (req: express.Request, res: express.Response) => {
-    const series: series = EpisodeHelper.series[req.params.series];
-    if (series) {
-      // eventually will want to scrape url
-      const episode: episode = series[parseInt(req.params.episodeNumber)];
-      if (episode) {
-        res.json(episode);
-      } else {
-        res.status(400).send();
-      }
+app.get("/episodes/:series/:episodeNumber", (req: express.Request, res: express.Response) => {
+  const series: series = EpisodeHelper.series[req.params.series];
+  if (series) {
+    // eventually will want to scrape url
+    const episode: episode = series[parseInt(req.params.episodeNumber)];
+    if (episode) {
+      res.json(episode);
     } else {
       res.status(400).send();
     }
+  } else {
+    res.status(400).send();
   }
-);
+});
 
-app.listen(80, "0.0.0.0", () => {
-  console.log("Server running locally on port 80");
-  // episodeMasterList.startStream();
+app.listen(3001, "0.0.0.0", () => {
+  console.log("Server running locally on port 3001");
+  stream.startStream();
 });
 
 // run server using ts-node-esm local.ts

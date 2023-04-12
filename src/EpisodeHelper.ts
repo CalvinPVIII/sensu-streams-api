@@ -1,25 +1,22 @@
-// import dragonBall from "./episodes/DragonBall.ts";
-// import dragonBallZ from "./episodes/DragonBallZ.ts";
+import dragonBall from "./episodes/DragonBall.ts";
+import dragonBallZ from "./episodes/DragonBallZ.ts";
 import dragonBallKai from "./episodes/DragonBallKai.ts";
 import dragonBallSuper from "./episodes/DragonBallSuper.ts";
-// import dragonBallGt from "./episodes/DragonBallGt.ts";
+import dragonBallGt from "./episodes/DragonBallGt.ts";
 
-import { series } from "./Types";
+import Scraper from "./Scraper.ts";
+
+import { episode, file, series } from "./Types";
 
 export default class EpisodeHelper {
   static series: { [key: string]: series } = {
-    // dragonBall: dragonBall,
-    // dragonBallZ: dragonBallZ,
+    dragonBall: dragonBall,
+    dragonBallZ: dragonBallZ,
     dragonBallKai: dragonBallKai,
     dragonBallSuper: dragonBallSuper,
-    // dragonBallGt: dragonBallGt;
+    dragonBallGt: dragonBallGt,
   };
-  //   static dragonBall: series = dragonBall;
-  //   static dragonBallZ: series = dragonBallZ;
-  static dragonBallKai: series = dragonBallKai;
-  static dragonBallSuper: series = dragonBallSuper;
-  //   static dragonBallGt: series = dragonBallGt;
-  static nonWorkingSources: Array<string> = ["KimAnime", "Gogoanime"];
+  static nonWorkingSources: Array<string> = ["Gogo", "Gogoanime", "KimAnime", "AllAnime"];
 
   static updateNonWorkingSources(sourceName: string): string {
     if (this.nonWorkingSources.includes(sourceName)) {
@@ -30,5 +27,29 @@ export default class EpisodeHelper {
       this.nonWorkingSources.push(sourceName);
       return "added";
     }
+  }
+
+  static async getEpisodeFiles(episode: episode) {
+    // const files = new Promise((resolve, reject) => {
+    let subFiles: Array<file> = [];
+    let dubFiles: Array<file> = [];
+    await Promise.all(
+      episode.sub.sources.map((episode) => {
+        if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
+          const scrapeMethod = Scraper.scraperMethods[episode.source];
+          console.log(scrapeMethod);
+          subFiles.push(scrapeMethod(episode.video));
+        }
+      })
+    );
+    await Promise.all(
+      episode.dub.sources.map((episode) => {
+        if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
+          const scrapeMethod = Scraper.scraperMethods[episode.source];
+          dubFiles.push(scrapeMethod(episode.video));
+        }
+      })
+    );
+    return { dub: dubFiles, sub: subFiles };
   }
 }
