@@ -30,26 +30,30 @@ export default class EpisodeHelper {
   }
 
   static async getEpisodeFiles(episode: episode) {
-    // const files = new Promise((resolve, reject) => {
-    let subFiles: Array<file> = [];
-    let dubFiles: Array<file> = [];
-    await Promise.all(
-      episode.sub.sources.map((episode) => {
-        if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
-          const scrapeMethod = Scraper.scraperMethods[episode.source];
-          console.log(scrapeMethod);
-          subFiles.push(scrapeMethod(episode.video));
-        }
-      })
-    );
-    await Promise.all(
-      episode.dub.sources.map((episode) => {
-        if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
-          const scrapeMethod = Scraper.scraperMethods[episode.source];
-          dubFiles.push(scrapeMethod(episode.video));
-        }
-      })
-    );
-    return { dub: dubFiles, sub: subFiles };
+    const files = new Promise(async (resolve, reject) => {
+      let subFiles: Array<file> = [];
+      let dubFiles: Array<file> = [];
+      await Promise.all(
+        episode.sub.sources.map(async (episode) => {
+          if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
+            const scrapeMethod = Scraper.scraperMethods[episode.source];
+            const files = await scrapeMethod(episode.video);
+            console.log(files);
+            subFiles.push(files);
+          }
+        })
+      );
+      await Promise.all(
+        episode.dub.sources.map(async (episode) => {
+          if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
+            const scrapeMethod = Scraper.scraperMethods[episode.source];
+            const files = await scrapeMethod(episode.video);
+            dubFiles.push(files);
+          }
+        })
+      );
+      resolve({ dub: dubFiles, sub: subFiles });
+    });
+    return files;
   }
 }

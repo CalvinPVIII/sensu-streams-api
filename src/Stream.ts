@@ -33,38 +33,41 @@ export default class Stream {
     this.failedToLoadVideo = false;
     this.dubLoadError = false;
     this.subLoadError = false;
-    this.streamPlaylist = playlists.main;
+    this.streamPlaylist = playlists.test;
   }
 
   //   this should be the method responsible for updating the current info of the stream when a new episode starts. It should set the episodeDuration based on the sub/dub length, call the method(s) from EpisodeHelper to get the video sources for the current episode, return the duration of the episode, based on what is longer, sub or dub.
 
-  async initializeEpisode() {
-    console.log("Initializing episode");
-    this.isEpisodeInitialized = false;
-    // let currentSubSources = this.streamPlaylist[this.currentEpisode].sub.sources;
-    let subEpisodeDuration = this.streamPlaylist[this.currentEpisode].sub.episodeLength;
+  async initializeEpisode(): Promise<number> {
+    const promise = new Promise<number>(async (resolve, reject) => {
+      console.log("Initializing episode");
+      this.isEpisodeInitialized = false;
+      // let currentSubSources = this.streamPlaylist[this.currentEpisode].sub.sources;
+      let subEpisodeDuration = this.streamPlaylist[this.currentEpisode].sub.episodeLength;
 
-    // let currentDubSources = this.streamPlaylist[this.currentEpisode].dub.sources;
-    let dubEpisodeDuration = this.streamPlaylist[this.currentEpisode].dub.episodeLength;
-    this.subDuration = subEpisodeDuration;
-    this.dubDuration = dubEpisodeDuration;
-    this.episodeInfo = this.streamPlaylist[this.currentEpisode].episodeInfo;
+      // let currentDubSources = this.streamPlaylist[this.currentEpisode].dub.sources;
+      let dubEpisodeDuration = this.streamPlaylist[this.currentEpisode].dub.episodeLength;
+      this.subDuration = subEpisodeDuration;
+      this.dubDuration = dubEpisodeDuration;
+      this.episodeInfo = this.streamPlaylist[this.currentEpisode].episodeInfo;
 
-    // this gets and organizes the files for each source
-    // investigate why this isn't waiting
-    const episodeFiles = await EpisodeHelper.getEpisodeFiles(this.streamPlaylist[this.currentEpisode]);
+      // this gets and organizes the files for each source
+      // investigate why this isn't waiting
+      const episodeFiles: any = await EpisodeHelper.getEpisodeFiles(this.streamPlaylist[this.currentEpisode]);
 
-    this.currentDubFiles = episodeFiles.dub;
-    this.currentSubFiles = episodeFiles.sub;
+      this.currentDubFiles = episodeFiles.dub;
+      this.currentSubFiles = episodeFiles.sub;
 
-    // this sets the episode duration
-    if (subEpisodeDuration >= dubEpisodeDuration) {
-      this.isEpisodeInitialized = true;
-      return subEpisodeDuration;
-    } else {
-      this.isEpisodeInitialized = true;
-      return dubEpisodeDuration;
-    }
+      // this sets the episode duration
+      if (subEpisodeDuration >= dubEpisodeDuration) {
+        this.isEpisodeInitialized = true;
+        resolve(subEpisodeDuration);
+      } else {
+        this.isEpisodeInitialized = true;
+        resolve(dubEpisodeDuration);
+      }
+    });
+    return promise;
   }
 
   startStream(): string {
