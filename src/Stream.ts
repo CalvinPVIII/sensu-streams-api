@@ -20,7 +20,7 @@ export default class Stream {
   streamPlaylist: Array<episode>;
 
   constructor() {
-    this.isActive = true;
+    this.isActive = false;
     this.currentSubFiles = [];
     this.currentDubFiles = [];
     this.currentEpisode = 0;

@@ -10,11 +10,11 @@ import { episode, file, series } from "./Types";
 
 export default class EpisodeHelper {
   static series: { [key: string]: series } = {
-    dragonBall: dragonBall,
-    dragonBallZ: dragonBallZ,
-    dragonBallKai: dragonBallKai,
-    dragonBallSuper: dragonBallSuper,
-    dragonBallGt: dragonBallGt,
+    dragonball: dragonBall,
+    dragonballz: dragonBallZ,
+    dragonballkai: dragonBallKai,
+    dragonballsuper: dragonBallSuper,
+    dragonballgt: dragonBallGt,
   };
   static nonWorkingSources: Array<string> = ["Gogo", "Gogoanime", "KimAnime", "AllAnime"];
 

@@ -89,7 +89,7 @@ app.get("/stream", (req, res) => {
 // });
 
 app.get("/episodes/:series", (req: express.Request, res: express.Response) => {
-  const series: series = EpisodeHelper.series[req.params.series];
+  const series: series = EpisodeHelper.series[req.params.series.toLowerCase()];
   if (series) {
     res.json(series);
   } else {
@@ -98,7 +98,7 @@ app.get("/episodes/:series", (req: express.Request, res: express.Response) => {
 });
 
 app.get("/episodes/:series/:episodeNumber", (req: express.Request, res: express.Response) => {
-  const series: series = EpisodeHelper.series[req.params.series];
+  const series: series = EpisodeHelper.series[req.params.series.toLowerCase()];
   if (series) {
     // eventually will want to scrape url
     const episode: episode = series[parseInt(req.params.episodeNumber)];
@@ -114,7 +114,7 @@ app.get("/episodes/:series/:episodeNumber", (req: express.Request, res: express.
 
 app.listen(3001, "0.0.0.0", () => {
   console.log("Server running locally on port 3001");
-  // stream.startStream();
+  stream.startStream();
 });
 
 // run server using ts-node-esm local.ts
