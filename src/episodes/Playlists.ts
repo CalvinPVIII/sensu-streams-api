@@ -9,6 +9,4 @@ const playlists = {
   test: [Object.values(dragonBallSuper)[0], Object.values(dragonBallKai)[0]],
 };
 
-console.log(playlists.main);
-
 export default playlists;

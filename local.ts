@@ -114,7 +114,7 @@ app.get("/episodes/:series/:episodeNumber", (req: express.Request, res: express.
 
 app.listen(3001, "0.0.0.0", () => {
   console.log("Server running locally on port 3001");
-  stream.startStream();
+  // stream.startStream();
 });
 
 // run server using ts-node-esm local.ts
