@@ -1,7 +1,9 @@
 import { series } from "../Types";
 
+// check 113/kai 2014 episode 15
+
 const dragonBallKai: series = {
-  1: {
+  "1": {
     dub: {
       sources: [
         {
@@ -12,7 +14,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-1" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-1-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60296273642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.09402,
     },
@@ -26,13 +32,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-1" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-1-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60297573642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094018,
     },
     episodeInfo: "Dragon Ball Kai Episode 1",
   },
-  2: {
+  "2": {
     dub: {
       sources: [
         {
@@ -43,7 +53,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-2" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-2-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60296273642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177432,
     },
@@ -57,13 +71,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-2" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-2-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60297573642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219144,
     },
     episodeInfo: "Dragon Ball Kai Episode 2",
   },
-  3: {
+  "3": {
     dub: {
       sources: [
         {
@@ -74,7 +92,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-3" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-3-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60296273642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17243,
     },
@@ -88,13 +110,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-3" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-3-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60297573642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172432,
     },
     episodeInfo: "Dragon Ball Kai Episode 3",
   },
-  4: {
+  "4": {
     dub: {
       sources: [
         {
@@ -105,7 +131,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-4" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-4-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60296273642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172441,
     },
@@ -119,13 +149,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-4" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-4-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60297573642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172447,
     },
     episodeInfo: "Dragon Ball Kai Episode 4",
   },
-  5: {
+  "5": {
     dub: {
       sources: [
         {
@@ -136,7 +170,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-5" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-5-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60296273642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130726,
     },
@@ -150,13 +188,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-5" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-5-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60297573642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172432,
     },
     episodeInfo: "Dragon Ball Kai Episode 5",
   },
-  6: {
+  "6": {
     dub: {
       sources: [
         {
@@ -167,7 +209,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-6" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-6-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60296273642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172424,
     },
@@ -181,13 +227,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-6" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-6-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60297573642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172429,
     },
     episodeInfo: "Dragon Ball Kai Episode 6",
   },
-  7: {
+  "7": {
     dub: {
       sources: [
         {
@@ -198,7 +248,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-7" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-7-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60296273642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089016,
     },
@@ -212,13 +266,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-7" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-7-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b60297573642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089015,
     },
     episodeInfo: "Dragon Ball Kai Episode 7",
   },
-  8: {
+  "8": {
     dub: {
       sources: [
         {
@@ -229,7 +287,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-8" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-8-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172409,
     },
@@ -243,13 +305,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-8" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-8-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17241,
     },
     episodeInfo: "Dragon Ball Kai Episode 8",
   },
-  9: {
+  "9": {
     dub: {
       sources: [
         {
@@ -260,7 +326,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-9" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-9-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130726,
     },
@@ -274,13 +344,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-9" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-9-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13073,
     },
     episodeInfo: "Dragon Ball Kai Episode 9",
   },
-  10: {
+  "10": {
     dub: {
       sources: [
         {
@@ -291,7 +365,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-10" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-10-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130731,
     },
@@ -305,13 +383,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-10" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-10-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089021,
     },
     episodeInfo: "Dragon Ball Kai Episode 10",
   },
-  11: {
+  "11": {
     dub: {
       sources: [
         {
@@ -322,7 +404,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-11" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-11-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13073,
     },
@@ -336,13 +422,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-11" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-11-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172443,
     },
     episodeInfo: "Dragon Ball Kai Episode 11",
   },
-  12: {
+  "12": {
     dub: {
       sources: [
         {
@@ -353,7 +443,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-12" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-12-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130735,
     },
@@ -367,13 +461,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-12" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-12-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172433,
     },
     episodeInfo: "Dragon Ball Kai Episode 12",
   },
-  13: {
+  "13": {
     dub: {
       sources: [
         {
@@ -384,7 +482,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-13" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-13-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130741,
     },
@@ -398,13 +500,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-13" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-13-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172446,
     },
     episodeInfo: "Dragon Ball Kai Episode 13",
   },
-  14: {
+  "14": {
     dub: {
       sources: [
         {
@@ -415,7 +521,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-14" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-14-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130738,
     },
@@ -429,13 +539,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-14" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-14-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172429,
     },
     episodeInfo: "Dragon Ball Kai Episode 14",
   },
-  15: {
+  "15": {
     dub: {
       sources: [
         {
@@ -446,7 +560,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-15" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-15-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172438,
     },
@@ -460,13 +578,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-15" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-15-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172449,
     },
     episodeInfo: "Dragon Ball Kai Episode 15",
   },
-  16: {
+  "16": {
     dub: {
       sources: [
         {
@@ -477,7 +599,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-16" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-16-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172453,
     },
@@ -491,13 +617,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-16" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-16-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172449,
     },
     episodeInfo: "Dragon Ball Kai Episode 16",
   },
-  17: {
+  "17": {
     dub: {
       sources: [
         {
@@ -508,7 +638,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-17" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-17-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13074,
     },
@@ -522,13 +656,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-17" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-17-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130749,
     },
     episodeInfo: "Dragon Ball Kai Episode 17",
   },
-  18: {
+  "18": {
     dub: {
       sources: [
         {
@@ -539,7 +677,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-18" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-18-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172448,
     },
@@ -553,13 +695,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-18" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-18-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17245,
     },
     episodeInfo: "Dragon Ball Kai Episode 18",
   },
-  19: {
+  "19": {
     dub: {
       sources: [
         {
@@ -570,7 +716,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-19" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-19-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130745,
     },
@@ -584,13 +734,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-19" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-19-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089035,
     },
     episodeInfo: "Dragon Ball Kai Episode 19",
   },
-  20: {
+  "20": {
     dub: {
       sources: [
         {
@@ -601,7 +755,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-20" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-20-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214157,
     },
@@ -615,13 +773,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-20" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-20-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17244,
     },
     episodeInfo: "Dragon Ball Kai Episode 20",
   },
-  21: {
+  "21": {
     dub: {
       sources: [
         {
@@ -632,7 +794,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-21" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-21-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130743,
     },
@@ -646,13 +812,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-21" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-21-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130744,
     },
     episodeInfo: "Dragon Ball Kai Episode 21",
   },
-  22: {
+  "22": {
     dub: {
       sources: [
         {
@@ -663,7 +833,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-22" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-22-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130744,
     },
@@ -677,13 +851,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-22" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-22-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130741,
     },
     episodeInfo: "Dragon Ball Kai Episode 22",
   },
-  23: {
+  "23": {
     dub: {
       sources: [
         {
@@ -694,7 +872,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-23" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-23-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17244,
     },
@@ -708,13 +890,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-23" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-23-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172438,
     },
     episodeInfo: "Dragon Ball Kai Episode 23",
   },
-  24: {
+  "24": {
     dub: {
       sources: [
         {
@@ -725,7 +911,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-24" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-24-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172441,
     },
@@ -739,13 +929,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-24" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-24-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214152,
     },
     episodeInfo: "Dragon Ball Kai Episode 24",
   },
-  25: {
+  "25": {
     dub: {
       sources: [
         {
@@ -756,7 +950,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-25" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-25-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.21416,
     },
@@ -770,13 +968,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-25" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-25-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214158,
     },
     episodeInfo: "Dragon Ball Kai Episode 25",
   },
-  26: {
+  "26": {
     dub: {
       sources: [
         {
@@ -787,7 +989,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-26" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-26-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130745,
     },
@@ -801,13 +1007,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-26" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-26-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130742,
     },
     episodeInfo: "Dragon Ball Kai Episode 26",
   },
-  27: {
+  "27": {
     dub: {
       sources: [
         {
@@ -818,7 +1028,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-27" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-27-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13074,
     },
@@ -832,13 +1046,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-27" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-27-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130749,
     },
     episodeInfo: "Dragon Ball Kai Episode 27",
   },
-  28: {
+  "28": {
     dub: {
       sources: [
         {
@@ -849,7 +1067,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-28" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-28-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214153,
     },
@@ -863,13 +1085,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-28" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-28-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214154,
     },
     episodeInfo: "Dragon Ball Kai Episode 28",
   },
-  29: {
+  "29": {
     dub: {
       sources: [
         {
@@ -880,7 +1106,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-29" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-29-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130745,
     },
@@ -889,13 +1119,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-29" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/jsonundefined" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-29-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172451,
     },
     episodeInfo: "Dragon Ball Kai Episode 29",
   },
-  30: {
+  "30": {
     dub: {
       sources: [
         {
@@ -906,7 +1140,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-30" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-30-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130726,
     },
@@ -920,13 +1158,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-30" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-30-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130727,
     },
     episodeInfo: "Dragon Ball Kai Episode 30",
   },
-  31: {
+  "31": {
     dub: {
       sources: [
         {
@@ -937,7 +1179,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-31" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-31-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130739,
     },
@@ -951,13 +1197,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-31" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-31-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130742,
     },
     episodeInfo: "Dragon Ball Kai Episode 31",
   },
-  32: {
+  "32": {
     dub: {
       sources: [
         {
@@ -968,7 +1218,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-32" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-32-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172434,
     },
@@ -982,13 +1236,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-32" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-32-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13073,
     },
     episodeInfo: "Dragon Ball Kai Episode 32",
   },
-  33: {
+  "33": {
     dub: {
       sources: [
         {
@@ -999,7 +1257,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-33" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-33-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172443,
     },
@@ -1013,13 +1275,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-33" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-33-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130744,
     },
     episodeInfo: "Dragon Ball Kai Episode 33",
   },
-  34: {
+  "34": {
     dub: {
       sources: [
         {
@@ -1030,7 +1296,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-34" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-34-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130746,
     },
@@ -1044,13 +1314,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-34" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-34-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130742,
     },
     episodeInfo: "Dragon Ball Kai Episode 34",
   },
-  35: {
+  "35": {
     dub: {
       sources: [
         {
@@ -1061,7 +1335,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-35" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-35-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089043,
     },
@@ -1075,13 +1353,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-35" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-35-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089045,
     },
     episodeInfo: "Dragon Ball Kai Episode 35",
   },
-  36: {
+  "36": {
     dub: {
       sources: [
         {
@@ -1092,7 +1374,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-36" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-36-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130741,
     },
@@ -1106,13 +1392,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-36" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-36-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130734,
     },
     episodeInfo: "Dragon Ball Kai Episode 36",
   },
-  37: {
+  "37": {
     dub: {
       sources: [
         {
@@ -1123,7 +1413,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-37" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-37-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089031,
     },
@@ -1137,13 +1431,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-37" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-37-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089024,
     },
     episodeInfo: "Dragon Ball Kai Episode 37",
   },
-  38: {
+  "38": {
     dub: {
       sources: [
         {
@@ -1154,7 +1452,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-38" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-38-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172435,
     },
@@ -1168,13 +1470,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-38" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-38-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130742,
     },
     episodeInfo: "Dragon Ball Kai Episode 38",
   },
-  39: {
+  "39": {
     dub: {
       sources: [
         {
@@ -1185,7 +1491,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-39" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-39-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130748,
     },
@@ -1199,13 +1509,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-39" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-39-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130743,
     },
     episodeInfo: "Dragon Ball Kai Episode 39",
   },
-  40: {
+  "40": {
     dub: {
       sources: [
         {
@@ -1216,7 +1530,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-40" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-40-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172447,
     },
@@ -1230,13 +1548,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-40" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-40-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17245,
     },
     episodeInfo: "Dragon Ball Kai Episode 40",
   },
-  41: {
+  "41": {
     dub: {
       sources: [
         {
@@ -1247,7 +1569,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-41" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-41-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17245,
     },
@@ -1261,13 +1587,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-41" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-41-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17245,
     },
     episodeInfo: "Dragon Ball Kai Episode 41",
   },
-  42: {
+  "42": {
     dub: {
       sources: [
         {
@@ -1278,7 +1608,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-42" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-42-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089037,
     },
@@ -1292,13 +1626,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-42" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-42-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130747,
     },
     episodeInfo: "Dragon Ball Kai Episode 42",
   },
-  43: {
+  "43": {
     dub: {
       sources: [
         {
@@ -1309,7 +1647,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-43" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-43-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172443,
     },
@@ -1323,13 +1665,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-43" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-43-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172443,
     },
     episodeInfo: "Dragon Ball Kai Episode 43",
   },
-  44: {
+  "44": {
     dub: {
       sources: [
         {
@@ -1340,7 +1686,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-44" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-44-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172438,
     },
@@ -1354,13 +1704,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-44" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-44-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172439,
     },
     episodeInfo: "Dragon Ball Kai Episode 44",
   },
-  45: {
+  "45": {
     dub: {
       sources: [
         {
@@ -1371,7 +1725,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-45" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-45-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172434,
     },
@@ -1385,13 +1743,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-45" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-45-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214156,
     },
     episodeInfo: "Dragon Ball Kai Episode 45",
   },
-  46: {
+  "46": {
     dub: {
       sources: [
         {
@@ -1402,7 +1764,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-46" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-46-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089024,
     },
@@ -1416,13 +1782,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-46" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-46-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130733,
     },
     episodeInfo: "Dragon Ball Kai Episode 46",
   },
-  47: {
+  "47": {
     dub: {
       sources: [
         {
@@ -1433,7 +1803,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-47" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-47-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13076,
     },
@@ -1447,13 +1821,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-47" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-47-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172458,
     },
     episodeInfo: "Dragon Ball Kai Episode 47",
   },
-  48: {
+  "48": {
     dub: {
       sources: [
         {
@@ -1464,7 +1842,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-48" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-48-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172439,
     },
@@ -1478,13 +1860,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-48" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-48-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172448,
     },
     episodeInfo: "Dragon Ball Kai Episode 48",
   },
-  49: {
+  "49": {
     dub: {
       sources: [
         {
@@ -1495,7 +1881,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-49" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-49-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17244,
     },
@@ -1509,13 +1899,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-49" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-49-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.21416,
     },
     episodeInfo: "Dragon Ball Kai Episode 49",
   },
-  50: {
+  "50": {
     dub: {
       sources: [
         {
@@ -1526,7 +1920,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-50" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-50-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172444,
     },
@@ -1540,13 +1938,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-50" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-50-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214155,
     },
     episodeInfo: "Dragon Ball Kai Episode 50",
   },
-  51: {
+  "51": {
     dub: {
       sources: [
         {
@@ -1557,7 +1959,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-51" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-51-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172427,
     },
@@ -1571,13 +1977,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-51" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-51-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172437,
     },
     episodeInfo: "Dragon Ball Kai Episode 51",
   },
-  52: {
+  "52": {
     dub: {
       sources: [
         {
@@ -1588,7 +1998,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-52" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-52-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172456,
     },
@@ -1602,13 +2016,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-52" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-52-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172455,
     },
     episodeInfo: "Dragon Ball Kai Episode 52",
   },
-  53: {
+  "53": {
     dub: {
       sources: [
         {
@@ -1619,7 +2037,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-53" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-53-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130749,
     },
@@ -1633,13 +2055,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-53" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-53-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130753,
     },
     episodeInfo: "Dragon Ball Kai Episode 53",
   },
-  54: {
+  "54": {
     dub: {
       sources: [
         {
@@ -1650,7 +2076,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-54" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-54-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130747,
     },
@@ -1664,13 +2094,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-54" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-54-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172456,
     },
     episodeInfo: "Dragon Ball Kai Episode 54",
   },
-  55: {
+  "55": {
     dub: {
       sources: [
         {
@@ -1681,7 +2115,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-55" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-55-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172433,
     },
@@ -1695,13 +2133,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-55" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-55-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172439,
     },
     episodeInfo: "Dragon Ball Kai Episode 55",
   },
-  56: {
+  "56": {
     dub: {
       sources: [
         {
@@ -1712,7 +2154,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-56" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-56-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214151,
     },
@@ -1726,19 +2172,27 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-56" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-56-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214149,
     },
     episodeInfo: "Dragon Ball Kai Episode 56",
   },
-  57: {
+  "57": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-57" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/jsonundefined" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-57-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13073,
     },
@@ -1752,13 +2206,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-57" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-57-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172439,
     },
     episodeInfo: "Dragon Ball Kai Episode 57",
   },
-  58: {
+  "58": {
     dub: {
       sources: [
         {
@@ -1769,7 +2227,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-58" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-58-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130739,
     },
@@ -1783,13 +2245,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-58" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-58-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130731,
     },
     episodeInfo: "Dragon Ball Kai Episode 58",
   },
-  59: {
+  "59": {
     dub: {
       sources: [
         {
@@ -1800,7 +2266,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-59" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-59-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172448,
     },
@@ -1814,13 +2284,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-59" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-59-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214153,
     },
     episodeInfo: "Dragon Ball Kai Episode 59",
   },
-  60: {
+  "60": {
     dub: {
       sources: [
         {
@@ -1831,7 +2305,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-60" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-60-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172445,
     },
@@ -1845,13 +2323,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-60" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-60-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130746,
     },
     episodeInfo: "Dragon Ball Kai Episode 60",
   },
-  61: {
+  "61": {
     dub: {
       sources: [
         {
@@ -1862,7 +2344,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-61" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-61-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214157,
     },
@@ -1876,13 +2362,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-61" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-61-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172445,
     },
     episodeInfo: "Dragon Ball Kai Episode 61",
   },
-  62: {
+  "62": {
     dub: {
       sources: [
         {
@@ -1893,7 +2383,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-62" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-62-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17244,
     },
@@ -1907,13 +2401,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-62" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-62-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172444,
     },
     episodeInfo: "Dragon Ball Kai Episode 62",
   },
-  63: {
+  "63": {
     dub: {
       sources: [
         {
@@ -1924,7 +2422,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-63" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-63-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172441,
     },
@@ -1938,13 +2440,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-63" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-63-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172443,
     },
     episodeInfo: "Dragon Ball Kai Episode 63",
   },
-  64: {
+  "64": {
     dub: {
       sources: [
         {
@@ -1955,7 +2461,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-64" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-64-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214158,
     },
@@ -1969,13 +2479,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-64" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-64-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172445,
     },
     episodeInfo: "Dragon Ball Kai Episode 64",
   },
-  65: {
+  "65": {
     dub: {
       sources: [
         {
@@ -1986,7 +2500,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-65" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-65" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-65-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293033242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130745,
     },
@@ -2000,13 +2518,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-65" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-65" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-65-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293033242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17244,
     },
     episodeInfo: "Dragon Ball Kai Episode 65",
   },
-  66: {
+  "66": {
     dub: {
       sources: [
         {
@@ -2017,7 +2539,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-66" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-66-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172453,
     },
@@ -2031,13 +2557,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-66" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-66-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130747,
     },
     episodeInfo: "Dragon Ball Kai Episode 66",
   },
-  67: {
+  "67": {
     dub: {
       sources: [
         {
@@ -2048,7 +2578,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-67" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-67" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-67-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130748,
     },
@@ -2062,13 +2596,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-67" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-67" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-67-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172448,
     },
     episodeInfo: "Dragon Ball Kai Episode 67",
   },
-  68: {
+  "68": {
     dub: {
       sources: [
         {
@@ -2079,7 +2617,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-68" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-68" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-68-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214159,
     },
@@ -2093,13 +2635,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-68" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-68" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-68-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214159,
     },
     episodeInfo: "Dragon Ball Kai Episode 68",
   },
-  69: {
+  "69": {
     dub: {
       sources: [
         {
@@ -2110,7 +2656,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-69" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-69" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-69-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172437,
     },
@@ -2124,13 +2674,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-69" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-69" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-69-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172437,
     },
     episodeInfo: "Dragon Ball Kai Episode 69",
   },
-  70: {
+  "70": {
     dub: {
       sources: [
         {
@@ -2141,7 +2695,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-70" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-70" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-70-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293136242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089046,
     },
@@ -2155,13 +2713,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-70" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-70" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-70-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293136242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172447,
     },
     episodeInfo: "Dragon Ball Kai Episode 70",
   },
-  71: {
+  "71": {
     dub: {
       sources: [
         {
@@ -2172,7 +2734,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-71" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-71" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-71-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293137242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214154,
     },
@@ -2186,13 +2752,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-71" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-71" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-71-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293137242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.17245,
     },
     episodeInfo: "Dragon Ball Kai Episode 71",
   },
-  72: {
+  "72": {
     dub: {
       sources: [
         {
@@ -2203,7 +2773,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-72" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-72" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-72-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293134242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172444,
     },
@@ -2217,13 +2791,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-72" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-72" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-72-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293134242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13075,
     },
     episodeInfo: "Dragon Ball Kai Episode 72",
   },
-  73: {
+  "73": {
     dub: {
       sources: [
         {
@@ -2234,7 +2812,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-73" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-73" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-73-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293135242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130726,
     },
@@ -2248,13 +2830,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-73" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-73" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-73-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293135242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130731,
     },
     episodeInfo: "Dragon Ball Kai Episode 73",
   },
-  74: {
+  "74": {
     dub: {
       sources: [
         {
@@ -2265,7 +2851,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-74" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-74" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-74-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293132242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172428,
     },
@@ -2279,13 +2869,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-74" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-74" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-74-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293132242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172433,
     },
     episodeInfo: "Dragon Ball Kai Episode 74",
   },
-  75: {
+  "75": {
     dub: {
       sources: [
         {
@@ -2296,7 +2890,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-75" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-75" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-75-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293133242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130749,
     },
@@ -2310,13 +2908,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-75" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-75" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-75-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293133242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130749,
     },
     episodeInfo: "Dragon Ball Kai Episode 75",
   },
-  76: {
+  "76": {
     dub: {
       sources: [
         {
@@ -2327,7 +2929,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-76" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-76" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-76-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293130242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130741,
     },
@@ -2341,13 +2947,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-76" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-76" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-76-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293130242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13073,
     },
     episodeInfo: "Dragon Ball Kai Episode 76",
   },
-  77: {
+  "77": {
     dub: {
       sources: [
         {
@@ -2358,7 +2968,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-77" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-77" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-77-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293131242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172431,
     },
@@ -2372,13 +2986,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-77" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-77" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-77-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293131242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.13075,
     },
     episodeInfo: "Dragon Ball Kai Episode 77",
   },
-  78: {
+  "78": {
     dub: {
       sources: [
         {
@@ -2389,7 +3007,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-78" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-78" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-78-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429313e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130751,
     },
@@ -2403,13 +3025,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-78" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-78" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-78-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429313e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130751,
     },
     episodeInfo: "Dragon Ball Kai Episode 78",
   },
-  79: {
+  "79": {
     dub: {
       sources: [
         {
@@ -2420,7 +3046,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-79" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-79" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-79-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602962736429313f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172445,
     },
@@ -2434,13 +3064,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-79" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-79" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-79-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b602975736429313f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214159,
     },
     episodeInfo: "Dragon Ball Kai Episode 79",
   },
-  80: {
+  "80": {
     dub: {
       sources: [
         {
@@ -2451,7 +3085,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-80" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-80" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-80-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214162,
     },
@@ -2465,13 +3103,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-80" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-80" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-80-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214158,
     },
     episodeInfo: "Dragon Ball Kai Episode 80",
   },
-  81: {
+  "81": {
     dub: {
       sources: [
         {
@@ -2482,7 +3124,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-81" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-81" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-81-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172451,
     },
@@ -2496,13 +3142,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-81" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-81" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-81-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130758,
     },
     episodeInfo: "Dragon Ball Kai Episode 81",
   },
-  82: {
+  "82": {
     dub: {
       sources: [
         {
@@ -2513,7 +3163,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-82" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-82" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-82-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172455,
     },
@@ -2527,13 +3181,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-82" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-82" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-82-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130757,
     },
     episodeInfo: "Dragon Ball Kai Episode 82",
   },
-  83: {
+  "83": {
     dub: {
       sources: [
         {
@@ -2544,7 +3202,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-83" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-83" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-83-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130744,
     },
@@ -2558,13 +3220,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-83" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-83" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-83-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130751,
     },
     episodeInfo: "Dragon Ball Kai Episode 83",
   },
-  84: {
+  "84": {
     dub: {
       sources: [
         {
@@ -2575,7 +3241,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-84" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-84" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-84-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172449,
     },
@@ -2589,13 +3259,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-84" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-84" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-84-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172444,
     },
     episodeInfo: "Dragon Ball Kai Episode 84",
   },
-  85: {
+  "85": {
     dub: {
       sources: [
         {
@@ -2606,7 +3280,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-85" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-85" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-85-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130747,
     },
@@ -2620,13 +3298,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-85" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-85" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-85-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130751,
     },
     episodeInfo: "Dragon Ball Kai Episode 85",
   },
-  86: {
+  "86": {
     dub: {
       sources: [
         {
@@ -2637,7 +3319,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-86" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-86" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-86-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130753,
     },
@@ -2651,13 +3337,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-86" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-86" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-86-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172445,
     },
     episodeInfo: "Dragon Ball Kai Episode 86",
   },
-  87: {
+  "87": {
     dub: {
       sources: [
         {
@@ -2668,7 +3358,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-87" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-87" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-87-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172444,
     },
@@ -2682,13 +3376,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-87" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-87" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-87-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172451,
     },
     episodeInfo: "Dragon Ball Kai Episode 87",
   },
-  88: {
+  "88": {
     dub: {
       sources: [
         {
@@ -2699,7 +3397,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-88" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-88" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-88-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130738,
     },
@@ -2713,13 +3415,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-88" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-88" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-88-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130739,
     },
     episodeInfo: "Dragon Ball Kai Episode 88",
   },
-  89: {
+  "89": {
     dub: {
       sources: [
         {
@@ -2730,7 +3436,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-89" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-89" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-89-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293e3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089032,
     },
@@ -2744,13 +3454,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-89" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-89" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-89-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293e3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130747,
     },
     episodeInfo: "Dragon Ball Kai Episode 89",
   },
-  90: {
+  "90": {
     dub: {
       sources: [
         {
@@ -2761,7 +3475,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-90" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-90" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-90-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172441,
     },
@@ -2775,13 +3493,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-90" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-90" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-90-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214155,
     },
     episodeInfo: "Dragon Ball Kai Episode 90",
   },
-  91: {
+  "91": {
     dub: {
       sources: [
         {
@@ -2792,7 +3514,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-91" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-91" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-91-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172453,
     },
@@ -2806,13 +3532,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-91" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-91" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-91-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130755,
     },
     episodeInfo: "Dragon Ball Kai Episode 91",
   },
-  92: {
+  "92": {
     dub: {
       sources: [
         {
@@ -2823,7 +3553,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-92" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-92" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-92-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130728,
     },
@@ -2837,13 +3571,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-92" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-92" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-92-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172433,
     },
     episodeInfo: "Dragon Ball Kai Episode 92",
   },
-  93: {
+  "93": {
     dub: {
       sources: [
         {
@@ -2854,7 +3592,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-93" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-93" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-93-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.047322,
     },
@@ -2868,13 +3610,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-93" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-93" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-93-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.089035,
     },
     episodeInfo: "Dragon Ball Kai Episode 93",
   },
-  94: {
+  "94": {
     dub: {
       sources: [
         {
@@ -2885,7 +3631,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-94" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-94" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-94-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214151,
     },
@@ -2899,13 +3649,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-94" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-94" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-94-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.214145,
     },
     episodeInfo: "Dragon Ball Kai Episode 94",
   },
-  95: {
+  "95": {
     dub: {
       sources: [
         {
@@ -2916,7 +3670,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-95" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-95" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-95-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130746,
     },
@@ -2930,13 +3688,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-95" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-95" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-95-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172447,
     },
     episodeInfo: "Dragon Ball Kai Episode 95",
   },
-  96: {
+  "96": {
     dub: {
       sources: [
         {
@@ -2947,7 +3709,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-96" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-96" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-96-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.130732,
     },
@@ -2961,13 +3727,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-96" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-96" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-96-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172436,
     },
     episodeInfo: "Dragon Ball Kai Episode 96",
   },
-  97: {
+  "97": {
     dub: {
       sources: [
         {
@@ -2978,7 +3748,11 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-97" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-97" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-97-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029627364293f31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172436,
     },
@@ -2992,13 +3766,17 @@ const dragonBallKai: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-97" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-97" },
-        { source: "AllAnime", video: "https://allanime.to/watch/GqvGnNoyj3rML2WMf/dragon-ball-kai/episode-97-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f6263697529417770416848697f6c35744b4a34514b6029757364293f31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1382.172442,
     },
     episodeInfo: "Dragon Ball Kai Episode 97",
   },
-  98: {
+  "98": {
     dub: {
       sources: [
         {
@@ -3027,7 +3805,7 @@ const dragonBallKai: series = {
     },
     episodeInfo: "Dragon Ball Kai Episode 98",
   },
-  99: {
+  "99": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-1" },
@@ -3038,7 +3816,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd4IiwidGltZXN0YW1wIjoxNjQ3NDEwNDY1MzY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ2NX0.yGlr8PYy4t5tNgWFERLwaZMJ_g9cJayiFcJ7TyqAeaI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-1-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e296273642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135728,
     },
@@ -3052,13 +3834,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd4IiwidGltZXN0YW1wIjoxNjQ3NDEwNDY1MzY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ2NX0.yGlr8PYy4t5tNgWFERLwaZMJ_g9cJayiFcJ7TyqAeaI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-1-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e297573642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177429,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 1",
   },
-  100: {
+  "100": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-2" },
@@ -3069,7 +3855,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd5IiwidGltZXN0YW1wIjoxNjQ3NDEwNDc2MDM1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ3Nn0.elc_QzcvhXWn5BaJLVZxgyFfmfMMTI7Lkkyc4RqAN50",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-2-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e296273642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094022,
     },
@@ -3083,13 +3873,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd5IiwidGltZXN0YW1wIjoxNjQ3NDEwNDc2MDM1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ3Nn0.elc_QzcvhXWn5BaJLVZxgyFfmfMMTI7Lkkyc4RqAN50",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-2-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e297573642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094025,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 2",
   },
-  101: {
+  "101": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-3" },
@@ -3100,7 +3894,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd6IiwidGltZXN0YW1wIjoxNjQ3NDEwNDg1NTU1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ4NX0.baVjFLzfFjGWncSKkBsggPFFnBCIN3yFSLzRORjdo7I",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-3-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e296273642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052326,
     },
@@ -3114,13 +3912,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd6IiwidGltZXN0YW1wIjoxNjQ3NDEwNDg1NTU1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ4NX0.baVjFLzfFjGWncSKkBsggPFFnBCIN3yFSLzRORjdo7I",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-3-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e297573642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135757,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 3",
   },
-  102: {
+  "102": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-4" },
@@ -3131,7 +3933,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcwIiwidGltZXN0YW1wIjoxNjQ3NDEwNDk1MTQ3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ5NX0.3cmIKW3tWHpAwdh4RqehKwGFeMJkdfhZSUGTizDhLNc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-4-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e296273642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177419,
     },
@@ -3145,13 +3951,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcwIiwidGltZXN0YW1wIjoxNjQ3NDEwNDk1MTQ3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ5NX0.3cmIKW3tWHpAwdh4RqehKwGFeMJkdfhZSUGTizDhLNc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-4-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e297573642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219143,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 4",
   },
-  103: {
+  "103": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-5" },
@@ -3162,7 +3972,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcxIiwidGltZXN0YW1wIjoxNjQ3NDEwNTA0NTE1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUwNH0.WgU9dRPIZti46EUSc-xAmT5l24i30bpLnmzEATM8fqg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-5-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e296273642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052322,
     },
@@ -3176,13 +3990,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcxIiwidGltZXN0YW1wIjoxNjQ3NDEwNTA0NTE1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUwNH0.WgU9dRPIZti46EUSc-xAmT5l24i30bpLnmzEATM8fqg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-5-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e297573642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052319,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 5",
   },
-  104: {
+  "104": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-6" },
@@ -3193,7 +4011,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcyIiwidGltZXN0YW1wIjoxNjQ3NDEwNTE1ODM4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUxNX0.SQqTeJkymqqyXmNvDgvlFMn4iWkuXLpl_3RkWkPlnxk",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-6-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e296273642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177442,
     },
@@ -3207,13 +4029,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcyIiwidGltZXN0YW1wIjoxNjQ3NDEwNTE1ODM4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUxNX0.SQqTeJkymqqyXmNvDgvlFMn4iWkuXLpl_3RkWkPlnxk",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-6-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e297573642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177442,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 6",
   },
-  105: {
+  "105": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-7" },
@@ -3224,7 +4050,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGczIiwidGltZXN0YW1wIjoxNjQ3NDEwNTI1NjQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUyNX0.cHPz-EMly51-_gKJ5SJf5mAyfjbQfyYaUKxol6VXZnI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-7-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673129706f626369752962713233354465553434697f3e554d417e296273642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094027,
     },
@@ -3238,13 +4068,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGczIiwidGltZXN0YW1wIjoxNjQ3NDEwNTI1NjQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUyNX0.cHPz-EMly51-_gKJ5SJf5mAyfjbQfyYaUKxol6VXZnI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-7-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e297573642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094029,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 7",
   },
-  106: {
+  "106": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-8" },
@@ -3255,7 +4089,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc0IiwidGltZXN0YW1wIjoxNjQ3NDEwNTM0OTEyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUzNH0.-gIvIK0JOU5PNlCX9pBgLu1FIbCHJ1UhjAxaHKrGnmI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-8-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052311,
     },
@@ -3269,13 +4107,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc0IiwidGltZXN0YW1wIjoxNjQ3NDEwNTM0OTEyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUzNH0.-gIvIK0JOU5PNlCX9pBgLu1FIbCHJ1UhjAxaHKrGnmI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-8-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094025,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 8",
   },
-  107: {
+  "107": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-9" },
@@ -3286,7 +4128,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc1IiwidGltZXN0YW1wIjoxNjQ3NDEwNTQ2MTcyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU0Nn0.6a_PM7pghaRgBBTI3LBkVhOyywGnv6lU7vjJ4OGg8KU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-9-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052307,
     },
@@ -3300,13 +4146,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc1IiwidGltZXN0YW1wIjoxNjQ3NDEwNTQ2MTcyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU0Nn0.6a_PM7pghaRgBBTI3LBkVhOyywGnv6lU7vjJ4OGg8KU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-9-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052304,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 9",
   },
-  108: {
+  "108": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-10" },
@@ -3317,7 +4167,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt3IiwidGltZXN0YW1wIjoxNjQ3NDEwNTU2MDY4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU1Nn0.G6f8jGGWafFFRfXr4uNnFCa1ZH5HiiKwJJYbkJ_mjUU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-10-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177437,
     },
@@ -3331,13 +4185,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt3IiwidGltZXN0YW1wIjoxNjQ3NDEwNTU2MDY4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU1Nn0.G6f8jGGWafFFRfXr4uNnFCa1ZH5HiiKwJJYbkJ_mjUU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-10-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094026,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 10",
   },
-  109: {
+  "109": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-11" },
@@ -3348,7 +4206,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt4IiwidGltZXN0YW1wIjoxNjQ3NDEwNTY1OTA0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU2NX0.zbzhza-PkqZr24-JJWcw3Bq3kOAHP17XphXORj0we0E",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-11-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177435,
     },
@@ -3362,13 +4224,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt4IiwidGltZXN0YW1wIjoxNjQ3NDEwNTY1OTA0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU2NX0.zbzhza-PkqZr24-JJWcw3Bq3kOAHP17XphXORj0we0E",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-11-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177439,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 11",
   },
-  110: {
+  "110": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-12" },
@@ -3379,7 +4245,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt5IiwidGltZXN0YW1wIjoxNjQ3NDEwNTc1NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU3NX0.PATlx8Tb2s7FxsPct6n7Jx2QB-rPxwvnklfA8mQ0KAo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-12-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052314,
     },
@@ -3393,13 +4263,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt5IiwidGltZXN0YW1wIjoxNjQ3NDEwNTc1NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU3NX0.PATlx8Tb2s7FxsPct6n7Jx2QB-rPxwvnklfA8mQ0KAo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-12-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052318,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 12",
   },
-  111: {
+  "111": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-13" },
@@ -3410,7 +4284,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt6IiwidGltZXN0YW1wIjoxNjQ3NDEwNTg1MTk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU4NX0.Y9MsBELmUAqb8YwOR7j-SjAK5ZM5icelgne0jOrF8sc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-13-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219159,
     },
@@ -3424,13 +4302,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt6IiwidGltZXN0YW1wIjoxNjQ3NDEwNTg1MTk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU4NX0.Y9MsBELmUAqb8YwOR7j-SjAK5ZM5icelgne0jOrF8sc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-13-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.21916,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 13",
   },
-  112: {
+  "112": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-14" },
@@ -3441,7 +4323,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGswIiwidGltZXN0YW1wIjoxNjQ3NDEwNTk0NjU4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU5NH0.OaASWfjPnRZ_mLsht8M4YzMi8LmKIClVJDkAwphiMPk",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-14-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177441,
     },
@@ -3455,13 +4341,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGswIiwidGltZXN0YW1wIjoxNjQ3NDEwNTk0NjU4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU5NH0.OaASWfjPnRZ_mLsht8M4YzMi8LmKIClVJDkAwphiMPk",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-14-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177443,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 14",
   },
-  113: {
+  "113": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-15" },
@@ -3472,7 +4362,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsxIiwidGltZXN0YW1wIjoxNjQ3NDEwNjA1MjQwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYwNX0.X_Q6e8ZHX3KDyZHmtZC3db1TPotjjnqkfeNo8O-RrDw",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-15-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094025,
     },
@@ -3486,13 +4380,13 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsxIiwidGltZXN0YW1wIjoxNjQ3NDEwNjA1MjQwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYwNX0.X_Q6e8ZHX3KDyZHmtZC3db1TPotjjnqkfeNo8O-RrDw",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-15-sub" },
+        // { source: "AllAnime", video: "error" },
       ],
       episodeLength: 1387.094024,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 15",
   },
-  114: {
+  "114": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-16" },
@@ -3503,7 +4397,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsyIiwidGltZXN0YW1wIjoxNjQ3NDEwNjE1NDc2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYxNX0.ipdzT0ZhwLQhVCJU9Byb9niLdmDLivugB5pojCHH_vQ",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-16-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094043,
     },
@@ -3517,13 +4415,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsyIiwidGltZXN0YW1wIjoxNjQ3NDEwNjE1NDc2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYxNX0.ipdzT0ZhwLQhVCJU9Byb9niLdmDLivugB5pojCHH_vQ",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-16-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094042,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 16",
   },
-  115: {
+  "115": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-17" },
@@ -3534,7 +4436,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGszIiwidGltZXN0YW1wIjoxNjQ3NDEwNjI0ODA1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYyNH0.1n6yjf1itZNQ3C_Xcs8mSnMInilAiEWUoAavBqk3M0M",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-17-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094022,
     },
@@ -3548,13 +4454,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGszIiwidGltZXN0YW1wIjoxNjQ3NDEwNjI0ODA1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYyNH0.1n6yjf1itZNQ3C_Xcs8mSnMInilAiEWUoAavBqk3M0M",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-17-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094025,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 17",
   },
-  116: {
+  "116": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-18" },
@@ -3565,7 +4475,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs0IiwidGltZXN0YW1wIjoxNjQ3NDEwNjM0NDAzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYzNH0.Ky_Vwf96PKMc4CtCIkx0exGxGMZossvxs7sevy4wAic",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-18-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052313,
     },
@@ -3579,13 +4493,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs0IiwidGltZXN0YW1wIjoxNjQ3NDEwNjM0NDAzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYzNH0.Ky_Vwf96PKMc4CtCIkx0exGxGMZossvxs7sevy4wAic",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-18-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052312,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 18",
   },
-  117: {
+  "117": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-19" },
@@ -3596,7 +4514,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs1IiwidGltZXN0YW1wIjoxNjQ3NDEwNjQ0NjIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY0NH0.FbGkTdvvhbBtdhwTV9UWjMhVdgiZ4o-EC-X3Yik2gh4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-19-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177433,
     },
@@ -3610,13 +4532,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs1IiwidGltZXN0YW1wIjoxNjQ3NDEwNjQ0NjIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY0NH0.FbGkTdvvhbBtdhwTV9UWjMhVdgiZ4o-EC-X3Yik2gh4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-19-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177434,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 19",
   },
-  118: {
+  "118": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-20" },
@@ -3627,7 +4553,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF3IiwidGltZXN0YW1wIjoxNjQ3NDEwNjU0NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY1NH0.eBBsZOaAYyRGKHolN6zRHx8S1LG93WCSb6xGD7MLyPo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-20-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052317,
     },
@@ -3641,13 +4571,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF3IiwidGltZXN0YW1wIjoxNjQ3NDEwNjU0NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY1NH0.eBBsZOaAYyRGKHolN6zRHx8S1LG93WCSb6xGD7MLyPo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-20-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052321,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 20",
   },
-  119: {
+  "119": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-21" },
@@ -3658,7 +4592,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF4IiwidGltZXN0YW1wIjoxNjQ3NDEwNjYzOTI0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY2M30.afHRjWoM7ydkG5_LUU9S9vPDF55HI9ionpkZAJaUKBw",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-21-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135739,
     },
@@ -3672,13 +4610,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF4IiwidGltZXN0YW1wIjoxNjQ3NDEwNjYzOTI0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY2M30.afHRjWoM7ydkG5_LUU9S9vPDF55HI9ionpkZAJaUKBw",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-21-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094029,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 21",
   },
-  120: {
+  "120": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-22" },
@@ -3689,7 +4631,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF5IiwidGltZXN0YW1wIjoxNjQ3NDEwNjczOTkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY3M30.MRadqBNiL2VKaxfnPgXXOug3V46DkbDFRfwpQqx-EL4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-22-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135745,
     },
@@ -3703,13 +4649,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF5IiwidGltZXN0YW1wIjoxNjQ3NDEwNjczOTkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY3M30.MRadqBNiL2VKaxfnPgXXOug3V46DkbDFRfwpQqx-EL4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-22-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135755,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 22",
   },
-  121: {
+  "121": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-23" },
@@ -3720,7 +4670,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF6IiwidGltZXN0YW1wIjoxNjQ3NDEwNjgzNDYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY4M30.jQ_2I1RR9CdVKatLuyr5XvKJlEFN0CcectAvZz6Off0",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-23-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177432,
     },
@@ -3734,13 +4688,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF6IiwidGltZXN0YW1wIjoxNjQ3NDEwNjgzNDYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY4M30.jQ_2I1RR9CdVKatLuyr5XvKJlEFN0CcectAvZz6Off0",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-23-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177433,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 23",
   },
-  122: {
+  "122": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-24" },
@@ -3751,7 +4709,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEwIiwidGltZXN0YW1wIjoxNjQ3NDEwNjkyNzg5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY5Mn0.VIiKP--8Sy8wKEWhxfoRqAKYTlg4-NVm1DLeWY3t6D0",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-24-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135734,
     },
@@ -3765,13 +4727,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEwIiwidGltZXN0YW1wIjoxNjQ3NDEwNjkyNzg5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY5Mn0.VIiKP--8Sy8wKEWhxfoRqAKYTlg4-NVm1DLeWY3t6D0",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-24-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135735,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 24",
   },
-  123: {
+  "123": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-25" },
@@ -3782,7 +4748,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREExIiwidGltZXN0YW1wIjoxNjQ3NDEwNzA0MjM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcwNH0.m_CfLc6PS9cn62oAYjTlj-qci5_uUv5QIvU8gpc-Ahc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-25-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135744,
     },
@@ -3796,13 +4766,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREExIiwidGltZXN0YW1wIjoxNjQ3NDEwNzA0MjM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcwNH0.m_CfLc6PS9cn62oAYjTlj-qci5_uUv5QIvU8gpc-Ahc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-25-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135741,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 25",
   },
-  124: {
+  "124": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-26" },
@@ -3813,7 +4787,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEyIiwidGltZXN0YW1wIjoxNjQ3NDEwNzEzOTQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcxM30.q2tCXtxggBAIVj1KhNLw7UbmKuVxh-jW_Wp0Sd1MT5g",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-26-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094028,
     },
@@ -3827,13 +4805,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEyIiwidGltZXN0YW1wIjoxNjQ3NDEwNzEzOTQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcxM30.q2tCXtxggBAIVj1KhNLw7UbmKuVxh-jW_Wp0Sd1MT5g",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-26-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094025,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 26",
   },
-  125: {
+  "125": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-27" },
@@ -3844,7 +4826,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEzIiwidGltZXN0YW1wIjoxNjQ3NDEwNzI0MDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcyNH0.M6NJgdtyogvqCTrDK8U0h2rN_jQT1jmWwBJI2MkVMfw",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-27-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135735,
     },
@@ -3858,13 +4844,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEzIiwidGltZXN0YW1wIjoxNjQ3NDEwNzI0MDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcyNH0.M6NJgdtyogvqCTrDK8U0h2rN_jQT1jmWwBJI2MkVMfw",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-27-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135736,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 27",
   },
-  126: {
+  "126": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-28" },
@@ -3875,7 +4865,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE0IiwidGltZXN0YW1wIjoxNjQ3NDEwNzMzODIwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDczM30.MEtt8KFkNDjc36DVm9go4G0gaQ9aR3tM1uFkA5h6QfM",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-28-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.260863,
     },
@@ -3889,13 +4883,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE0IiwidGltZXN0YW1wIjoxNjQ3NDEwNzMzODIwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDczM30.MEtt8KFkNDjc36DVm9go4G0gaQ9aR3tM1uFkA5h6QfM",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-28-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.260863,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 28",
   },
-  127: {
+  "127": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-29" },
@@ -3906,7 +4904,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE1IiwidGltZXN0YW1wIjoxNjQ3NDEwNzQ0NDkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc0NH0.gvyGmWdOiFyuqkzsVt3PToYfWTvobrUk0pk0bhKa05c",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-29-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177448,
     },
@@ -3920,13 +4922,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE1IiwidGltZXN0YW1wIjoxNjQ3NDEwNzQ0NDkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc0NH0.gvyGmWdOiFyuqkzsVt3PToYfWTvobrUk0pk0bhKa05c",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-29-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.260867,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 29",
   },
-  128: {
+  "128": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-30" },
@@ -3937,7 +4943,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV3IiwidGltZXN0YW1wIjoxNjQ3NDEwNzU0NzgwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc1NH0.Ui3mKqgPCL3iEvzf7XQfZ3L_sWGPyV_dwld-m5t9YNU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-30-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094033,
     },
@@ -3951,13 +4961,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV3IiwidGltZXN0YW1wIjoxNjQ3NDEwNzU0NzgwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc1NH0.Ui3mKqgPCL3iEvzf7XQfZ3L_sWGPyV_dwld-m5t9YNU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-30-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135745,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 30",
   },
-  129: {
+  "129": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-31" },
@@ -3968,7 +4982,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV4IiwidGltZXN0YW1wIjoxNjQ3NDEwNzY0Mjk2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc2NH0.wKPDKg1BGXC3YxSRyohsJGc2F7uREBEeIfa0736CfTg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-31-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135744,
     },
@@ -3982,13 +5000,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV4IiwidGltZXN0YW1wIjoxNjQ3NDEwNzY0Mjk2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc2NH0.wKPDKg1BGXC3YxSRyohsJGc2F7uREBEeIfa0736CfTg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-31-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135747,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 31",
   },
-  130: {
+  "130": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-32" },
@@ -3999,7 +5021,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV5IiwidGltZXN0YW1wIjoxNjQ3NDEwNzc0NDU3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc3NH0.I737opeK0_2zlPNaU41Qw2c_sPXdaeiha_357QiHb3M",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-32-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094025,
     },
@@ -4013,13 +5039,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV5IiwidGltZXN0YW1wIjoxNjQ3NDEwNzc0NDU3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc3NH0.I737opeK0_2zlPNaU41Qw2c_sPXdaeiha_357QiHb3M",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-32-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094028,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 32",
   },
-  131: {
+  "131": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-33" },
@@ -4030,7 +5060,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV6IiwidGltZXN0YW1wIjoxNjQ3NDEwNzg0OTU5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc4NH0.Mqd1vwCHYuMjgWDhFpxiyTJzpWV2x9pp48D1vLPX_q0",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-33-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135748,
     },
@@ -4044,13 +5078,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV6IiwidGltZXN0YW1wIjoxNjQ3NDEwNzg0OTU5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc4NH0.Mqd1vwCHYuMjgWDhFpxiyTJzpWV2x9pp48D1vLPX_q0",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-33-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135751,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 33",
   },
-  132: {
+  "132": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-34" },
@@ -4061,7 +5099,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUwIiwidGltZXN0YW1wIjoxNjQ3NDEwNzk1Mzc4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc5NX0.wUdea8kXYjZ4PHyKfJ-kmM8pDCsYWPDN2avaD98CPxo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-34-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177447,
     },
@@ -4075,13 +5117,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUwIiwidGltZXN0YW1wIjoxNjQ3NDEwNzk1Mzc4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc5NX0.wUdea8kXYjZ4PHyKfJ-kmM8pDCsYWPDN2avaD98CPxo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-34-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177446,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 34",
   },
-  133: {
+  "133": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-35" },
@@ -4092,7 +5138,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUxIiwidGltZXN0YW1wIjoxNjQ3NDEwODA1MzIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgwNX0.Y9b1ta6iZ_kW8pf_YhWc2HtbZG5wBHSJOjMmwxAkOSY",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-35-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135723,
     },
@@ -4106,13 +5156,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUxIiwidGltZXN0YW1wIjoxNjQ3NDEwODA1MzIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgwNX0.Y9b1ta6iZ_kW8pf_YhWc2HtbZG5wBHSJOjMmwxAkOSY",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-35-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135723,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 35",
   },
-  134: {
+  "134": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-36" },
@@ -4123,7 +5177,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUyIiwidGltZXN0YW1wIjoxNjQ3NDEwODE1NTczLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgxNX0.2bfknF_KkWx1oAAWPkRl9SRQF6Xn9jbENLPgVctbdjA",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-36-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177439,
     },
@@ -4137,13 +5195,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUyIiwidGltZXN0YW1wIjoxNjQ3NDEwODE1NTczLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgxNX0.2bfknF_KkWx1oAAWPkRl9SRQF6Xn9jbENLPgVctbdjA",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-36-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219156,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 36",
   },
-  135: {
+  "135": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-37" },
@@ -4154,7 +5216,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUzIiwidGltZXN0YW1wIjoxNjQ3NDEwODI1Nzg2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgyNX0.yUWbk3IbQuHZQGOp_xxHMUAMdI0slOTDIn6-q2kK5ek",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-37-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177442,
     },
@@ -4168,13 +5234,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUzIiwidGltZXN0YW1wIjoxNjQ3NDEwODI1Nzg2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgyNX0.yUWbk3IbQuHZQGOp_xxHMUAMdI0slOTDIn6-q2kK5ek",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-37-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.17744,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 37",
   },
-  136: {
+  "136": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-38" },
@@ -4185,7 +5255,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU0IiwidGltZXN0YW1wIjoxNjQ3NDEwODM1MTcwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgzNX0.k0lvMJf1zojqzz87W5GxypVvSIWYfWMIRlba9CnDdLc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-38-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135752,
     },
@@ -4199,13 +5273,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU0IiwidGltZXN0YW1wIjoxNjQ3NDEwODM1MTcwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgzNX0.k0lvMJf1zojqzz87W5GxypVvSIWYfWMIRlba9CnDdLc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-38-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094044,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 38",
   },
-  137: {
+  "137": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-39" },
@@ -4216,7 +5294,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU1IiwidGltZXN0YW1wIjoxNjQ3NDEwODQzODgxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg0M30.oBusTR_oZuY_CQbjhxWpHj2LYigS0WwbqDBjRAMQGaU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-39-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177441,
     },
@@ -4230,13 +5312,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU1IiwidGltZXN0YW1wIjoxNjQ3NDEwODQzODgxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg0M30.oBusTR_oZuY_CQbjhxWpHj2LYigS0WwbqDBjRAMQGaU",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-39-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177438,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 39",
   },
-  138: {
+  "138": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-40" },
@@ -4247,7 +5333,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl3IiwidGltZXN0YW1wIjoxNjQ3NDEwODUzMjY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg1M30.Nd6_ZzPXRkYKYnJuurR_zmbQCG-7ciQHRzEGnuFfvhE",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-40-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219146,
     },
@@ -4261,13 +5351,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl3IiwidGltZXN0YW1wIjoxNjQ3NDEwODUzMjY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg1M30.Nd6_ZzPXRkYKYnJuurR_zmbQCG-7ciQHRzEGnuFfvhE",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-40-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219151,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 40",
   },
-  139: {
+  "139": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-41" },
@@ -4278,7 +5372,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl4IiwidGltZXN0YW1wIjoxNjQ3NDEwODYyODYxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg2Mn0.Wckcdn3ljTH5r8UQHvTBAu0xTbZoKRSMi-enhNKNjLs",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-41-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219165,
     },
@@ -4292,13 +5390,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl4IiwidGltZXN0YW1wIjoxNjQ3NDEwODYyODYxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg2Mn0.Wckcdn3ljTH5r8UQHvTBAu0xTbZoKRSMi-enhNKNjLs",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-41-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.21916,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 41",
   },
-  140: {
+  "140": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-42" },
@@ -4309,7 +5411,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl5IiwidGltZXN0YW1wIjoxNjQ3NDEwODcyMTYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg3Mn0.jsXk9OmYtRfvEQecdAgB9QXEgkkHgVJ2lxsEe54mqpo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-42-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135744,
     },
@@ -4323,13 +5429,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl5IiwidGltZXN0YW1wIjoxNjQ3NDEwODcyMTYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg3Mn0.jsXk9OmYtRfvEQecdAgB9QXEgkkHgVJ2lxsEe54mqpo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-42-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094033,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 42",
   },
-  141: {
+  "141": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-43" },
@@ -4340,7 +5450,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl6IiwidGltZXN0YW1wIjoxNjQ3NDEwODgxNDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg4MX0.jqdk5TmugQMKRpfe_zUBIFUVaiRSl8O-EPIru0bjpfE",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-43-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177443,
     },
@@ -4354,13 +5468,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl6IiwidGltZXN0YW1wIjoxNjQ3NDEwODgxNDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg4MX0.jqdk5TmugQMKRpfe_zUBIFUVaiRSl8O-EPIru0bjpfE",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-43-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219146,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 43",
   },
-  142: {
+  "142": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-44" },
@@ -4371,7 +5489,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkwIiwidGltZXN0YW1wIjoxNjQ3NDEwODkwMDM0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5MH0.j-Bx7bZ8IoIJrREoWXNE-kWknq_X22dr95yp_EmQnLo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-44-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177434,
     },
@@ -4385,13 +5507,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkwIiwidGltZXN0YW1wIjoxNjQ3NDEwODkwMDM0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5MH0.j-Bx7bZ8IoIJrREoWXNE-kWknq_X22dr95yp_EmQnLo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-44-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177434,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 44",
   },
-  143: {
+  "143": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-45" },
@@ -4402,7 +5528,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkxIiwidGltZXN0YW1wIjoxNjQ3NDEwODk4Mjg0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5OH0.EyT7vuRlw7bdwljZXNPIC1Qy8mgHJZ-ymht_1fJUyYo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-45-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135732,
     },
@@ -4416,13 +5546,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkxIiwidGltZXN0YW1wIjoxNjQ3NDEwODk4Mjg0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5OH0.EyT7vuRlw7bdwljZXNPIC1Qy8mgHJZ-ymht_1fJUyYo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-45-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135736,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 45",
   },
-  144: {
+  "144": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-46" },
@@ -4433,7 +5567,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkyIiwidGltZXN0YW1wIjoxNjQ3NDEwOTA3NjA4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkwN30.UNhW5IV8xeuZCi49gVTXqpAU1WcvUmZ4TShOPdbJgeY",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-46-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135742,
     },
@@ -4447,13 +5585,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkyIiwidGltZXN0YW1wIjoxNjQ3NDEwOTA3NjA4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkwN30.UNhW5IV8xeuZCi49gVTXqpAU1WcvUmZ4TShOPdbJgeY",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-46-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135743,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 46",
   },
-  145: {
+  "145": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-47" },
@@ -4464,7 +5606,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkzIiwidGltZXN0YW1wIjoxNjQ3NDEwOTE3MDk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkxN30.m0w8p0m6_GKjben2Z93KDhnac-lbQwBPaU_4UaTorE4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-47-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219149,
     },
@@ -4478,13 +5624,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkzIiwidGltZXN0YW1wIjoxNjQ3NDEwOTE3MDk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkxN30.m0w8p0m6_GKjben2Z93KDhnac-lbQwBPaU_4UaTorE4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-47-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219155,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 47",
   },
-  146: {
+  "146": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-48" },
@@ -4495,7 +5645,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk0IiwidGltZXN0YW1wIjoxNjQ3NDEwOTI1NDM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkyNX0.LfOdDYHP4LJE8233-P1_ytTYWJhx5liQ6FI0TE0Qa_Q",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-48-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219147,
     },
@@ -4509,13 +5663,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk0IiwidGltZXN0YW1wIjoxNjQ3NDEwOTI1NDM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkyNX0.LfOdDYHP4LJE8233-P1_ytTYWJhx5liQ6FI0TE0Qa_Q",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-48-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.26086,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 48",
   },
-  147: {
+  "147": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-49" },
@@ -4526,7 +5684,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk1IiwidGltZXN0YW1wIjoxNjQ3NDEwOTM0NzkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkzNH0.YeBBGxGH4Rq5fFFu4O3kXAihYDBeOs0huYBtv6orv80",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-49-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135734,
     },
@@ -4540,13 +5702,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk1IiwidGltZXN0YW1wIjoxNjQ3NDEwOTM0NzkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkzNH0.YeBBGxGH4Rq5fFFu4O3kXAihYDBeOs0huYBtv6orv80",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-49-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135738,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 49",
   },
-  148: {
+  "148": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-50" },
@@ -4557,7 +5723,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE13IiwidGltZXN0YW1wIjoxNjQ3NDEwOTQ0MjExLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk0NH0.8Wcx0-JudbZr8ENvFTOU_IBZWEsxgtmO8KiuOFSLnYM",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-50-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135747,
     },
@@ -4571,13 +5741,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE13IiwidGltZXN0YW1wIjoxNjQ3NDEwOTQ0MjExLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk0NH0.8Wcx0-JudbZr8ENvFTOU_IBZWEsxgtmO8KiuOFSLnYM",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-50-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135748,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 50",
   },
-  149: {
+  "149": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-51" },
@@ -4588,7 +5762,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE14IiwidGltZXN0YW1wIjoxNjQ3NDEwOTUzNTM2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk1M30.UrxF8wlMWzP5mxOFrgE52E29WBVPpRkkImRFodSl9YM",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-51-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177435,
     },
@@ -4602,13 +5780,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE14IiwidGltZXN0YW1wIjoxNjQ3NDEwOTUzNTM2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk1M30.UrxF8wlMWzP5mxOFrgE52E29WBVPpRkkImRFodSl9YM",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-51-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177441,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 51",
   },
-  150: {
+  "150": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-52" },
@@ -4619,7 +5801,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE15IiwidGltZXN0YW1wIjoxNjQ3NDEwOTYyOTc5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk2Mn0.O09KxYkotHkZW4ekCeTpY4DpGHDC5evTQ_YokQkdNAI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-52-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135742,
     },
@@ -4633,13 +5819,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE15IiwidGltZXN0YW1wIjoxNjQ3NDEwOTYyOTc5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk2Mn0.O09KxYkotHkZW4ekCeTpY4DpGHDC5evTQ_YokQkdNAI",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-52-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135742,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 52",
   },
-  151: {
+  "151": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-53" },
@@ -4650,7 +5840,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE16IiwidGltZXN0YW1wIjoxNjQ3NDEwOTc0NzQ0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk3NH0.yPE64saghCc0Ns663w4i6oJGeDeAr3TLNJJqt85ioZg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-53-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094026,
     },
@@ -4664,13 +5858,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE16IiwidGltZXN0YW1wIjoxNjQ3NDEwOTc0NzQ0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk3NH0.yPE64saghCc0Ns663w4i6oJGeDeAr3TLNJJqt85ioZg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-53-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135737,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 53",
   },
-  152: {
+  "152": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-54" },
@@ -4681,7 +5879,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0wIiwidGltZXN0YW1wIjoxNjQ3NDEwOTg1NjEzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk4NX0.YpeXk6XCuOOEA8_7xVNcPWsHd4GrCAC6yAukYLyTnAg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-54-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.09403,
     },
@@ -4695,13 +5897,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0wIiwidGltZXN0YW1wIjoxNjQ3NDEwOTg1NjEzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk4NX0.YpeXk6XCuOOEA8_7xVNcPWsHd4GrCAC6yAukYLyTnAg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-54-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094028,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 54",
   },
-  153: {
+  "153": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-55" },
@@ -4712,7 +5918,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0xIiwidGltZXN0YW1wIjoxNjQ3NDEwOTk0NjMyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk5NH0.kOJq2Vfp1lrdq7QaHE7scFsMOfbnMgY5ute742LQUPc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-55-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094024,
     },
@@ -4726,13 +5936,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0xIiwidGltZXN0YW1wIjoxNjQ3NDEwOTk0NjMyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk5NH0.kOJq2Vfp1lrdq7QaHE7scFsMOfbnMgY5ute742LQUPc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-55-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094026,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 55",
   },
-  154: {
+  "154": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-56" },
@@ -4743,7 +5957,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0yIiwidGltZXN0YW1wIjoxNjQ3NDExMDA0MjQzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAwNH0.oREfHgZhplFOJlUAgQ_hWrWP_BczvAmIf6MxBrXokSY",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-56-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135725,
     },
@@ -4757,13 +5975,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0yIiwidGltZXN0YW1wIjoxNjQ3NDExMDA0MjQzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAwNH0.oREfHgZhplFOJlUAgQ_hWrWP_BczvAmIf6MxBrXokSY",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-56-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135732,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 56",
   },
-  155: {
+  "155": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-57" },
@@ -4774,7 +5996,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0zIiwidGltZXN0YW1wIjoxNjQ3NDExMDEzOTIyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAxM30.Rqr7Zzx6EkxPf9hQi_HxvscigChN7809WRbZzn0m8SE",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-57-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177438,
     },
@@ -4788,13 +6014,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0zIiwidGltZXN0YW1wIjoxNjQ3NDExMDEzOTIyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAxM30.Rqr7Zzx6EkxPf9hQi_HxvscigChN7809WRbZzn0m8SE",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-57-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135739,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 57",
   },
-  156: {
+  "156": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-58" },
@@ -4805,7 +6035,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE00IiwidGltZXN0YW1wIjoxNjQ3NDExMDIzMjM3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAyM30.6CmOGvqcBqjcf8D9yahsTaAfzGJ0KwuquDbEYPOBT7A",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-58-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052318,
     },
@@ -4819,13 +6053,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE00IiwidGltZXN0YW1wIjoxNjQ3NDExMDIzMjM3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAyM30.6CmOGvqcBqjcf8D9yahsTaAfzGJ0KwuquDbEYPOBT7A",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-58-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052321,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 58",
   },
-  157: {
+  "157": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-59" },
@@ -4836,7 +6074,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE01IiwidGltZXN0YW1wIjoxNjQ3NDExMDMzNjE3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAzM30.Q6YJs6DjCYpXDhd81IAYLS-qHUaNiNUFc3DGa-xIJNk",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-59-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2962736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.21915,
     },
@@ -4850,13 +6092,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE01IiwidGltZXN0YW1wIjoxNjQ3NDExMDMzNjE3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAzM30.Q6YJs6DjCYpXDhd81IAYLS-qHUaNiNUFc3DGa-xIJNk",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-59-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e2975736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219151,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 59",
   },
-  158: {
+  "158": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-60" },
@@ -4867,7 +6113,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF3IiwidGltZXN0YW1wIjoxNjQ3NDExMDQ0NzI1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA0NH0.5p2N-H4LRZV-IMLrOFGdlfBvWFys9EdWfpmEwSHxW2w",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-60-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135728,
     },
@@ -4881,13 +6131,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF3IiwidGltZXN0YW1wIjoxNjQ3NDExMDQ0NzI1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA0NH0.5p2N-H4LRZV-IMLrOFGdlfBvWFys9EdWfpmEwSHxW2w",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-60-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.13573,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 60",
   },
-  159: {
+  "159": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-61" },
@@ -4898,7 +6152,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF4IiwidGltZXN0YW1wIjoxNjQ3NDExMDU0NzU0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA1NH0.mkaa7wypdoulcbaKo1xuFWGw-L0DI48_Aa9nQ6XXGyo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-61-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29627364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135736,
     },
@@ -4912,13 +6170,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF4IiwidGltZXN0YW1wIjoxNjQ3NDExMDU0NzU0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA1NH0.mkaa7wypdoulcbaKo1xuFWGw-L0DI48_Aa9nQ6XXGyo",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-61-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752962713233354465553434697f3e554d417e29757364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135732,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 61",
   },
-  160: {
+  "160": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-62" },
@@ -4929,7 +6191,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF5IiwidGltZXN0YW1wIjoxNjQ3NDExMDY0NTY2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA2NH0.pPAzKEgy143FmOS9DYhUSGZYxrqu394cTd-Bn3q58zs",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-62-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e29627364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135733,
     },
@@ -4943,13 +6209,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGcyIiwidGltZXN0YW1wIjoxNjQ3NDExNzIzMTg3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTcyM30.lirI5KxsgtmqwmjzolojMScU84lMbsUaOox-cn3Vo-Q",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-62-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e29757364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135734,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 62",
   },
-  161: {
+  "161": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-63" },
@@ -4960,7 +6230,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF6IiwidGltZXN0YW1wIjoxNjQ3NDExMDc0Njc0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA3NH0.FhSmkMhZzgLl_4kz4A7dWgLpmuzx5DDSwfPBUFtduKw",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-63-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e29627364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052308,
     },
@@ -4974,13 +6248,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGczIiwidGltZXN0YW1wIjoxNjQ3NDExNzMyMzE3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTczMn0.4uK0YoS-GBsDiHEptNU_o4jxsC2xg8TeuC1Xa5BLnsg",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-63-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e29757364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052313,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 63",
   },
-  162: {
+  "162": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-64" },
@@ -4991,7 +6269,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFEwIiwidGltZXN0YW1wIjoxNjQ3NDExMDg0MTY0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA4NH0.wErU_7zaEhdv8qMPNg8uW-P-wu-IhsZ5b_VG4ICrKrc",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-64-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e29627364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094041,
     },
@@ -5005,13 +6287,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGc0IiwidGltZXN0YW1wIjoxNjQ3NDExNzQyOTMyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc0Mn0.7-0El9yfvu57ll0tQE_ZqYUA12zXU8VklDfKjOct_Mk",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-64-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e29757364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.09404,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 64",
   },
-  163: {
+  "163": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-65" },
@@ -5022,7 +6308,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFExIiwidGltZXN0YW1wIjoxNjQ3NDExMDkzNTQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA5M30.mJcOgq1C-C8wLo7Wsv3n8TS5ApYDxdNMiZKIavMTR5o",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-65" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-65-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e29627364293033242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219156,
     },
@@ -5036,13 +6326,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGc1IiwidGltZXN0YW1wIjoxNjQ3NDExNzUyNjc2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc1Mn0.2mRGT3Yhz7FlHjUB-M02mnDTZWoRjoiQax3zVEZm1XA",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-65" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-65-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e29757364293033242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.219152,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 65",
   },
-  164: {
+  "164": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-66" },
@@ -5053,7 +6347,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFEyIiwidGltZXN0YW1wIjoxNjQ3NDExMTAyODAxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTEwMn0.BRTvmC7YRbbE9LZ-obYzAYYGdqEZIeD3Vx6p-TfVcfE",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-66-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e29627364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052322,
     },
@@ -5067,13 +6365,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt3IiwidGltZXN0YW1wIjoxNjQ3NDExNzYyNzgzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc2Mn0.nnyjm7pf2sXQdbUHD2Biy50Azyab8y-7rebsYGvQ03E",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-66-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e29757364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052319,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 66",
   },
-  165: {
+  "165": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-67" },
@@ -5084,7 +6386,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFEzIiwidGltZXN0YW1wIjoxNjQ3NDExMTEyNjMzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTExMn0.57AvMcTXWpDhdEGsKeJcMT-9rysW_WroJwn8WhAPKo4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-67" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-67-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e29627364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135743,
     },
@@ -5098,13 +6404,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt4IiwidGltZXN0YW1wIjoxNjQ3NDExNzcyNDAyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc3Mn0.OqC42xB0nsS18kl5CnV7IR4YigNjuW7UIvQK-V-Kvto",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-67" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-67-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e29757364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135743,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 67",
   },
-  166: {
+  "166": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-68" },
@@ -5115,7 +6425,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFE0IiwidGltZXN0YW1wIjoxNjQ3NDExMTIyMDgxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTEyMn0.XIdYXNJeVYFSulqAia4uOrnkk0KsHeSpj7bnkw7NEmA",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-68" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-68-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e2962736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1357.189167,
     },
@@ -5129,13 +6443,17 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt5IiwidGltZXN0YW1wIjoxNjQ3NDExNzgxNjc0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc4MX0.GfhKHhdRkWRvfOmvNwoP69KhVAEWyapeCQJpvV8VfEQ",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-68" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-68-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e2975736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1357.189162,
     },
     episodeInfo: "Dragon Ball Kai The Final Chapters Episode 68",
   },
-  167: {
+  "167": {
     dub: {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-the-final-chapters-dub-episode-69" },
@@ -5146,7 +6464,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFE1IiwidGltZXN0YW1wIjoxNjQ3NDExMTMxNDM3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTEzMX0.lfLHVl8-nN6VtX806b4vBa4NMnckfsd1vDxOIR2N-Ak",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-69" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-69-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752962713233354465553434697f3e554d417e2962736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1357.189167,
     },
@@ -5160,7 +6482,11 @@ const dragonBallKai: series = {
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt6IiwidGltZXN0YW1wIjoxNjQ3NDExNzkxMTk1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc5MX0.GYuYyiHfPGbIg9ihr3pYw3Cvd1BNGzlkAp4aYNjyRZ4",
         },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-69" },
-        { source: "AllAnime", video: "https://allanime.to/watch/dw453BcS22oy8SKGx/dragon-ball-kai-2014-/episode-69-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752962713233354465553434697f3e554d417e2975736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1357.189162,
     },

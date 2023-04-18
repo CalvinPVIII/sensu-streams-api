@@ -3,7 +3,7 @@ import { series } from "../Types";
 // look at episodes 15, 121
 
 const dragonBall: series = {
-  1: {
+  "1": {
     dub: {
       sources: [
         {
@@ -14,7 +14,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8291/dragon-ball-dub-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-1-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -29,13 +33,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-1" },
         { source: "Enime", video: "clfsa5pyc00e4pk7di758dc3k" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-1-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.966,
     },
     episodeInfo: "Dragon Ball Episode 1",
   },
-  2: {
+  "2": {
     dub: {
       sources: [
         {
@@ -46,7 +54,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8288/dragon-ball-dub-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-2-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -61,13 +73,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-2" },
         { source: "Enime", video: "clfsa5py200e3pk7dvip7zul3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-2-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449.296,
     },
     episodeInfo: "Dragon Ball Episode 2",
   },
-  3: {
+  "3": {
     dub: {
       sources: [
         {
@@ -78,7 +94,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8285/dragon-ball-dub-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-3-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -93,13 +113,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-3" },
         { source: "Enime", video: "clfsa5pxr00e1pk7dc7zq43o6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-3-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449.296,
     },
     episodeInfo: "Dragon Ball Episode 3",
   },
-  4: {
+  "4": {
     dub: {
       sources: [
         {
@@ -110,7 +134,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8282/dragon-ball-dub-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-4-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -125,13 +153,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-4" },
         { source: "Enime", video: "clfsa5pxg00e0pk7de3dj4ztx" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-4-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449.459,
     },
     episodeInfo: "Dragon Ball Episode 4",
   },
-  5: {
+  "5": {
     dub: {
       sources: [
         {
@@ -142,7 +174,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8279/dragon-ball-dub-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-5-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -157,13 +193,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-5" },
         { source: "Enime", video: "clfsa5px700dypk7du6nr9inf" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-5-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449.459,
     },
     episodeInfo: "Dragon Ball Episode 5",
   },
-  6: {
+  "6": {
     dub: {
       sources: [
         {
@@ -174,7 +214,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8276/dragon-ball-dub-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-6-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -189,13 +233,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-6" },
         { source: "Enime", video: "clfsa5pwj00dxpk7dhg5owfqr" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-6-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449.459,
     },
     episodeInfo: "Dragon Ball Episode 6",
   },
-  7: {
+  "7": {
     dub: {
       sources: [
         {
@@ -206,7 +254,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8273/dragon-ball-dub-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-7-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.642,
     },
@@ -221,13 +273,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-7" },
         { source: "Enime", video: "clfsa5pw800dwpk7d8q9o7gz5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-7-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449.784,
     },
     episodeInfo: "Dragon Ball Episode 7",
   },
-  8: {
+  "8": {
     dub: {
       sources: [
         {
@@ -238,7 +294,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8270/dragon-ball-dub-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-8-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -253,13 +313,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-8" },
         { source: "Enime", video: "clfsa5pvx00dupk7da19d56os" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-8-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1448.46,
     },
     episodeInfo: "Dragon Ball Episode 8",
   },
-  9: {
+  "9": {
     dub: {
       sources: [
         {
@@ -270,7 +334,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8265/dragon-ball-dub-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-9-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -285,13 +353,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-9" },
         { source: "Enime", video: "clfsa5pvo00dtpk7d7e9w3ty4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-9-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1448.46,
     },
     episodeInfo: "Dragon Ball Episode 9",
   },
-  10: {
+  "10": {
     dub: {
       sources: [
         {
@@ -302,7 +374,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8263/dragon-ball-dub-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-10-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -317,13 +393,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-10" },
         { source: "Enime", video: "clfsa5pve00dspk7d7gwvb1ue" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-10-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449,
     },
     episodeInfo: "Dragon Ball Episode 10",
   },
-  11: {
+  "11": {
     dub: {
       sources: [
         {
@@ -334,7 +414,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8261/dragon-ball-dub-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-11-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -349,13 +433,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-11" },
         { source: "Enime", video: "clfsa5pv600drpk7dlh3xi5vt" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-11-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1448.623,
     },
     episodeInfo: "Dragon Ball Episode 11",
   },
-  12: {
+  "12": {
     dub: {
       sources: [
         {
@@ -366,7 +454,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8258/dragon-ball-dub-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-12-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -381,13 +473,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-12" },
         { source: "Enime", video: "clfsa5pux00dppk7dcw7ekigv" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-12-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1448.298,
     },
     episodeInfo: "Dragon Ball Episode 12",
   },
-  13: {
+  "13": {
     dub: {
       sources: [
         {
@@ -398,7 +494,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8254/dragon-ball-dub-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-13-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -413,13 +513,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-13" },
         { source: "Enime", video: "clfsa5pun00dnpk7de50x48f2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-13-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1448.623,
     },
     episodeInfo: "Dragon Ball Episode 13",
   },
-  14: {
+  "14": {
     dub: {
       sources: [
         {
@@ -430,7 +534,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8252/dragon-ball-dub-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-14-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -445,13 +553,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-14" },
         { source: "Enime", video: "clfsa5pud00dlpk7d99x7uxyb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-14-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1460.558,
     },
     episodeInfo: "Dragon Ball Episode 14",
   },
-  15: {
+  "15": {
     dub: {
       sources: [
         {
@@ -462,24 +574,31 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8248/dragon-ball-dub-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-15-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.827,
     },
     sub: {
       sources: [
-        // { source: "Anime Owl" },
         { source: "KimAnime", video: "https://kimanime.com/episode/5828/dragon-ball-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyNzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-15" },
         { source: "Enime", video: "clfsa5pu300dkpk7dh4zwvsa0" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-15-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.045,
     },
     episodeInfo: "Dragon Ball Episode 15",
   },
-  16: {
+  "16": {
     dub: {
       sources: [
         {
@@ -490,7 +609,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8246/dragon-ball-dub-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-16-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -505,13 +628,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-16" },
         { source: "Enime", video: "clfsa5ptr00djpk7ddfvrh43q" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-16-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.022,
     },
     episodeInfo: "Dragon Ball Episode 16",
   },
-  17: {
+  "17": {
     dub: {
       sources: [
         {
@@ -522,7 +649,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8243/dragon-ball-dub-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-17-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -537,13 +668,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-17" },
         { source: "Enime", video: "clfsa5pth00dipk7dbop74tir" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-17-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.185,
     },
     episodeInfo: "Dragon Ball Episode 17",
   },
-  18: {
+  "18": {
     dub: {
       sources: [
         {
@@ -554,7 +689,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8240/dragon-ball-dub-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-18-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -569,13 +708,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-18" },
         { source: "Enime", video: "clfsa5pt800dhpk7df19tn33h" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-18-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.301,
     },
     episodeInfo: "Dragon Ball Episode 18",
   },
-  19: {
+  "19": {
     dub: {
       sources: [
         {
@@ -586,7 +729,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8237/dragon-ball-dub-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-19-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -601,13 +748,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-19" },
         { source: "Enime", video: "clfsa5psz00dfpk7drqvlll8e" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-19-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.231,
     },
     episodeInfo: "Dragon Ball Episode 19",
   },
-  20: {
+  "20": {
     dub: {
       sources: [
         {
@@ -618,7 +769,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8234/dragon-ball-dub-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-20-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -633,13 +788,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyOTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-20" },
         { source: "Enime", video: "clfsa5psq00ddpk7d5ag4a556" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-20-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1462,
     },
     episodeInfo: "Dragon Ball Episode 20",
   },
-  21: {
+  "21": {
     dub: {
       sources: [
         {
@@ -650,7 +809,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8231/dragon-ball-dub-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-21-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -665,13 +828,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyOTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-21" },
         { source: "Enime", video: "clfsa5psg00dcpk7dp5x5h934" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-21-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1462,
     },
     episodeInfo: "Dragon Ball Episode 21",
   },
-  22: {
+  "22": {
     dub: {
       sources: [
         {
@@ -682,7 +849,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8229/dragon-ball-dub-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-22-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -697,13 +868,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyOTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-22" },
         { source: "Enime", video: "clfsa5ps600dapk7dufvv6f1a" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-22-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.254,
     },
     episodeInfo: "Dragon Ball Episode 22",
   },
-  23: {
+  "23": {
     dub: {
       sources: [
         {
@@ -714,7 +889,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8226/dragon-ball-dub-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-23-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -729,13 +908,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyOTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-23" },
         { source: "Enime", video: "clfsa5prv00d8pk7dwhs7tqiu" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-23-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.231,
     },
     episodeInfo: "Dragon Ball Episode 23",
   },
-  24: {
+  "24": {
     dub: {
       sources: [
         {
@@ -746,7 +929,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8223/dragon-ball-dub-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-24-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -761,13 +948,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQyOTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-24" },
         { source: "Enime", video: "clfsa5prj00d6pk7dljm9bywh" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-24-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.231,
     },
     episodeInfo: "Dragon Ball Episode 24",
   },
-  25: {
+  "25": {
     dub: {
       sources: [
         {
@@ -778,7 +969,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8220/dragon-ball-dub-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyNzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-25-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -793,13 +988,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-25" },
         { source: "Enime", video: "clfsa5pra00d5pk7du8jm8404" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-25-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1462.671,
     },
     episodeInfo: "Dragon Ball Episode 25",
   },
-  26: {
+  "26": {
     dub: {
       sources: [
         {
@@ -810,7 +1009,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8217/dragon-ball-dub-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-26-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -825,13 +1028,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-26" },
         { source: "Enime", video: "clfsa5pqx00d4pk7dur0plib5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-26-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1462,
     },
     episodeInfo: "Dragon Ball Episode 26",
   },
-  27: {
+  "27": {
     dub: {
       sources: [
         {
@@ -842,7 +1049,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8214/dragon-ball-dub-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-27-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -857,13 +1068,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-27" },
         { source: "Enime", video: "clfsa5pqn00d2pk7d445vzpsl" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-27-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.254,
     },
     episodeInfo: "Dragon Ball Episode 27",
   },
-  28: {
+  "28": {
     dub: {
       sources: [
         {
@@ -874,7 +1089,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8210/dragon-ball-dub-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-28-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -889,13 +1108,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-28" },
         { source: "Enime", video: "clfsa5pqa00d0pk7dqpelhpyx" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-28-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.138,
     },
     episodeInfo: "Dragon Ball Episode 28",
   },
-  29: {
+  "29": {
     dub: {
       sources: [
         {
@@ -906,7 +1129,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8207/dragon-ball-dub-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-29-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -921,13 +1148,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-29" },
         { source: "Enime", video: "clfsa5ppv00cypk7dz1qp6hxs" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-29-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.138,
     },
     episodeInfo: "Dragon Ball Episode 29",
   },
-  30: {
+  "30": {
     dub: {
       sources: [
         {
@@ -938,7 +1169,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8204/dragon-ball-dub-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-30-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -953,13 +1188,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-30" },
         { source: "Enime", video: "clfsa5ppg00cxpk7dv8m5azsi" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-30-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.254,
     },
     episodeInfo: "Dragon Ball Episode 30",
   },
-  31: {
+  "31": {
     dub: {
       sources: [
         {
@@ -970,7 +1209,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8201/dragon-ball-dub-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-31-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -985,13 +1228,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-31" },
         { source: "Enime", video: "clfsa5pp500cvpk7dhf1c1hjq" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-31-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.254,
     },
     episodeInfo: "Dragon Ball Episode 31",
   },
-  32: {
+  "32": {
     dub: {
       sources: [
         {
@@ -1002,7 +1249,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8198/dragon-ball-dub-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-32-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -1017,13 +1268,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-32" },
         { source: "Enime", video: "clfsa5pop00ctpk7dx7g5cp3f" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-32-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.254,
     },
     episodeInfo: "Dragon Ball Episode 32",
   },
-  33: {
+  "33": {
     dub: {
       sources: [
         {
@@ -1034,7 +1289,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8195/dragon-ball-dub-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-33-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1049,13 +1308,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-33" },
         { source: "Enime", video: "clfsa5pof00crpk7dn428yhxy" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-33-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.301,
     },
     episodeInfo: "Dragon Ball Episode 33",
   },
-  34: {
+  "34": {
     dub: {
       sources: [
         {
@@ -1066,7 +1329,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8192/dragon-ball-dub-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-34-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -1081,13 +1348,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-34" },
         { source: "Enime", video: "clfsa5po600cppk7dwdq5ql66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-34-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.138,
     },
     episodeInfo: "Dragon Ball Episode 34",
   },
-  35: {
+  "35": {
     dub: {
       sources: [
         {
@@ -1098,7 +1369,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8189/dragon-ball-dub-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-35-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1113,13 +1388,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-35" },
         { source: "Enime", video: "clfsa5pny00copk7dfrwr1mp2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-35-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.347,
     },
     episodeInfo: "Dragon Ball Episode 35",
   },
-  36: {
+  "36": {
     dub: {
       sources: [
         {
@@ -1130,7 +1409,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8186/dragon-ball-dub-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-36-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -1145,13 +1428,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-36" },
         { source: "Enime", video: "clfsa5pnn00cmpk7dxl77avns" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-36-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1461.301,
     },
     episodeInfo: "Dragon Ball Episode 36",
   },
-  37: {
+  "37": {
     dub: {
       sources: [
         {
@@ -1162,7 +1449,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8184/dragon-ball-dub-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-37-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -1177,13 +1468,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-37" },
         { source: "Enime", video: "clfsa5pne00ckpk7dkc30dn4p" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-37-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1456.634,
     },
     episodeInfo: "Dragon Ball Episode 37",
   },
-  38: {
+  "38": {
     dub: {
       sources: [
         {
@@ -1194,7 +1489,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8181/dragon-ball-dub-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-38-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -1209,13 +1508,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-38" },
         { source: "Enime", video: "clfsa5pn500cipk7d9qj1k01t" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-38-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1456.68,
     },
     episodeInfo: "Dragon Ball Episode 38",
   },
-  39: {
+  "39": {
     dub: {
       sources: [
         {
@@ -1226,7 +1529,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8179/dragon-ball-dub-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-39-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -1241,13 +1548,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-39" },
         { source: "Enime", video: "clfsa5pmx00cgpk7dk6rt01tj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-39-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1456.634,
     },
     episodeInfo: "Dragon Ball Episode 39",
   },
-  40: {
+  "40": {
     dub: {
       sources: [
         {
@@ -1258,7 +1569,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8176/dragon-ball-dub-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-40-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -1273,13 +1588,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-40" },
         { source: "Enime", video: "clfsa5pmp00cepk7dk5tvqg27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-40-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1456.634,
     },
     episodeInfo: "Dragon Ball Episode 40",
   },
-  41: {
+  "41": {
     dub: {
       sources: [
         {
@@ -1290,7 +1609,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8173/dragon-ball-dub-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-41-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -1305,13 +1628,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-41" },
         { source: "Enime", video: "clfsa5pme00cdpk7dg1h462jn" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-41-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1456.634,
     },
     episodeInfo: "Dragon Ball Episode 41",
   },
-  42: {
+  "42": {
     dub: {
       sources: [
         {
@@ -1322,7 +1649,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8170/dragon-ball-dub-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-42-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1337,13 +1668,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-42" },
         { source: "Enime", video: "clfsa5pm400cbpk7d7vs5neh6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-42-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1456.634,
     },
     episodeInfo: "Dragon Ball Episode 42",
   },
-  43: {
+  "43": {
     dub: {
       sources: [
         {
@@ -1354,7 +1689,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8168/dragon-ball-dub-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-43-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -1369,13 +1708,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzMzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-43" },
         { source: "Enime", video: "clfsa5plv00capk7dwnwm36rt" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-43-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.886,
     },
     episodeInfo: "Dragon Ball Episode 43",
   },
-  44: {
+  "44": {
     dub: {
       sources: [
         {
@@ -1386,7 +1729,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8163/dragon-ball-dub-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-44-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -1401,13 +1748,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-44" },
         { source: "Enime", video: "clfsa5pll00c8pk7df8uj7hy9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-44-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.886,
     },
     episodeInfo: "Dragon Ball Episode 44",
   },
-  45: {
+  "45": {
     dub: {
       sources: [
         {
@@ -1418,7 +1769,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8160/dragon-ball-dub-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQyOTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-45-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -1433,13 +1788,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-45" },
         { source: "Enime", video: "clfsa5plb00c7pk7dl9im5xok" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-45-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.932,
     },
     episodeInfo: "Dragon Ball Episode 45",
   },
-  46: {
+  "46": {
     dub: {
       sources: [
         {
@@ -1450,7 +1809,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8157/dragon-ball-dub-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-46-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -1465,13 +1828,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-46" },
         { source: "Enime", video: "clfsa5pl000c5pk7d028sqhzo" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-46-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 46",
   },
-  47: {
+  "47": {
     dub: {
       sources: [
         {
@@ -1482,7 +1849,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8154/dragon-ball-dub-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-47-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -1497,13 +1868,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-47" },
         { source: "Enime", video: "clfsa5pkq00c3pk7d5x4m3rtj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-47-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 47",
   },
-  48: {
+  "48": {
     dub: {
       sources: [
         {
@@ -1514,7 +1889,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8151/dragon-ball-dub-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-48-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -1529,13 +1908,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-48" },
         { source: "Enime", video: "clfsa5pkf00c2pk7dl3ahaddd" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-48-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
     episodeInfo: "Dragon Ball Episode 48",
   },
-  49: {
+  "49": {
     dub: {
       sources: [
         {
@@ -1546,7 +1929,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8148/dragon-ball-dub-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-49-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1561,13 +1948,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-49" },
         { source: "Enime", video: "clfsa5pk600c0pk7dk9xzbd8b" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-49-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 49",
   },
-  50: {
+  "50": {
     dub: {
       sources: [
         {
@@ -1578,7 +1969,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8145/dragon-ball-dub-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-50-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1593,13 +1988,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-50" },
         { source: "Enime", video: "clfsa5pjw00bzpk7dqbuhlnuu" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-50-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 50",
   },
-  51: {
+  "51": {
     dub: {
       sources: [
         {
@@ -1610,7 +2009,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8142/dragon-ball-dub-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-51-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -1625,13 +2028,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-51" },
         { source: "Enime", video: "clfsa5pjm00bxpk7d489su69n" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-51-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 51",
   },
-  52: {
+  "52": {
     dub: {
       sources: [
         {
@@ -1642,7 +2049,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8139/dragon-ball-dub-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-52-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.642,
     },
@@ -1657,13 +2068,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-52" },
         { source: "Enime", video: "clfsa5pjd00bvpk7d9jl2g06n" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-52-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1459.188,
     },
     episodeInfo: "Dragon Ball Episode 52",
   },
-  53: {
+  "53": {
     dub: {
       sources: [
         {
@@ -1674,7 +2089,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8136/dragon-ball-dub-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-53-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1689,13 +2108,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-53" },
         { source: "Enime", video: "clfsa5pj100btpk7di1wn4d7x" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-53-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 53",
   },
-  54: {
+  "54": {
     dub: {
       sources: [
         {
@@ -1706,7 +2129,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8133/dragon-ball-dub-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-54-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -1721,13 +2148,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-54" },
         { source: "Enime", video: "clfsa5piq00bspk7dx85ylex0" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-54-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 54",
   },
-  55: {
+  "55": {
     dub: {
       sources: [
         {
@@ -1738,7 +2169,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8130/dragon-ball-dub-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-55-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -1753,13 +2188,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzNzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-55" },
         { source: "Enime", video: "clfsa5pif00brpk7d18kg8qw9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-55-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1457.841,
     },
     episodeInfo: "Dragon Ball Episode 55",
   },
-  56: {
+  "56": {
     dub: {
       sources: [
         {
@@ -1770,7 +2209,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8126/dragon-ball-dub-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-56-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1785,13 +2228,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-56" },
         { source: "Enime", video: "clfsa5pi400bppk7dz084341w" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-56-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.259,
     },
     episodeInfo: "Dragon Ball Episode 56",
   },
-  57: {
+  "57": {
     dub: {
       sources: [
         {
@@ -1802,7 +2249,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8123/dragon-ball-dub-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-57-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1817,13 +2268,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-57" },
         { source: "Enime", video: "clfsa5phu00bnpk7d7ktjav4e" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-57-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1457.934,
     },
     episodeInfo: "Dragon Ball Episode 57",
   },
-  58: {
+  "58": {
     dub: {
       sources: [
         {
@@ -1834,7 +2289,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8120/dragon-ball-dub-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-58-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -1849,13 +2308,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-58" },
         { source: "Enime", video: "clfsa5phe00bmpk7d26qabmtw" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-58-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
     episodeInfo: "Dragon Ball Episode 58",
   },
-  59: {
+  "59": {
     dub: {
       sources: [
         {
@@ -1866,7 +2329,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8116/dragon-ball-dub-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-59-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -1881,13 +2348,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzOTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-59" },
         { source: "Enime", video: "clfsa5ph600bkpk7dsccdmo3q" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-59-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1457.795,
     },
     episodeInfo: "Dragon Ball Episode 59",
   },
-  60: {
+  "60": {
     dub: {
       sources: [
         {
@@ -1898,7 +2369,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8112/dragon-ball-dub-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-60-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -1913,13 +2388,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzOTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-60" },
         { source: "Enime", video: "clfsa5pgy00bjpk7d6g2xvlnm" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-60-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1457.168,
     },
     episodeInfo: "Dragon Ball Episode 60",
   },
-  61: {
+  "61": {
     dub: {
       sources: [
         {
@@ -1930,7 +2409,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8109/dragon-ball-dub-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-61-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -1945,13 +2428,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQzOTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-61" },
         { source: "Enime", video: "clfsa5pgq00bhpk7dm2nnz4uz" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-61-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.561,
     },
     episodeInfo: "Dragon Ball Episode 61",
   },
-  62: {
+  "62": {
     dub: {
       sources: [
         {
@@ -1962,7 +2449,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8107/dragon-ball-dub-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-62-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -1977,13 +2468,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-62" },
         { source: "Enime", video: "clfsa5pgj00bgpk7dm2a79ctr" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-62-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 62",
   },
-  63: {
+  "63": {
     dub: {
       sources: [
         {
@@ -1994,7 +2489,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8103/dragon-ball-dub-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-63-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -2009,13 +2508,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-63" },
         { source: "Enime", video: "clfsa5pga00bfpk7dc0rpgpe3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-63-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 63",
   },
-  64: {
+  "64": {
     dub: {
       sources: [
         {
@@ -2026,7 +2529,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8100/dragon-ball-dub-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-64-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -2041,13 +2548,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-64" },
         { source: "Enime", video: "clfsa5pg000bepk7db5ryh1fq" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-64-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 64",
   },
-  65: {
+  "65": {
     dub: {
       sources: [
         {
@@ -2058,7 +2569,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8097/dragon-ball-dub-episode-065" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-65" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-65-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293033242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2073,13 +2588,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-65" },
         { source: "Enime", video: "clfsa5pfq00bcpk7dyvgn1lk6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-65-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293033242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.515,
     },
     episodeInfo: "Dragon Ball Episode 65",
   },
-  66: {
+  "66": {
     dub: {
       sources: [
         {
@@ -2090,7 +2609,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8094/dragon-ball-dub-episode-066" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-66-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2105,13 +2628,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-66" },
         { source: "Enime", video: "clfsa5pff00bbpk7dav03opvf" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-66-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.561,
     },
     episodeInfo: "Dragon Ball Episode 66",
   },
-  67: {
+  "67": {
     dub: {
       sources: [
         {
@@ -2122,7 +2649,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8091/dragon-ball-dub-episode-067" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-67" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-67-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -2137,13 +2668,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-67" },
         { source: "Enime", video: "clfsa5pf500bapk7dkyavxmux" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-67-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.561,
     },
     episodeInfo: "Dragon Ball Episode 67",
   },
-  68: {
+  "68": {
     dub: {
       sources: [
         {
@@ -2154,7 +2689,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8088/dragon-ball-dub-episode-068" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-68" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-68-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -2169,13 +2708,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-68" },
         { source: "Enime", video: "clfsa5pet00b9pk7dngw5jhby" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-68-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 68",
   },
-  69: {
+  "69": {
     dub: {
       sources: [
         {
@@ -2186,7 +2729,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8085/dragon-ball-dub-episode-069" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-69" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-69-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -2201,13 +2748,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-69" },
         { source: "Enime", video: "clfsa5peg00b7pk7d19c83ppb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-69-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 69",
   },
-  70: {
+  "70": {
     dub: {
       sources: [
         {
@@ -2218,7 +2769,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8081/dragon-ball-dub-episode-070" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-70" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-70-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293136242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2233,13 +2788,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-70" },
         { source: "Enime", video: "clfsa5pe200b5pk7drxq47bnz" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-70-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293136242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 70",
   },
-  71: {
+  "71": {
     dub: {
       sources: [
         {
@@ -2250,7 +2809,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8078/dragon-ball-dub-episode-071" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-71" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-71-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293137242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -2265,13 +2828,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-71" },
         { source: "Enime", video: "clfsa5pdp00b3pk7dght7fic9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-71-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293137242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1460.186,
     },
     episodeInfo: "Dragon Ball Episode 71",
   },
-  72: {
+  "72": {
     dub: {
       sources: [
         {
@@ -2282,7 +2849,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8075/dragon-ball-dub-episode-072" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-72" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-72-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293134242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -2297,13 +2868,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-72" },
         { source: "Enime", video: "clfsa5pd900b1pk7d841b4t8a" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-72-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293134242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 72",
   },
-  73: {
+  "73": {
     dub: {
       sources: [
         {
@@ -2314,7 +2889,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8072/dragon-ball-dub-episode-073" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-73" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-73-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293135242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -2329,13 +2908,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0Mjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-73" },
         { source: "Enime", video: "clfsa5pcy00b0pk7drqtpp8gt" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-73-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293135242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 73",
   },
-  74: {
+  "74": {
     dub: {
       sources: [
         {
@@ -2346,7 +2929,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8069/dragon-ball-dub-episode-074" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-74" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-74-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293132242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -2361,13 +2948,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-74" },
         { source: "Enime", video: "clfsa5pcl00azpk7d5cnrkemi" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-74-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293132242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 74",
   },
-  75: {
+  "75": {
     dub: {
       sources: [
         {
@@ -2378,7 +2969,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8066/dragon-ball-dub-episode-075" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-75" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-75-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293133242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -2393,13 +2988,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0MzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-75" },
         { source: "Enime", video: "clfsa5pcb00aypk7d7nspq4ao" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-75-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293133242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1460.14,
     },
     episodeInfo: "Dragon Ball Episode 75",
   },
-  76: {
+  "76": {
     dub: {
       sources: [
         {
@@ -2410,7 +3009,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8064/dragon-ball-dub-episode-076" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-76" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-76-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293130242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2425,13 +3028,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0Mzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-76" },
         { source: "Enime", video: "clfsa5pc200axpk7d3nmp3dcc" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-76-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293130242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 76",
   },
-  77: {
+  "77": {
     dub: {
       sources: [
         {
@@ -2442,7 +3049,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8060/dragon-ball-dub-episode-077" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-77" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-77-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293131242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2457,13 +3068,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0Mzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-77" },
         { source: "Enime", video: "clfsa5pbs00awpk7dc3qtqfkt" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-77-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293131242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
     episodeInfo: "Dragon Ball Episode 77",
   },
-  78: {
+  "78": {
     dub: {
       sources: [
         {
@@ -2474,7 +3089,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8057/dragon-ball-dub-episode-078" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-78" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-78-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429313e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -2489,13 +3108,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-78" },
         { source: "Enime", video: "clfsa5pbi00avpk7dvoguf6z2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-78-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429313e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 78",
   },
-  79: {
+  "79": {
     dub: {
       sources: [
         {
@@ -2506,7 +3129,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8054/dragon-ball-dub-episode-079" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-79" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-79-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429313f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2521,13 +3148,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-79" },
         { source: "Enime", video: "clfsa5pb700atpk7dtnjta4vb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-79-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429313f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1460.047,
     },
     episodeInfo: "Dragon Ball Episode 79",
   },
-  80: {
+  "80": {
     dub: {
       sources: [
         {
@@ -2538,7 +3169,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8051/dragon-ball-dub-episode-080" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-80" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-80-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -2553,13 +3188,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-80" },
         { source: "Enime", video: "clfsa5paw00arpk7d52ufn4c8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-80-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 80",
   },
-  81: {
+  "81": {
     dub: {
       sources: [
         {
@@ -2570,7 +3209,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8049/dragon-ball-dub-episode-081" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-81" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-81-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -2585,13 +3228,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-81" },
         { source: "Enime", video: "clfsa5pab00aqpk7d0ahtmo15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-81-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 81",
   },
-  82: {
+  "82": {
     dub: {
       sources: [
         {
@@ -2602,7 +3249,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8046/dragon-ball-dub-episode-082" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-82" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-82-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.618,
     },
@@ -2617,13 +3268,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-82" },
         { source: "Enime", video: "clfsa5p9x00aopk7dpmhplauh" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-82-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 82",
   },
-  83: {
+  "83": {
     dub: {
       sources: [
         {
@@ -2634,7 +3289,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8042/dragon-ball-dub-episode-083" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-83" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-83-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -2649,13 +3308,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-83" },
         { source: "Enime", video: "clfsa5p9n00ampk7dmtsfh0ri" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-83-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.468,
     },
     episodeInfo: "Dragon Ball Episode 83",
   },
-  84: {
+  "84": {
     dub: {
       sources: [
         {
@@ -2666,7 +3329,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8040/dragon-ball-dub-episode-084" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-84" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-84-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2681,13 +3348,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-84" },
         { source: "Enime", video: "clfsa5p9900alpk7d72cbhd4g" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-84-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 84",
   },
-  85: {
+  "85": {
     dub: {
       sources: [
         {
@@ -2698,7 +3369,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8038/dragon-ball-dub-episode-085" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzMzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-85" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-85-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.804,
     },
@@ -2713,13 +3388,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-85" },
         { source: "Enime", video: "clfsa5p9000ajpk7dnoqkuhka" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-85-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1457.795,
     },
     episodeInfo: "Dragon Ball Episode 85",
   },
-  86: {
+  "86": {
     dub: {
       sources: [
         {
@@ -2730,7 +3409,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8035/dragon-ball-dub-episode-086" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-86" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-86-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -2745,13 +3428,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-86" },
         { source: "Enime", video: "clfsa5p8s00ahpk7d9bvkzvvb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-86-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 86",
   },
-  87: {
+  "87": {
     dub: {
       sources: [
         {
@@ -2762,7 +3449,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8033/dragon-ball-dub-episode-087" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-87" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-87-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.758,
     },
@@ -2777,13 +3468,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-87" },
         { source: "Enime", video: "clfsa5p8k00afpk7djg1d1l5n" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-87-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 87",
   },
-  88: {
+  "88": {
     dub: {
       sources: [
         {
@@ -2794,7 +3489,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8031/dragon-ball-dub-episode-088" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-88" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-88-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -2809,13 +3508,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-88" },
         { source: "Enime", video: "clfsa5p8c00aepk7d328wjpwl" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-88-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1156.794,
     },
     episodeInfo: "Dragon Ball Episode 88",
   },
-  89: {
+  "89": {
     dub: {
       sources: [
         {
@@ -2826,7 +3529,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8028/dragon-ball-dub-episode-089" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-89" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-89-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293e3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2841,13 +3548,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-89" },
         { source: "Enime", video: "clfsa5p8500adpk7dki1jnflz" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-89-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293e3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 89",
   },
-  90: {
+  "90": {
     dub: {
       sources: [
         {
@@ -2858,7 +3569,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8026/dragon-ball-dub-episode-090" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-90" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-90-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.711,
     },
@@ -2873,13 +3588,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-90" },
         { source: "Enime", video: "clfsa5p7u00acpk7d2ys7e35i" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-90-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
     episodeInfo: "Dragon Ball Episode 90",
   },
-  91: {
+  "91": {
     dub: {
       sources: [
         {
@@ -2890,7 +3609,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8023/dragon-ball-dub-episode-091" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-91" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-91-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452,
     },
@@ -2905,13 +3628,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-91" },
         { source: "Enime", video: "clfsa5p7n00aapk7dmmw6ugr4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-91-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 91",
   },
-  92: {
+  "92": {
     dub: {
       sources: [
         {
@@ -2922,7 +3649,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8020/dragon-ball-dub-episode-092" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-92" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-92-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1451.665,
     },
@@ -2937,13 +3668,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-92" },
         { source: "Enime", video: "clfsa5p7f00a8pk7dowizp9ns" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-92-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1460.186,
     },
     episodeInfo: "Dragon Ball Episode 92",
   },
-  93: {
+  "93": {
     dub: {
       sources: [
         {
@@ -2954,7 +3689,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8018/dragon-ball-dub-episode-093" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-93" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-93-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -2969,13 +3708,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-93" },
         { source: "Enime", video: "clfsa5p7700a6pk7de1vmdig9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-93-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
     episodeInfo: "Dragon Ball Episode 93",
   },
-  94: {
+  "94": {
     dub: {
       sources: [
         {
@@ -2986,7 +3729,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8016/dragon-ball-dub-episode-094" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-94" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-94-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3001,13 +3748,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-94" },
         { source: "Enime", video: "clfsa5p6z00a5pk7doklqxos4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-94-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 94",
   },
-  95: {
+  "95": {
     dub: {
       sources: [
         {
@@ -3018,7 +3769,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8012/dragon-ball-dub-episode-095" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-95" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-95-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3033,13 +3788,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-95" },
         { source: "Enime", video: "clfsa5p6r00a3pk7dy05m6ytb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-95-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 95",
   },
-  96: {
+  "96": {
     dub: {
       sources: [
         {
@@ -3050,7 +3809,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8010/dragon-ball-dub-episode-096" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-96" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-96-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3065,13 +3828,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-96" },
         { source: "Enime", video: "clfsa5p6h00a2pk7dvkj131dt" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-96-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 96",
   },
-  97: {
+  "97": {
     dub: {
       sources: [
         {
@@ -3082,7 +3849,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8009/dragon-ball-dub-episode-097" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-97" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-97-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3097,13 +3868,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-97" },
         { source: "Enime", video: "clfsa5p6800a1pk7dq2cyyja8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-97-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 97",
   },
-  98: {
+  "98": {
     dub: {
       sources: [
         {
@@ -3114,7 +3889,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8007/dragon-ball-dub-episode-098" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-98" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-98-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3129,13 +3908,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-98" },
         { source: "Enime", video: "clfsa5p5z009zpk7d53cbv1ra" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-98-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 98",
   },
-  99: {
+  "99": {
     dub: {
       sources: [
         {
@@ -3146,7 +3929,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8004/dragon-ball-dub-episode-099" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-99" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-99-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429627364293f3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.222,
     },
@@ -3161,13 +3948,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0Njc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-99" },
         { source: "Enime", video: "clfsa5p5q009xpk7dyyn7scda" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-99-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c6555333535695429757364293f3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 99",
   },
-  100: {
+  "100": {
     dub: {
       sources: [
         {
@@ -3178,7 +3969,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8002/dragon-ball-dub-episode-100" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-100" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-100-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373636242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.245,
     },
@@ -3193,13 +3988,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-100" },
         { source: "Enime", video: "clfsa5p5j009vpk7d79nnyxi8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-100-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373636242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.793,
     },
     episodeInfo: "Dragon Ball Episode 100",
   },
-  101: {
+  "101": {
     dub: {
       sources: [
         {
@@ -3210,7 +4009,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/8000/dragon-ball-dub-episode-101" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-101" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-101-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373637242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3225,13 +4028,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-101" },
         { source: "Enime", video: "clfsa5p5b009upk7dn8j2d9s9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-101-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373637242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1460.302,
     },
     episodeInfo: "Dragon Ball Episode 101",
   },
-  102: {
+  "102": {
     dub: {
       sources: [
         {
@@ -3242,7 +4049,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7997/dragon-ball-dub-episode-102" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-102" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-102-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373634242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3257,13 +4068,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0NzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-102" },
         { source: "Enime", video: "clfsa5p51009spk7dlcvmj3dj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-102-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373634242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 102",
   },
-  103: {
+  "103": {
     dub: {
       sources: [
         {
@@ -3274,7 +4089,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7994/dragon-ball-dub-episode-103" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-103" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-103-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373635242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3289,13 +4108,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0Nzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-103" },
         { source: "Enime", video: "clfsa5p4u009rpk7d8fqi8j3t" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-103-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373635242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.515,
     },
     episodeInfo: "Dragon Ball Episode 103",
   },
-  104: {
+  "104": {
     dub: {
       sources: [
         {
@@ -3306,7 +4129,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7991/dragon-ball-dub-episode-104" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-104" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-104-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373632242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.175,
     },
@@ -3321,13 +4148,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-104" },
         { source: "Enime", video: "clfsa5p4m009ppk7d9kolxo9a" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-104-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373632242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1181.152,
     },
     episodeInfo: "Dragon Ball Episode 104",
   },
-  105: {
+  "105": {
     dub: {
       sources: [
         {
@@ -3338,7 +4169,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7988/dragon-ball-dub-episode-105" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-105" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-105-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373633242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3353,13 +4188,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-105" },
         { source: "Enime", video: "clfsa5p4f009npk7dslrq0uwd" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-105-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373633242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.352,
     },
     episodeInfo: "Dragon Ball Episode 105",
   },
-  106: {
+  "106": {
     dub: {
       sources: [
         {
@@ -3370,7 +4209,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7985/dragon-ball-dub-episode-106" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-106" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-106-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373630242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.431,
     },
@@ -3385,13 +4228,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-106" },
         { source: "Enime", video: "clfsa5p47009mpk7d7grjuxg9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-106-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373630242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.84,
     },
     episodeInfo: "Dragon Ball Episode 106",
   },
-  107: {
+  "107": {
     dub: {
       sources: [
         {
@@ -3402,7 +4249,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7982/dragon-ball-dub-episode-107" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-107" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-107-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373631242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3417,13 +4268,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-107" },
         { source: "Enime", video: "clfsa5p3z009kpk7dv56auohs" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-107-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373631242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.932,
     },
     episodeInfo: "Dragon Ball Episode 107",
   },
-  108: {
+  "108": {
     dub: {
       sources: [
         {
@@ -3434,7 +4289,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7979/dragon-ball-dub-episode-108" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-108" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-108-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937363e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.292,
     },
@@ -3449,13 +4308,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-108" },
         { source: "Enime", video: "clfsa5p3s009ipk7dpfxss059" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-108-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937363e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.84,
     },
     episodeInfo: "Dragon Ball Episode 108",
   },
-  109: {
+  "109": {
     dub: {
       sources: [
         {
@@ -3466,7 +4329,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7975/dragon-ball-dub-episode-109" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-109" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-109-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937363f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3481,13 +4348,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-109" },
         { source: "Enime", video: "clfsa5p3m009gpk7dk7b7ba1u" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-109-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937363f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1175.765,
     },
     episodeInfo: "Dragon Ball Episode 109",
   },
-  110: {
+  "110": {
     dub: {
       sources: [
         {
@@ -3498,7 +4369,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7972/dragon-ball-dub-episode-110" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-110" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-110-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3513,13 +4388,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-110" },
         { source: "Enime", video: "clfsa5p3e009epk7dv4e8fr51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-110-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.932,
     },
     episodeInfo: "Dragon Ball Episode 110",
   },
-  111: {
+  "111": {
     dub: {
       sources: [
         {
@@ -3530,7 +4409,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7969/dragon-ball-dub-episode-111" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-111" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-111-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3545,13 +4428,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0ODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-111" },
         { source: "Enime", video: "clfsa5p36009dpk7d9e0ccmvg" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-111-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1459,
     },
     episodeInfo: "Dragon Ball Episode 111",
   },
-  112: {
+  "112": {
     dub: {
       sources: [
         {
@@ -3562,7 +4449,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7965/dragon-ball-dub-episode-112" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-112" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-112-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.153,
     },
@@ -3577,13 +4468,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0OTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-112" },
         { source: "Enime", video: "clfsa5p2x009bpk7djkd7qu1s" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-112-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.932,
     },
     episodeInfo: "Dragon Ball Episode 112",
   },
-  113: {
+  "113": {
     dub: {
       sources: [
         {
@@ -3594,7 +4489,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7963/dragon-ball-dub-episode-113" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-113" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-113-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.454,
     },
@@ -3609,13 +4508,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0OTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-113" },
         { source: "Enime", video: "clfsa5p2o0099pk7dr7nstpge" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-113-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.793,
     },
     episodeInfo: "Dragon Ball Episode 113",
   },
-  114: {
+  "114": {
     dub: {
       sources: [
         {
@@ -3626,7 +4529,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7961/dragon-ball-dub-episode-114" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-114" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-114-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.338,
     },
@@ -3641,13 +4548,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0OTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-114" },
         { source: "Enime", video: "clfsa5p2e0097pk7de69pizap" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-114-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.84,
     },
     episodeInfo: "Dragon Ball Episode 114",
   },
-  115: {
+  "115": {
     dub: {
       sources: [
         {
@@ -3658,7 +4569,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7959/dragon-ball-dub-episode-115" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-115" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-115-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.245,
     },
@@ -3673,13 +4588,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0OTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-115" },
         { source: "Enime", video: "clfsa5p260095pk7d4x3891p2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-115-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.886,
     },
     episodeInfo: "Dragon Ball Episode 115",
   },
-  116: {
+  "116": {
     dub: {
       sources: [
         {
@@ -3690,7 +4609,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7957/dragon-ball-dub-episode-116" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-116" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-116-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3705,13 +4628,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0OTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-116" },
         { source: "Enime", video: "clfsa5p1x0094pk7d4d1cq5rl" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-116-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.886,
     },
     episodeInfo: "Dragon Ball Episode 116",
   },
-  117: {
+  "117": {
     dub: {
       sources: [
         {
@@ -3722,7 +4649,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7955/dragon-ball-dub-episode-117" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-117" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-117-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3737,13 +4668,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0OTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-117" },
         { source: "Enime", video: "clfsa5p1p0093pk7dyljwqfb3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-117-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.84,
     },
     episodeInfo: "Dragon Ball Episode 117",
   },
-  118: {
+  "118": {
     dub: {
       sources: [
         {
@@ -3754,7 +4689,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7953/dragon-ball-dub-episode-118" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-118" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-118-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1453,
     },
@@ -3769,13 +4708,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ0OTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-118" },
         { source: "Enime", video: "clfsa5p1g0091pk7dguij0byj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-118-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.84,
     },
     episodeInfo: "Dragon Ball Episode 118",
   },
-  119: {
+  "119": {
     dub: {
       sources: [
         {
@@ -3786,7 +4729,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7951/dragon-ball-dub-episode-119" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-119" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-119-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3801,13 +4748,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-119" },
         { source: "Enime", video: "clfsa5p18008zpk7d0j1qrx11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-119-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
     episodeInfo: "Dragon Ball Episode 119",
   },
-  120: {
+  "120": {
     dub: {
       sources: [
         {
@@ -3818,7 +4769,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7948/dragon-ball-dub-episode-120" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-120" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-120-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3833,13 +4788,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-120" },
         { source: "Enime", video: "clfsa5p0v008ypk7dyhk9halc" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-120-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
     episodeInfo: "Dragon Ball Episode 120",
   },
-  121: {
+  "121": {
     dub: {
       sources: [
         {
@@ -3850,24 +4809,31 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7947/dragon-ball-dub-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-121" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-121-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
     sub: {
       sources: [
-        // { source: "Anime Owl" },
         { source: "KimAnime", video: "https://kimanime.com/episode/5571/dragon-ball-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-121" },
         { source: "Enime", video: "clfsa5p0o008xpk7diuhfsfrh" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-121-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
     episodeInfo: "Dragon Ball Episode 121",
   },
-  122: {
+  "122": {
     dub: {
       sources: [
         {
@@ -3878,7 +4844,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7945/dragon-ball-dub-episode-122" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-122" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-122-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3893,13 +4863,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-122" },
         { source: "Enime", video: "clfsa5p0g008vpk7dposrouun" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-122-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 122",
   },
-  123: {
+  "123": {
     dub: {
       sources: [
         {
@@ -3910,7 +4884,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7943/dragon-ball-dub-episode-123" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-123" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-123-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.292,
     },
@@ -3925,13 +4903,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-123" },
         { source: "Enime", video: "clfsa5p08008upk7d12k2lk90" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-123-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1459,
     },
     episodeInfo: "Dragon Ball Episode 123",
   },
-  124: {
+  "124": {
     dub: {
       sources: [
         {
@@ -3942,7 +4924,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7940/dragon-ball-dub-episode-124" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-124" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-124-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -3957,13 +4943,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-124" },
         { source: "Enime", video: "clfsa5p00008spk7dkwepdo2r" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-124-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1459,
     },
     episodeInfo: "Dragon Ball Episode 124",
   },
-  125: {
+  "125": {
     dub: {
       sources: [
         {
@@ -3974,7 +4964,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7938/dragon-ball-dub-episode-125" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzNzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-125" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-125-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.491,
     },
@@ -3989,13 +4983,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-125" },
         { source: "Enime", video: "clfsa5ozt008qpk7d1asl9zkb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-125-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.375,
     },
     episodeInfo: "Dragon Ball Episode 125",
   },
-  126: {
+  "126": {
     dub: {
       sources: [
         {
@@ -4006,7 +5004,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7936/dragon-ball-dub-episode-126" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-126" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-126-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.431,
     },
@@ -4021,13 +5023,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-126" },
         { source: "Enime", video: "clfsa5ozk008opk7dcyvzqayc" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-126-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.306,
     },
     episodeInfo: "Dragon Ball Episode 126",
   },
-  127: {
+  "127": {
     dub: {
       sources: [
         {
@@ -4038,7 +5044,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7934/dragon-ball-dub-episode-127" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-127" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-127-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4053,13 +5063,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-127" },
         { source: "Enime", video: "clfsa5ozc008npk7d7du84xnn" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-127-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
     episodeInfo: "Dragon Ball Episode 127",
   },
-  128: {
+  "128": {
     dub: {
       sources: [
         {
@@ -4070,7 +5084,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7932/dragon-ball-dub-episode-128" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-128" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-128-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4085,13 +5103,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-128" },
         { source: "Enime", video: "clfsa5oz4008mpk7d5dtvehdl" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-128-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.422,
     },
     episodeInfo: "Dragon Ball Episode 128",
   },
-  129: {
+  "129": {
     dub: {
       sources: [
         {
@@ -4102,7 +5124,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7930/dragon-ball-dub-episode-129" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-129" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-129-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4117,13 +5143,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-129" },
         { source: "Enime", video: "clfsa5oyu008lpk7db1f1sf6g" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-129-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 129",
   },
-  130: {
+  "130": {
     dub: {
       sources: [
         {
@@ -4134,7 +5164,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7928/dragon-ball-dub-episode-130" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-130" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-130-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4149,13 +5183,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-130" },
         { source: "Enime", video: "clfsa5oyk008kpk7d30oljav8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-130-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1179.805,
     },
     episodeInfo: "Dragon Ball Episode 130",
   },
-  131: {
+  "131": {
     dub: {
       sources: [
         {
@@ -4166,7 +5204,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7926/dragon-ball-dub-episode-131" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-131" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-131-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4181,13 +5223,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-131" },
         { source: "Enime", video: "clfsa5oya008ipk7db2hyrjy0" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-131-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1456.727,
     },
     episodeInfo: "Dragon Ball Episode 131",
   },
-  132: {
+  "132": {
     dub: {
       sources: [
         {
@@ -4198,7 +5244,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7924/dragon-ball-dub-episode-132" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-132" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-132-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4213,13 +5263,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1Mjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-132" },
         { source: "Enime", video: "clfsa5oy1008hpk7dpobeqqr6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-132-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1457.679,
     },
     episodeInfo: "Dragon Ball Episode 132",
   },
-  133: {
+  "133": {
     dub: {
       sources: [
         {
@@ -4230,7 +5284,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7922/dragon-ball-dub-episode-133" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-133" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-133-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
@@ -4245,13 +5303,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1MzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-133" },
         { source: "Enime", video: "clfsa5oxt008gpk7dcssnow0m" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-133-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 133",
   },
-  134: {
+  "134": {
     dub: {
       sources: [
         {
@@ -4262,7 +5324,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7920/dragon-ball-dub-episode-134" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-134" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-134-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4277,13 +5343,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1Mzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-134" },
         { source: "Enime", video: "clfsa5oxh008fpk7do4wzw1ep" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-134-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 134",
   },
-  135: {
+  "135": {
     dub: {
       sources: [
         {
@@ -4294,7 +5364,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7916/dragon-ball-dub-episode-135" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-135" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-135-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.7,
     },
@@ -4309,13 +5383,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-135" },
         { source: "Enime", video: "clfsa5oxa008epk7dpwfwi5it" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-135-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
     episodeInfo: "Dragon Ball Episode 135",
   },
-  136: {
+  "136": {
     dub: {
       sources: [
         {
@@ -4326,7 +5404,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7913/dragon-ball-dub-episode-136" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-136" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-136-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
@@ -4341,13 +5423,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-136" },
         { source: "Enime", video: "clfsa5ox2008cpk7d6q1gy4md" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-136-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 136",
   },
-  137: {
+  "137": {
     dub: {
       sources: [
         {
@@ -4358,7 +5444,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7910/dragon-ball-dub-episode-137" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-137" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-137-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
@@ -4373,13 +5463,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-137" },
         { source: "Enime", video: "clfsa5owv008bpk7dqwrrieb7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-137-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 137",
   },
-  138: {
+  "138": {
     dub: {
       sources: [
         {
@@ -4390,7 +5484,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7908/dragon-ball-dub-episode-138" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-138" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-138-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.584,
     },
@@ -4405,13 +5503,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-138" },
         { source: "Enime", video: "clfsa5own008apk7dghk07arv" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-138-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.561,
     },
     episodeInfo: "Dragon Ball Episode 138",
   },
-  139: {
+  "139": {
     dub: {
       sources: [
         {
@@ -4422,7 +5524,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7906/dragon-ball-dub-episode-139" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-139" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-139-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4437,13 +5543,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-139" },
         { source: "Enime", video: "clfsa5owg0089pk7dejtflxr3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-139-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 139",
   },
-  140: {
+  "140": {
     dub: {
       sources: [
         {
@@ -4454,7 +5564,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7903/dragon-ball-dub-episode-140" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-140" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-140-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4469,13 +5583,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-140" },
         { source: "Enime", video: "clfsa5ow50088pk7dyz7bfto1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-140-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 140",
   },
-  141: {
+  "141": {
     dub: {
       sources: [
         {
@@ -4486,7 +5604,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7900/dragon-ball-dub-episode-141" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-141" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-141-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4501,13 +5623,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-141" },
         { source: "Enime", video: "clfsa5ovt0087pk7d8km77o3s" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-141-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 141",
   },
-  142: {
+  "142": {
     dub: {
       sources: [
         {
@@ -4518,7 +5644,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7897/dragon-ball-dub-episode-142" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-142" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-142-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1459,
     },
@@ -4533,13 +5663,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-142" },
         { source: "Enime", video: "clfsa5ovh0085pk7dj2wxxls8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-142-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 142",
   },
-  143: {
+  "143": {
     dub: {
       sources: [
         {
@@ -4550,7 +5684,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7894/dragon-ball-dub-episode-143" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-143" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-143-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4565,13 +5703,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-143" },
         { source: "Enime", video: "clfsa5ov80084pk7djmn9uwal" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-143-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 143",
   },
-  144: {
+  "144": {
     dub: {
       sources: [
         {
@@ -4582,7 +5724,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7890/dragon-ball-dub-episode-144" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-144" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-144-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.129,
     },
@@ -4597,13 +5743,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1Njk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-144" },
         { source: "Enime", video: "clfsa5ov00082pk7d6ksknn8h" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-144-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.677,
     },
     episodeInfo: "Dragon Ball Episode 144",
   },
-  145: {
+  "145": {
     dub: {
       sources: [
         {
@@ -4614,7 +5764,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7887/dragon-ball-dub-episode-145" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQzOTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-145" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-145-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458,
     },
@@ -4629,13 +5783,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-145" },
         { source: "Enime", video: "clfsa5our0080pk7da11f9ejj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-145-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458,
     },
     episodeInfo: "Dragon Ball Episode 145",
   },
-  146: {
+  "146": {
     dub: {
       sources: [
         {
@@ -4646,7 +5804,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7884/dragon-ball-dub-episode-146" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-146" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-146-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.793,
     },
@@ -4661,13 +5823,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1NzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-146" },
         { source: "Enime", video: "clfsa5ouj007ypk7dd9qqartm" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-146-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 146",
   },
-  147: {
+  "147": {
     dub: {
       sources: [
         {
@@ -4678,7 +5844,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7881/dragon-ball-dub-episode-147" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-147" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-147-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.793,
     },
@@ -4693,13 +5863,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1Nzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-147" },
         { source: "Enime", video: "clfsa5oua007xpk7donroqub4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-147-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
     episodeInfo: "Dragon Ball Episode 147",
   },
-  148: {
+  "148": {
     dub: {
       sources: [
         {
@@ -4710,7 +5884,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7878/dragon-ball-dub-episode-148" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-148" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-148-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.468,
     },
@@ -4725,13 +5903,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1ODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-148" },
         { source: "Enime", video: "clfsa5ou2007vpk7d2i1zc3kb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-148-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.422,
     },
     episodeInfo: "Dragon Ball Episode 148",
   },
-  149: {
+  "149": {
     dub: {
       sources: [
         {
@@ -4742,7 +5924,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7874/dragon-ball-dub-episode-149" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-149" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-149-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954296273642937323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1453,
     },
@@ -4757,13 +5943,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1ODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-149" },
         { source: "Enime", video: "clfsa5otv007tpk7dao2vgdcj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-149-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c65553335356954297573642937323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 149",
   },
-  150: {
+  "150": {
     dub: {
       sources: [
         {
@@ -4774,7 +5964,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7872/dragon-ball-dub-episode-150" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-150" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-150-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1452.175,
     },
@@ -4789,13 +5983,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1ODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-150" },
         { source: "Enime", video: "clfsa5otn007rpk7d141r2dsi" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-150-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1459,
     },
     episodeInfo: "Dragon Ball Episode 150",
   },
-  151: {
+  "151": {
     dub: {
       sources: [
         {
@@ -4806,7 +6004,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7869/dragon-ball-dub-episode-151" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-151" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-151-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },
@@ -4821,13 +6023,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1ODU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-151" },
         { source: "Enime", video: "clfsa5otf007qpk7dk7sq5igu" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-151-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
     episodeInfo: "Dragon Ball Episode 151",
   },
-  152: {
+  "152": {
     dub: {
       sources: [
         {
@@ -4838,7 +6044,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7866/dragon-ball-dub-episode-152" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-152" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-152-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.723,
     },
@@ -4853,13 +6063,17 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1ODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-152" },
         { source: "Enime", video: "clfsa5ot6007opk7dvvwcf4ca" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-152-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.631,
     },
     episodeInfo: "Dragon Ball Episode 152",
   },
-  153: {
+  "153": {
     dub: {
       sources: [
         {
@@ -4870,7 +6084,11 @@ const dragonBall: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/7863/dragon-ball-dub-episode-153" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ0MDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-dub-episode-153" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-153-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542962736429373335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1459,
     },
@@ -4885,7 +6103,11 @@ const dragonBall: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ1ODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-episode-153" },
         { source: "Enime", video: "clfsa5osr007mpk7d672vyi4y" },
-        { source: "AllAnime", video: "https://allanime.to/watch/quCdfW4DjcS533oR/dragon-ball/episode-153-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f62636975297f77734562605132426c655533353569542975736429373335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1458.77,
     },

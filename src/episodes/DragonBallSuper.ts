@@ -1,7 +1,9 @@
 import { series } from "../Types";
 
+// check 103
+
 const dragonBallSuper: series = {
-  1: {
+  "1": {
     dub: {
       sources: [
         {
@@ -13,7 +15,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66433/dragon-ball-super-dub-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-1-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177449,
     },
@@ -28,13 +34,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84025/dragon-ball-super-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjM0Nzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-1-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.19245,
     },
     episodeInfo: "Dragon Ball Super Episode 1",
   },
-  2: {
+  "2": {
     dub: {
       sources: [
         {
@@ -46,7 +56,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66431/dragon-ball-super-dub-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-2-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135731,
     },
@@ -61,13 +75,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84024/dragon-ball-super-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjM5MDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-2-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c297573642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109027,
     },
     episodeInfo: "Dragon Ball Super Episode 2",
   },
-  3: {
+  "3": {
     dub: {
       sources: [
         {
@@ -79,7 +97,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66428/dragon-ball-super-dub-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-3-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.094032,
     },
@@ -94,13 +116,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84023/dragon-ball-super-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjQ5OTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-3-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c297573642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109032,
     },
     episodeInfo: "Dragon Ball Super Episode 3",
   },
-  4: {
+  "4": {
     dub: {
       sources: [
         {
@@ -112,7 +138,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66426/dragon-ball-super-dub-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-4-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052329,
     },
@@ -127,13 +157,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84022/dragon-ball-super-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjU0MjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-4-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109035,
     },
     episodeInfo: "Dragon Ball Super Episode 4",
   },
-  5: {
+  "5": {
     dub: {
       sources: [
         {
@@ -145,7 +179,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66425/dragon-ball-super-dub-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-5-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.052314,
     },
@@ -160,13 +198,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84021/dragon-ball-super-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjY1OTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-5-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c297573642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109027,
     },
     episodeInfo: "Dragon Ball Super Episode 5",
   },
-  6: {
+  "6": {
     dub: {
       sources: [
         {
@@ -178,7 +220,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66424/dragon-ball-super-dub-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-6-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135716,
     },
@@ -193,13 +239,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84020/dragon-ball-super-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjY4MTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-6-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150731,
     },
     episodeInfo: "Dragon Ball Super Episode 6",
   },
-  7: {
+  "7": {
     dub: {
       sources: [
         {
@@ -211,7 +261,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66422/dragon-ball-super-dub-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-7-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135741,
     },
@@ -226,13 +280,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84019/dragon-ball-super-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjcxNjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-7-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150721,
     },
     episodeInfo: "Dragon Ball Super Episode 7",
   },
-  8: {
+  "8": {
     dub: {
       sources: [
         {
@@ -244,7 +302,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66421/dragon-ball-super-dub-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-8-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.17744,
     },
@@ -259,13 +321,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84018/dragon-ball-super-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njc1OTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-8-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192439,
     },
     episodeInfo: "Dragon Ball Super Episode 8",
   },
-  9: {
+  "9": {
     dub: {
       sources: [
         {
@@ -277,7 +343,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66420/dragon-ball-super-dub-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-9-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177451,
     },
@@ -292,13 +362,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84017/dragon-ball-super-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg0NzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-9-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192438,
     },
     episodeInfo: "Dragon Ball Super Episode 9",
   },
-  10: {
+  "10": {
     dub: {
       sources: [
         {
@@ -310,7 +384,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66419/dragon-ball-super-dub-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-10-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1358.273559,
     },
@@ -325,13 +403,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84016/dragon-ball-super-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg1OTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-10-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192438,
     },
     episodeInfo: "Dragon Ball Super Episode 10",
   },
-  11: {
+  "11": {
     dub: {
       sources: [
         {
@@ -343,7 +425,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66416/dragon-ball-super-dub-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-11-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177439,
     },
@@ -358,13 +444,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84015/dragon-ball-super-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg5Mzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-11-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192443,
     },
     episodeInfo: "Dragon Ball Super Episode 11",
   },
-  12: {
+  "12": {
     dub: {
       sources: [
         {
@@ -376,7 +466,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66413/dragon-ball-super-dub-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc1NDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-12-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429373459323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.135749,
     },
@@ -391,13 +485,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84014/dragon-ball-super-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkwMTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-12-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.15073,
     },
     episodeInfo: "Dragon Ball Super Episode 12",
   },
-  13: {
+  "13": {
     dub: {
       sources: [
         {
@@ -409,7 +507,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66411/dragon-ball-super-dub-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3ODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-13-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429373559323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.135735,
     },
@@ -424,13 +526,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84013/dragon-ball-super-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkwNTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-13-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192431,
     },
     episodeInfo: "Dragon Ball Super Episode 13",
   },
-  14: {
+  "14": {
     dub: {
       sources: [
         {
@@ -442,7 +548,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66409/dragon-ball-super-dub-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc4MDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-14-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135732,
     },
@@ -457,13 +567,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84012/dragon-ball-super-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkxNTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-14-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.19244,
     },
     episodeInfo: "Dragon Ball Super Episode 14",
   },
-  15: {
+  "15": {
     dub: {
       sources: [
         {
@@ -475,7 +589,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66408/dragon-ball-super-dub-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc4Nzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-15-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429373359323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.177448,
     },
@@ -490,13 +608,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84011/dragon-ball-super-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkyODE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-15-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192443,
     },
     episodeInfo: "Dragon Ball Super Episode 15",
   },
-  16: {
+  "16": {
     dub: {
       sources: [
         {
@@ -508,7 +630,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66406/dragon-ball-super-dub-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc5NzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-16-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429373059323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.177441,
     },
@@ -523,13 +649,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84010/dragon-ball-super-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkzNTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-16-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.19244,
     },
     episodeInfo: "Dragon Ball Super Episode 16",
   },
-  17: {
+  "17": {
     dub: {
       sources: [
         {
@@ -541,7 +671,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66404/dragon-ball-super-dub-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgxOTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-17-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429373159323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.17744,
     },
@@ -556,13 +690,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84009/dragon-ball-super-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk0NDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-17-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192443,
     },
     episodeInfo: "Dragon Ball Super Episode 17",
   },
-  18: {
+  "18": {
     dub: {
       sources: [
         {
@@ -574,7 +712,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66402/dragon-ball-super-dub-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgxOTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-18-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429373e59323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.135739,
     },
@@ -589,13 +731,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84008/dragon-ball-super-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk1Mzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-18-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192432,
     },
     episodeInfo: "Dragon Ball Super Episode 18",
   },
-  19: {
+  "19": {
     dub: {
       sources: [
         {
@@ -607,7 +753,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66400/dragon-ball-super-dub-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg1MjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-19-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429373f59323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.177434,
     },
@@ -622,13 +772,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84007/dragon-ball-super-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk2MTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-19-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192439,
     },
     episodeInfo: "Dragon Ball Super Episode 19",
   },
-  20: {
+  "20": {
     dub: {
       sources: [
         {
@@ -640,7 +794,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66398/dragon-ball-super-dub-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4MzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-20-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145476,
     },
@@ -655,13 +813,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84006/dragon-ball-super-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk2OTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-20-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192451,
     },
     episodeInfo: "Dragon Ball Super Episode 20",
   },
-  21: {
+  "21": {
     dub: {
       sources: [
         {
@@ -673,7 +835,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66396/dragon-ball-super-dub-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4MzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-21-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145472,
     },
@@ -688,13 +854,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84005/dragon-ball-super-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk3ODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-21-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192441,
     },
     episodeInfo: "Dragon Ball Super Episode 21",
   },
-  22: {
+  "22": {
     dub: {
       sources: [
         {
@@ -706,7 +876,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66394/dragon-ball-super-dub-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4Mzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-22-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429343459323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1355.145474,
     },
@@ -721,13 +895,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84004/dragon-ball-super-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk5ODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-22-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192447,
     },
     episodeInfo: "Dragon Ball Super Episode 22",
   },
-  23: {
+  "23": {
     dub: {
       sources: [
         {
@@ -739,7 +917,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66392/dragon-ball-super-dub-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkxODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-23-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145476,
     },
@@ -754,13 +936,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84003/dragon-ball-super-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAwNjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-23-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192447,
     },
     episodeInfo: "Dragon Ball Super Episode 23",
   },
-  24: {
+  "24": {
     dub: {
       sources: [
         {
@@ -772,7 +958,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66390/dragon-ball-super-dub-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk2MDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-24-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429343259323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1387.177441,
     },
@@ -787,13 +977,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84002/dragon-ball-super-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAxNDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-24-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150737,
     },
     episodeInfo: "Dragon Ball Super Episode 24",
   },
-  25: {
+  "25": {
     dub: {
       sources: [
         {
@@ -805,7 +999,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66388/dragon-ball-super-dub-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-25-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145446,
     },
@@ -820,13 +1018,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84001/dragon-ball-super-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAyMTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-25-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192453,
     },
     episodeInfo: "Dragon Ball Super Episode 25",
   },
-  26: {
+  "26": {
     dub: {
       sources: [
         {
@@ -838,7 +1040,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66386/dragon-ball-super-dub-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-26-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103766,
     },
@@ -853,13 +1059,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/84000/dragon-ball-super-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAyNTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-26-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150731,
     },
     episodeInfo: "Dragon Ball Super Episode 26",
   },
-  27: {
+  "27": {
     dub: {
       sources: [
         {
@@ -871,7 +1081,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66384/dragon-ball-super-dub-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-27-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145471,
     },
@@ -886,13 +1100,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83999/dragon-ball-super-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAzODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-27-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192435,
     },
     episodeInfo: "Dragon Ball Super Episode 27",
   },
-  28: {
+  "28": {
     dub: {
       sources: [
         {
@@ -904,7 +1122,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66382/dragon-ball-super-dub-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-28-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145448,
     },
@@ -919,13 +1141,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83998/dragon-ball-super-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA0NjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-28-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192434,
     },
     episodeInfo: "Dragon Ball Super Episode 28",
   },
-  29: {
+  "29": {
     dub: {
       sources: [
         {
@@ -937,7 +1163,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66380/dragon-ball-super-dub-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNTIy" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-29-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1360.150478,
     },
@@ -952,13 +1182,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83997/dragon-ball-super-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA1NDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-29-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192444,
     },
     episodeInfo: "Dragon Ball Super Episode 29",
   },
-  30: {
+  "30": {
     dub: {
       sources: [
         {
@@ -970,7 +1204,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66378/dragon-ball-super-dub-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNTIz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-30-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429353659323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1360.150476,
     },
@@ -985,13 +1223,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83996/dragon-ball-super-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA2MjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-30-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192441,
     },
     episodeInfo: "Dragon Ball Super Episode 30",
   },
-  31: {
+  "31": {
     dub: {
       sources: [
         {
@@ -1003,7 +1245,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66376/dragon-ball-super-dub-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDE0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-31-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1360.15048,
     },
@@ -1018,13 +1264,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83995/dragon-ball-super-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA3MDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-31-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192433,
     },
     episodeInfo: "Dragon Ball Super Episode 31",
   },
-  32: {
+  "32": {
     dub: {
       sources: [
         {
@@ -1036,7 +1286,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66374/dragon-ball-super-dub-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDE1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-32-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1360.150466,
     },
@@ -1051,13 +1305,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83994/dragon-ball-super-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA3NzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-32-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192441,
     },
     episodeInfo: "Dragon Ball Super Episode 32",
   },
-  33: {
+  "33": {
     dub: {
       sources: [
         {
@@ -1069,7 +1327,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66372/dragon-ball-super-dub-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDkz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-33-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1360.150467,
     },
@@ -1084,13 +1346,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83993/dragon-ball-super-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA4Nzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-33-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.19244,
     },
     episodeInfo: "Dragon Ball Super Episode 33",
   },
-  34: {
+  "34": {
     dub: {
       sources: [
         {
@@ -1102,7 +1368,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66370/dragon-ball-super-dub-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMjEz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-34-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429353259323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1360.150469,
     },
@@ -1117,13 +1387,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83992/dragon-ball-super-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA5NjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-34-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150734,
     },
     episodeInfo: "Dragon Ball Super Episode 34",
   },
-  35: {
+  "35": {
     dub: {
       sources: [
         {
@@ -1135,7 +1409,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66368/dragon-ball-super-dub-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMjE0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-35-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429353359323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1359.733404,
     },
@@ -1150,13 +1428,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83991/dragon-ball-super-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEwODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-35-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150723,
     },
     episodeInfo: "Dragon Ball Super Episode 35",
   },
-  36: {
+  "36": {
     dub: {
       sources: [
         {
@@ -1168,7 +1450,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66366/dragon-ball-super-dub-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMzc2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-36-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1359.733402,
     },
@@ -1183,13 +1469,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83990/dragon-ball-super-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEyMzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-36-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1405.23716,
     },
     episodeInfo: "Dragon Ball Super Episode 36",
   },
-  37: {
+  "37": {
     dub: {
       sources: [
         {
@@ -1201,7 +1491,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66364/dragon-ball-super-dub-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNjgw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-37-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103754,
     },
@@ -1216,13 +1510,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83989/dragon-ball-super-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEyODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-37-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150743,
     },
     episodeInfo: "Dragon Ball Super Episode 37",
   },
-  38: {
+  "38": {
     dub: {
       sources: [
         {
@@ -1234,7 +1532,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66362/dragon-ball-super-dub-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNjgx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-38-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.14547,
     },
@@ -1249,13 +1551,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83988/dragon-ball-super-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEzNTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-38-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192442,
     },
     episodeInfo: "Dragon Ball Super Episode 38",
   },
-  39: {
+  "39": {
     dub: {
       sources: [
         {
@@ -1267,7 +1573,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66360/dragon-ball-super-dub-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMDkw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-39-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1357.814811,
     },
@@ -1282,13 +1592,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83987/dragon-ball-super-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE0NDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-39-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150737,
     },
     episodeInfo: "Dragon Ball Super Episode 39",
   },
-  40: {
+  "40": {
     dub: {
       sources: [
         {
@@ -1300,7 +1614,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66358/dragon-ball-super-dub-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMjM1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-40-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429323659323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1361.943917,
     },
@@ -1315,13 +1633,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83986/dragon-ball-super-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE1MTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-40-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192439,
     },
     episodeInfo: "Dragon Ball Super Episode 40",
   },
-  41: {
+  "41": {
     dub: {
       sources: [
         {
@@ -1333,7 +1655,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66356/dragon-ball-super-dub-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyNDUx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-41-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429323759323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1361.902225,
     },
@@ -1348,13 +1674,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83985/dragon-ball-super-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE1OTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-41-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150722,
     },
     episodeInfo: "Dragon Ball Super Episode 41",
   },
-  42: {
+  "42": {
     dub: {
       sources: [
         {
@@ -1366,7 +1696,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66354/dragon-ball-super-dub-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyODAw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-42-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1361.902239,
     },
@@ -1381,13 +1715,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83984/dragon-ball-super-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE2Nzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-42-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192441,
     },
     episodeInfo: "Dragon Ball Super Episode 42",
   },
-  43: {
+  "43": {
     dub: {
       sources: [
         {
@@ -1399,7 +1737,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66352/dragon-ball-super-dub-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMDky" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-43-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1361.9022,
     },
@@ -1414,13 +1756,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83983/dragon-ball-super-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE3NjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-43-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192433,
     },
     episodeInfo: "Dragon Ball Super Episode 43",
   },
-  44: {
+  "44": {
     dub: {
       sources: [
         {
@@ -1432,7 +1778,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66350/dragon-ball-super-dub-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMDkz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-44-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1361.902232,
     },
@@ -1447,13 +1797,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83982/dragon-ball-super-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE4NDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-44-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150731,
     },
     episodeInfo: "Dragon Ball Super Episode 44",
   },
-  45: {
+  "45": {
     dub: {
       sources: [
         {
@@ -1465,7 +1819,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66348/dragon-ball-super-dub-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMzMw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-45-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429323359323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1361.902202,
     },
@@ -1480,13 +1838,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83981/dragon-ball-super-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE5MjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-45-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.15073,
     },
     episodeInfo: "Dragon Ball Super Episode 45",
   },
-  46: {
+  "46": {
     dub: {
       sources: [
         {
@@ -1498,7 +1860,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66346/dragon-ball-super-dub-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNDkz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-46-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1361.902235,
     },
@@ -1513,13 +1879,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83980/dragon-ball-super-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIwMDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-46-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192445,
     },
     episodeInfo: "Dragon Ball Super Episode 46",
   },
-  47: {
+  "47": {
     dub: {
       sources: [
         {
@@ -1531,7 +1901,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66344/dragon-ball-super-dub-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNDk0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-47-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429323159323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.321282,
     },
@@ -1546,13 +1920,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83979/dragon-ball-super-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIxMTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-47-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192432,
     },
     episodeInfo: "Dragon Ball Super Episode 47",
   },
-  48: {
+  "48": {
     dub: {
       sources: [
         {
@@ -1564,7 +1942,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66342/dragon-ball-super-dub-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNzgw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-48-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429323e59323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.321294,
     },
@@ -1579,13 +1961,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83978/dragon-ball-super-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIyNTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-48-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192445,
     },
     episodeInfo: "Dragon Ball Super Episode 48",
   },
-  49: {
+  "49": {
     dub: {
       sources: [
         {
@@ -1597,7 +1983,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66340/dragon-ball-super-dub-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNzgx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-49-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429323f59323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.321301,
     },
@@ -1612,13 +2002,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83977/dragon-ball-super-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIzNTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-49-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.19245,
     },
     episodeInfo: "Dragon Ball Super Episode 49",
   },
-  50: {
+  "50": {
     dub: {
       sources: [
         {
@@ -1630,7 +2024,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66338/dragon-ball-super-dub-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzOTgw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-50-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429333659323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.321299,
     },
@@ -1645,13 +2043,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83976/dragon-ball-super-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI0MTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-50-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150727,
     },
     episodeInfo: "Dragon Ball Super Episode 50",
   },
-  51: {
+  "51": {
     dub: {
       sources: [
         {
@@ -1663,7 +2065,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66336/dragon-ball-super-dub-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzE5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-51-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.321301,
     },
@@ -1678,13 +2084,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83975/dragon-ball-super-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI1ODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-51-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150733,
     },
     episodeInfo: "Dragon Ball Super Episode 51",
   },
-  52: {
+  "52": {
     dub: {
       sources: [
         {
@@ -1696,7 +2106,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66334/dragon-ball-super-dub-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzIw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-52-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.279586,
     },
@@ -1711,13 +2125,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83974/dragon-ball-super-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI2NzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-52-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192454,
     },
     episodeInfo: "Dragon Ball Super Episode 52",
   },
-  53: {
+  "53": {
     dub: {
       sources: [
         {
@@ -1729,7 +2147,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66332/dragon-ball-super-dub-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzIx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-53-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.279603,
     },
@@ -1744,13 +2166,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83973/dragon-ball-super-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzMwOTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-53-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192448,
     },
     episodeInfo: "Dragon Ball Super Episode 53",
   },
-  54: {
+  "54": {
     dub: {
       sources: [
         {
@@ -1762,7 +2188,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66330/dragon-ball-super-dub-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzM0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-54-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429333259323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.27961,
     },
@@ -1777,13 +2207,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83972/dragon-ball-super-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzM2OTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-54-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192446,
     },
     episodeInfo: "Dragon Ball Super Episode 54",
   },
-  55: {
+  "55": {
     dub: {
       sources: [
         {
@@ -1795,7 +2229,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66328/dragon-ball-super-dub-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NjI1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-55-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429333359323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.279614,
     },
@@ -1810,13 +2248,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83971/dragon-ball-super-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzM5MzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-55-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1404.694948,
     },
     episodeInfo: "Dragon Ball Super Episode 55",
   },
-  56: {
+  "56": {
     dub: {
       sources: [
         {
@@ -1828,7 +2270,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66326/dragon-ball-super-dub-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NjI2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-56-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429333059323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.279608,
     },
@@ -1843,13 +2289,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83970/dragon-ball-super-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ3MTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-56-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109024,
     },
     episodeInfo: "Dragon Ball Super Episode 56",
   },
-  57: {
+  "57": {
     dub: {
       sources: [
         {
@@ -1861,7 +2311,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66324/dragon-ball-super-dub-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NzQx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-57-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.279617,
     },
@@ -1876,13 +2330,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83969/dragon-ball-super-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ5MDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-57-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150735,
     },
     episodeInfo: "Dragon Ball Super Episode 57",
   },
-  58: {
+  "58": {
     dub: {
       sources: [
         {
@@ -1894,7 +2352,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66322/dragon-ball-super-dub-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1MDEx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-58-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429333e59323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.279603,
     },
@@ -1909,13 +2371,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83968/dragon-ball-super-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzU0NDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-58-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150742,
     },
     episodeInfo: "Dragon Ball Super Episode 58",
   },
-  59: {
+  "59": {
     dub: {
       sources: [
         {
@@ -1927,7 +2393,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66320/dragon-ball-super-dub-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1MDM3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-59-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.2796,
     },
@@ -1942,13 +2412,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83967/dragon-ball-super-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzU5ODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-59-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192446,
     },
     episodeInfo: "Dragon Ball Super Episode 59",
   },
-  60: {
+  "60": {
     dub: {
       sources: [
         {
@@ -1960,7 +2434,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66317/dragon-ball-super-dub-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1MTg1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-60-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.2796,
     },
@@ -1975,13 +2453,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83966/dragon-ball-super-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY1NjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-60-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150731,
     },
     episodeInfo: "Dragon Ball Super Episode 60",
   },
-  61: {
+  "61": {
     dub: {
       sources: [
         {
@@ -1993,7 +2475,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66316/dragon-ball-super-dub-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1NDU4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-61-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.279574,
     },
@@ -2008,13 +2494,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83965/dragon-ball-super-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Nzc2NDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-61-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1403.93331,
     },
     episodeInfo: "Dragon Ball Super Episode 61",
   },
-  62: {
+  "62": {
     dub: {
       sources: [
         {
@@ -2026,7 +2516,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66315/dragon-ball-super-dub-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1NDU5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-62-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.279608,
     },
@@ -2041,13 +2535,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83964/dragon-ball-super-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzgzNDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-62-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192458,
     },
     episodeInfo: "Dragon Ball Super Episode 62",
   },
-  63: {
+  "63": {
     dub: {
       sources: [
         {
@@ -2059,7 +2557,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66314/dragon-ball-super-dub-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1NTgy" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-63-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.279609,
     },
@@ -2074,13 +2576,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83963/dragon-ball-super-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzkyMjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-63-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.317565,
     },
     episodeInfo: "Dragon Ball Super Episode 63",
   },
-  64: {
+  "64": {
     dub: {
       sources: [
         {
@@ -2092,7 +2598,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66313/dragon-ball-super-dub-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1Njc5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-64-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1364.279572,
     },
@@ -2107,13 +2617,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83962/dragon-ball-super-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODA3Nzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-64-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150723,
     },
     episodeInfo: "Dragon Ball Super Episode 64",
   },
-  65: {
+  "65": {
     dub: {
       sources: [
         {
@@ -2125,7 +2639,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66312/dragon-ball-super-dub-episode-065" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1OTI4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-65" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-65-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c2962736429303359323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1364.279606,
     },
@@ -2140,13 +2658,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83961/dragon-ball-super-episode-065" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODI4Nzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-65" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-65-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293033242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.19244,
     },
     episodeInfo: "Dragon Ball Super Episode 65",
   },
-  66: {
+  "66": {
     dub: {
       sources: [
         {
@@ -2158,7 +2680,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66311/dragon-ball-super-dub-episode-066" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MDA5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-66-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103741,
     },
@@ -2173,13 +2699,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83960/dragon-ball-super-episode-066" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODQ1Mzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-66" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-66-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293030242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.359278,
     },
     episodeInfo: "Dragon Ball Super Episode 66",
   },
-  67: {
+  "67": {
     dub: {
       sources: [
         {
@@ -2191,7 +2721,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66310/dragon-ball-super-dub-episode-067" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MzQ5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-67" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-67-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103771,
     },
@@ -2206,13 +2740,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83959/dragon-ball-super-episode-067" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODY0Nzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-67" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-67-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293031242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1408.156778,
     },
     episodeInfo: "Dragon Ball Super Episode 67",
   },
-  68: {
+  "68": {
     dub: {
       sources: [
         {
@@ -2224,7 +2762,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66309/dragon-ball-super-dub-episode-068" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MzUw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-68" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-68-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.187202,
     },
@@ -2239,13 +2781,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83958/dragon-ball-super-episode-068" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODY0ODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-68" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-68-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429303e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.442735,
     },
     episodeInfo: "Dragon Ball Super Episode 68",
   },
-  69: {
+  "69": {
     dub: {
       sources: [
         {
@@ -2257,7 +2803,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66308/dragon-ball-super-dub-episode-069" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MzUx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-69" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-69-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.14547,
     },
@@ -2272,13 +2822,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83957/dragon-ball-super-episode-069" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODc3MjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-69" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-69-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429303f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192435,
     },
     episodeInfo: "Dragon Ball Super Episode 69",
   },
-  70: {
+  "70": {
     dub: {
       sources: [
         {
@@ -2290,7 +2844,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66307/dragon-ball-super-dub-episode-070" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2NDc5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-70" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-70-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293136242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.10377,
     },
@@ -2305,13 +2863,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83956/dragon-ball-super-episode-070" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODg2MTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-70" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-70-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293136242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.359328,
     },
     episodeInfo: "Dragon Ball Super Episode 70",
   },
-  71: {
+  "71": {
     dub: {
       sources: [
         {
@@ -2323,7 +2885,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66306/dragon-ball-super-dub-episode-071" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2NTQ4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-71" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-71-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293137242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177446,
     },
@@ -2338,13 +2904,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83955/dragon-ball-super-episode-071" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTA4ODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-71" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-71-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293137242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192475,
     },
     episodeInfo: "Dragon Ball Super Episode 71",
   },
-  72: {
+  "72": {
     dub: {
       sources: [
         {
@@ -2356,7 +2926,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66305/dragon-ball-super-dub-episode-072" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2Njk5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-72" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-72-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293134242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145475,
     },
@@ -2371,13 +2945,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83954/dragon-ball-super-episode-072" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTE0Mjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-72" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-72-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293134242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.317606,
     },
     episodeInfo: "Dragon Ball Super Episode 72",
   },
-  73: {
+  "73": {
     dub: {
       sources: [
         {
@@ -2389,7 +2967,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66304/dragon-ball-super-dub-episode-073" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2ODIx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-73" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-73-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293135242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145479,
     },
@@ -2404,13 +2986,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83953/dragon-ball-super-episode-073" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTM1NTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-73" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-73-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293135242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192475,
     },
     episodeInfo: "Dragon Ball Super Episode 73",
   },
-  74: {
+  "74": {
     dub: {
       sources: [
         {
@@ -2422,7 +3008,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66303/dragon-ball-super-dub-episode-074" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjI0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-74" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-74-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293132242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145482,
     },
@@ -2437,13 +3027,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83952/dragon-ball-super-episode-074" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTQ4MjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-74" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-74-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293132242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192476,
     },
     episodeInfo: "Dragon Ball Super Episode 74",
   },
-  75: {
+  "75": {
     dub: {
       sources: [
         {
@@ -2455,7 +3049,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66302/dragon-ball-super-dub-episode-075" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA4MzIw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-75" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-75-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293133242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1386.176467,
     },
@@ -2470,13 +3068,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83951/dragon-ball-super-episode-075" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTUzNzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-75" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-75-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293133242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192483,
     },
     episodeInfo: "Dragon Ball Super Episode 75",
   },
-  76: {
+  "76": {
     dub: {
       sources: [
         {
@@ -2488,7 +3090,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66301/dragon-ball-super-dub-episode-076" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA4OTAy" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-76" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-76-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293130242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145468,
     },
@@ -2503,13 +3109,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83950/dragon-ball-super-episode-076" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTU0Nzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-76" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-76-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293130242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192476,
     },
     episodeInfo: "Dragon Ball Super Episode 76",
   },
-  77: {
+  "77": {
     dub: {
       sources: [
         {
@@ -2521,7 +3131,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66300/dragon-ball-super-dub-episode-077" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA5NjE0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-77" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-77-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293131242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1354.93692,
     },
@@ -2536,13 +3150,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83949/dragon-ball-super-episode-077" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTU2MzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-77" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-77-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293131242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.234189,
     },
     episodeInfo: "Dragon Ball Super Episode 77",
   },
-  78: {
+  "78": {
     dub: {
       sources: [
         {
@@ -2554,7 +3172,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66299/dragon-ball-super-dub-episode-078" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMTQz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-78" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-78-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429313e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1354.978639,
     },
@@ -2569,13 +3191,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83948/dragon-ball-super-episode-078" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTYwNDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-78" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-78-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429313e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.19247,
     },
     episodeInfo: "Dragon Ball Super Episode 78",
   },
-  79: {
+  "79": {
     dub: {
       sources: [
         {
@@ -2587,7 +3213,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66298/dragon-ball-super-dub-episode-079" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMTQ0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-79" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-79-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429313f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1358.106766,
     },
@@ -2602,13 +3232,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83947/dragon-ball-super-episode-079" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY0ODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-79" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-79-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429313f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.234191,
     },
     episodeInfo: "Dragon Ball Super Episode 79",
   },
-  80: {
+  "80": {
     dub: {
       sources: [
         {
@@ -2620,7 +3254,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66297/dragon-ball-super-dub-episode-080" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMjQz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-80" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-80-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1354.978614,
     },
@@ -2635,13 +3273,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83946/dragon-ball-super-episode-080" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY2NDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-80" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-80-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.176224,
     },
     episodeInfo: "Dragon Ball Super Episode 80",
   },
-  81: {
+  "81": {
     dub: {
       sources: [
         {
@@ -2653,7 +3295,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66296/dragon-ball-super-dub-episode-081" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMzQ4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-81" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-81-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1354.978641,
     },
@@ -2668,13 +3314,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83945/dragon-ball-super-episode-081" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY4NzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-81" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-81-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.234152,
     },
     episodeInfo: "Dragon Ball Super Episode 81",
   },
-  82: {
+  "82": {
     dub: {
       sources: [
         {
@@ -2686,7 +3336,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66295/dragon-ball-super-dub-episode-082" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwNDcw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-82" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-82-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1354.936936,
     },
@@ -2701,13 +3355,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83944/dragon-ball-super-episode-082" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczMDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-82" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-82-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192461,
     },
     episodeInfo: "Dragon Ball Super Episode 82",
   },
-  83: {
+  "83": {
     dub: {
       sources: [
         {
@@ -2719,7 +3377,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66294/dragon-ball-super-dub-episode-083" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwNTg3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-83" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-83-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1354.97865,
     },
@@ -2734,13 +3396,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83943/dragon-ball-super-episode-083" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc0ODE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-83" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-83-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.275877,
     },
     episodeInfo: "Dragon Ball Super Episode 83",
   },
-  84: {
+  "84": {
     dub: {
       sources: [
         {
@@ -2752,7 +3418,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66292/dragon-ball-super-dub-episode-084" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwNjk3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-84" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-84-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145466,
     },
@@ -2767,13 +3437,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83942/dragon-ball-super-episode-084" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc1OTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-84" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-84-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.275869,
     },
     episodeInfo: "Dragon Ball Super Episode 84",
   },
-  85: {
+  "85": {
     dub: {
       sources: [
         {
@@ -2785,7 +3459,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66291/dragon-ball-super-dub-episode-085" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwODQ0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-85" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-85-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145477,
     },
@@ -2800,13 +3478,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83941/dragon-ball-super-episode-085" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc2ODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-85" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-85-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1401.817107,
     },
     episodeInfo: "Dragon Ball Super Episode 85",
   },
-  86: {
+  "86": {
     dub: {
       sources: [
         {
@@ -2818,7 +3500,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66290/dragon-ball-super-dub-episode-086" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwOTY2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-86" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-86-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103771,
     },
@@ -2833,13 +3519,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83940/dragon-ball-super-episode-086" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3ODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-86" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-86-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109068,
     },
     episodeInfo: "Dragon Ball Super Episode 86",
   },
-  87: {
+  "87": {
     dub: {
       sources: [
         {
@@ -2851,7 +3541,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66288/dragon-ball-super-dub-episode-087" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExMDg5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-87" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-87-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145477,
     },
@@ -2866,13 +3560,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83939/dragon-ball-super-episode-087" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc4NzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-87" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-87-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150775,
     },
     episodeInfo: "Dragon Ball Super Episode 87",
   },
-  88: {
+  "88": {
     dub: {
       sources: [
         {
@@ -2884,7 +3582,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66287/dragon-ball-super-dub-episode-088" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExMzAz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-88" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-88-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.14547,
     },
@@ -2899,13 +3601,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83938/dragon-ball-super-episode-088" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc5NjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-88" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-88-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.192465,
     },
     episodeInfo: "Dragon Ball Super Episode 88",
   },
-  89: {
+  "89": {
     dub: {
       sources: [
         {
@@ -2917,7 +3623,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66286/dragon-ball-super-dub-episode-089" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExNDA3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-89" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-89-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293e3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145472,
     },
@@ -2932,13 +3642,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83937/dragon-ball-super-episode-089" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgwNjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-89" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-89-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293e3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150774,
     },
     episodeInfo: "Dragon Ball Super Episode 89",
   },
-  90: {
+  "90": {
     dub: {
       sources: [
         {
@@ -2950,7 +3664,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66284/dragon-ball-super-dub-episode-090" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExNTE0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-90" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-90-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145476,
     },
@@ -2965,13 +3683,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83936/dragon-ball-super-episode-090" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgxNTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-90" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-90-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f36242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.275895,
     },
     episodeInfo: "Dragon Ball Super Episode 90",
   },
-  91: {
+  "91": {
     dub: {
       sources: [
         {
@@ -2983,7 +3705,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66283/dragon-ball-super-dub-episode-091" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExNjc0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-91" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-91-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145461,
     },
@@ -2998,13 +3724,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83935/dragon-ball-super-episode-091" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgyNzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-91" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-91-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f37242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150785,
     },
     episodeInfo: "Dragon Ball Super Episode 91",
   },
-  92: {
+  "92": {
     dub: {
       sources: [
         {
@@ -3016,7 +3746,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66282/dragon-ball-super-dub-episode-092" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMjg5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-92" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-92-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1386.134774,
     },
@@ -3031,13 +3765,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83934/dragon-ball-super-episode-092" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg0MzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-92" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-92-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f34242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109066,
     },
     episodeInfo: "Dragon Ball Super Episode 92",
   },
-  93: {
+  "93": {
     dub: {
       sources: [
         {
@@ -3049,7 +3787,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66280/dragon-ball-super-dub-episode-093" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyNDg0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-93" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-93-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.062063,
     },
@@ -3064,13 +3806,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83933/dragon-ball-super-episode-093" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg1MjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-93" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-93-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f35242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1401.900524,
     },
     episodeInfo: "Dragon Ball Super Episode 93",
   },
-  94: {
+  "94": {
     dub: {
       sources: [
         {
@@ -3082,7 +3828,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66279/dragon-ball-super-dub-episode-094" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyNjQ4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-94" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-94-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145474,
     },
@@ -3097,13 +3847,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83932/dragon-ball-super-episode-094" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg2MDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-94" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-94-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f32242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1401.900544,
     },
     episodeInfo: "Dragon Ball Super Episode 94",
   },
-  95: {
+  "95": {
     dub: {
       sources: [
         {
@@ -3115,7 +3869,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66278/dragon-ball-super-dub-episode-095" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyOTAz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-95" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-95-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103772,
     },
@@ -3130,13 +3888,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83931/dragon-ball-super-episode-095" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4Mjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-95" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-95-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f33242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109069,
     },
     episodeInfo: "Dragon Ball Super Episode 95",
   },
-  96: {
+  "96": {
     dub: {
       sources: [
         {
@@ -3148,7 +3910,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66277/dragon-ball-super-dub-episode-096" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzMjA5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-96" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-96-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.14547,
     },
@@ -3163,13 +3929,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83930/dragon-ball-super-episode-096" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkwNDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-96" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-96-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f30242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.15077,
     },
     episodeInfo: "Dragon Ball Super Episode 96",
   },
-  97: {
+  "97": {
     dub: {
       sources: [
         {
@@ -3181,7 +3951,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66275/dragon-ball-super-dub-episode-097" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNjg3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-97" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-97-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.10377,
     },
@@ -3196,13 +3970,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83929/dragon-ball-super-episode-097" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkxNzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-97" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-97-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f31242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.275866,
     },
     episodeInfo: "Dragon Ball Super Episode 97",
   },
-  98: {
+  "98": {
     dub: {
       sources: [
         {
@@ -3214,7 +3992,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66272/dragon-ball-super-dub-episode-098" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNjg4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-98" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-98-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103762,
     },
@@ -3229,13 +4011,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83928/dragon-ball-super-episode-098" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkzNzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-98" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-98-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f3e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1401.56685,
     },
     episodeInfo: "Dragon Ball Super Episode 98",
   },
-  99: {
+  "99": {
     dub: {
       sources: [
         {
@@ -3247,7 +4033,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66270/dragon-ball-super-dub-episode-099" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MDk4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-99" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-99-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c29627364293f3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.10376,
     },
@@ -3262,13 +4052,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83927/dragon-ball-super-episode-099" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk0ODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-99" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-99-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c29757364293f3f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1401.691977,
     },
     episodeInfo: "Dragon Ball Super Episode 99",
   },
-  100: {
+  "100": {
     dub: {
       sources: [
         {
@@ -3280,7 +4074,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66268/dragon-ball-super-dub-episode-100" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0NTI2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-100" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-100-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373636242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145467,
     },
@@ -3295,13 +4093,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83926/dragon-ball-super-episode-100" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk1OTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-100" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-100-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373636242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150776,
     },
     episodeInfo: "Dragon Ball Super Episode 100",
   },
-  101: {
+  "101": {
     dub: {
       sources: [
         {
@@ -3313,7 +4115,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66266/dragon-ball-super-dub-episode-101" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1MDgw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-101" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-101-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373637242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145466,
     },
@@ -3328,13 +4134,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83925/dragon-ball-super-episode-101" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk3NzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-101" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-101-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373637242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150773,
     },
     episodeInfo: "Dragon Ball Super Episode 101",
   },
-  102: {
+  "102": {
     dub: {
       sources: [
         {
@@ -3346,7 +4156,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66265/dragon-ball-super-dub-episode-102" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1Mzk2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-102" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-102-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373634242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145474,
     },
@@ -3361,13 +4175,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83924/dragon-ball-super-episode-102" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDQz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-102" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-102-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373634242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150787,
     },
     episodeInfo: "Dragon Ball Super Episode 102",
   },
-  103: {
+  "103": {
     dub: {
       sources: [
         {
@@ -3379,7 +4197,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66263/dragon-ball-super-dub-episode-103" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1ODE5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-103" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-103-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373635242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1334.733391,
     },
@@ -3394,13 +4216,13 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83923/dragon-ball-super-episode-103" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMTc5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-103" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-103-sub" },
+        // { source: "AllAnime", video: "error" },
       ],
       episodeLength: 1401.858798,
     },
     episodeInfo: "Dragon Ball Super Episode 103",
   },
-  104: {
+  "104": {
     dub: {
       sources: [
         {
@@ -3412,7 +4234,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66260/dragon-ball-super-dub-episode-104" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE2MTk0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-104" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-104-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c296273642937363259323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1355.145336,
     },
@@ -3427,13 +4253,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83922/dragon-ball-super-episode-104" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNDY4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-104" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-104-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f6729706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373632242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150792,
     },
     episodeInfo: "Dragon Ball Super Episode 104",
   },
-  105: {
+  "105": {
     dub: {
       sources: [
         {
@@ -3445,7 +4275,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66258/dragon-ball-super-dub-episode-105" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE2MzM2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-105" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-105-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373633242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.103759,
     },
@@ -3460,13 +4294,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83921/dragon-ball-super-episode-105" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNjA2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-105" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-105-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373633242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.109072,
     },
     episodeInfo: "Dragon Ball Super Episode 105",
   },
-  106: {
+  "106": {
     dub: {
       sources: [
         {
@@ -3478,7 +4316,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66256/dragon-ball-super-dub-episode-106" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE3NDg2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-106" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-106-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373630242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145469,
     },
@@ -3493,13 +4335,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83920/dragon-ball-super-episode-106" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNzIx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-106" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-106-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373630242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150774,
     },
     episodeInfo: "Dragon Ball Super Episode 106",
   },
-  107: {
+  "107": {
     dub: {
       sources: [
         {
@@ -3511,7 +4357,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66254/dragon-ball-super-dub-episode-107" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE4MzEw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-107" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-107-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373631242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.145477,
     },
@@ -3526,13 +4376,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83919/dragon-ball-super-episode-107" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwOTcx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-107" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-107-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373631242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150783,
     },
     episodeInfo: "Dragon Ball Super Episode 107",
   },
-  108: {
+  "108": {
     dub: {
       sources: [
         {
@@ -3544,7 +4398,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66252/dragon-ball-super-dub-episode-108" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE4Nzkz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-108" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-108-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296267726734296b63626f67353e362934727c737f7e6e5675414e7e424a633f7c296273642937363e59323e3676286b7632242a2475727463676b63744f62243c245f722b5542247b",
+        },
       ],
       episodeLength: 1355.145472,
     },
@@ -3559,13 +4417,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83918/dragon-ball-super-episode-108" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDgz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-108" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-108-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642937363e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1402.150778,
     },
     episodeInfo: "Dragon Ball Super Episode 108",
   },
-  109: {
+  "109": {
     dub: {
       sources: [
         {
@@ -3577,7 +4439,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66250/dragon-ball-super-dub-episode-109" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE5Mjg3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-109" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-109-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c296273642937363f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160473,
     },
@@ -3592,13 +4458,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83917/dragon-ball-super-episode-109" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMzQ3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-109" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-109-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642937363f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.260897,
     },
     episodeInfo: "Dragon Ball Super Episode 109",
   },
-  110: {
+  "110": {
     dub: {
       sources: [
         {
@@ -3610,7 +4480,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66248/dragon-ball-super-dub-episode-110" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE5ODM5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-110" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-110-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1340.088777,
     },
@@ -3625,13 +4499,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83916/dragon-ball-super-episode-110" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMzQ4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-110" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-110-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1444.651558,
     },
     episodeInfo: "Dragon Ball Super Episode 110",
   },
-  111: {
+  "111": {
     dub: {
       sources: [
         {
@@ -3643,7 +4521,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66246/dragon-ball-super-dub-episode-111" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIwNDQz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-111" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-111-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1355.687633,
     },
@@ -3658,13 +4540,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83915/dragon-ball-super-episode-111" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNDY5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-111" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-111-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.302572,
     },
     episodeInfo: "Dragon Ball Super Episode 111",
   },
-  112: {
+  "112": {
     dub: {
       sources: [
         {
@@ -3676,7 +4562,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66244/dragon-ball-super-dub-episode-112" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxMTAw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-112" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-112-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1340.088761,
     },
@@ -3691,13 +4581,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83914/dragon-ball-super-episode-112" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNjQ3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-112" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-112-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.135776,
     },
     episodeInfo: "Dragon Ball Super Episode 112",
   },
-  113: {
+  "113": {
     dub: {
       sources: [
         {
@@ -3709,7 +4603,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66242/dragon-ball-super-dub-episode-113" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzE3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-113" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-113-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.243888,
     },
@@ -3724,13 +4622,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83913/dragon-ball-super-episode-113" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxODEx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-113" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-113-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.249182,
     },
     episodeInfo: "Dragon Ball Super Episode 113",
   },
-  114: {
+  "114": {
     dub: {
       sources: [
         {
@@ -3742,7 +4644,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66240/dragon-ball-super-dub-episode-114" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIyMjE3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-114" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-114-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160459,
     },
@@ -3757,13 +4663,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83912/dragon-ball-super-episode-114" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMDgz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-114" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-114-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.207476,
     },
     episodeInfo: "Dragon Ball Super Episode 114",
   },
-  115: {
+  "115": {
     dub: {
       sources: [
         {
@@ -3775,7 +4685,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66238/dragon-ball-super-dub-episode-115" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIyNjQy" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-115" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-115-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160468,
     },
@@ -3790,13 +4704,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83911/dragon-ball-super-episode-115" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMjEz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-115" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-115-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290904,
     },
     episodeInfo: "Dragon Ball Super Episode 115",
   },
-  116: {
+  "116": {
     dub: {
       sources: [
         {
@@ -3808,7 +4726,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66236/dragon-ball-super-dub-episode-116" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIzMTI0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-116" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-116-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160473,
     },
@@ -3823,13 +4745,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83910/dragon-ball-super-episode-116" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMzM0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-116" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-116-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290894,
     },
     episodeInfo: "Dragon Ball Super Episode 116",
   },
-  117: {
+  "117": {
     dub: {
       sources: [
         {
@@ -3841,7 +4767,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66234/dragon-ball-super-dub-episode-117" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIzNzY2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-117" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-117-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1260.926334,
     },
@@ -3856,13 +4786,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83909/dragon-ball-super-episode-117" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyNDMx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-117" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-117-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.165768,
     },
     episodeInfo: "Dragon Ball Super Episode 117",
   },
-  118: {
+  "118": {
     dub: {
       sources: [
         {
@@ -3874,7 +4808,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66232/dragon-ball-super-dub-episode-118" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI0MDY4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-118" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-118-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c296273642937373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160476,
     },
@@ -3889,13 +4827,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83908/dragon-ball-super-episode-118" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyNzUx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-118" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-118-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642937373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.332601,
     },
     episodeInfo: "Dragon Ball Super Episode 118",
   },
-  119: {
+  "119": {
     dub: {
       sources: [
         {
@@ -3907,7 +4849,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66230/dragon-ball-super-dub-episode-119" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI0NTIw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-119" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-119-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c296273642937373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1304.903597,
     },
@@ -3922,13 +4868,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83907/dragon-ball-super-episode-119" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyODQy" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-119" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-119-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c297573642937373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290896,
     },
     episodeInfo: "Dragon Ball Super Episode 119",
   },
-  120: {
+  "120": {
     dub: {
       sources: [
         {
@@ -3940,7 +4890,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66228/dragon-ball-super-dub-episode-120" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI0OTQ1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-120" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-120-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.118774,
     },
@@ -3955,13 +4909,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83906/dragon-ball-super-episode-120" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyOTk4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-120" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-120-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.16576,
     },
     episodeInfo: "Dragon Ball Super Episode 120",
   },
-  121: {
+  "121": {
     dub: {
       sources: [
         {
@@ -3973,7 +4931,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66226/dragon-ball-super-dub-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI1Mjcw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-121" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-121-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160458,
     },
@@ -3988,13 +4950,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83905/dragon-ball-super-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMDg0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-121" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-121-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.2909,
     },
     episodeInfo: "Dragon Ball Super Episode 121",
   },
-  122: {
+  "122": {
     dub: {
       sources: [
         {
@@ -4006,7 +4972,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66224/dragon-ball-super-dub-episode-122" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI1NjAw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-122" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-122-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160467,
     },
@@ -4021,13 +4991,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83904/dragon-ball-super-episode-122" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMjk0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-122" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-122-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290865,
     },
     episodeInfo: "Dragon Ball Super Episode 122",
   },
-  123: {
+  "123": {
     dub: {
       sources: [
         {
@@ -4039,7 +5013,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66222/dragon-ball-super-dub-episode-123" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI2MTE1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-123" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-123-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160467,
     },
@@ -4054,13 +5032,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83903/dragon-ball-super-episode-123" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMzg1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-123" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-123-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.165774,
     },
     episodeInfo: "Dragon Ball Super Episode 123",
   },
-  124: {
+  "124": {
     dub: {
       sources: [
         {
@@ -4072,7 +5054,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66220/dragon-ball-super-dub-episode-124" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI2NTM2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-124" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-124-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1372.162446,
     },
@@ -4087,13 +5073,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83902/dragon-ball-super-episode-124" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNDY5" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-124" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-124-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290905,
     },
     episodeInfo: "Dragon Ball Super Episode 124",
   },
-  125: {
+  "125": {
     dub: {
       sources: [
         {
@@ -4105,7 +5095,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66218/dragon-ball-super-dub-episode-125" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI3MjAw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-125" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-125-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1371.161443,
     },
@@ -4120,13 +5114,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83901/dragon-ball-super-episode-125" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNTY4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-125" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-125-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290898,
     },
     episodeInfo: "Dragon Ball Super Episode 125",
   },
-  126: {
+  "126": {
     dub: {
       sources: [
         {
@@ -4138,7 +5136,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66216/dragon-ball-super-dub-episode-126" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI3ODI0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-126" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-126-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1372.162447,
     },
@@ -4153,13 +5155,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83900/dragon-ball-super-episode-126" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNzA2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-126" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-126-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290901,
     },
     episodeInfo: "Dragon Ball Super Episode 126",
   },
-  127: {
+  "127": {
     dub: {
       sources: [
         {
@@ -4171,7 +5177,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66214/dragon-ball-super-dub-episode-127" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI4MjY2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-127" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-127-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.118762,
     },
@@ -4186,13 +5196,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83899/dragon-ball-super-episode-127" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzODM4" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-127" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-127-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.24918,
     },
     episodeInfo: "Dragon Ball Super Episode 127",
   },
-  128: {
+  "128": {
     dub: {
       sources: [
         {
@@ -4204,7 +5218,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66212/dragon-ball-super-dub-episode-128" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI4Nzg2" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-128" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-128-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c296273642937343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.243872,
     },
@@ -4219,13 +5237,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83898/dragon-ball-super-episode-128" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzOTMw" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-128" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-128-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c297573642937343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.37428,
     },
     episodeInfo: "Dragon Ball Super Episode 128",
   },
-  129: {
+  "129": {
     dub: {
       sources: [
         {
@@ -4237,7 +5259,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66210/dragon-ball-super-dub-episode-129" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI5NjA1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-129" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-129-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c296273642937343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160484,
     },
@@ -4252,13 +5278,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83897/dragon-ball-super-episode-129" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MTk3" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-129" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-129-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c297573642937343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290905,
     },
     episodeInfo: "Dragon Ball Super Episode 129",
   },
-  130: {
+  "130": {
     dub: {
       sources: [
         {
@@ -4270,7 +5300,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66208/dragon-ball-super-dub-episode-130" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTMwMDk1" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-130" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-130-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1370.160468,
     },
@@ -4285,13 +5319,17 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83896/dragon-ball-super-episode-130" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NDUx" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-130" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-130-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1417.290911,
     },
     episodeInfo: "Dragon Ball Super Episode 130",
   },
-  131: {
+  "131": {
     dub: {
       sources: [
         {
@@ -4303,7 +5341,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/66206/dragon-ball-super-dub-episode-131" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTMwNzY0" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-131" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-131-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673329706f626369752934727c737f7e6e5675414e7e424a633f7c2962736429373537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1371.078079,
     },
@@ -4318,7 +5360,11 @@ const dragonBallSuper: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/83895/dragon-ball-super-episode-131" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NTkz" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-131" },
-        { source: "AllAnime", video: "https://allanime.to/watch/2tzuyxhPsGHxDLe9z/dragon-ball-super/episode-131-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c2429706f626369752934727c737f7e6e5675414e7e424a633f7c2975736429373537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1387.177483,
     },

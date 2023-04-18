@@ -3,7 +3,7 @@ import { file } from "./Types.ts";
 // const cheerio = require("cheerio");
 
 export default class Scraper {
-  static owlOrganizer(url: string) {
+  static urlOrganizer(url: string) {
     return [
       {
         file: url,
@@ -11,17 +11,6 @@ export default class Scraper {
         type: "mp4",
       },
     ];
-  }
-
-  static allAnimeScrape(url: string) {
-    // axios.get(url).then((response: any) => {
-    //   console.log("ALLSCRAPE");
-    //   return {
-    //     file: "https://workfields.backup-server222.lol/" + response.data.match(/lol%2F(.*?)&amp/)[1],
-    //     label: "auto",
-    //     type: "mp4",
-    //   };
-    // });
   }
 
   static async enimeScrape(episodeId: string): Promise<file | Array<file>> {
@@ -45,9 +34,9 @@ export default class Scraper {
   }
 
   static scraperMethods: { [key: string]: Function } = {
-    "Anime Owl": this.owlOrganizer,
+    "Anime Owl": this.urlOrganizer,
     Gogoapi: this.gogoApiScrape,
-    AllAnime: this.allAnimeScrape,
+    AllAnime: this.urlOrganizer,
     Enime: this.enimeScrape,
   };
 }

@@ -3,7 +3,7 @@ import { series } from "../Types";
 // look at episodes 22, 36
 
 const dragonBallGt: series = {
-  1: {
+  "1": {
     dub: {
       sources: [
         {
@@ -15,7 +15,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133815/dragon-ball-gt-dub-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-1-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42296273642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479,
     },
@@ -31,13 +35,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-1" },
         { source: "Enime", video: "clfsz8dnj013qpkp6w7kq6xo4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-1-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42297573642937242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1480.811,
     },
     episodeInfo: "Dragon Ball GT Episode 1",
   },
-  2: {
+  "2": {
     dub: {
       sources: [
         {
@@ -49,7 +57,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133804/dragon-ball-gt-dub-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-2" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-2-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42296273642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
@@ -65,13 +77,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-2" },
         { source: "Enime", video: "clfsz8dnb013ppkp6zhvdazvn" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-2-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42297573642934242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
     episodeInfo: "Dragon Ball GT Episode 2",
   },
-  3: {
+  "3": {
     dub: {
       sources: [
         {
@@ -83,7 +99,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133795/dragon-ball-gt-dub-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-3-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42296273642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.519,
     },
@@ -99,13 +119,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2Njk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-3" },
         { source: "Enime", video: "clfsz8dn3013npkp6vwx2cc9a" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-3-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42297573642935242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.784,
     },
     episodeInfo: "Dragon Ball GT Episode 3",
   },
-  4: {
+  "4": {
     dub: {
       sources: [
         {
@@ -117,7 +141,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133787/dragon-ball-gt-dub-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-4-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42296273642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
@@ -133,13 +161,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-4" },
         { source: "Enime", video: "clfsz8dmw013mpkp6enhdjma4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-4-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42297573642932242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.19,
     },
     episodeInfo: "Dragon Ball GT Episode 4",
   },
-  5: {
+  "5": {
     dub: {
       sources: [
         {
@@ -151,7 +183,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133776/dragon-ball-gt-dub-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-5-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42296273642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
@@ -167,13 +203,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-5" },
         { source: "Enime", video: "clfsz8dmo013lpkp6w7sszf72" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-5-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42297573642933242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.763,
     },
     episodeInfo: "Dragon Ball GT Episode 5",
   },
-  6: {
+  "6": {
     dub: {
       sources: [
         {
@@ -185,7 +225,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133767/dragon-ball-gt-dub-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-6" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-6-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42296273642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
@@ -201,13 +245,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-6" },
         { source: "Enime", video: "clfsz8dmg013kpkp6kdnaunto" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-6-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42297573642930242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1480.79,
     },
     episodeInfo: "Dragon Ball GT Episode 6",
   },
-  7: {
+  "7": {
     dub: {
       sources: [
         {
@@ -219,7 +267,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133757/dragon-ball-gt-dub-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-7-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42296273642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -235,13 +287,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2Nzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-7" },
         { source: "Enime", video: "clfsz8dm9013ipkp6nroujlce" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-7-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c42297573642931242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1480.555,
     },
     episodeInfo: "Dragon Ball GT Episode 7",
   },
-  8: {
+  "8": {
     dub: {
       sources: [
         {
@@ -253,7 +309,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133745/dragon-ball-gt-dub-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-8-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -269,13 +329,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-8" },
         { source: "Enime", video: "clfsz8dm2013gpkp6o4zvsu6h" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-8-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 8",
   },
-  9: {
+  "9": {
     dub: {
       sources: [
         {
@@ -287,7 +351,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133735/dragon-ball-gt-dub-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-9" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-9-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
@@ -303,13 +371,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-9" },
         { source: "Enime", video: "clfsz8dlv013epkp6emmsy430" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-9-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1480.299,
     },
     episodeInfo: "Dragon Ball GT Episode 9",
   },
-  10: {
+  "10": {
     dub: {
       sources: [
         {
@@ -321,7 +393,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133724/dragon-ball-gt-dub-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-10" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-10-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -337,13 +413,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-10" },
         { source: "Enime", video: "clfsz8dlo013cpkp64wmozj7j" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-10-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293736242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1480.15,
     },
     episodeInfo: "Dragon Ball GT Episode 10",
   },
-  11: {
+  "11": {
     dub: {
       sources: [
         {
@@ -355,7 +435,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133712/dragon-ball-gt-dub-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-11" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-11-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -371,13 +455,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-11" },
         { source: "Enime", video: "clfsz8dlg013apkp6qb2zx5nn" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-11-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293737242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 11",
   },
-  12: {
+  "12": {
     dub: {
       sources: [
         {
@@ -389,7 +477,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133701/dragon-ball-gt-dub-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mjc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-12" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-12-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -405,13 +497,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-12" },
         { source: "Enime", video: "clfsz8dl90138pkp61j9e08ho" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-12-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293734242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
     episodeInfo: "Dragon Ball GT Episode 12",
   },
-  13: {
+  "13": {
     dub: {
       sources: [
         {
@@ -423,7 +519,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133688/dragon-ball-gt-dub-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-13" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-13-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -439,13 +539,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-13" },
         { source: "Enime", video: "clfsz8dl10136pkp6whh5h4wa" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-13-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293735242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 13",
   },
-  14: {
+  "14": {
     dub: {
       sources: [
         {
@@ -457,7 +561,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133679/dragon-ball-gt-dub-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mjk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-14" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-14-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -473,13 +581,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-14" },
         { source: "Enime", video: "clfsz8dkt0135pkp68y5vpzju" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-14-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293732242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 14",
   },
-  15: {
+  "15": {
     dub: {
       sources: [
         {
@@ -491,7 +603,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133667/dragon-ball-gt-dub-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-15" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-15-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -507,13 +623,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-15" },
         { source: "Enime", video: "clfsz8dkl0133pkp68wm4tmtv" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-15-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293733242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 15",
   },
-  16: {
+  "16": {
     dub: {
       sources: [
         {
@@ -525,7 +645,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133654/dragon-ball-gt-dub-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-16" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-16-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479,
     },
@@ -541,13 +665,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-16" },
         { source: "Enime", video: "clfsz8dk80132pkp61h9ttrid" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-16-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293730242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 16",
   },
-  17: {
+  "17": {
     dub: {
       sources: [
         {
@@ -559,7 +687,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133632/dragon-ball-gt-dub-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-17" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-17-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
@@ -575,13 +707,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-17" },
         { source: "Enime", video: "clfsz8dk00130pkp6cy0hf04p" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-17-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293731242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
     episodeInfo: "Dragon Ball GT Episode 17",
   },
-  18: {
+  "18": {
     dub: {
       sources: [
         {
@@ -593,7 +729,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133619/dragon-ball-gt-dub-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-18" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-18-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
@@ -609,13 +749,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-18" },
         { source: "Enime", video: "clfsz8djs012ypkp6yqweqhap" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-18-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429373e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
     episodeInfo: "Dragon Ball GT Episode 18",
   },
-  19: {
+  "19": {
     dub: {
       sources: [
         {
@@ -627,7 +771,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133607/dragon-ball-gt-dub-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-19" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-19-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -643,13 +791,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-19" },
         { source: "Enime", video: "clfsz8djk012wpkp6ed3gf7k4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-19-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429373f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 19",
   },
-  20: {
+  "20": {
     dub: {
       sources: [
         {
@@ -661,7 +813,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133594/dragon-ball-gt-dub-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-20" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-20-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -677,13 +833,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-20" },
         { source: "Enime", video: "clfsz8djc012vpkp63275q7vr" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-20-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293436242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.275,
     },
     episodeInfo: "Dragon Ball GT Episode 20",
   },
-  21: {
+  "21": {
     dub: {
       sources: [
         {
@@ -695,7 +855,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133582/dragon-ball-gt-dub-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-21" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-21-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -711,13 +875,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-21" },
         { source: "Enime", video: "clfsz8dj4012tpkp61fx5zq2s" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-21-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293437242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 21",
   },
-  22: {
+  "22": {
     dub: {
       sources: [
         // { source: "Anime Owl" },
@@ -725,7 +893,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133568/dragon-ball-gt-dub-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-22" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-22-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
@@ -741,13 +913,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-22" },
         { source: "Enime", video: "clfsz8diw012spkp6ehe8qgof" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-22-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293434242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
     episodeInfo: "Dragon Ball GT Episode 22",
   },
-  23: {
+  "23": {
     dub: {
       sources: [
         {
@@ -759,7 +935,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133556/dragon-ball-gt-dub-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-23" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-23-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -775,13 +955,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-23" },
         { source: "Enime", video: "clfsz8dio012qpkp6grb0hgpk" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-23-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293435242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 23",
   },
-  24: {
+  "24": {
     dub: {
       sources: [
         {
@@ -793,7 +977,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133541/dragon-ball-gt-dub-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-24-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -809,13 +997,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-24" },
         { source: "Enime", video: "clfsz8dif012ppkp67pdz8hqe" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-24-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293432242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 24",
   },
-  25: {
+  "25": {
     dub: {
       sources: [
         {
@@ -827,7 +1019,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133526/dragon-ball-gt-dub-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-25" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-25-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479,
     },
@@ -843,13 +1039,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-25" },
         { source: "Enime", video: "clfsz8di7012npkp61teo8bxj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-25-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293433242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
     episodeInfo: "Dragon Ball GT Episode 25",
   },
-  26: {
+  "26": {
     dub: {
       sources: [
         {
@@ -861,7 +1061,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133511/dragon-ball-gt-dub-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-26" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-26-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
@@ -877,13 +1081,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-26" },
         { source: "Enime", video: "clfsz8dhy012mpkp69s36sakz" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-26-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293430242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.686,
     },
     episodeInfo: "Dragon Ball GT Episode 26",
   },
-  27: {
+  "27": {
     dub: {
       sources: [
         {
@@ -895,7 +1103,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133495/dragon-ball-gt-dub-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-27" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-27-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -911,13 +1123,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-27" },
         { source: "Enime", video: "clfsz8dhp012kpkp63dppfvvx" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-27-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293431242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 27",
   },
-  28: {
+  "28": {
     dub: {
       sources: [
         {
@@ -929,7 +1145,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133478/dragon-ball-gt-dub-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-28" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-28-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
@@ -945,13 +1165,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-28" },
         { source: "Enime", video: "clfsz8dhh012ipkp6gk653md7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-28-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429343e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
     episodeInfo: "Dragon Ball GT Episode 28",
   },
-  29: {
+  "29": {
     dub: {
       sources: [
         {
@@ -963,7 +1187,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133461/dragon-ball-gt-dub-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-29" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-29-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -979,13 +1207,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-29" },
         { source: "Enime", video: "clfsz8dh8012hpkp65xry2mxu" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-29-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429343f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 29",
   },
-  30: {
+  "30": {
     dub: {
       sources: [
         {
@@ -997,7 +1229,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133444/dragon-ball-gt-dub-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-30" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-30-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1013,13 +1249,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-30" },
         { source: "Enime", video: "clfsz8dgz012gpkp6kufz1a2k" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-30-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293536242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 30",
   },
-  31: {
+  "31": {
     dub: {
       sources: [
         {
@@ -1031,7 +1271,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133427/dragon-ball-gt-dub-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-31" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-31-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1047,13 +1291,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-31" },
         { source: "Enime", video: "clfsz8dgr012epkp6uwf4qmlj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-31-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293537242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 31",
   },
-  32: {
+  "32": {
     dub: {
       sources: [
         {
@@ -1065,7 +1313,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133409/dragon-ball-gt-dub-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-32" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-32-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1081,13 +1333,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-32" },
         { source: "Enime", video: "clfsz8dgh012cpkp6k7w8z1gm" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-32-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293534242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 32",
   },
-  33: {
+  "33": {
     dub: {
       sources: [
         {
@@ -1099,7 +1355,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133385/dragon-ball-gt-dub-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-33" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-33-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1115,13 +1375,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3Mjg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-33" },
         { source: "Enime", video: "clfsz8dg8012apkp6y7fukulu" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-33-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293535242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 33",
   },
-  34: {
+  "34": {
     dub: {
       sources: [
         {
@@ -1133,7 +1397,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133365/dragon-ball-gt-dub-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-34" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-34-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1149,13 +1417,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-34" },
         { source: "Enime", video: "clfsz8dfw0129pkp65txnmuso" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-34-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293532242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 34",
   },
-  35: {
+  "35": {
     dub: {
       sources: [
         {
@@ -1167,7 +1439,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133341/dragon-ball-gt-dub-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-35" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-35-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
@@ -1183,13 +1459,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-35" },
         { source: "Enime", video: "clfsz8dfk0128pkp6qsrd51p4" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-35-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293533242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
     episodeInfo: "Dragon Ball GT Episode 35",
   },
-  36: {
+  "36": {
     dub: {
       sources: [
         // { source: "Anime Owl" },
@@ -1197,7 +1477,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133317/dragon-ball-gt-dub-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-36" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-36-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1213,13 +1497,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-36" },
         { source: "Enime", video: "clfsz8dfb0126pkp6cb7dsach" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-36-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293530242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 36",
   },
-  37: {
+  "37": {
     dub: {
       sources: [
         {
@@ -1231,7 +1519,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133287/dragon-ball-gt-dub-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-37" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-37-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1247,13 +1539,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-37" },
         { source: "Enime", video: "clfsz8df20125pkp6bp67b1q0" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-37-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293531242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 37",
   },
-  38: {
+  "38": {
     dub: {
       sources: [
         {
@@ -1265,7 +1561,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133257/dragon-ball-gt-dub-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-38" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-38-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1281,13 +1581,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3Mzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-38" },
         { source: "Enime", video: "clfsz8des0124pkp60dxhv5et" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-38-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429353e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 38",
   },
-  39: {
+  "39": {
     dub: {
       sources: [
         {
@@ -1299,7 +1603,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133224/dragon-ball-gt-dub-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-39" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-39-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1315,13 +1623,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NDA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-39" },
         { source: "Enime", video: "clfsz8deh0122pkp6jhfipkxh" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-39-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429353f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 39",
   },
-  40: {
+  "40": {
     dub: {
       sources: [
         {
@@ -1333,7 +1645,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133188/dragon-ball-gt-dub-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-40" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-40-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
@@ -1349,13 +1665,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-40" },
         { source: "Enime", video: "clfsz8de40120pkp6ratfau5p" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-40-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293236242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
     episodeInfo: "Dragon Ball GT Episode 40",
   },
-  41: {
+  "41": {
     dub: {
       sources: [
         {
@@ -1367,7 +1687,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133150/dragon-ball-gt-dub-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-41" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-41-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479,
     },
@@ -1383,13 +1707,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-41" },
         { source: "Enime", video: "clfsz8ddr011zpkp63wxxkod0" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-41-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293237242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 41",
   },
-  42: {
+  "42": {
     dub: {
       sources: [
         {
@@ -1401,7 +1729,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133120/dragon-ball-gt-dub-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-42" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-42-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1477.059,
     },
@@ -1417,13 +1749,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NTA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-42" },
         { source: "Enime", video: "clfsz8ddh011xpkp6em97nfix" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-42-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293234242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1477.846,
     },
     episodeInfo: "Dragon Ball GT Episode 42",
   },
-  43: {
+  "43": {
     dub: {
       sources: [
         {
@@ -1435,7 +1771,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133075/dragon-ball-gt-dub-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-43" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-43-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1451,13 +1791,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-43" },
         { source: "Enime", video: "clfsz8dd6011vpkp6iplji6jr" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-43-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293235242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
     episodeInfo: "Dragon Ball GT Episode 43",
   },
-  44: {
+  "44": {
     dub: {
       sources: [
         {
@@ -1469,7 +1813,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/133030/dragon-ball-gt-dub-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-44" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-44-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1480,
     },
@@ -1485,13 +1833,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-44" },
         { source: "Enime", video: "clfsz8dcv011tpkp6v48cpmyi" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-44-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293232242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
     episodeInfo: "Dragon Ball GT Episode 44",
   },
-  45: {
+  "45": {
     dub: {
       sources: [
         {
@@ -1503,7 +1855,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132985/dragon-ball-gt-dub-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-45" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-45-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1519,13 +1875,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-45" },
         { source: "Enime", video: "clfsz8dcj011spkp6owiurc4v" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-45-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293233242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
     episodeInfo: "Dragon Ball GT Episode 45",
   },
-  46: {
+  "46": {
     dub: {
       sources: [
         {
@@ -1537,7 +1897,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132935/dragon-ball-gt-dub-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-46" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-46-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1553,13 +1917,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-46" },
         { source: "Enime", video: "clfsz8dca011qpkp6y02tpw8p" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-46-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293230242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
     episodeInfo: "Dragon Ball GT Episode 46",
   },
-  47: {
+  "47": {
     dub: {
       sources: [
         {
@@ -1571,7 +1939,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132876/dragon-ball-gt-dub-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-47-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1587,13 +1959,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-47" },
         { source: "Enime", video: "clfsz8dc0011ppkp62x3okgnh" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-47-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293231242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
     episodeInfo: "Dragon Ball GT Episode 47",
   },
-  48: {
+  "48": {
     dub: {
       sources: [
         {
@@ -1605,7 +1981,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132814/dragon-ball-gt-dub-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-48" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-48-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1621,13 +2001,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-48" },
         { source: "Enime", video: "clfsz8dbo011opkp6o3p0qywj" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-48-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429323e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1480,
     },
     episodeInfo: "Dragon Ball GT Episode 48",
   },
-  49: {
+  "49": {
     dub: {
       sources: [
         {
@@ -1639,7 +2023,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132751/dragon-ball-gt-dub-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-49" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-49-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1655,13 +2043,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-49" },
         { source: "Enime", video: "clfsz8db8011npkp6dre5wwnu" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-49-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429323f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
     episodeInfo: "Dragon Ball GT Episode 49",
   },
-  50: {
+  "50": {
     dub: {
       sources: [
         {
@@ -1673,7 +2065,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132684/dragon-ball-gt-dub-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-50" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-50-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1689,13 +2085,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-50" },
         { source: "Enime", video: "clfsz8dav011mpkp6dh98eth3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-50-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293336242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.232,
     },
     episodeInfo: "Dragon Ball GT Episode 50",
   },
-  51: {
+  "51": {
     dub: {
       sources: [
         {
@@ -1707,7 +2107,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132612/dragon-ball-gt-dub-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Njc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-51" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-51-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1723,13 +2127,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-51" },
         { source: "Enime", video: "clfsz8dah011kpkp6h34nqb5g" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-51-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293337242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.531,
     },
     episodeInfo: "Dragon Ball GT Episode 51",
   },
-  52: {
+  "52": {
     dub: {
       sources: [
         {
@@ -1741,7 +2149,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132516/dragon-ball-gt-dub-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Njg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-52" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-52-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1757,13 +2169,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-52" },
         { source: "Enime", video: "clfsz8da0011ipkp6ujdqxcnb" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-52-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293334242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 52",
   },
-  53: {
+  "53": {
     dub: {
       sources: [
         {
@@ -1775,7 +2191,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132415/dragon-ball-gt-dub-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Njk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-53" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-53-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.895,
     },
@@ -1791,13 +2211,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-53" },
         { source: "Enime", video: "clfsz8d9s011hpkp6xajbm3md" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-53-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293335242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.895,
     },
     episodeInfo: "Dragon Ball GT Episode 53",
   },
-  54: {
+  "54": {
     dub: {
       sources: [
         {
@@ -1809,7 +2233,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132311/dragon-ball-gt-dub-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-54" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-54-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.061,
     },
@@ -1825,13 +2253,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-54" },
         { source: "Enime", video: "clfsz8d9j011gpkp6o9vfp7t8" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-54-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293332242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.702,
     },
     episodeInfo: "Dragon Ball GT Episode 54",
   },
-  55: {
+  "55": {
     dub: {
       sources: [
         {
@@ -1843,7 +2275,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132203/dragon-ball-gt-dub-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-55" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-55-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.978,
     },
@@ -1859,13 +2295,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-55" },
         { source: "Enime", video: "clfsz8d9b011epkp68clgjvia" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-55-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293333242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.424,
     },
     episodeInfo: "Dragon Ball GT Episode 55",
   },
-  56: {
+  "56": {
     dub: {
       sources: [
         {
@@ -1877,7 +2317,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/132098/dragon-ball-gt-dub-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-56" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-56-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1893,13 +2337,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-56" },
         { source: "Enime", video: "clfsz8d8t011dpkp6a7uplek7" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-56-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293330242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 56",
   },
-  57: {
+  "57": {
     dub: {
       sources: [
         {
@@ -1911,7 +2359,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131986/dragon-ball-gt-dub-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-57" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-57-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1927,13 +2379,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-57" },
         { source: "Enime", video: "clfsz8d8l011bpkp6bgg5pbp1" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-57-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293331242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.934,
     },
     episodeInfo: "Dragon Ball GT Episode 57",
   },
-  58: {
+  "58": {
     dub: {
       sources: [
         {
@@ -1945,7 +2401,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131874/dragon-ball-gt-dub-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzQ=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-58" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-58-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1961,13 +2421,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-58" },
         { source: "Enime", video: "clfsz8d8c011apkp6ueqooj47" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-58-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429333e242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 58",
   },
-  59: {
+  "59": {
     dub: {
       sources: [
         {
@@ -1979,7 +2443,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131764/dragon-ball-gt-dub-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-59" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-59-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422962736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -1995,13 +2463,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDE=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-59" },
         { source: "Enime", video: "clfsz8d840119pkp6ljn4lwrq" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-59-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c422975736429333f242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 59",
   },
-  60: {
+  "60": {
     dub: {
       sources: [
         {
@@ -2013,7 +2485,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131657/dragon-ball-gt-dub-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzY=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-60" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-60-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -2029,13 +2505,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDI=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-60" },
         { source: "Enime", video: "clfsz8d7u0118pkp6wsa3bu2o" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-60-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293036242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 60",
   },
-  61: {
+  "61": {
     dub: {
       sources: [
         {
@@ -2047,7 +2527,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131559/dragon-ball-gt-dub-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Nzc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-61" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-61-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -2063,13 +2547,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDM=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-61" },
         { source: "Enime", video: "clfsz8d7k0117pkp6tkqwafu5" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-61-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293037242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 61",
   },
-  62: {
+  "62": {
     dub: {
       sources: [
         {
@@ -2081,7 +2569,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131460/dragon-ball-gt-dub-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Nzg=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-62" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-62-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
@@ -2097,13 +2589,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDU=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-62" },
         { source: "Enime", video: "clfsz8d7a0115pkp6wtfgzbx3" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-62-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293034242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1478.853,
     },
     episodeInfo: "Dragon Ball GT Episode 62",
   },
-  63: {
+  "63": {
     dub: {
       sources: [
         {
@@ -2115,7 +2611,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131345/dragon-ball-gt-dub-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Nzk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-63" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-63-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
@@ -2131,13 +2631,17 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDc=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-63" },
         { source: "Enime", video: "clfsz8d710113pkp6lsio6xsw" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-63-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1479.02,
     },
     episodeInfo: "Dragon Ball GT Episode 63",
   },
-  64: {
+  "64": {
     dub: {
       sources: [
         {
@@ -2149,7 +2653,11 @@ const dragonBallGt: series = {
         { source: "KimAnime", video: "https://kimanime.com/episode/131231/dragon-ball-gt-dub-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODA=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-64" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-64-dub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229627364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1450.048,
     },
@@ -2165,7 +2673,11 @@ const dragonBallGt: series = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDk=" },
         { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-64" },
         { source: "Enime", video: "clfsz8d6b0111pkp60227xr24" },
-        { source: "AllAnime", video: "https://allanime.to/watch/DyRyHPxS4Syu3trJD/dragon-ball-gt/episode-64-sub" },
+        {
+          source: "AllAnime",
+          video:
+            "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673029706f6263697529427f547f4e567e5532557f733572744c4229757364293032242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
+        },
       ],
       episodeLength: 1449.574,
     },

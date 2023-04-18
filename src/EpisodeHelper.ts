@@ -16,7 +16,7 @@ export default class EpisodeHelper {
     dragonballsuper: dragonBallSuper,
     dragonballgt: dragonBallGt,
   };
-  static nonWorkingSources: Array<string> = ["Gogo", "Gogoanime", "KimAnime", "AllAnime"];
+  static nonWorkingSources: Array<string> = ["Gogo", "Gogoanime", "KimAnime"];
 
   static updateNonWorkingSources(sourceName: string): string {
     if (this.nonWorkingSources.includes(sourceName)) {
