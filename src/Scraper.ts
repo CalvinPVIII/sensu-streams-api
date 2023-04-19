@@ -1,6 +1,5 @@
 import axios from "axios";
 import { file } from "./Types.ts";
-// const cheerio = require("cheerio");
 
 export default class Scraper {
   private static proxy = "http://localhost:8080/";

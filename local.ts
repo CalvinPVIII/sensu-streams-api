@@ -1,6 +1,7 @@
 import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
+import dotenv from "dotenv";
 
 // @ts-ignore
 import cors_proxy from "cors-anywhere";
@@ -22,6 +23,8 @@ cors_proxy
     console.log("Running CORS Anywhere on " + host + ":" + port);
   });
 
+dotenv.config();
+
 const app = express();
 
 const stream = new Stream();
@@ -29,18 +32,6 @@ const stream = new Stream();
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cors());
-
-// app.get("/episode/:series/:episodeNumber", async (req, res) => {
-//   let episode = await episodeMasterList.getEpisode(
-//     episodeMasterList[req.params.series][req.params.episodeNumber]
-//   );
-//   console.log(episode);
-//   res.json(episode);
-// });
-
-// app.get("/movies", (req, res) => {
-//   res.json(episodeMasterList.movies);
-// });
 
 // app.get("/movies/:series/", (req, res) => {
 //   res.json(episodeMasterList.returnMoviesBySeries(req.params.series));
@@ -54,83 +45,101 @@ app.use(cors());
 //   res.json(result);
 // });
 
-// app.post("/admin", (req, res) => {
-//   if (req.body.token === process.env.TOKEN) {
-//     switch (req.body.action) {
-//       case "updateNonWorkingList":
-//         const listStatus = episodeMasterList.updateNonWorkingSources(
-//           req.body.data
-//         );
-//         console.log(`${listStatus} ${req.body.data} in non working list`);
-//         res.end(`${listStatus} ${req.body.data} in non working list`);
-//         break;
-
-//       case "changePlaylist":
-//         const playlistStatus = episodeMasterList.changeStreamPlaylist(
-//           req.body.data
-//         );
-//         console.log(playlistStatus);
-//         res.end(playlistStatus);
-//         break;
-
-//       case "setEpisode":
-//         const episodeStatus = episodeMasterList.setCurrentEpiosde(
-//           req.body.data
-//         );
-//         console.log(episodeStatus);
-//         res.end(episodeStatus);
-//         break;
-
-//       case "stopStream":
-//         const stopStreamStatus = episodeMasterList.stopStream();
-//         res.end(stopStreamStatus);
-//         break;
-
-//       case "startStream":
-//         const startStreamStatus = episodeMasterList.startStream();
-//         res.end(startStreamStatus);
-//         break;
-//     }
-//   } else {
-//     res.status(401).send("You do not have sufficient permissions");
-//   }
-// });
+app.post("/admin", (req, res) => {
+  if (req.body.token && req.body.token === process.env.TOKEN) {
+    switch (req.body.action) {
+      case "start-stream":
+        res.json({ message: stream.startStream() });
+        break;
+      case "stop-stream":
+        res.json({ message: stream.stopStream() });
+        break;
+      case "set-episode":
+        if (req.body.episodeNumber) {
+          const result = stream.setCurrentEpisode(req.body.episodeNumber - 1); // - 1 because zero index array
+          if (result === "success") {
+            res.json(`Set episode to ${req.body.episodeNumber}`);
+          } else {
+            res.status(405).send("Cannot set episode number outside playlist range ");
+          }
+        } else {
+          res.status(405).send("No episode number provided");
+        }
+        break;
+    }
+  } else {
+    return res.status(401).send("You do not have sufficient permissions");
+  }
+});
 
 app.get("/stream", (req, res) => {
   res.json(stream);
 });
 
-// app.get("/allInfo", (req, res) => {
-//   res.json(episodeMasterList);
-// });
-
-app.get("/episodes/:series", (req: express.Request, res: express.Response) => {
-  const series: series = EpisodeHelper.series[req.params.series.toLowerCase()];
-  if (series) {
-    res.json(series);
+app.get("/:media", (req: express.Request, res: express.Response) => {
+  const media = EpisodeHelper.getMedia(req.params.media);
+  if (media) {
+    res.json(media);
   } else {
-    res.status(400).send();
+    res.status(404).send("Not Found");
   }
 });
 
-app.get("/episodes/:series/:episodeNumber", (req: express.Request, res: express.Response) => {
-  const series: series = EpisodeHelper.series[req.params.series.toLowerCase()];
+app.get("/:media/:series", (req: express.Request, res: express.Response) => {
+  const series = EpisodeHelper.getMedia(req.params.media, req.params.series);
   if (series) {
-    // eventually will want to scrape url
+    res.json(series);
+  } else {
+    res.status(404).send("Unable to find series");
+  }
+});
+
+app.get("/:media/:series/:episodeNumber", async (req: express.Request, res: express.Response) => {
+  const series: series = EpisodeHelper.getMedia(req.params.media, req.params.series) as series;
+  if (series) {
     const episode: episode = series[parseInt(req.params.episodeNumber)];
     if (episode) {
-      res.json(episode);
+      const files = await EpisodeHelper.getEpisodeFiles(episode);
+      if (files) {
+        res.json({ episodeInfo: episode.episodeInfo, files: files });
+      } else {
+        res.status(500).send("There was an error getting files");
+      }
     } else {
-      res.status(400).send();
+      res.status(404).send("Unable to find episode");
     }
   } else {
-    res.status(400).send();
+    res.status(404).send("Unable to find series");
   }
+
+  // let series;
+  // if (req.params.media.toLowerCase() === "episodes") {
+  //   series = EpisodeHelper.episodes[req.params.series.toLowerCase()];
+  // } else if (req.params.media.toLowerCase() === "movies") {
+  //   series = EpisodeHelper.movies[req.params.series.toLowerCase()];
+  // } else {
+  //   res.status(404).send("Not Found");
+  // }
+
+  // if (series) {
+  //   const episode: episode = series[parseInt(req.params.episodeNumber)];
+  //   if (episode) {
+  //     const files = await EpisodeHelper.getEpisodeFiles(episode);
+  //     res.json({ episodeInfo: episode.episodeInfo, files: files });
+  //   } else {
+  //     res.status(405).send("Unable to find episode");
+  //   }
+  // } else {
+  //   res.status(405).send("Unable to find series");
+  // }
+});
+
+app.use((req, res) => {
+  res.status(404).send("Not Found");
 });
 
 app.listen(3001, "0.0.0.0", () => {
   console.log("Server running locally on port 3001");
-  stream.startStream();
 });
 
 // run server using ts-node-esm local.ts

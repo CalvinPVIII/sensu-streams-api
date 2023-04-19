@@ -42,17 +42,14 @@ export default class Stream {
     const promise = new Promise<number>(async (resolve, reject) => {
       console.log("Initializing episode");
       this.isEpisodeInitialized = false;
-      // let currentSubSources = this.streamPlaylist[this.currentEpisode].sub.sources;
       let subEpisodeDuration = this.streamPlaylist[this.currentEpisode].sub.episodeLength;
-
-      // let currentDubSources = this.streamPlaylist[this.currentEpisode].dub.sources;
       let dubEpisodeDuration = this.streamPlaylist[this.currentEpisode].dub.episodeLength;
+
       this.subDuration = subEpisodeDuration;
       this.dubDuration = dubEpisodeDuration;
       this.episodeInfo = this.streamPlaylist[this.currentEpisode].episodeInfo;
 
       // this gets and organizes the files for each source
-      // investigate why this isn't waiting
       const episodeFiles: any = await EpisodeHelper.getEpisodeFiles(this.streamPlaylist[this.currentEpisode]);
 
       this.currentDubFiles = episodeFiles.dub;
@@ -71,12 +68,16 @@ export default class Stream {
   }
 
   startStream(): string {
-    console.log("Starting video stream");
-    this.currentTime = 0;
-    this.isActive = true;
-    this.isEpisodeInitialized = false;
-    this.handleVideoStream();
-    return "Starting video stream";
+    if (this.isActive) {
+      return "Stream already running";
+    } else {
+      console.log("Starting video stream");
+      this.currentTime = 0;
+      this.isActive = true;
+      this.isEpisodeInitialized = false;
+      this.handleVideoStream();
+      return "Starting video stream";
+    }
   }
 
   stopStream(): string {
@@ -86,6 +87,19 @@ export default class Stream {
     return "Stream Stopped";
   }
 
+  setCurrentEpisode(episodeNumber: number): string {
+    if (episodeNumber < this.streamPlaylist.length) {
+      this.stopStream();
+      setTimeout(() => {
+        this.currentEpisode = episodeNumber;
+        this.startStream();
+      }, 1500);
+      return `success`;
+    } else {
+      return "error";
+    }
+  }
+
   handleMoveToNextEpisode() {
     // reset the current time and move onto the next episode
     this.currentTime = 0;
@@ -93,7 +107,7 @@ export default class Stream {
     this.isEpisodeInitialized = false;
     // if the next episode is outside of the array
 
-    if (this.currentEpisode == this.streamPlaylist.length) {
+    if (this.currentEpisode >= this.streamPlaylist.length) {
       // reset the episodes to start at the beginning
       this.currentEpisode = 0;
     }

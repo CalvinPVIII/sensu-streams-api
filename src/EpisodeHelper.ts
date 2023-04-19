@@ -4,18 +4,51 @@ import dragonBallKai from "./episodes/DragonBallKai.ts";
 import dragonBallSuper from "./episodes/DragonBallSuper.ts";
 import dragonBallGt from "./episodes/DragonBallGt.ts";
 
+import dbMovies from "./movies/dragonBallMovies.ts";
+import dbzMovies from "./movies/dragonBallZMovies.ts";
+import dbsmovies from "./movies/dragonBallMovies.ts";
+
 import Scraper from "./Scraper.ts";
 
 import { episode, file, series } from "./Types";
 
 export default class EpisodeHelper {
-  static series: { [key: string]: series } = {
+  static episodes: { [key: string]: series } = {
     dragonball: dragonBall,
     dragonballz: dragonBallZ,
     dragonballkai: dragonBallKai,
     dragonballsuper: dragonBallSuper,
     dragonballgt: dragonBallGt,
   };
+
+  static movies: { [key: string]: series } = {
+    dragonball: dbMovies,
+    dragonballz: dbzMovies,
+    dragonballsuper: dbsmovies,
+  };
+
+  static getMedia(mediaType: string, seriesName?: string): { [key: string]: series } | null | series {
+    if (mediaType.toLowerCase() === "movies") {
+      if (seriesName) {
+        const series = EpisodeHelper.movies[seriesName];
+        if (series) {
+          return series;
+        }
+      }
+      return EpisodeHelper.movies;
+    } else if (mediaType.toLowerCase() === "episodes") {
+      if (seriesName) {
+        const series = EpisodeHelper.episodes[seriesName];
+        if (series) {
+          return series;
+        }
+      }
+      return EpisodeHelper.episodes;
+    } else {
+      return null;
+    }
+  }
+
   static nonWorkingSources: Array<string> = ["Gogo", "Gogoanime", "KimAnime"];
 
   static updateNonWorkingSources(sourceName: string): string {

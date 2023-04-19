@@ -56,7 +56,6 @@ const dbsMovies: series = {
         //   video:
         //     "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1URXlPVEk0IiwidGltZXN0YW1wIjoxNjQ3OTc1ODY1MDY5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo2Y2NlOjVmM2U6MjY3MTo1OWY5IiwiaWF0IjoxNjQ3OTc1ODY1fQ.Ncy4e87MakN4OnYZM31QdDNgW0TOoQTChUHVlu0lHcw",
         // },
-
         {
           source: "Gogoapi",
           video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-super-hero-camrip-episode-1",
