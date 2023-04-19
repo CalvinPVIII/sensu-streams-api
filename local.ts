@@ -2,9 +2,25 @@ import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
 
+// @ts-ignore
+import cors_proxy from "cors-anywhere";
+
 import EpisodeHelper from "./src/EpisodeHelper.ts";
 import Stream from "./src/Stream.ts";
+
 import { episode, series } from "./src/Types";
+
+const host = "0.0.0.0";
+const port = 8080;
+cors_proxy
+  .createServer({
+    originWhitelist: [], // Allow all origins
+    // requireHeader: ['origin', 'x-requested-with'],
+    // removeHeaders: ['cookie', 'cookie2']
+  })
+  .listen(port, host, function () {
+    console.log("Running CORS Anywhere on " + host + ":" + port);
+  });
 
 const app = express();
 
