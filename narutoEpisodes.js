@@ -5,8 +5,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3MTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-1",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-1",
         },
         {
           source: "Anime Owl",
@@ -21,8 +20,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-1",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-1",
         },
         {
           source: "Anime Owl",
@@ -41,8 +39,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3MTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-2",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-2",
         },
         {
           source: "Anime Owl",
@@ -57,8 +54,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-2",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-2",
         },
         {
           source: "Anime Owl",
@@ -77,8 +73,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3MTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-3",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-3",
         },
         {
           source: "Anime Owl",
@@ -93,8 +88,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-3",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-3",
         },
         {
           source: "Anime Owl",
@@ -113,8 +107,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3MTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-4",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-4",
         },
         {
           source: "Anime Owl",
@@ -129,8 +122,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-4",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-4",
         },
         {
           source: "Anime Owl",
@@ -149,8 +141,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3MTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-5",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-5",
         },
         {
           source: "Anime Owl",
@@ -165,8 +156,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNjg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-5",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-5",
         },
         {
           source: "Anime Owl",
@@ -185,8 +175,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-6",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-6",
         },
         {
           source: "Anime Owl",
@@ -201,8 +190,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNjE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-6",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-6",
         },
         {
           source: "Anime Owl",
@@ -221,8 +209,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-7",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-7",
         },
         {
           source: "Anime Owl",
@@ -237,8 +224,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNjI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-7",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-7",
         },
         {
           source: "Anime Owl",
@@ -257,8 +243,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-8",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-8",
         },
         {
           source: "Anime Owl",
@@ -273,8 +258,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-8",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-8",
         },
         {
           source: "Anime Owl",
@@ -293,8 +277,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-9",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-9",
         },
         {
           source: "Anime Owl",
@@ -309,8 +292,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-9",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-9",
         },
         {
           source: "Anime Owl",
@@ -329,8 +311,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-10",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-10",
         },
         {
           source: "Anime Owl",
@@ -345,8 +326,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwNzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-10",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-10",
         },
         {
           source: "Anime Owl",
@@ -365,8 +345,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-11",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-11",
         },
         {
           source: "Anime Owl",
@@ -381,8 +360,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-11",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-11",
         },
         {
           source: "Anime Owl",
@@ -401,8 +379,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-12",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-12",
         },
         {
           source: "Anime Owl",
@@ -417,8 +394,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-12",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-12",
         },
         {
           source: "Anime Owl",
@@ -437,8 +413,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-13",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-13",
         },
         {
           source: "Anime Owl",
@@ -453,8 +428,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwOTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-13",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-13",
         },
         {
           source: "Anime Owl",
@@ -473,8 +447,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-14",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-14",
         },
         {
           source: "Anime Owl",
@@ -489,8 +462,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwOTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-14",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-14",
         },
         {
           source: "Anime Owl",
@@ -509,8 +481,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-15",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-15",
         },
         {
           source: "Anime Owl",
@@ -525,8 +496,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwOTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-15",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-15",
         },
         {
           source: "Anime Owl",
@@ -545,8 +515,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-16",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-16",
         },
         {
           source: "Anime Owl",
@@ -561,8 +530,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMDE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-16",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-16",
         },
         {
           source: "Anime Owl",
@@ -581,8 +549,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-17",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-17",
         },
         {
           source: "Anime Owl",
@@ -597,8 +564,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-17",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-17",
         },
         {
           source: "Anime Owl",
@@ -617,8 +583,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-18",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-18",
         },
         {
           source: "Anime Owl",
@@ -633,8 +598,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMDY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-18",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-18",
         },
         {
           source: "Anime Owl",
@@ -653,8 +617,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-19",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-19",
         },
         {
           source: "Anime Owl",
@@ -669,8 +632,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-19",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-19",
         },
         {
           source: "Anime Owl",
@@ -689,8 +651,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-20",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-20",
         },
         {
           source: "Anime Owl",
@@ -705,8 +666,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-20",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-20",
         },
         {
           source: "Anime Owl",
@@ -725,8 +685,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTkw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-21",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-21",
         },
         {
           source: "Anime Owl",
@@ -741,8 +700,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-21",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-21",
         },
         {
           source: "Anime Owl",
@@ -761,8 +719,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTkx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-22",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-22",
         },
         {
           source: "Anime Owl",
@@ -777,8 +734,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-22",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-22",
         },
         {
           source: "Anime Owl",
@@ -797,8 +753,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTky" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-23",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-23",
         },
         {
           source: "Anime Owl",
@@ -813,8 +768,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-23",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-23",
         },
         {
           source: "Anime Owl",
@@ -833,8 +787,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-24",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-24",
         },
         {
           source: "Anime Owl",
@@ -849,8 +802,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMjc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-24",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-24",
         },
         {
           source: "Anime Owl",
@@ -869,8 +821,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-25",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-25",
         },
         {
           source: "Anime Owl",
@@ -885,8 +836,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMjg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-25",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-25",
         },
         {
           source: "Anime Owl",
@@ -905,8 +855,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTk1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-26",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-26",
         },
         {
           source: "Anime Owl",
@@ -921,8 +870,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-26",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-26",
         },
         {
           source: "Anime Owl",
@@ -941,8 +889,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTk2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-27",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-27",
         },
         {
           source: "Anime Owl",
@@ -957,8 +904,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-27",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-27",
         },
         {
           source: "Anime Owl",
@@ -977,8 +923,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTk3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-28",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-28",
         },
         {
           source: "Anime Owl",
@@ -993,8 +938,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-28",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-28",
         },
         {
           source: "Anime Owl",
@@ -1013,8 +957,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTk4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-29",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-29",
         },
         {
           source: "Anime Owl",
@@ -1029,8 +972,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-29",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-29",
         },
         {
           source: "Anime Owl",
@@ -1049,8 +991,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MTk5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-30",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-30",
         },
         {
           source: "Anime Owl",
@@ -1065,8 +1006,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxMzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-30",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-30",
         },
         {
           source: "Anime Owl",
@@ -1085,8 +1025,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjAw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-31",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-31",
         },
         {
           source: "Anime Owl",
@@ -1101,8 +1040,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-31",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-31",
         },
         {
           source: "Anime Owl",
@@ -1121,8 +1059,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjAx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-32",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-32",
         },
         {
           source: "Anime Owl",
@@ -1137,8 +1074,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-32",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-32",
         },
         {
           source: "Anime Owl",
@@ -1157,8 +1093,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjAy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-33",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-33",
         },
         {
           source: "Anime Owl",
@@ -1173,8 +1108,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-33",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-33",
         },
         {
           source: "Anime Owl",
@@ -1193,8 +1127,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjAz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-34",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-34",
         },
         {
           source: "Anime Owl",
@@ -1209,8 +1142,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNjc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-34",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-34",
         },
         {
           source: "Anime Owl",
@@ -1229,8 +1161,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjA0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-35",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-35",
         },
         {
           source: "Anime Owl",
@@ -1245,8 +1176,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-35",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-35",
         },
         {
           source: "Anime Owl",
@@ -1265,8 +1195,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjA1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-36",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-36",
         },
         {
           source: "Anime Owl",
@@ -1281,8 +1210,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxODA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-36",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-36",
         },
         {
           source: "Anime Owl",
@@ -1301,8 +1229,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjA2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-37",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-37",
         },
         {
           source: "Anime Owl",
@@ -1317,8 +1244,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxODM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-37",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-37",
         },
         {
           source: "Anime Owl",
@@ -1337,8 +1263,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjA3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-38",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-38",
         },
         {
           source: "Anime Owl",
@@ -1353,8 +1278,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxODU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-38",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-38",
         },
         {
           source: "Anime Owl",
@@ -1373,8 +1297,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjA4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-39",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-39",
         },
         {
           source: "Anime Owl",
@@ -1389,8 +1312,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-39",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-39",
         },
         {
           source: "Anime Owl",
@@ -1409,8 +1331,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjA5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-40",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-40",
         },
         {
           source: "Anime Owl",
@@ -1425,8 +1346,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxOTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-40",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-40",
         },
         {
           source: "Anime Owl",
@@ -1445,8 +1365,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjEw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-41",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-41",
         },
         {
           source: "Anime Owl",
@@ -1461,8 +1380,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxOTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-41",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-41",
         },
         {
           source: "Anime Owl",
@@ -1481,8 +1399,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjEx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-42",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-42",
         },
         {
           source: "Anime Owl",
@@ -1497,8 +1414,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxOTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-42",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-42",
         },
         {
           source: "Anime Owl",
@@ -1517,8 +1433,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjEy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-43",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-43",
         },
         {
           source: "Anime Owl",
@@ -1533,8 +1448,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxOTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-43",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-43",
         },
         {
           source: "Anime Owl",
@@ -1553,8 +1467,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjEz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-44",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-44",
         },
         {
           source: "Anime Owl",
@@ -1569,8 +1482,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMDI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-44",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-44",
         },
         {
           source: "Anime Owl",
@@ -1589,8 +1501,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjE0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-45",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-45",
         },
         {
           source: "Anime Owl",
@@ -1605,8 +1516,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-45",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-45",
         },
         {
           source: "Anime Owl",
@@ -1625,8 +1535,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjE1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-46",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-46",
         },
         {
           source: "Anime Owl",
@@ -1641,8 +1550,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-46",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-46",
         },
         {
           source: "Anime Owl",
@@ -1661,8 +1569,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjE2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-47",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-47",
         },
         {
           source: "Anime Owl",
@@ -1677,8 +1584,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMDk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-47",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-47",
         },
         {
           source: "Anime Owl",
@@ -1697,8 +1603,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjE3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-48",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-48",
         },
         {
           source: "Anime Owl",
@@ -1713,8 +1618,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-48",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-48",
         },
         {
           source: "Anime Owl",
@@ -1733,8 +1637,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjE4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-49",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-49",
         },
         {
           source: "Anime Owl",
@@ -1749,8 +1652,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-49",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-49",
         },
         {
           source: "Anime Owl",
@@ -1769,8 +1671,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjE5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-50",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-50",
         },
         {
           source: "Anime Owl",
@@ -1785,8 +1686,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMjg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-50",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-50",
         },
         {
           source: "Anime Owl",
@@ -1805,8 +1705,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjIw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-51",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-51",
         },
         {
           source: "Anime Owl",
@@ -1821,8 +1720,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-51",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-51",
         },
         {
           source: "Anime Owl",
@@ -1841,8 +1739,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjIx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-52",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-52",
         },
         {
           source: "Anime Owl",
@@ -1857,8 +1754,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-52",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-52",
         },
         {
           source: "Anime Owl",
@@ -1877,8 +1773,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjIy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-53",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-53",
         },
         {
           source: "Anime Owl",
@@ -1893,8 +1788,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-53",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-53",
         },
         {
           source: "Anime Owl",
@@ -1913,8 +1807,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjIz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-54",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-54",
         },
         {
           source: "Anime Owl",
@@ -1929,8 +1822,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-54",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-54",
         },
         {
           source: "Anime Owl",
@@ -1949,8 +1841,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjI0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-55",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-55",
         },
         {
           source: "Anime Owl",
@@ -1965,8 +1856,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-55",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-55",
         },
         {
           source: "Anime Owl",
@@ -1985,8 +1875,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjI1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-56",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-56",
         },
         {
           source: "Anime Owl",
@@ -2001,8 +1890,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-56",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-56",
         },
         {
           source: "Anime Owl",
@@ -2021,8 +1909,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjI2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-57",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-57",
         },
         {
           source: "Anime Owl",
@@ -2037,8 +1924,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-57",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-57",
         },
         {
           source: "Anime Owl",
@@ -2057,8 +1943,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjI3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-58",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-58",
         },
         {
           source: "Anime Owl",
@@ -2073,8 +1958,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNjA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-58",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-58",
         },
         {
           source: "Anime Owl",
@@ -2093,8 +1977,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjI4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-59",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-59",
         },
         {
           source: "Anime Owl",
@@ -2109,8 +1992,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNjI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-59",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-59",
         },
         {
           source: "Anime Owl",
@@ -2129,8 +2011,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjI5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-60",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-60",
         },
         {
           source: "Anime Owl",
@@ -2145,8 +2026,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNjM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-60",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-60",
         },
         {
           source: "Anime Owl",
@@ -2165,8 +2045,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjMw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-61",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-61",
         },
         {
           source: "Anime Owl",
@@ -2181,8 +2060,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-61",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-61",
         },
         {
           source: "Anime Owl",
@@ -2201,8 +2079,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjMx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-62",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-62",
         },
         {
           source: "Anime Owl",
@@ -2217,8 +2094,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNjc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-62",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-62",
         },
         {
           source: "Anime Owl",
@@ -2237,8 +2113,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjMy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-63",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-63",
         },
         {
           source: "Anime Owl",
@@ -2253,8 +2128,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNjk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-63",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-63",
         },
         {
           source: "Anime Owl",
@@ -2273,8 +2147,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjMz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-64",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-64",
         },
         {
           source: "Anime Owl",
@@ -2289,8 +2162,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-64",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-64",
         },
         {
           source: "Anime Owl",
@@ -2309,8 +2181,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjM0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-65",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-65",
         },
         {
           source: "Anime Owl",
@@ -2325,8 +2196,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-65",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-65",
         },
         {
           source: "Anime Owl",
@@ -2345,8 +2215,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjM1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-66",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-66",
         },
         {
           source: "Anime Owl",
@@ -2361,8 +2230,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-66",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-66",
         },
         {
           source: "Anime Owl",
@@ -2381,8 +2249,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjM2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-67",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-67",
         },
         {
           source: "Anime Owl",
@@ -2397,8 +2264,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-67",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-67",
         },
         {
           source: "Anime Owl",
@@ -2417,8 +2283,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjM3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-68",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-68",
         },
         {
           source: "Anime Owl",
@@ -2433,8 +2298,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyNzg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-68",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-68",
         },
         {
           source: "Anime Owl",
@@ -2453,8 +2317,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjM4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-69",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-69",
         },
         {
           source: "Anime Owl",
@@ -2469,8 +2332,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyODA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-69",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-69",
         },
         {
           source: "Anime Owl",
@@ -2489,8 +2351,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjM5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-70",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-70",
         },
         {
           source: "Anime Owl",
@@ -2505,8 +2366,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyODI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-70",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-70",
         },
         {
           source: "Anime Owl",
@@ -2525,8 +2385,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-71",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-71",
         },
         {
           source: "Anime Owl",
@@ -2541,8 +2400,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyODc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-71",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-71",
         },
         {
           source: "Anime Owl",
@@ -2561,8 +2419,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-72",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-72",
         },
         {
           source: "Anime Owl",
@@ -2577,8 +2434,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-72",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-72",
         },
         {
           source: "Anime Owl",
@@ -2597,8 +2453,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-73",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-73",
         },
         {
           source: "Anime Owl",
@@ -2613,8 +2468,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-73",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-73",
         },
         {
           source: "Anime Owl",
@@ -2633,8 +2487,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-74",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-74",
         },
         {
           source: "Anime Owl",
@@ -2649,8 +2502,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-74",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-74",
         },
         {
           source: "Anime Owl",
@@ -2669,8 +2521,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQ0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-75",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-75",
         },
         {
           source: "Anime Owl",
@@ -2685,8 +2536,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-75",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-75",
         },
         {
           source: "Anime Owl",
@@ -2705,8 +2555,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQ1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-76",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-76",
         },
         {
           source: "Anime Owl",
@@ -2721,8 +2570,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-76",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-76",
         },
         {
           source: "Anime Owl",
@@ -2741,8 +2589,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQ2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-77",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-77",
         },
         {
           source: "Anime Owl",
@@ -2757,8 +2604,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMjA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-77",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-77",
         },
         {
           source: "Anime Owl",
@@ -2777,8 +2623,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQ3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-78",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-78",
         },
         {
           source: "Anime Owl",
@@ -2793,8 +2638,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMjI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-78",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-78",
         },
         {
           source: "Anime Owl",
@@ -2813,8 +2657,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQ4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-79",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-79",
         },
         {
           source: "Anime Owl",
@@ -2829,8 +2672,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-79",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-79",
         },
         {
           source: "Anime Owl",
@@ -2849,8 +2691,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjQ5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-80",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-80",
         },
         {
           source: "Anime Owl",
@@ -2865,8 +2706,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-80",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-80",
         },
         {
           source: "Anime Owl",
@@ -2885,8 +2725,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-81",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-81",
         },
         {
           source: "Anime Owl",
@@ -2901,8 +2740,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMjc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-81",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-81",
         },
         {
           source: "Anime Owl",
@@ -2921,8 +2759,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-82",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-82",
         },
         {
           source: "Anime Owl",
@@ -2937,8 +2774,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMjg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-82",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-82",
         },
         {
           source: "Anime Owl",
@@ -2957,8 +2793,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-83",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-83",
         },
         {
           source: "Anime Owl",
@@ -2973,8 +2808,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMjk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-83",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-83",
         },
         {
           source: "Anime Owl",
@@ -2993,8 +2827,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-84",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-84",
         },
         {
           source: "Anime Owl",
@@ -3009,8 +2842,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-84",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-84",
         },
         {
           source: "Anime Owl",
@@ -3029,8 +2861,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-85",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-85",
         },
         {
           source: "Anime Owl",
@@ -3045,8 +2876,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-85",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-85",
         },
         {
           source: "Anime Owl",
@@ -3065,8 +2895,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-86",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-86",
         },
         {
           source: "Anime Owl",
@@ -3081,8 +2910,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-86",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-86",
         },
         {
           source: "Anime Owl",
@@ -3101,8 +2929,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-87",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-87",
         },
         {
           source: "Anime Owl",
@@ -3117,8 +2944,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-87",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-87",
         },
         {
           source: "Anime Owl",
@@ -3137,8 +2963,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-88",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-88",
         },
         {
           source: "Anime Owl",
@@ -3153,8 +2978,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-88",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-88",
         },
         {
           source: "Anime Owl",
@@ -3173,8 +2997,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjU4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-89",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-89",
         },
         {
           source: "Anime Owl",
@@ -3189,8 +3012,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-89",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-89",
         },
         {
           source: "Anime Owl",
@@ -3209,8 +3031,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjU5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-90",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-90",
         },
         {
           source: "Anime Owl",
@@ -3225,8 +3046,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-90",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-90",
         },
         {
           source: "Anime Owl",
@@ -3245,8 +3065,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjYw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-91",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-91",
         },
         {
           source: "Anime Owl",
@@ -3261,8 +3080,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-91",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-91",
         },
         {
           source: "Anime Owl",
@@ -3281,8 +3099,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjYx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-92",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-92",
         },
         {
           source: "Anime Owl",
@@ -3297,8 +3114,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNDE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-92",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-92",
         },
         {
           source: "Anime Owl",
@@ -3317,8 +3133,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjYy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-93",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-93",
         },
         {
           source: "Anime Owl",
@@ -3333,8 +3148,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-93",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-93",
         },
         {
           source: "Anime Owl",
@@ -3353,8 +3167,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-94",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-94",
         },
         {
           source: "Anime Owl",
@@ -3369,8 +3182,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzODA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-94",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-94",
         },
         {
           source: "Anime Owl",
@@ -3389,8 +3201,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjY0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-95",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-95",
         },
         {
           source: "Anime Owl",
@@ -3405,8 +3216,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-95",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-95",
         },
         {
           source: "Anime Owl",
@@ -3425,8 +3235,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-96",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-96",
         },
         {
           source: "Anime Owl",
@@ -3441,8 +3250,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNDY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-96",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-96",
         },
         {
           source: "Anime Owl",
@@ -3461,8 +3269,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-97",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-97",
         },
         {
           source: "Anime Owl",
@@ -3477,8 +3284,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-97",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-97",
         },
         {
           source: "Anime Owl",
@@ -3497,8 +3303,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-98",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-98",
         },
         {
           source: "Anime Owl",
@@ -3513,8 +3318,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNDk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-98",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-98",
         },
         {
           source: "Anime Owl",
@@ -3533,8 +3337,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-99",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-99",
         },
         {
           source: "Anime Owl",
@@ -3549,8 +3352,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-99",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-99",
         },
         {
           source: "Anime Owl",
@@ -3569,8 +3371,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MjY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-100",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-100",
         },
         {
           source: "Anime Owl",
@@ -3585,8 +3386,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-100",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-100",
         },
         {
           source: "Anime Owl",
@@ -3605,8 +3405,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-101",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-101",
         },
         {
           source: "Anime Owl",
@@ -3621,8 +3420,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-101",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-101",
         },
         {
           source: "Anime Owl",
@@ -3641,8 +3439,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-102",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-102",
         },
         {
           source: "Anime Owl",
@@ -3657,8 +3454,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-102",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-102",
         },
         {
           source: "Anime Owl",
@@ -3677,8 +3473,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-103",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-103",
         },
         {
           source: "Anime Owl",
@@ -3693,8 +3488,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-103",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-103",
         },
         {
           source: "Anime Owl",
@@ -3713,8 +3507,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-104",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-104",
         },
         {
           source: "Anime Owl",
@@ -3729,8 +3522,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-104",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-104",
         },
         {
           source: "Anime Owl",
@@ -3749,8 +3541,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-105",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-105",
         },
         {
           source: "Anime Owl",
@@ -3765,8 +3556,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-105",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-105",
         },
         {
           source: "Anime Owl",
@@ -3785,8 +3575,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-106",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-106",
         },
         {
           source: "Anime Owl",
@@ -3801,8 +3590,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-106",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-106",
         },
         {
           source: "Anime Owl",
@@ -3821,8 +3609,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-107",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-107",
         },
         {
           source: "Anime Owl",
@@ -3837,8 +3624,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNjI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-107",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-107",
         },
         {
           source: "Anime Owl",
@@ -3857,8 +3643,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-108",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-108",
         },
         {
           source: "Anime Owl",
@@ -3873,8 +3658,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNzg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-108",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-108",
         },
         {
           source: "Anime Owl",
@@ -3893,8 +3677,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-109",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-109",
         },
         {
           source: "Anime Owl",
@@ -3909,8 +3692,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-109",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-109",
         },
         {
           source: "Anime Owl",
@@ -3929,8 +3711,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-110",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-110",
         },
         {
           source: "Anime Owl",
@@ -3945,8 +3726,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNjg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-110",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-110",
         },
         {
           source: "Anime Owl",
@@ -3965,8 +3745,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-111",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-111",
         },
         {
           source: "Anime Owl",
@@ -3981,8 +3760,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNjc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-111",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-111",
         },
         {
           source: "Anime Owl",
@@ -4001,8 +3779,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-112",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-112",
         },
         {
           source: "Anime Owl",
@@ -4017,8 +3794,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-112",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-112",
         },
         {
           source: "Anime Owl",
@@ -4037,8 +3813,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-113",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-113",
         },
         {
           source: "Anime Owl",
@@ -4053,8 +3828,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-113",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-113",
         },
         {
           source: "Anime Owl",
@@ -4073,8 +3847,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-114",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-114",
         },
         {
           source: "Anime Owl",
@@ -4089,8 +3862,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzODE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-114",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-114",
         },
         {
           source: "Anime Owl",
@@ -4109,8 +3881,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-115",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-115",
         },
         {
           source: "Anime Owl",
@@ -4125,8 +3896,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzODI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-115",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-115",
         },
         {
           source: "Anime Owl",
@@ -4145,8 +3915,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-116",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-116",
         },
         {
           source: "Anime Owl",
@@ -4161,8 +3930,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzODU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-116",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-116",
         },
         {
           source: "Anime Owl",
@@ -4181,8 +3949,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-117",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-117",
         },
         {
           source: "Anime Owl",
@@ -4197,8 +3964,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzODQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-117",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-117",
         },
         {
           source: "Anime Owl",
@@ -4217,8 +3983,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-118",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-118",
         },
         {
           source: "Anime Owl",
@@ -4233,8 +3998,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzODc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-118",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-118",
         },
         {
           source: "Anime Owl",
@@ -4253,8 +4017,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-119",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-119",
         },
         {
           source: "Anime Owl",
@@ -4269,8 +4032,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0Nzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-119",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-119",
         },
         {
           source: "Anime Owl",
@@ -4289,8 +4051,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-120",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-120",
         },
         { source: "Anime Owl" },
       ],
@@ -4301,8 +4062,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-120",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-120",
         },
         {
           source: "Anime Owl",
@@ -4321,8 +4081,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjkw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-121",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-121",
         },
         {
           source: "Anime Owl",
@@ -4337,8 +4096,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzOTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-121",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-121",
         },
         {
           source: "Anime Owl",
@@ -4357,8 +4115,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjkx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-122",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-122",
         },
         {
           source: "Anime Owl",
@@ -4373,8 +4130,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzOTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-122",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-122",
         },
         {
           source: "Anime Owl",
@@ -4393,8 +4149,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjky" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-123",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-123",
         },
         {
           source: "Anime Owl",
@@ -4409,8 +4164,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzOTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-123",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-123",
         },
         {
           source: "Anime Owl",
@@ -4429,8 +4183,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-124",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-124",
         },
         { source: "Anime Owl" },
       ],
@@ -4441,8 +4194,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzOTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-124",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-124",
         },
         {
           source: "Anime Owl",
@@ -4461,8 +4213,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-125",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-125",
         },
         {
           source: "Anime Owl",
@@ -4477,8 +4228,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzOTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-125",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-125",
         },
         {
           source: "Anime Owl",
@@ -4497,8 +4247,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjk1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-126",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-126",
         },
         { source: "Anime Owl" },
       ],
@@ -4509,8 +4258,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MDI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-126",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-126",
         },
         {
           source: "Anime Owl",
@@ -4529,8 +4277,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjk2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-127",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-127",
         },
         { source: "Anime Owl" },
       ],
@@ -4541,8 +4288,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-127",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-127",
         },
         {
           source: "Anime Owl",
@@ -4561,8 +4307,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjk3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-128",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-128",
         },
         { source: "Anime Owl" },
       ],
@@ -4573,8 +4318,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-128",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-128",
         },
         {
           source: "Anime Owl",
@@ -4593,8 +4337,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjk4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-129",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-129",
         },
         { source: "Anime Owl" },
       ],
@@ -4605,8 +4348,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-129",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-129",
         },
         {
           source: "Anime Owl",
@@ -4625,8 +4367,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mjk5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-130",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-130",
         },
         { source: "Anime Owl" },
       ],
@@ -4637,8 +4378,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-130",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-130",
         },
         {
           source: "Anime Owl",
@@ -4657,8 +4397,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzAw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-131",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-131",
         },
         { source: "Anime Owl" },
       ],
@@ -4669,8 +4408,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-131",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-131",
         },
         {
           source: "Anime Owl",
@@ -4689,8 +4427,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzAx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-132",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-132",
         },
         { source: "Anime Owl" },
       ],
@@ -4701,8 +4438,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-132",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-132",
         },
         {
           source: "Anime Owl",
@@ -4721,8 +4457,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzAy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-133",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-133",
         },
         { source: "Anime Owl" },
       ],
@@ -4733,8 +4468,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MjE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-133",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-133",
         },
         {
           source: "Anime Owl",
@@ -4753,8 +4487,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzAz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-134",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-134",
         },
         { source: "Anime Owl" },
       ],
@@ -4765,8 +4498,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-134",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-134",
         },
         {
           source: "Anime Owl",
@@ -4785,8 +4517,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzA0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-135",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-135",
         },
         { source: "Anime Owl" },
       ],
@@ -4797,8 +4528,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0Mjk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-135",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-135",
         },
         {
           source: "Anime Owl",
@@ -4817,8 +4547,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzA1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-136",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-136",
         },
         { source: "Anime Owl" },
       ],
@@ -4829,8 +4558,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0Mzc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-136",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-136",
         },
         {
           source: "Anime Owl",
@@ -4849,8 +4577,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzA2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-137",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-137",
         },
         { source: "Anime Owl" },
       ],
@@ -4861,8 +4588,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-137",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-137",
         },
         {
           source: "Anime Owl",
@@ -4881,8 +4607,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzA3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-138",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-138",
         },
         { source: "Anime Owl" },
       ],
@@ -4893,8 +4618,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-138",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-138",
         },
         {
           source: "Anime Owl",
@@ -4913,8 +4637,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzA4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-139",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-139",
         },
         { source: "Anime Owl" },
       ],
@@ -4925,8 +4648,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-139",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-139",
         },
         {
           source: "Anime Owl",
@@ -4945,8 +4667,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzA5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-140",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-140",
         },
         { source: "Anime Owl", video: "" },
       ],
@@ -4957,8 +4678,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-140",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-140",
         },
         {
           source: "Anime Owl",
@@ -4977,8 +4697,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzEw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-141",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-141",
         },
         {
           source: "Anime Owl",
@@ -4993,8 +4712,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-141",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-141",
         },
         {
           source: "Anime Owl",
@@ -5013,8 +4731,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzEx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-142",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-142",
         },
         {
           source: "Anime Owl",
@@ -5029,8 +4746,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-142",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-142",
         },
         {
           source: "Anime Owl",
@@ -5049,8 +4765,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzEy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-143",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-143",
         },
         {
           source: "Anime Owl",
@@ -5065,8 +4780,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-143",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-143",
         },
         {
           source: "Anime Owl",
@@ -5085,8 +4799,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzEz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-144",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-144",
         },
         {
           source: "Anime Owl",
@@ -5101,8 +4814,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-144",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-144",
         },
         {
           source: "Anime Owl",
@@ -5121,8 +4833,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzE0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-145",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-145",
         },
         { source: "Anime Owl" },
       ],
@@ -5133,8 +4844,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NDk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-145",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-145",
         },
         {
           source: "Anime Owl",
@@ -5153,8 +4863,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzE1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-146",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-146",
         },
         {
           source: "Anime Owl",
@@ -5169,8 +4878,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-146",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-146",
         },
         {
           source: "Anime Owl",
@@ -5189,8 +4897,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzE2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-147",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-147",
         },
         {
           source: "Anime Owl",
@@ -5205,8 +4912,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-147",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-147",
         },
         {
           source: "Anime Owl",
@@ -5225,8 +4931,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzE3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-148",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-148",
         },
         {
           source: "Anime Owl",
@@ -5241,8 +4946,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-148",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-148",
         },
         {
           source: "Anime Owl",
@@ -5261,8 +4965,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzE4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-149",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-149",
         },
         {
           source: "Anime Owl",
@@ -5277,8 +4980,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-149",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-149",
         },
         {
           source: "Anime Owl",
@@ -5297,8 +4999,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzE5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-150",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-150",
         },
         {
           source: "Anime Owl",
@@ -5313,8 +5014,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-150",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-150",
         },
         {
           source: "Anime Owl",
@@ -5333,8 +5033,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzIw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-151",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-151",
         },
         {
           source: "Anime Owl",
@@ -5349,8 +5048,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-151",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-151",
         },
         {
           source: "Anime Owl",
@@ -5369,8 +5067,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzIx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-152",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-152",
         },
         {
           source: "Anime Owl",
@@ -5385,8 +5082,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-152",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-152",
         },
         {
           source: "Anime Owl",
@@ -5405,8 +5101,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzIy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-153",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-153",
         },
         {
           source: "Anime Owl",
@@ -5421,8 +5116,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NjE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-153",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-153",
         },
         {
           source: "Anime Owl",
@@ -5441,8 +5135,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzIz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-154",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-154",
         },
         {
           source: "Anime Owl",
@@ -5457,8 +5150,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0ODc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-154",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-154",
         },
         {
           source: "Anime Owl",
@@ -5477,8 +5169,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzI0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-155",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-155",
         },
         { source: "Anime Owl" },
       ],
@@ -5489,8 +5180,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-155",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-155",
         },
         {
           source: "Anime Owl",
@@ -5509,8 +5199,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzI1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-156",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-156",
         },
         { source: "Anime Owl" },
       ],
@@ -5521,8 +5210,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0Njg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-156",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-156",
         },
         {
           source: "Anime Owl",
@@ -5541,8 +5229,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzI2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-157",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-157",
         },
         {
           source: "Anime Owl",
@@ -5557,8 +5244,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0ODg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-157",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-157",
         },
         {
           source: "Anime Owl",
@@ -5577,8 +5263,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzI3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-158",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-158",
         },
         {
           source: "Anime Owl",
@@ -5593,8 +5278,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0ODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-158",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-158",
         },
         {
           source: "Anime Owl",
@@ -5613,8 +5297,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzI4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-159",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-159",
         },
         {
           source: "Anime Owl",
@@ -5629,8 +5312,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0OTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-159",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-159",
         },
         {
           source: "Anime Owl",
@@ -5649,8 +5331,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzI5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-160",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-160",
         },
         { source: "Anime Owl" },
       ],
@@ -5661,8 +5342,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0OTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-160",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-160",
         },
         {
           source: "Anime Owl",
@@ -5681,8 +5361,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzMw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-161",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-161",
         },
         {
           source: "Anime Owl",
@@ -5697,8 +5376,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0OTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-161",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-161",
         },
         {
           source: "Anime Owl",
@@ -5717,8 +5395,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzMx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-162",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-162",
         },
         {
           source: "Anime Owl",
@@ -5733,8 +5410,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0OTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-162",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-162",
         },
         {
           source: "Anime Owl",
@@ -5753,8 +5429,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzMy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-163",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-163",
         },
         {
           source: "Anime Owl",
@@ -5769,8 +5444,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0OTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-163",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-163",
         },
         {
           source: "Anime Owl",
@@ -5789,8 +5463,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzMz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-164",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-164",
         },
         {
           source: "Anime Owl",
@@ -5805,8 +5478,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-164",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-164",
         },
         {
           source: "Anime Owl",
@@ -5825,8 +5497,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzM0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-165",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-165",
         },
         {
           source: "Anime Owl",
@@ -5841,8 +5512,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-165",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-165",
         },
         {
           source: "Anime Owl",
@@ -5861,8 +5531,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzM1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-166",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-166",
         },
         {
           source: "Anime Owl",
@@ -5877,8 +5546,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MDk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-166",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-166",
         },
         {
           source: "Anime Owl",
@@ -5897,8 +5565,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzM2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-167",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-167",
         },
         {
           source: "Anime Owl",
@@ -5913,8 +5580,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-167",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-167",
         },
         {
           source: "Anime Owl",
@@ -5933,8 +5599,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzM3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-168",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-168",
         },
         {
           source: "Anime Owl",
@@ -5949,8 +5614,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-168",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-168",
         },
         {
           source: "Anime Owl",
@@ -5969,8 +5633,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzM4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-169",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-169",
         },
         {
           source: "Anime Owl",
@@ -5985,8 +5648,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-169",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-169",
         },
         {
           source: "Anime Owl",
@@ -6005,8 +5667,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzM5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-170",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-170",
         },
         {
           source: "Anime Owl",
@@ -6021,8 +5682,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-170",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-170",
         },
         {
           source: "Anime Owl",
@@ -6041,8 +5701,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-171",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-171",
         },
         {
           source: "Anime Owl",
@@ -6057,8 +5716,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-171",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-171",
         },
         {
           source: "Anime Owl",
@@ -6077,8 +5735,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-172",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-172",
         },
         { source: "Anime Owl" },
       ],
@@ -6089,8 +5746,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-172",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-172",
         },
         {
           source: "Anime Owl",
@@ -6109,8 +5765,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-173",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-173",
         },
         {
           source: "Anime Owl",
@@ -6125,8 +5780,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MjA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-173",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-173",
         },
         {
           source: "Anime Owl",
@@ -6145,8 +5799,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-174",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-174",
         },
         {
           source: "Anime Owl",
@@ -6161,8 +5814,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MjI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-174",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-174",
         },
         { source: "Anime Owl" },
       ],
@@ -6177,8 +5829,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQ0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-175",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-175",
         },
         {
           source: "Anime Owl",
@@ -6193,8 +5844,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MjM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-175",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-175",
         },
         { source: "Anime Owl" },
       ],
@@ -6209,8 +5859,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQ1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-176",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-176",
         },
         {
           source: "Anime Owl",
@@ -6225,8 +5874,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-176",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-176",
         },
         {
           source: "Anime Owl",
@@ -6245,8 +5893,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQ2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-177",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-177",
         },
         {
           source: "Anime Owl",
@@ -6261,8 +5908,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1Mzc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-177",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-177",
         },
         { source: "Anime Owl" },
       ],
@@ -6277,8 +5923,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQ3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-178",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-178",
         },
         {
           source: "Anime Owl",
@@ -6293,8 +5938,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-178",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-178",
         },
         { source: "Anime Owl" },
       ],
@@ -6309,8 +5953,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQ4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-179",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-179",
         },
         {
           source: "Anime Owl",
@@ -6325,8 +5968,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-179",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-179",
         },
         { source: "Anime Owl" },
       ],
@@ -6341,8 +5983,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzQ5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-180",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-180",
         },
         {
           source: "Anime Owl",
@@ -6357,8 +5998,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-180",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-180",
         },
         {
           source: "Anime Owl",
@@ -6377,8 +6017,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-181",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-181",
         },
         {
           source: "Anime Owl",
@@ -6393,8 +6032,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-181",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-181",
         },
         {
           source: "Anime Owl",
@@ -6413,8 +6051,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-182",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-182",
         },
         {
           source: "Anime Owl",
@@ -6429,8 +6066,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-182",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-182",
         },
         {
           source: "Anime Owl",
@@ -6449,8 +6085,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-183",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-183",
         },
         {
           source: "Anime Owl",
@@ -6465,8 +6100,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-183",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-183",
         },
         {
           source: "Anime Owl",
@@ -6485,8 +6119,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-184",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-184",
         },
         {
           source: "Anime Owl",
@@ -6501,8 +6134,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-184",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-184",
         },
         {
           source: "Anime Owl",
@@ -6521,8 +6153,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-185",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-185",
         },
         {
           source: "Anime Owl",
@@ -6537,8 +6168,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-185",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-185",
         },
         {
           source: "Anime Owl",
@@ -6557,8 +6187,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-186",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-186",
         },
         {
           source: "Anime Owl",
@@ -6573,8 +6202,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NjA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-186",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-186",
         },
         {
           source: "Anime Owl",
@@ -6593,8 +6221,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-187",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-187",
         },
         {
           source: "Anime Owl",
@@ -6609,8 +6236,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NjM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-187",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-187",
         },
         {
           source: "Anime Owl",
@@ -6629,8 +6255,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-188",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-188",
         },
         {
           source: "Anime Owl",
@@ -6645,8 +6270,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-188",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-188",
         },
         {
           source: "Anime Owl",
@@ -6665,8 +6289,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzU4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-189",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-189",
         },
         {
           source: "Anime Owl",
@@ -6681,8 +6304,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-189",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-189",
         },
         {
           source: "Anime Owl",
@@ -6701,8 +6323,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzU5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-190",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-190",
         },
         {
           source: "Anime Owl",
@@ -6717,8 +6338,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1Njg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-190",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-190",
         },
         {
           source: "Anime Owl",
@@ -6737,8 +6357,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzYw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-191",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-191",
         },
         {
           source: "Anime Owl",
@@ -6753,8 +6372,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-191",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-191",
         },
         {
           source: "Anime Owl",
@@ -6773,8 +6391,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzYx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-192",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-192",
         },
         {
           source: "Anime Owl",
@@ -6789,8 +6406,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-192",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-192",
         },
         {
           source: "Anime Owl",
@@ -6809,8 +6425,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzYy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-193",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-193",
         },
         {
           source: "Anime Owl",
@@ -6825,8 +6440,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-193",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-193",
         },
         {
           source: "Anime Owl",
@@ -6845,8 +6459,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-194",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-194",
         },
         {
           source: "Anime Owl",
@@ -6861,8 +6474,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-194",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-194",
         },
         {
           source: "Anime Owl",
@@ -6881,8 +6493,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzY0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-195",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-195",
         },
         {
           source: "Anime Owl",
@@ -6897,8 +6508,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1Nzg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-195",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-195",
         },
         {
           source: "Anime Owl",
@@ -6917,8 +6527,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-196",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-196",
         },
         {
           source: "Anime Owl",
@@ -6933,8 +6542,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-196",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-196",
         },
         {
           source: "Anime Owl",
@@ -6953,8 +6561,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-197",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-197",
         },
         {
           source: "Anime Owl",
@@ -6969,8 +6576,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1Nzc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-197",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-197",
         },
         {
           source: "Anime Owl",
@@ -6989,8 +6595,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-198",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-198",
         },
         {
           source: "Anime Owl",
@@ -7005,8 +6610,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1Nzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-198",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-198",
         },
         {
           source: "Anime Owl",
@@ -7025,8 +6629,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-199",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-199",
         },
         {
           source: "Anime Owl",
@@ -7041,8 +6644,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1ODA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-199",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-199",
         },
         {
           source: "Anime Owl",
@@ -7061,8 +6663,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MzY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-200",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-200",
         },
         {
           source: "Anime Owl",
@@ -7077,8 +6678,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1ODE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-200",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-200",
         },
         {
           source: "Anime Owl",
@@ -7097,8 +6697,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-201",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-201",
         },
         {
           source: "Anime Owl",
@@ -7113,8 +6712,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg2ODc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-201",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-201",
         },
         {
           source: "Anime Owl",
@@ -7133,8 +6731,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-202",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-202",
         },
         {
           source: "Anime Owl",
@@ -7149,8 +6746,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1ODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-202",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-202",
         },
         {
           source: "Anime Owl",
@@ -7169,8 +6765,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-203",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-203",
         },
         {
           source: "Anime Owl",
@@ -7185,8 +6780,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1OTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-203",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-203",
         },
         {
           source: "Anime Owl",
@@ -7205,8 +6799,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-204",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-204",
         },
         {
           source: "Anime Owl",
@@ -7221,8 +6814,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1OTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-204",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-204",
         },
         {
           source: "Anime Owl",
@@ -7241,8 +6833,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-205",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-205",
         },
         {
           source: "Anime Owl",
@@ -7257,8 +6848,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1OTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-205",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-205",
         },
         {
           source: "Anime Owl",
@@ -7277,8 +6867,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-206",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-206",
         },
         {
           source: "Anime Owl",
@@ -7293,8 +6882,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1OTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-206",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-206",
         },
         {
           source: "Anime Owl",
@@ -7313,8 +6901,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-207",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-207",
         },
         {
           source: "Anime Owl",
@@ -7329,8 +6916,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1OTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-207",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-207",
         },
         {
           source: "Anime Owl",
@@ -7349,8 +6935,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-208",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-208",
         },
         {
           source: "Anime Owl",
@@ -7365,8 +6950,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-208",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-208",
         },
         {
           source: "Anime Owl",
@@ -7385,8 +6969,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-209",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-209",
         },
         {
           source: "Anime Owl",
@@ -7401,8 +6984,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1OTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-209",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-209",
         },
         {
           source: "Anime Owl",
@@ -7421,8 +7003,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-210",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-210",
         },
         {
           source: "Anime Owl",
@@ -7437,8 +7018,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MDA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-210",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-210",
         },
         {
           source: "Anime Owl",
@@ -7457,8 +7037,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-211",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-211",
         },
         {
           source: "Anime Owl",
@@ -7473,8 +7052,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MDE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-211",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-211",
         },
         {
           source: "Anime Owl",
@@ -7493,8 +7071,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-212",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-212",
         },
         {
           source: "Anime Owl",
@@ -7509,8 +7086,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MDM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-212",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-212",
         },
         {
           source: "Anime Owl",
@@ -7529,8 +7105,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-213",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-213",
         },
         {
           source: "Anime Owl",
@@ -7545,8 +7120,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-213",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-213",
         },
         {
           source: "Anime Owl",
@@ -7565,8 +7139,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-214",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-214",
         },
         {
           source: "Anime Owl",
@@ -7581,8 +7154,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-214",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-214",
         },
         {
           source: "Anime Owl",
@@ -7601,8 +7173,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-215",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-215",
         },
         {
           source: "Anime Owl",
@@ -7617,8 +7188,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-215",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-215",
         },
         {
           source: "Anime Owl",
@@ -7637,8 +7207,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-216",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-216",
         },
         {
           source: "Anime Owl",
@@ -7653,8 +7222,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-216",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-216",
         },
         {
           source: "Anime Owl",
@@ -7673,8 +7241,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-217",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-217",
         },
         {
           source: "Anime Owl",
@@ -7689,8 +7256,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-217",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-217",
         },
         {
           source: "Anime Owl",
@@ -7709,8 +7275,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-218",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-218",
         },
         {
           source: "Anime Owl",
@@ -7725,8 +7290,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-218",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-218",
         },
         {
           source: "Anime Owl",
@@ -7745,8 +7309,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-219",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-219",
         },
         {
           source: "Anime Owl",
@@ -7761,8 +7324,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-219",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-219",
         },
         {
           source: "Anime Owl",
@@ -7781,8 +7343,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0Mzg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-dub-episode-220",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-dub-episode-220",
         },
         {
           source: "Anime Owl",
@@ -7797,8 +7358,7 @@ naruto = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2MTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-episode-220",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-episode-220",
         },
         {
           source: "Anime Owl",
@@ -7820,8 +7380,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-1",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-1",
         },
         {
           source: "Anime Owl",
@@ -7836,8 +7395,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIwMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-1",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-1",
         },
         {
           source: "Anime Owl",
@@ -7856,8 +7414,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjQ0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-2",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-2",
         },
         {
           source: "Anime Owl",
@@ -7872,8 +7429,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIwMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-2",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-2",
         },
         {
           source: "Anime Owl",
@@ -7892,8 +7448,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjQ1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-3",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-3",
         },
         {
           source: "Anime Owl",
@@ -7908,8 +7463,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIwNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-3",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-3",
         },
         {
           source: "Anime Owl",
@@ -7928,8 +7482,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjQ2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-4",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-4",
         },
         {
           source: "Anime Owl",
@@ -7944,8 +7497,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIwNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-4",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-4",
         },
         {
           source: "Anime Owl",
@@ -7964,8 +7516,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjQ3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-5",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-5",
         },
         {
           source: "Anime Owl",
@@ -7980,8 +7531,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIwOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-5",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-5",
         },
         {
           source: "Anime Owl",
@@ -8000,8 +7550,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjQ4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-6",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-6",
         },
         {
           source: "Anime Owl",
@@ -8016,8 +7565,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIxMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-6",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-6",
         },
         {
           source: "Anime Owl",
@@ -8036,8 +7584,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjQ5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-7",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-7",
         },
         {
           source: "Anime Owl",
@@ -8052,8 +7599,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIxMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-7",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-7",
         },
         {
           source: "Anime Owl",
@@ -8072,8 +7618,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-8",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-8",
         },
         {
           source: "Anime Owl",
@@ -8088,8 +7633,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIxNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-8",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-8",
         },
         {
           source: "Anime Owl",
@@ -8108,8 +7652,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-9",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-9",
         },
         {
           source: "Anime Owl",
@@ -8124,8 +7667,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIxNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-9",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-9",
         },
         {
           source: "Anime Owl",
@@ -8144,8 +7686,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-10",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-10",
         },
         {
           source: "Anime Owl",
@@ -8160,8 +7701,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIxOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-10",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-10",
         },
         {
           source: "Anime Owl",
@@ -8180,8 +7720,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-11",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-11",
         },
         {
           source: "Anime Owl",
@@ -8196,8 +7735,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIyMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-11",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-11",
         },
         {
           source: "Anime Owl",
@@ -8216,8 +7754,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-12",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-12",
         },
         {
           source: "Anime Owl",
@@ -8232,8 +7769,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIyNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-12",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-12",
         },
         {
           source: "Anime Owl",
@@ -8252,8 +7788,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-13",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-13",
         },
         {
           source: "Anime Owl",
@@ -8268,8 +7803,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIyNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-13",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-13",
         },
         {
           source: "Anime Owl",
@@ -8288,8 +7822,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-14",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-14",
         },
         {
           source: "Anime Owl",
@@ -8304,8 +7837,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIyNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-14",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-14",
         },
         {
           source: "Anime Owl",
@@ -8324,8 +7856,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-15",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-15",
         },
         {
           source: "Anime Owl",
@@ -8340,8 +7871,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIyOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-15",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-15",
         },
         {
           source: "Anime Owl",
@@ -8360,8 +7890,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjU4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-16",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-16",
         },
         {
           source: "Anime Owl",
@@ -8376,8 +7905,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIzMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-16",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-16",
         },
         {
           source: "Anime Owl",
@@ -8396,8 +7924,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjU5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-17",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-17",
         },
         {
           source: "Anime Owl",
@@ -8412,8 +7939,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIzMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-17",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-17",
         },
         {
           source: "Anime Owl",
@@ -8432,8 +7958,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjYw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-18",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-18",
         },
         {
           source: "Anime Owl",
@@ -8448,8 +7973,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIzMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-18",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-18",
         },
         {
           source: "Anime Owl",
@@ -8468,8 +7992,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjYx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-19",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-19",
         },
         {
           source: "Anime Owl",
@@ -8484,8 +8007,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIzNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-19",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-19",
         },
         {
           source: "Anime Owl",
@@ -8504,8 +8026,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjYy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-20",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-20",
         },
         {
           source: "Anime Owl",
@@ -8520,8 +8041,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIzNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-20",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-20",
         },
         {
           source: "Anime Owl",
@@ -8540,8 +8060,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-21",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-21",
         },
         {
           source: "Anime Owl",
@@ -8556,8 +8075,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIzNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-21",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-21",
         },
         {
           source: "Anime Owl",
@@ -8576,8 +8094,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjY0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-22",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-22",
         },
         {
           source: "Anime Owl",
@@ -8592,8 +8109,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI0MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-22",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-22",
         },
         {
           source: "Anime Owl",
@@ -8612,8 +8128,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-23",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-23",
         },
         {
           source: "Anime Owl",
@@ -8628,8 +8143,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjIzOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-23",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-23",
         },
         {
           source: "Anime Owl",
@@ -8648,8 +8162,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-24",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-24",
         },
         {
           source: "Anime Owl",
@@ -8664,8 +8177,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI0Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-24",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-24",
         },
         {
           source: "Anime Owl",
@@ -8684,8 +8196,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-25",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-25",
         },
         {
           source: "Anime Owl",
@@ -8700,8 +8211,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI0Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-25",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-25",
         },
         {
           source: "Anime Owl",
@@ -8720,8 +8230,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-26",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-26",
         },
         {
           source: "Anime Owl",
@@ -8736,8 +8245,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI1MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-26",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-26",
         },
         {
           source: "Anime Owl",
@@ -8756,8 +8264,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-27",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-27",
         },
         {
           source: "Anime Owl",
@@ -8772,8 +8279,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI1NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-27",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-27",
         },
         {
           source: "Anime Owl",
@@ -8792,8 +8298,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-28",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-28",
         },
         {
           source: "Anime Owl",
@@ -8808,8 +8313,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI2MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-28",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-28",
         },
         {
           source: "Anime Owl",
@@ -8828,8 +8332,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-29",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-29",
         },
         {
           source: "Anime Owl",
@@ -8844,8 +8347,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI2NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-29",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-29",
         },
         {
           source: "Anime Owl",
@@ -8864,8 +8366,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-30",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-30",
         },
         {
           source: "Anime Owl",
@@ -8880,8 +8381,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI2Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-30",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-30",
         },
         {
           source: "Anime Owl",
@@ -8900,8 +8400,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-31",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-31",
         },
         {
           source: "Anime Owl",
@@ -8916,8 +8415,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI2OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-31",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-31",
         },
         {
           source: "Anime Owl",
@@ -8936,8 +8434,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-32",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-32",
         },
         {
           source: "Anime Owl",
@@ -8952,8 +8449,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI3MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-32",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-32",
         },
         {
           source: "Anime Owl",
@@ -8972,8 +8468,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-33",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-33",
         },
         {
           source: "Anime Owl",
@@ -8988,8 +8483,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI3NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-33",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-33",
         },
         {
           source: "Anime Owl",
@@ -9008,8 +8502,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-34",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-34",
         },
         {
           source: "Anime Owl",
@@ -9024,8 +8517,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI3Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-34",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-34",
         },
         {
           source: "Anime Owl",
@@ -9044,8 +8536,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-35",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-35",
         },
         {
           source: "Anime Owl",
@@ -9060,8 +8551,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI4MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-35",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-35",
         },
         {
           source: "Anime Owl",
@@ -9080,8 +8570,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-36",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-36",
         },
         {
           source: "Anime Owl",
@@ -9096,8 +8585,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI4NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-36",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-36",
         },
         {
           source: "Anime Owl",
@@ -9116,8 +8604,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-37",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-37",
         },
         {
           source: "Anime Owl",
@@ -9132,8 +8619,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI4Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-37",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-37",
         },
         {
           source: "Anime Owl",
@@ -9152,8 +8638,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-38",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-38",
         },
         {
           source: "Anime Owl",
@@ -9168,8 +8653,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI4Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-38",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-38",
         },
         {
           source: "Anime Owl",
@@ -9188,8 +8672,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-39",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-39",
         },
         {
           source: "Anime Owl",
@@ -9204,8 +8687,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI4OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-39",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-39",
         },
         {
           source: "Anime Owl",
@@ -9224,8 +8706,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-40",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-40",
         },
         {
           source: "Anime Owl",
@@ -9240,8 +8721,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI5Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-40",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-40",
         },
         {
           source: "Anime Owl",
@@ -9260,8 +8740,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-41",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-41",
         },
         {
           source: "Anime Owl",
@@ -9276,8 +8755,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI5Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-41",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-41",
         },
         {
           source: "Anime Owl",
@@ -9296,8 +8774,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-42",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-42",
         },
         {
           source: "Anime Owl",
@@ -9312,8 +8789,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI5NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-42",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-42",
         },
         {
           source: "Anime Owl",
@@ -9332,8 +8808,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-43",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-43",
         },
         {
           source: "Anime Owl",
@@ -9348,8 +8823,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI5Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-43",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-43",
         },
         {
           source: "Anime Owl",
@@ -9368,8 +8842,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-44",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-44",
         },
         {
           source: "Anime Owl",
@@ -9384,8 +8857,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjI5OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-44",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-44",
         },
         {
           source: "Anime Owl",
@@ -9404,8 +8876,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-45",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-45",
         },
         {
           source: "Anime Owl",
@@ -9420,8 +8891,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMwMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-45",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-45",
         },
         {
           source: "Anime Owl",
@@ -9440,8 +8910,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-46",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-46",
         },
         {
           source: "Anime Owl",
@@ -9456,8 +8925,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMwMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-46",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-46",
         },
         {
           source: "Anime Owl",
@@ -9476,8 +8944,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-47",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-47",
         },
         {
           source: "Anime Owl",
@@ -9492,8 +8959,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMwMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-47",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-47",
         },
         {
           source: "Anime Owl",
@@ -9512,8 +8978,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjkw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-48",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-48",
         },
         {
           source: "Anime Owl",
@@ -9528,8 +8993,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMwNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-48",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-48",
         },
         {
           source: "Anime Owl",
@@ -9548,8 +9012,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjkx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-49",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-49",
         },
         {
           source: "Anime Owl",
@@ -9564,8 +9027,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMwNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-49",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-49",
         },
         {
           source: "Anime Owl",
@@ -9584,8 +9046,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjky" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-50",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-50",
         },
         {
           source: "Anime Owl",
@@ -9600,8 +9061,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMxMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-50",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-50",
         },
         {
           source: "Anime Owl",
@@ -9620,8 +9080,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-51",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-51",
         },
         {
           source: "Anime Owl",
@@ -9636,8 +9095,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMxNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-51",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-51",
         },
         {
           source: "Anime Owl",
@@ -9656,8 +9114,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-52",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-52",
         },
         {
           source: "Anime Owl",
@@ -9672,8 +9129,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMxNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-52",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-52",
         },
         {
           source: "Anime Owl",
@@ -9692,8 +9148,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjk1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-53",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-53",
         },
         {
           source: "Anime Owl",
@@ -9708,8 +9163,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMxOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-53",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-53",
         },
         {
           source: "Anime Owl",
@@ -9728,8 +9182,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjk2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-54",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-54",
         },
         {
           source: "Anime Owl",
@@ -9744,8 +9197,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMxNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-54",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-54",
         },
         {
           source: "Anime Owl",
@@ -9764,8 +9216,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjk3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-55",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-55",
         },
         {
           source: "Anime Owl",
@@ -9780,8 +9231,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMyMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-55",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-55",
         },
         {
           source: "Anime Owl",
@@ -9800,8 +9250,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjk4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-56",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-56",
         },
         {
           source: "Anime Owl",
@@ -9816,8 +9265,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMyNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-56",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-56",
         },
         {
           source: "Anime Owl",
@@ -9836,8 +9284,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mjk5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-57",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-57",
         },
         {
           source: "Anime Owl",
@@ -9852,8 +9299,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMyMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-57",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-57",
         },
         {
           source: "Anime Owl",
@@ -9872,8 +9318,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzAw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-58",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-58",
         },
         {
           source: "Anime Owl",
@@ -9888,8 +9333,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMzMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-58",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-58",
         },
         {
           source: "Anime Owl",
@@ -9908,8 +9352,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzAx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-59",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-59",
         },
         {
           source: "Anime Owl",
@@ -9924,8 +9367,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjMzNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-59",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-59",
         },
         {
           source: "Anime Owl",
@@ -9944,8 +9386,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzAy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-60",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-60",
         },
         {
           source: "Anime Owl",
@@ -9960,8 +9401,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM0MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-60",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-60",
         },
         {
           source: "Anime Owl",
@@ -9980,8 +9420,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzAz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-61",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-61",
         },
         {
           source: "Anime Owl",
@@ -9996,8 +9435,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM0Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-61",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-61",
         },
         {
           source: "Anime Owl",
@@ -10016,8 +9454,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzA0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-62",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-62",
         },
         {
           source: "Anime Owl",
@@ -10032,8 +9469,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM0OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-62",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-62",
         },
         {
           source: "Anime Owl",
@@ -10052,8 +9488,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzA1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-63",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-63",
         },
         {
           source: "Anime Owl",
@@ -10068,8 +9503,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM1MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-63",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-63",
         },
         {
           source: "Anime Owl",
@@ -10088,8 +9522,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzA2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-64",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-64",
         },
         {
           source: "Anime Owl",
@@ -10104,8 +9537,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM1NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-64",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-64",
         },
         {
           source: "Anime Owl",
@@ -10124,8 +9556,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzA3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-65",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-65",
         },
         {
           source: "Anime Owl",
@@ -10140,8 +9571,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM1NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-65",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-65",
         },
         {
           source: "Anime Owl",
@@ -10160,8 +9590,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzA4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-66",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-66",
         },
         {
           source: "Anime Owl",
@@ -10176,8 +9605,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM1OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-66",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-66",
         },
         {
           source: "Anime Owl",
@@ -10196,8 +9624,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzA5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-67",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-67",
         },
         {
           source: "Anime Owl",
@@ -10212,8 +9639,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM2MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-67",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-67",
         },
         {
           source: "Anime Owl",
@@ -10232,8 +9658,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzEw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-68",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-68",
         },
         {
           source: "Anime Owl",
@@ -10248,8 +9673,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM2Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-68",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-68",
         },
         {
           source: "Anime Owl",
@@ -10268,8 +9692,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzEx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-69",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-69",
         },
         {
           source: "Anime Owl",
@@ -10284,8 +9707,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM2Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-69",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-69",
         },
         {
           source: "Anime Owl",
@@ -10304,8 +9726,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzEy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-70",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-70",
         },
         {
           source: "Anime Owl",
@@ -10320,8 +9741,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM2NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-70",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-70",
         },
         {
           source: "Anime Owl",
@@ -10340,8 +9760,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzEz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-71",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-71",
         },
         {
           source: "Anime Owl",
@@ -10356,8 +9775,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM3Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-71",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-71",
         },
         {
           source: "Anime Owl",
@@ -10376,8 +9794,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzE0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-72",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-72",
         },
         {
           source: "Anime Owl",
@@ -10392,8 +9809,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM3NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-72",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-72",
         },
         {
           source: "Anime Owl",
@@ -10412,8 +9828,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzE1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-73",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-73",
         },
         {
           source: "Anime Owl",
@@ -10428,8 +9843,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM3OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-73",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-73",
         },
         {
           source: "Anime Owl",
@@ -10448,8 +9862,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzE2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-74",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-74",
         },
         {
           source: "Anime Owl",
@@ -10464,8 +9877,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM4MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-74",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-74",
         },
         {
           source: "Anime Owl",
@@ -10484,8 +9896,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzE3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-75",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-75",
         },
         {
           source: "Anime Owl",
@@ -10500,8 +9911,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM4Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-75",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-75",
         },
         {
           source: "Anime Owl",
@@ -10520,8 +9930,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzE4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-76",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-76",
         },
         {
           source: "Anime Owl",
@@ -10536,8 +9945,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM4NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-76",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-76",
         },
         {
           source: "Anime Owl",
@@ -10556,8 +9964,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzE5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-77",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-77",
         },
         {
           source: "Anime Owl",
@@ -10572,8 +9979,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM4Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-77",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-77",
         },
         {
           source: "Anime Owl",
@@ -10592,8 +9998,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzIw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-78",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-78",
         },
         {
           source: "Anime Owl",
@@ -10608,8 +10013,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM4NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-78",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-78",
         },
         {
           source: "Anime Owl",
@@ -10628,8 +10032,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzIx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-79",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-79",
         },
         {
           source: "Anime Owl",
@@ -10644,8 +10047,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM4Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-79",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-79",
         },
         {
           source: "Anime Owl",
@@ -10664,8 +10066,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzIy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-80",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-80",
         },
         {
           source: "Anime Owl",
@@ -10680,8 +10081,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjM4Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-80",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-80",
         },
         {
           source: "Anime Owl",
@@ -10700,8 +10100,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzIz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-81",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-81",
         },
         {
           source: "Anime Owl",
@@ -10716,8 +10115,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQyOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-81",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-81",
         },
         {
           source: "Anime Owl",
@@ -10736,8 +10134,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzI0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-82",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-82",
         },
         {
           source: "Anime Owl",
@@ -10752,8 +10149,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQzMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-82",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-82",
         },
         {
           source: "Anime Owl",
@@ -10772,8 +10168,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzI1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-83",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-83",
         },
         {
           source: "Anime Owl",
@@ -10788,8 +10183,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQzNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-83",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-83",
         },
         {
           source: "Anime Owl",
@@ -10808,8 +10202,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzI2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-84",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-84",
         },
         {
           source: "Anime Owl",
@@ -10824,8 +10217,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQzOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-84",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-84",
         },
         {
           source: "Anime Owl",
@@ -10844,8 +10236,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzI3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-85",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-85",
         },
         {
           source: "Anime Owl",
@@ -10860,8 +10251,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ0MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-85",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-85",
         },
         {
           source: "Anime Owl",
@@ -10880,8 +10270,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzI4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-86",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-86",
         },
         {
           source: "Anime Owl",
@@ -10896,8 +10285,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ0Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-86",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-86",
         },
         {
           source: "Anime Owl",
@@ -10916,8 +10304,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzI5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-87",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-87",
         },
         {
           source: "Anime Owl",
@@ -10932,8 +10319,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ0Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-87",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-87",
         },
         {
           source: "Anime Owl",
@@ -10952,8 +10338,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzMw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-88",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-88",
         },
         {
           source: "Anime Owl",
@@ -10968,8 +10353,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ0OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-88",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-88",
         },
         {
           source: "Anime Owl",
@@ -10988,8 +10372,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzMx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-89",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-89",
         },
         {
           source: "Anime Owl",
@@ -11004,8 +10387,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ0OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-89",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-89",
         },
         {
           source: "Anime Owl",
@@ -11024,8 +10406,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzMy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-90",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-90",
         },
         {
           source: "Anime Owl",
@@ -11040,8 +10421,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ1MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-90",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-90",
         },
         {
           source: "Anime Owl",
@@ -11060,8 +10440,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzMz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-91",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-91",
         },
         {
           source: "Anime Owl",
@@ -11076,8 +10455,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ1MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-91",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-91",
         },
         {
           source: "Anime Owl",
@@ -11096,8 +10474,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzM0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-92",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-92",
         },
         {
           source: "Anime Owl",
@@ -11112,8 +10489,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ1Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-92",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-92",
         },
         {
           source: "Anime Owl",
@@ -11132,8 +10508,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzM1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-93",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-93",
         },
         {
           source: "Anime Owl",
@@ -11148,8 +10523,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ1Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-93",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-93",
         },
         {
           source: "Anime Owl",
@@ -11168,8 +10542,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzM2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-94",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-94",
         },
         {
           source: "Anime Owl",
@@ -11184,8 +10557,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ1OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-94",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-94",
         },
         {
           source: "Anime Owl",
@@ -11204,8 +10576,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzM3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-95",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-95",
         },
         {
           source: "Anime Owl",
@@ -11220,8 +10591,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ2Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-95",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-95",
         },
         {
           source: "Anime Owl",
@@ -11240,8 +10610,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzM4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-96",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-96",
         },
         {
           source: "Anime Owl",
@@ -11256,8 +10625,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ2Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-96",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-96",
         },
         {
           source: "Anime Owl",
@@ -11276,8 +10644,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzM5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-97",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-97",
         },
         {
           source: "Anime Owl",
@@ -11292,8 +10659,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ2OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-97",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-97",
         },
         {
           source: "Anime Owl",
@@ -11312,8 +10678,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-98",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-98",
         },
         {
           source: "Anime Owl",
@@ -11328,8 +10693,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ3MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-98",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-98",
         },
         {
           source: "Anime Owl",
@@ -11348,8 +10712,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-99",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-99",
         },
         {
           source: "Anime Owl",
@@ -11364,8 +10727,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ3Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-99",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-99",
         },
         {
           source: "Anime Owl",
@@ -11384,8 +10746,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-100",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-100",
         },
         {
           source: "Anime Owl",
@@ -11400,8 +10761,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ3OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-100",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-100",
         },
         {
           source: "Anime Owl",
@@ -11420,8 +10780,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-101",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-101",
         },
         {
           source: "Anime Owl",
@@ -11436,8 +10795,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ4MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-101",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-101",
         },
         {
           source: "Anime Owl",
@@ -11456,8 +10814,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQ0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-102",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-102",
         },
         {
           source: "Anime Owl",
@@ -11472,8 +10829,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ4Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-102",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-102",
         },
         {
           source: "Anime Owl",
@@ -11492,8 +10848,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQ1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-103",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-103",
         },
         {
           source: "Anime Owl",
@@ -11508,8 +10863,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ4Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-103",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-103",
         },
         {
           source: "Anime Owl",
@@ -11528,8 +10882,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQ2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-104",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-104",
         },
         {
           source: "Anime Owl",
@@ -11544,8 +10897,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ4Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-104",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-104",
         },
         {
           source: "Anime Owl",
@@ -11564,8 +10916,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQ3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-105",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-105",
         },
         {
           source: "Anime Owl",
@@ -11580,8 +10931,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ5MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-105",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-105",
         },
         {
           source: "Anime Owl",
@@ -11600,8 +10950,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQ4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-106",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-106",
         },
         {
           source: "Anime Owl",
@@ -11616,8 +10965,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ5NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-106",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-106",
         },
         {
           source: "Anime Owl",
@@ -11636,8 +10984,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzQ5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-107",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-107",
         },
         {
           source: "Anime Owl",
@@ -11652,8 +10999,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ5OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-107",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-107",
         },
         {
           source: "Anime Owl",
@@ -11672,8 +11018,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-108",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-108",
         },
         {
           source: "Anime Owl",
@@ -11688,8 +11033,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-108",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-108",
         },
         {
           source: "Anime Owl",
@@ -11708,8 +11052,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-109",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-109",
         },
         {
           source: "Anime Owl",
@@ -11724,8 +11067,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-109",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-109",
         },
         {
           source: "Anime Owl",
@@ -11744,8 +11086,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-110",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-110",
         },
         {
           source: "Anime Owl",
@@ -11760,8 +11101,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUwOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-110",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-110",
         },
         {
           source: "Anime Owl",
@@ -11780,8 +11120,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-111",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-111",
         },
         {
           source: "Anime Owl",
@@ -11796,8 +11135,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-111",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-111",
         },
         {
           source: "Anime Owl",
@@ -11816,8 +11154,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-112",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-112",
         },
         {
           source: "Anime Owl",
@@ -11832,8 +11169,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUxOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-112",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-112",
         },
         {
           source: "Anime Owl",
@@ -11852,8 +11188,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-113",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-113",
         },
         {
           source: "Anime Owl",
@@ -11868,8 +11203,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-113",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-113",
         },
         {
           source: "Anime Owl",
@@ -11888,8 +11222,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-114",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-114",
         },
         {
           source: "Anime Owl",
@@ -11904,8 +11237,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-114",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-114",
         },
         {
           source: "Anime Owl",
@@ -11924,8 +11256,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-115",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-115",
         },
         {
           source: "Anime Owl",
@@ -11940,8 +11271,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUyOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-115",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-115",
         },
         {
           source: "Anime Owl",
@@ -11960,8 +11290,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzU4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-116",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-116",
         },
         {
           source: "Anime Owl",
@@ -11976,8 +11305,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-116",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-116",
         },
         {
           source: "Anime Owl",
@@ -11996,8 +11324,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzU5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-117",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-117",
         },
         {
           source: "Anime Owl",
@@ -12012,8 +11339,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-117",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-117",
         },
         {
           source: "Anime Owl",
@@ -12032,8 +11358,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzYw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-118",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-118",
         },
         {
           source: "Anime Owl",
@@ -12048,8 +11373,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-118",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-118",
         },
         {
           source: "Anime Owl",
@@ -12068,8 +11392,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzYx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-119",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-119",
         },
         {
           source: "Anime Owl",
@@ -12084,8 +11407,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjUzOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-119",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-119",
         },
         {
           source: "Anime Owl",
@@ -12104,8 +11426,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzYy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-120",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-120",
         },
         {
           source: "Anime Owl",
@@ -12120,8 +11441,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-120",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-120",
         },
         {
           source: "Anime Owl",
@@ -12140,8 +11460,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-121",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-121",
         },
         {
           source: "Anime Owl",
@@ -12156,8 +11475,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-121",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-121",
         },
         {
           source: "Anime Owl",
@@ -12176,8 +11494,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzY0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-122",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-122",
         },
         {
           source: "Anime Owl",
@@ -12192,8 +11509,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-122",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-122",
         },
         {
           source: "Anime Owl",
@@ -12212,8 +11528,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-123",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-123",
         },
         {
           source: "Anime Owl",
@@ -12228,8 +11543,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU0Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-123",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-123",
         },
         {
           source: "Anime Owl",
@@ -12248,8 +11562,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-124",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-124",
         },
         {
           source: "Anime Owl",
@@ -12264,8 +11577,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-124",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-124",
         },
         {
           source: "Anime Owl",
@@ -12284,8 +11596,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-125",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-125",
         },
         {
           source: "Anime Owl",
@@ -12300,8 +11611,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU1NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-125",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-125",
         },
         {
           source: "Anime Owl",
@@ -12320,8 +11630,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-126",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-126",
         },
         {
           source: "Anime Owl",
@@ -12336,8 +11645,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-126",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-126",
         },
         {
           source: "Anime Owl",
@@ -12356,8 +11664,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MzY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-127",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-127",
         },
         {
           source: "Anime Owl",
@@ -12372,8 +11679,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-127",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-127",
         },
         {
           source: "Anime Owl",
@@ -12392,8 +11698,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-128",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-128",
         },
         {
           source: "Anime Owl",
@@ -12408,8 +11713,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU2OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-128",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-128",
         },
         {
           source: "Anime Owl",
@@ -12428,8 +11732,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-129",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-129",
         },
         {
           source: "Anime Owl",
@@ -12444,8 +11747,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU3Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-129",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-129",
         },
         {
           source: "Anime Owl",
@@ -12464,8 +11766,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-130",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-130",
         },
         {
           source: "Anime Owl",
@@ -12480,8 +11781,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU3OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-130",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-130",
         },
         {
           source: "Anime Owl",
@@ -12500,8 +11800,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-131",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-131",
         },
         {
           source: "Anime Owl",
@@ -12516,8 +11815,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU4MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-131",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-131",
         },
         {
           source: "Anime Owl",
@@ -12536,8 +11834,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-132",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-132",
         },
         {
           source: "Anime Owl",
@@ -12552,8 +11849,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU4Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-132",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-132",
         },
         {
           source: "Anime Owl",
@@ -12572,8 +11868,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-133",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-133",
         },
         {
           source: "Anime Owl",
@@ -12588,8 +11883,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU4NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-133",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-133",
         },
         {
           source: "Anime Owl",
@@ -12608,8 +11902,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-134",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-134",
         },
         {
           source: "Anime Owl",
@@ -12624,8 +11917,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU4Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-134",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-134",
         },
         {
           source: "Anime Owl",
@@ -12644,8 +11936,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-135",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-135",
         },
         {
           source: "Anime Owl",
@@ -12660,8 +11951,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjU5Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-135",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-135",
         },
         {
           source: "Anime Owl",
@@ -12680,8 +11970,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-136",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-136",
         },
         {
           source: "Anime Owl",
@@ -12696,8 +11985,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjcxNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-136",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-136",
         },
         {
           source: "Anime Owl",
@@ -12716,8 +12004,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-137",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-137",
         },
         {
           source: "Anime Owl",
@@ -12732,8 +12019,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjc3OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-137",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-137",
         },
         {
           source: "Anime Owl",
@@ -12752,8 +12038,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-138",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-138",
         },
         {
           source: "Anime Owl",
@@ -12768,8 +12053,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjc4Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-138",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-138",
         },
         {
           source: "Anime Owl",
@@ -12788,8 +12072,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-139",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-139",
         },
         {
           source: "Anime Owl",
@@ -12804,8 +12087,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjc4OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-139",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-139",
         },
         {
           source: "Anime Owl",
@@ -12824,8 +12106,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-140",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-140",
         },
         {
           source: "Anime Owl",
@@ -12840,8 +12121,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjc5NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-140",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-140",
         },
         {
           source: "Anime Owl",
@@ -12860,8 +12140,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-141",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-141",
         },
         {
           source: "Anime Owl",
@@ -12876,8 +12155,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjgwMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-141",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-141",
         },
         {
           source: "Anime Owl",
@@ -12896,8 +12174,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-142",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-142",
         },
         {
           source: "Anime Owl",
@@ -12912,8 +12189,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjgwNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-142",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-142",
         },
         {
           source: "Anime Owl",
@@ -12932,8 +12208,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzk1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-143",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-143",
         },
         {
           source: "Anime Owl",
@@ -12948,8 +12223,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjgxMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-143",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-143",
         },
         {
           source: "Anime Owl",
@@ -12968,8 +12242,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzk2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-144",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-144",
         },
         {
           source: "Anime Owl",
@@ -12984,8 +12257,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjgyNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-144",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-144",
         },
         {
           source: "Anime Owl",
@@ -13004,8 +12276,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzk3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-145",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-145",
         },
         {
           source: "Anime Owl",
@@ -13020,8 +12291,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjgzMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-145",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-145",
         },
         {
           source: "Anime Owl",
@@ -13040,8 +12310,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzk4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-146",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-146",
         },
         {
           source: "Anime Owl",
@@ -13056,8 +12325,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg0NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-146",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-146",
         },
         {
           source: "Anime Owl",
@@ -13076,8 +12344,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Mzk5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-147",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-147",
         },
         {
           source: "Anime Owl",
@@ -13092,8 +12359,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg0Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-147",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-147",
         },
         {
           source: "Anime Owl",
@@ -13112,8 +12378,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDAw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-148",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-148",
         },
         {
           source: "Anime Owl",
@@ -13128,8 +12393,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg1MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-148",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-148",
         },
         {
           source: "Anime Owl",
@@ -13148,8 +12412,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDAx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-149",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-149",
         },
         {
           source: "Anime Owl",
@@ -13164,8 +12427,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg1NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-149",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-149",
         },
         {
           source: "Anime Owl",
@@ -13184,8 +12446,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDAy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-150",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-150",
         },
         {
           source: "Anime Owl",
@@ -13200,8 +12461,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg1OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-150",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-150",
         },
         {
           source: "Anime Owl",
@@ -13220,8 +12480,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDA3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-151",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-151",
         },
         {
           source: "Anime Owl",
@@ -13236,8 +12495,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg2NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-151",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-151",
         },
         {
           source: "Anime Owl",
@@ -13256,8 +12514,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDA4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-152",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-152",
         },
         {
           source: "Anime Owl",
@@ -13272,8 +12529,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg2OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-152",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-152",
         },
         {
           source: "Anime Owl",
@@ -13292,8 +12548,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDA5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-153",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-153",
         },
         {
           source: "Anime Owl",
@@ -13308,8 +12563,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg3Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-153",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-153",
         },
         {
           source: "Anime Owl",
@@ -13328,8 +12582,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDEw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-154",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-154",
         },
         {
           source: "Anime Owl",
@@ -13344,8 +12597,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg3Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-154",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-154",
         },
         {
           source: "Anime Owl",
@@ -13364,8 +12616,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDEx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-155",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-155",
         },
         {
           source: "Anime Owl",
@@ -13380,8 +12631,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg4NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-155",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-155",
         },
         {
           source: "Anime Owl",
@@ -13400,8 +12650,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDEy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-156",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-156",
         },
         {
           source: "Anime Owl",
@@ -13416,8 +12665,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg5MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-156",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-156",
         },
         {
           source: "Anime Owl",
@@ -13436,8 +12684,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDEz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-157",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-157",
         },
         {
           source: "Anime Owl",
@@ -13452,8 +12699,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg5Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-157",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-157",
         },
         {
           source: "Anime Owl",
@@ -13472,8 +12718,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDE0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-158",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-158",
         },
         {
           source: "Anime Owl",
@@ -13488,8 +12733,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg5Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-158",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-158",
         },
         {
           source: "Anime Owl",
@@ -13508,8 +12752,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDE1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-159",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-159",
         },
         {
           source: "Anime Owl",
@@ -13524,8 +12767,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjg5OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-159",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-159",
         },
         {
           source: "Anime Owl",
@@ -13544,8 +12786,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDE2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-160",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-160",
         },
         {
           source: "Anime Owl",
@@ -13560,8 +12801,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkwMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-160",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-160",
         },
         {
           source: "Anime Owl",
@@ -13580,8 +12820,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDE3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-161",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-161",
         },
         {
           source: "Anime Owl",
@@ -13596,8 +12835,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkwNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-161",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-161",
         },
         {
           source: "Anime Owl",
@@ -13616,8 +12854,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDE4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-162",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-162",
         },
         {
           source: "Anime Owl",
@@ -13632,8 +12869,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkxMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-162",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-162",
         },
         {
           source: "Anime Owl",
@@ -13652,8 +12888,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDE5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-163",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-163",
         },
         {
           source: "Anime Owl",
@@ -13668,8 +12903,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkxNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-163",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-163",
         },
         {
           source: "Anime Owl",
@@ -13688,8 +12922,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDIw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-164",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-164",
         },
         {
           source: "Anime Owl",
@@ -13704,8 +12937,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkyMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-164",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-164",
         },
         {
           source: "Anime Owl",
@@ -13724,8 +12956,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDIx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-165",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-165",
         },
         {
           source: "Anime Owl",
@@ -13740,8 +12971,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkyNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-165",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-165",
         },
         {
           source: "Anime Owl",
@@ -13760,8 +12990,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDIy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-166",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-166",
         },
         {
           source: "Anime Owl",
@@ -13776,8 +13005,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkzMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-166",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-166",
         },
         {
           source: "Anime Owl",
@@ -13796,8 +13024,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDIz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-167",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-167",
         },
         {
           source: "Anime Owl",
@@ -13812,8 +13039,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjkzOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-167",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-167",
         },
         {
           source: "Anime Owl",
@@ -13832,8 +13058,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDI0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-168",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-168",
         },
         {
           source: "Anime Owl",
@@ -13848,8 +13073,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk0Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-168",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-168",
         },
         {
           source: "Anime Owl",
@@ -13868,8 +13092,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDI1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-169",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-169",
         },
         {
           source: "Anime Owl",
@@ -13884,8 +13107,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk1MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-169",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-169",
         },
         {
           source: "Anime Owl",
@@ -13904,8 +13126,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDI2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-170",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-170",
         },
         {
           source: "Anime Owl",
@@ -13920,8 +13141,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk1Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-170",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-170",
         },
         {
           source: "Anime Owl",
@@ -13940,8 +13160,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDI3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-171",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-171",
         },
         {
           source: "Anime Owl",
@@ -13956,8 +13175,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk1Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-171",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-171",
         },
         {
           source: "Anime Owl",
@@ -13976,8 +13194,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDI4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-172",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-172",
         },
         {
           source: "Anime Owl",
@@ -13992,8 +13209,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk1OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-172",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-172",
         },
         {
           source: "Anime Owl",
@@ -14012,8 +13228,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDI5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-173",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-173",
         },
         {
           source: "Anime Owl",
@@ -14028,8 +13243,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk2Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-173",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-173",
         },
         {
           source: "Anime Owl",
@@ -14048,8 +13262,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDMw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-174",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-174",
         },
         {
           source: "Anime Owl",
@@ -14064,8 +13277,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk2NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-174",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-174",
         },
         {
           source: "Anime Owl",
@@ -14084,8 +13296,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDMx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-175",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-175",
         },
         {
           source: "Anime Owl",
@@ -14100,8 +13311,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk2Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-175",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-175",
         },
         {
           source: "Anime Owl",
@@ -14120,8 +13330,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDMy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-176",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-176",
         },
         {
           source: "Anime Owl",
@@ -14136,8 +13345,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk3NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-176",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-176",
         },
         {
           source: "Anime Owl",
@@ -14156,8 +13364,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDMz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-177",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-177",
         },
         {
           source: "Anime Owl",
@@ -14172,8 +13379,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk3OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-177",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-177",
         },
         {
           source: "Anime Owl",
@@ -14192,8 +13398,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDM0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-178",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-178",
         },
         {
           source: "Anime Owl",
@@ -14208,8 +13413,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk4MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-178",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-178",
         },
         {
           source: "Anime Owl",
@@ -14228,8 +13432,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDM1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-179",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-179",
         },
         {
           source: "Anime Owl",
@@ -14244,8 +13447,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk4Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-179",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-179",
         },
         {
           source: "Anime Owl",
@@ -14264,8 +13466,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDM2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-180",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-180",
         },
         {
           source: "Anime Owl",
@@ -14280,8 +13481,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk4OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-180",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-180",
         },
         {
           source: "Anime Owl",
@@ -14300,8 +13500,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDM3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-181",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-181",
         },
         {
           source: "Anime Owl",
@@ -14316,8 +13515,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk5NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-181",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-181",
         },
         {
           source: "Anime Owl",
@@ -14336,8 +13534,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDM4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-182",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-182",
         },
         {
           source: "Anime Owl",
@@ -14352,8 +13549,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mjk5OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-182",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-182",
         },
         {
           source: "Anime Owl",
@@ -14372,8 +13568,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDM5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-183",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-183",
         },
         {
           source: "Anime Owl",
@@ -14388,8 +13583,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAwMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-183",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-183",
         },
         {
           source: "Anime Owl",
@@ -14408,8 +13602,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-184",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-184",
         },
         {
           source: "Anime Owl",
@@ -14424,8 +13617,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAwNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-184",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-184",
         },
         {
           source: "Anime Owl",
@@ -14444,8 +13636,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-185",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-185",
         },
         {
           source: "Anime Owl",
@@ -14460,8 +13651,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAwOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-185",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-185",
         },
         {
           source: "Anime Owl",
@@ -14480,8 +13670,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-186",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-186",
         },
         {
           source: "Anime Owl",
@@ -14496,8 +13685,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAxNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-186",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-186",
         },
         {
           source: "Anime Owl",
@@ -14516,8 +13704,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-187",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-187",
         },
         {
           source: "Anime Owl",
@@ -14532,8 +13719,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAyMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-187",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-187",
         },
         {
           source: "Anime Owl",
@@ -14552,8 +13738,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQ0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-188",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-188",
         },
         {
           source: "Anime Owl",
@@ -14568,8 +13753,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAyNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-188",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-188",
         },
         {
           source: "Anime Owl",
@@ -14588,8 +13772,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQ1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-189",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-189",
         },
         {
           source: "Anime Owl",
@@ -14604,8 +13787,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAzMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-189",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-189",
         },
         {
           source: "Anime Owl",
@@ -14624,8 +13806,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQ2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-190",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-190",
         },
         {
           source: "Anime Owl",
@@ -14640,8 +13821,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAzMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-190",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-190",
         },
         {
           source: "Anime Owl",
@@ -14660,8 +13840,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQ3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-191",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-191",
         },
         {
           source: "Anime Owl",
@@ -14676,8 +13855,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAzNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-191",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-191",
         },
         {
           source: "Anime Owl",
@@ -14696,8 +13874,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQ4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-192",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-192",
         },
         {
           source: "Anime Owl",
@@ -14712,8 +13889,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzAzOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-192",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-192",
         },
         {
           source: "Anime Owl",
@@ -14732,8 +13908,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDQ5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-193",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-193",
         },
         {
           source: "Anime Owl",
@@ -14748,8 +13923,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA0MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-193",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-193",
         },
         {
           source: "Anime Owl",
@@ -14768,8 +13942,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-194",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-194",
         },
         {
           source: "Anime Owl",
@@ -14784,8 +13957,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA0Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-194",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-194",
         },
         {
           source: "Anime Owl",
@@ -14804,8 +13976,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-195",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-195",
         },
         {
           source: "Anime Owl",
@@ -14820,8 +13991,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA1MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-195",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-195",
         },
         {
           source: "Anime Owl",
@@ -14840,8 +14010,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-196",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-196",
         },
         {
           source: "Anime Owl",
@@ -14856,8 +14025,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA1NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-196",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-196",
         },
         {
           source: "Anime Owl",
@@ -14876,8 +14044,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-197",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-197",
         },
         {
           source: "Anime Owl",
@@ -14892,8 +14059,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA1OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-197",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-197",
         },
         {
           source: "Anime Owl",
@@ -14912,8 +14078,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-198",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-198",
         },
         {
           source: "Anime Owl",
@@ -14928,8 +14093,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA2MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-198",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-198",
         },
         {
           source: "Anime Owl",
@@ -14948,8 +14112,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-199",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-199",
         },
         {
           source: "Anime Owl",
@@ -14964,8 +14127,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA2Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-199",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-199",
         },
         {
           source: "Anime Owl",
@@ -14984,8 +14146,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-200",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-200",
         },
         {
           source: "Anime Owl",
@@ -15000,8 +14161,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA2Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-200",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-200",
         },
         {
           source: "Anime Owl",
@@ -15020,8 +14180,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-201",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-201",
         },
         {
           source: "Anime Owl",
@@ -15036,8 +14195,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzEwMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-201",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-201",
         },
         {
           source: "Anime Owl",
@@ -15056,8 +14214,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDU4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-202",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-202",
         },
         {
           source: "Anime Owl",
@@ -15072,8 +14229,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzEwMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-202",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-202",
         },
         {
           source: "Anime Owl",
@@ -15092,8 +14248,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDU5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-203",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-203",
         },
         {
           source: "Anime Owl",
@@ -15108,8 +14263,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzEwNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-203",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-203",
         },
         {
           source: "Anime Owl",
@@ -15128,8 +14282,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDYw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-204",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-204",
         },
         {
           source: "Anime Owl",
@@ -15144,8 +14297,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzExMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-204",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-204",
         },
         {
           source: "Anime Owl",
@@ -15164,8 +14316,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDYx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-205",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-205",
         },
         {
           source: "Anime Owl",
@@ -15180,8 +14331,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzExNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-205",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-205",
         },
         {
           source: "Anime Owl",
@@ -15200,8 +14350,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDYy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-206",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-206",
         },
         {
           source: "Anime Owl",
@@ -15216,8 +14365,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzEyMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-206",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-206",
         },
         {
           source: "Anime Owl",
@@ -15236,8 +14384,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-207",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-207",
         },
         {
           source: "Anime Owl",
@@ -15252,8 +14399,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE0Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-207",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-207",
         },
         {
           source: "Anime Owl",
@@ -15272,8 +14418,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDY0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-208",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-208",
         },
         {
           source: "Anime Owl",
@@ -15288,8 +14433,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE1MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-208",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-208",
         },
         {
           source: "Anime Owl",
@@ -15308,8 +14452,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-209",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-209",
         },
         {
           source: "Anime Owl",
@@ -15324,8 +14467,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE1NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-209",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-209",
         },
         {
           source: "Anime Owl",
@@ -15344,8 +14486,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-210",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-210",
         },
         {
           source: "Anime Owl",
@@ -15360,8 +14501,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE2Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-210",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-210",
         },
         {
           source: "Anime Owl",
@@ -15380,8 +14520,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-211",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-211",
         },
         {
           source: "Anime Owl",
@@ -15396,8 +14535,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE3MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-211",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-211",
         },
         {
           source: "Anime Owl",
@@ -15416,8 +14554,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-212",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-212",
         },
         {
           source: "Anime Owl",
@@ -15432,8 +14569,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE3Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-212",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-212",
         },
         {
           source: "Anime Owl",
@@ -15452,8 +14588,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-213",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-213",
         },
         {
           source: "Anime Owl",
@@ -15468,8 +14603,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE4Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-213",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-213",
         },
         {
           source: "Anime Owl",
@@ -15488,8 +14622,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-214",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-214",
         },
         {
           source: "Anime Owl",
@@ -15504,8 +14637,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE4Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-214",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-214",
         },
         {
           source: "Anime Owl",
@@ -15524,8 +14656,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-215",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-215",
         },
         {
           source: "Anime Owl",
@@ -15540,8 +14671,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzE5Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-215",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-215",
         },
         {
           source: "Anime Owl",
@@ -15560,8 +14690,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-216",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-216",
         },
         {
           source: "Anime Owl",
@@ -15576,8 +14705,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIwNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-216",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-216",
         },
         {
           source: "Anime Owl",
@@ -15596,8 +14724,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-217",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-217",
         },
         {
           source: "Anime Owl",
@@ -15612,8 +14739,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIxMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-217",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-217",
         },
         {
           source: "Anime Owl",
@@ -15632,8 +14758,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-218",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-218",
         },
         {
           source: "Anime Owl",
@@ -15648,8 +14773,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIxMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-218",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-218",
         },
         {
           source: "Anime Owl",
@@ -15668,8 +14792,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-219",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-219",
         },
         {
           source: "Anime Owl",
@@ -15684,8 +14807,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIxNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-219",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-219",
         },
         {
           source: "Anime Owl",
@@ -15704,8 +14826,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-220",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-220",
         },
         {
           source: "Anime Owl",
@@ -15720,8 +14841,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIyMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-220",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-220",
         },
         {
           source: "Anime Owl",
@@ -15740,8 +14860,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-221",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-221",
         },
         {
           source: "Anime Owl",
@@ -15756,8 +14875,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIyMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-221",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-221",
         },
         {
           source: "Anime Owl",
@@ -15776,8 +14894,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-222",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-222",
         },
         {
           source: "Anime Owl",
@@ -15792,8 +14909,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIyNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-222",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-222",
         },
         {
           source: "Anime Owl",
@@ -15812,8 +14928,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-223",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-223",
         },
         {
           source: "Anime Owl",
@@ -15828,8 +14943,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIyNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-223",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-223",
         },
         {
           source: "Anime Owl",
@@ -15848,8 +14962,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-224",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-224",
         },
         {
           source: "Anime Owl",
@@ -15864,8 +14977,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIyNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-224",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-224",
         },
         {
           source: "Anime Owl",
@@ -15884,8 +14996,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-225",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-225",
         },
         {
           source: "Anime Owl",
@@ -15900,8 +15011,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIyOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-225",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-225",
         },
         {
           source: "Anime Owl",
@@ -15920,8 +15030,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-226",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-226",
         },
         {
           source: "Anime Owl",
@@ -15936,8 +15045,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIzMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-226",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-226",
         },
         {
           source: "Anime Owl",
@@ -15956,8 +15064,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-227",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-227",
         },
         {
           source: "Anime Owl",
@@ -15972,8 +15079,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzIzOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-227",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-227",
         },
         {
           source: "Anime Owl",
@@ -15992,8 +15098,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-228",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-228",
         },
         {
           source: "Anime Owl",
@@ -16008,8 +15113,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI0MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-228",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-228",
         },
         {
           source: "Anime Owl",
@@ -16028,8 +15132,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-229",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-229",
         },
         {
           source: "Anime Owl",
@@ -16044,8 +15147,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI0NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-229",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-229",
         },
         {
           source: "Anime Owl",
@@ -16064,8 +15166,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-230",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-230",
         },
         {
           source: "Anime Owl",
@@ -16080,8 +15181,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI0OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-230",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-230",
         },
         {
           source: "Anime Owl",
@@ -16100,8 +15200,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-231",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-231",
         },
         {
           source: "Anime Owl",
@@ -16116,8 +15215,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI1MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-231",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-231",
         },
         {
           source: "Anime Owl",
@@ -16136,8 +15234,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-232",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-232",
         },
         {
           source: "Anime Owl",
@@ -16152,8 +15249,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI1Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-232",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-232",
         },
         {
           source: "Anime Owl",
@@ -16172,8 +15268,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-233",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-233",
         },
         {
           source: "Anime Owl",
@@ -16188,8 +15283,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI1Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-233",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-233",
         },
         {
           source: "Anime Owl",
@@ -16208,8 +15302,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDkw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-234",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-234",
         },
         {
           source: "Anime Owl",
@@ -16224,8 +15317,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI2MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-234",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-234",
         },
         {
           source: "Anime Owl",
@@ -16244,8 +15336,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDkx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-235",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-235",
         },
         {
           source: "Anime Owl",
@@ -16260,8 +15351,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI2Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-235",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-235",
         },
         {
           source: "Anime Owl",
@@ -16280,8 +15370,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDky" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-236",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-236",
         },
         {
           source: "Anime Owl",
@@ -16296,8 +15385,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI3MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-236",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-236",
         },
         {
           source: "Anime Owl",
@@ -16316,8 +15404,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-237",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-237",
         },
         {
           source: "Anime Owl",
@@ -16332,8 +15419,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI3NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-237",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-237",
         },
         {
           source: "Anime Owl",
@@ -16352,8 +15438,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-238",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-238",
         },
         {
           source: "Anime Owl",
@@ -16368,8 +15453,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI3Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-238",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-238",
         },
         {
           source: "Anime Owl",
@@ -16388,8 +15472,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDk2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-239",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-239",
         },
         {
           source: "Anime Owl",
@@ -16404,8 +15487,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI4MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-239",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-239",
         },
         {
           source: "Anime Owl",
@@ -16424,8 +15506,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDk3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-240",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-240",
         },
         {
           source: "Anime Owl",
@@ -16440,8 +15521,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI4NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-240",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-240",
         },
         {
           source: "Anime Owl",
@@ -16460,8 +15540,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDk4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-241",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-241",
         },
         {
           source: "Anime Owl",
@@ -16476,8 +15555,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI4OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-241",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-241",
         },
         {
           source: "Anime Owl",
@@ -16496,8 +15574,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NDk5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-242",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-242",
         },
         {
           source: "Anime Owl",
@@ -16512,8 +15589,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI5MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-242",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-242",
         },
         {
           source: "Anime Owl",
@@ -16532,8 +15608,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTAw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-243",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-243",
         },
         {
           source: "Anime Owl",
@@ -16548,8 +15623,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI5NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-243",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-243",
         },
         {
           source: "Anime Owl",
@@ -16568,8 +15642,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTAx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-244",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-244",
         },
         {
           source: "Anime Owl",
@@ -16584,8 +15657,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI5OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-244",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-244",
         },
         {
           source: "Anime Owl",
@@ -16604,8 +15676,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTAy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-245",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-245",
         },
         {
           source: "Anime Owl",
@@ -16620,8 +15691,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzI5OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-245",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-245",
         },
         {
           source: "Anime Owl",
@@ -16640,8 +15710,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTAz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-246",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-246",
         },
         {
           source: "Anime Owl",
@@ -16656,8 +15725,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzMxMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-246",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-246",
         },
         {
           source: "Anime Owl",
@@ -16676,8 +15744,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTA0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-247",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-247",
         },
         {
           source: "Anime Owl",
@@ -16692,8 +15759,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzMxMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-247",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-247",
         },
         {
           source: "Anime Owl",
@@ -16712,8 +15778,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTA1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-248",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-248",
         },
         {
           source: "Anime Owl",
@@ -16728,8 +15793,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzMxOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-248",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-248",
         },
         {
           source: "Anime Owl",
@@ -16748,8 +15812,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTA2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-249",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-249",
         },
         {
           source: "Anime Owl",
@@ -16764,8 +15827,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzMyMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-249",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-249",
         },
         {
           source: "Anime Owl",
@@ -16784,8 +15846,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTA3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-250",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-250",
         },
         {
           source: "Anime Owl",
@@ -16800,8 +15861,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzMyNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-250",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-250",
         },
         {
           source: "Anime Owl",
@@ -16820,8 +15880,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTA4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-251",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-251",
         },
         {
           source: "Anime Owl",
@@ -16836,8 +15895,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzMzMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-251",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-251",
         },
         {
           source: "Anime Owl",
@@ -16856,8 +15914,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTA5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-252",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-252",
         },
         {
           source: "Anime Owl",
@@ -16872,8 +15929,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzMzNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-252",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-252",
         },
         {
           source: "Anime Owl",
@@ -16892,8 +15948,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTEw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-253",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-253",
         },
         {
           source: "Anime Owl",
@@ -16908,8 +15963,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzM0MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-253",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-253",
         },
         {
           source: "Anime Owl",
@@ -16928,8 +15982,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTEx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-254",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-254",
         },
         {
           source: "Anime Owl",
@@ -16944,8 +15997,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzM0Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-254",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-254",
         },
         {
           source: "Anime Owl",
@@ -16964,8 +16016,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTEy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-255",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-255",
         },
         {
           source: "Anime Owl",
@@ -16980,8 +16031,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzM0OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-255",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-255",
         },
         {
           source: "Anime Owl",
@@ -17000,8 +16050,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTEz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-256",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-256",
         },
         {
           source: "Anime Owl",
@@ -17016,8 +16065,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQwMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-256",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-256",
         },
         {
           source: "Anime Owl",
@@ -17036,8 +16084,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTE0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-257",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-257",
         },
         {
           source: "Anime Owl",
@@ -17052,8 +16099,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQwNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-257",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-257",
         },
         {
           source: "Anime Owl",
@@ -17072,8 +16118,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTE1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-258",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-258",
         },
         {
           source: "Anime Owl",
@@ -17088,8 +16133,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQxOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-258",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-258",
         },
         {
           source: "Anime Owl",
@@ -17108,8 +16152,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTE2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-259",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-259",
         },
         {
           source: "Anime Owl",
@@ -17124,8 +16167,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQyMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-259",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-259",
         },
         {
           source: "Anime Owl",
@@ -17144,8 +16186,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTE3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-260",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-260",
         },
         {
           source: "Anime Owl",
@@ -17160,8 +16201,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQyNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-260",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-260",
         },
         {
           source: "Anime Owl",
@@ -17180,8 +16220,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTE4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-261",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-261",
         },
         {
           source: "Anime Owl",
@@ -17196,8 +16235,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQyOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-261",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-261",
         },
         {
           source: "Anime Owl",
@@ -17216,8 +16254,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTE5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-262",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-262",
         },
         {
           source: "Anime Owl",
@@ -17232,8 +16269,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQzNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-262",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-262",
         },
         {
           source: "Anime Owl",
@@ -17252,8 +16288,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTIw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-263",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-263",
         },
         {
           source: "Anime Owl",
@@ -17268,8 +16303,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ0NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-263",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-263",
         },
         {
           source: "Anime Owl",
@@ -17288,8 +16322,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTIx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-264",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-264",
         },
         {
           source: "Anime Owl",
@@ -17304,8 +16337,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ1Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-264",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-264",
         },
         {
           source: "Anime Owl",
@@ -17324,8 +16356,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTIy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-265",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-265",
         },
         {
           source: "Anime Owl",
@@ -17340,8 +16371,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ1NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-265",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-265",
         },
         {
           source: "Anime Owl",
@@ -17360,8 +16390,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTIz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-266",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-266",
         },
         {
           source: "Anime Owl",
@@ -17376,8 +16405,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ2MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-266",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-266",
         },
         {
           source: "Anime Owl",
@@ -17396,8 +16424,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTI0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-267",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-267",
         },
         {
           source: "Anime Owl",
@@ -17412,8 +16439,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ2NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-267",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-267",
         },
         {
           source: "Anime Owl",
@@ -17432,8 +16458,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTI1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-268",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-268",
         },
         {
           source: "Anime Owl",
@@ -17448,8 +16473,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ2Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-268",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-268",
         },
         {
           source: "Anime Owl",
@@ -17468,8 +16492,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTI2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-269",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-269",
         },
         {
           source: "Anime Owl",
@@ -17484,8 +16507,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ3MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-269",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-269",
         },
         {
           source: "Anime Owl",
@@ -17504,8 +16526,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTI3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-270",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-270",
         },
         {
           source: "Anime Owl",
@@ -17520,8 +16541,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ3NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-270",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-270",
         },
         {
           source: "Anime Owl",
@@ -17540,8 +16560,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTI4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-271",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-271",
         },
         {
           source: "Anime Owl",
@@ -17556,8 +16575,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ3Ng==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-271",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-271",
         },
         {
           source: "Anime Owl",
@@ -17576,8 +16594,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTI5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-272",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-272",
         },
         {
           source: "Anime Owl",
@@ -17592,8 +16609,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ3OQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-272",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-272",
         },
         {
           source: "Anime Owl",
@@ -17612,8 +16628,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTMw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-273",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-273",
         },
         {
           source: "Anime Owl",
@@ -17628,8 +16643,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ4MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-273",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-273",
         },
         {
           source: "Anime Owl",
@@ -17648,8 +16662,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTMx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-274",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-274",
         },
         {
           source: "Anime Owl",
@@ -17664,8 +16677,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ4NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-274",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-274",
         },
         {
           source: "Anime Owl",
@@ -17684,8 +16696,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTMy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-275",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-275",
         },
         {
           source: "Anime Owl",
@@ -17700,8 +16711,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ4Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-275",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-275",
         },
         {
           source: "Anime Owl",
@@ -17720,8 +16730,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTMz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-276",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-276",
         },
         {
           source: "Anime Owl",
@@ -17736,8 +16745,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ5Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-276",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-276",
         },
         {
           source: "Anime Owl",
@@ -17756,8 +16764,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTM0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-277",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-277",
         },
         {
           source: "Anime Owl",
@@ -17772,8 +16779,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzQ5OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-277",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-277",
         },
         {
           source: "Anime Owl",
@@ -17792,8 +16798,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTM1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-278",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-278",
         },
         {
           source: "Anime Owl",
@@ -17808,8 +16813,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUwMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-278",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-278",
         },
         {
           source: "Anime Owl",
@@ -17828,8 +16832,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTM2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-279",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-279",
         },
         {
           source: "Anime Owl",
@@ -17844,8 +16847,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUwMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-279",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-279",
         },
         {
           source: "Anime Owl",
@@ -17864,8 +16866,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTM3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-280",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-280",
         },
         {
           source: "Anime Owl",
@@ -17880,8 +16881,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUwMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-280",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-280",
         },
         {
           source: "Anime Owl",
@@ -17900,8 +16900,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTM4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-281",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-281",
         },
         {
           source: "Anime Owl",
@@ -17916,8 +16915,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUwNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-281",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-281",
         },
         {
           source: "Anime Owl",
@@ -17936,8 +16934,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTM5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-282",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-282",
         },
         {
           source: "Anime Owl",
@@ -17952,8 +16949,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUwNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-282",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-282",
         },
         {
           source: "Anime Owl",
@@ -17972,8 +16968,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-283",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-283",
         },
         {
           source: "Anime Owl",
@@ -17988,8 +16983,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUxMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-283",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-283",
         },
         {
           source: "Anime Owl",
@@ -18008,8 +17002,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-284",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-284",
         },
         {
           source: "Anime Owl",
@@ -18024,8 +17017,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUxMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-284",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-284",
         },
         {
           source: "Anime Owl",
@@ -18044,8 +17036,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-285",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-285",
         },
         {
           source: "Anime Owl",
@@ -18060,8 +17051,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUxNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-285",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-285",
         },
         {
           source: "Anime Owl",
@@ -18080,8 +17070,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-286",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-286",
         },
         {
           source: "Anime Owl",
@@ -18096,8 +17085,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUyNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-286",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-286",
         },
         {
           source: "Anime Owl",
@@ -18116,8 +17104,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQ0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-287",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-287",
         },
         {
           source: "Anime Owl",
@@ -18132,8 +17119,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUyOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-287",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-287",
         },
         {
           source: "Anime Owl",
@@ -18152,8 +17138,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQ1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-288",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-288",
         },
         {
           source: "Anime Owl",
@@ -18168,8 +17153,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUzMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-288",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-288",
         },
         {
           source: "Anime Owl",
@@ -18188,8 +17172,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQ2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-289",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-289",
         },
         {
           source: "Anime Owl",
@@ -18204,8 +17187,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUzNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-289",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-289",
         },
         {
           source: "Anime Owl",
@@ -18224,8 +17206,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQ3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-290",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-290",
         },
         {
           source: "Anime Owl",
@@ -18240,8 +17221,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzUzOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-290",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-290",
         },
         {
           source: "Anime Owl",
@@ -18260,8 +17240,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQ4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-291",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-291",
         },
         {
           source: "Anime Owl",
@@ -18276,8 +17255,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU0Mg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-291",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-291",
         },
         {
           source: "Anime Owl",
@@ -18296,8 +17274,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTQ5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-292",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-292",
         },
         {
           source: "Anime Owl",
@@ -18312,8 +17289,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU0NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-292",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-292",
         },
         {
           source: "Anime Owl",
@@ -18332,8 +17308,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-293",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-293",
         },
         {
           source: "Anime Owl",
@@ -18348,8 +17323,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjEzNDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-293",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-293",
         },
         {
           source: "Anime Owl",
@@ -18368,8 +17342,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-294",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-294",
         },
         {
           source: "Anime Owl",
@@ -18384,8 +17357,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU1NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-294",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-294",
         },
         {
           source: "Anime Owl",
@@ -18404,8 +17376,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-295",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-295",
         },
         {
           source: "Anime Owl",
@@ -18420,8 +17391,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU2MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-295",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-295",
         },
         {
           source: "Anime Owl",
@@ -18440,8 +17410,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-296",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-296",
         },
         {
           source: "Anime Owl",
@@ -18456,8 +17425,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU2NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-296",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-296",
         },
         {
           source: "Anime Owl",
@@ -18476,8 +17444,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-297",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-297",
         },
         {
           source: "Anime Owl",
@@ -18492,8 +17459,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU2Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-297",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-297",
         },
         {
           source: "Anime Owl",
@@ -18512,8 +17478,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-298",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-298",
         },
         {
           source: "Anime Owl",
@@ -18528,8 +17493,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU3MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-298",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-298",
         },
         {
           source: "Anime Owl",
@@ -18548,8 +17512,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-299",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-299",
         },
         {
           source: "Anime Owl",
@@ -18564,8 +17527,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU3NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-299",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-299",
         },
         {
           source: "Anime Owl",
@@ -18584,8 +17546,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-300",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-300",
         },
         {
           source: "Anime Owl",
@@ -18600,8 +17561,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU3Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-300",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-300",
         },
         {
           source: "Anime Owl",
@@ -18620,8 +17580,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-301",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-301",
         },
         {
           source: "Anime Owl",
@@ -18636,8 +17595,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU4NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-301",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-301",
         },
         {
           source: "Anime Owl",
@@ -18656,8 +17614,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-302",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-302",
         },
         {
           source: "Anime Owl",
@@ -18672,8 +17629,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU4OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-302",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-302",
         },
         {
           source: "Anime Owl",
@@ -18692,8 +17648,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-303",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-303",
         },
         {
           source: "Anime Owl",
@@ -18708,8 +17663,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU5MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-303",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-303",
         },
         {
           source: "Anime Owl",
@@ -18728,8 +17682,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-304",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-304",
         },
         {
           source: "Anime Owl",
@@ -18744,8 +17697,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU5NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-304",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-304",
         },
         {
           source: "Anime Owl",
@@ -18764,8 +17716,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-305",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-305",
         },
         {
           source: "Anime Owl",
@@ -18780,8 +17731,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU5NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-305",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-305",
         },
         {
           source: "Anime Owl",
@@ -18800,8 +17750,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-306",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-306",
         },
         {
           source: "Anime Owl",
@@ -18816,8 +17765,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzU5Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-306",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-306",
         },
         {
           source: "Anime Owl",
@@ -18836,8 +17784,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-307",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-307",
         },
         {
           source: "Anime Owl",
@@ -18852,8 +17799,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYwMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-307",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-307",
         },
         {
           source: "Anime Owl",
@@ -18872,8 +17818,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-308",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-308",
         },
         {
           source: "Anime Owl",
@@ -18888,8 +17833,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYwNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-308",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-308",
         },
         {
           source: "Anime Owl",
@@ -18908,8 +17852,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-309",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-309",
         },
         {
           source: "Anime Owl",
@@ -18924,8 +17867,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYwNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-309",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-309",
         },
         {
           source: "Anime Owl",
@@ -18944,8 +17886,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-310",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-310",
         },
         {
           source: "Anime Owl",
@@ -18960,8 +17901,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYwOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-310",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-310",
         },
         {
           source: "Anime Owl",
@@ -18980,8 +17920,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-311",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-311",
         },
         {
           source: "Anime Owl",
@@ -18996,8 +17935,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYxMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-311",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-311",
         },
         {
           source: "Anime Owl",
@@ -19016,8 +17954,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-312",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-312",
         },
         {
           source: "Anime Owl",
@@ -19032,8 +17969,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYxMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-312",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-312",
         },
         {
           source: "Anime Owl",
@@ -19052,8 +17988,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-313",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-313",
         },
         {
           source: "Anime Owl",
@@ -19068,8 +18003,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYxNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-313",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-313",
         },
         {
           source: "Anime Owl",
@@ -19088,8 +18022,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-314",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-314",
         },
         {
           source: "Anime Owl",
@@ -19104,8 +18037,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYxOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-314",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-314",
         },
         {
           source: "Anime Owl",
@@ -19124,8 +18056,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-315",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-315",
         },
         {
           source: "Anime Owl",
@@ -19140,8 +18071,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYyMQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-315",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-315",
         },
         {
           source: "Anime Owl",
@@ -19160,8 +18090,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-316",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-316",
         },
         {
           source: "Anime Owl",
@@ -19176,8 +18105,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYyMg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-316",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-316",
         },
         {
           source: "Anime Owl",
@@ -19196,8 +18124,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-317",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-317",
         },
         {
           source: "Anime Owl",
@@ -19212,8 +18139,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYyNA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-317",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-317",
         },
         {
           source: "Anime Owl",
@@ -19232,8 +18158,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-318",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-318",
         },
         {
           source: "Anime Owl",
@@ -19248,8 +18173,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYyNg==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-318",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-318",
         },
         {
           source: "Anime Owl",
@@ -19268,8 +18192,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-319",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-319",
         },
         {
           source: "Anime Owl",
@@ -19284,8 +18207,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYyOA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-319",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-319",
         },
         {
           source: "Anime Owl",
@@ -19304,8 +18226,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-320",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-320",
         },
         {
           source: "Anime Owl",
@@ -19320,8 +18241,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYzMA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-320",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-320",
         },
         {
           source: "Anime Owl",
@@ -19340,8 +18260,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-321",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-321",
         },
         {
           source: "Anime Owl",
@@ -19356,8 +18275,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY0MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-321",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-321",
         },
         {
           source: "Anime Owl",
@@ -19376,8 +18294,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-322",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-322",
         },
         {
           source: "Anime Owl",
@@ -19392,8 +18309,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYzMw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-322",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-322",
         },
         {
           source: "Anime Owl",
@@ -19412,8 +18328,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-323",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-323",
         },
         {
           source: "Anime Owl",
@@ -19428,8 +18343,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYzNQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-323",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-323",
         },
         {
           source: "Anime Owl",
@@ -19448,8 +18362,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-324",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-324",
         },
         {
           source: "Anime Owl",
@@ -19464,8 +18377,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYzNw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-324",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-324",
         },
         {
           source: "Anime Owl",
@@ -19484,8 +18396,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-325",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-325",
         },
         {
           source: "Anime Owl",
@@ -19500,8 +18411,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzYzOQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-325",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-325",
         },
         {
           source: "Anime Owl",
@@ -19520,8 +18430,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTkw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-326",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-326",
         },
         {
           source: "Anime Owl",
@@ -19536,8 +18445,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY0OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-326",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-326",
         },
         {
           source: "Anime Owl",
@@ -19556,8 +18464,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTkx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-327",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-327",
         },
         {
           source: "Anime Owl",
@@ -19572,8 +18479,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY1MA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-327",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-327",
         },
         {
           source: "Anime Owl",
@@ -19592,8 +18498,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTky" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-328",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-328",
         },
         {
           source: "Anime Owl",
@@ -19608,8 +18513,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY1Mw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-328",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-328",
         },
         {
           source: "Anime Owl",
@@ -19628,8 +18532,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-329",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-329",
         },
         {
           source: "Anime Owl",
@@ -19644,8 +18547,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY1NQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-329",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-329",
         },
         {
           source: "Anime Owl",
@@ -19664,8 +18566,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-330",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-330",
         },
         {
           source: "Anime Owl",
@@ -19680,8 +18581,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY1OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-330",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-330",
         },
         {
           source: "Anime Owl",
@@ -19700,8 +18600,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTk1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-331",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-331",
         },
         {
           source: "Anime Owl",
@@ -19716,8 +18615,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY2MQ==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-331",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-331",
         },
         {
           source: "Anime Owl",
@@ -19736,8 +18634,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTk2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-332",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-332",
         },
         {
           source: "Anime Owl",
@@ -19752,8 +18649,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY2NA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-332",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-332",
         },
         {
           source: "Anime Owl",
@@ -19772,8 +18668,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTk3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-333",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-333",
         },
         {
           source: "Anime Owl",
@@ -19788,8 +18683,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY2Nw==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-333",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-333",
         },
         {
           source: "Anime Owl",
@@ -19808,8 +18702,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTk4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-334",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-334",
         },
         {
           source: "Anime Owl",
@@ -19824,8 +18717,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzY2OA==" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-334",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-334",
         },
         {
           source: "Anime Owl",
@@ -19844,8 +18736,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NTk5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-335",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-335",
         },
         {
           source: "Anime Owl",
@@ -19860,8 +18751,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MjQ2Nzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-335",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-335",
         },
         {
           source: "Anime Owl",
@@ -19880,8 +18770,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjAw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-336",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-336",
         },
         {
           source: "Anime Owl",
@@ -19896,8 +18785,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MzA4MTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-336",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-336",
         },
         {
           source: "Anime Owl",
@@ -19916,8 +18804,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjAx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-337",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-337",
         },
         {
           source: "Anime Owl",
@@ -19932,8 +18819,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Mzc2OTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-337",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-337",
         },
         {
           source: "Anime Owl",
@@ -19952,8 +18838,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjAy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-338",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-338",
         },
         {
           source: "Anime Owl",
@@ -19968,8 +18853,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDAyNTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-338",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-338",
         },
         {
           source: "Anime Owl",
@@ -19988,8 +18872,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjAz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-339",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-339",
         },
         {
           source: "Anime Owl",
@@ -20004,8 +18887,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDA5ODg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-339",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-339",
         },
         {
           source: "Anime Owl",
@@ -20024,8 +18906,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjA0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-340",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-340",
         },
         { source: "Anime Owl" },
       ],
@@ -20036,8 +18917,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDEwNzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-340",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-340",
         },
         {
           source: "Anime Owl",
@@ -20056,8 +18936,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjA1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-341",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-341",
         },
         {
           source: "Anime Owl",
@@ -20072,8 +18951,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDExOTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-341",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-341",
         },
         {
           source: "Anime Owl",
@@ -20092,8 +18970,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjA2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-342",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-342",
         },
         {
           source: "Anime Owl",
@@ -20108,8 +18985,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDEyNzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-342",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-342",
         },
         {
           source: "Anime Owl",
@@ -20128,8 +19004,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjA3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-343",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-343",
         },
         {
           source: "Anime Owl",
@@ -20144,8 +19019,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDEzNzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-343",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-343",
         },
         {
           source: "Anime Owl",
@@ -20164,8 +19038,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjA4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-344",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-344",
         },
         {
           source: "Anime Owl",
@@ -20180,8 +19053,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDEzOTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-344",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-344",
         },
         {
           source: "Anime Owl",
@@ -20200,8 +19072,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjA5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-345",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-345",
         },
         {
           source: "Anime Owl",
@@ -20216,8 +19087,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDE1ODM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-345",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-345",
         },
         {
           source: "Anime Owl",
@@ -20236,8 +19106,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjEw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-346",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-346",
         },
         {
           source: "Anime Owl",
@@ -20252,8 +19121,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDE2ODc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-346",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-346",
         },
         {
           source: "Anime Owl",
@@ -20272,8 +19140,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjEx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-347",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-347",
         },
         {
           source: "Anime Owl",
@@ -20288,8 +19155,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDE3NjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-347",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-347",
         },
         {
           source: "Anime Owl",
@@ -20308,8 +19174,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjEy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-348",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-348",
         },
         {
           source: "Anime Owl",
@@ -20324,8 +19189,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDE3NjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-348",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-348",
         },
         {
           source: "Anime Owl",
@@ -20344,8 +19208,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjEz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-349",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-349",
         },
         {
           source: "Anime Owl",
@@ -20360,8 +19223,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDE4NDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-349",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-349",
         },
         {
           source: "Anime Owl",
@@ -20380,8 +19242,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjE0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-350",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-350",
         },
         {
           source: "Anime Owl",
@@ -20396,8 +19257,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDE5MDk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-350",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-350",
         },
         {
           source: "Anime Owl",
@@ -20416,8 +19276,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-351",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-351",
         },
         {
           source: "Anime Owl",
@@ -20432,8 +19291,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDE5ODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-351",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-351",
         },
         {
           source: "Anime Owl",
@@ -20452,8 +19310,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-352",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-352",
         },
         {
           source: "Anime Owl",
@@ -20468,8 +19325,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDIwNzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-352",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-352",
         },
         {
           source: "Anime Owl",
@@ -20488,8 +19344,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-353",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-353",
         },
         {
           source: "Anime Owl",
@@ -20504,8 +19359,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDIxNTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-353",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-353",
         },
         {
           source: "Anime Owl",
@@ -20524,8 +19378,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-354",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-354",
         },
         {
           source: "Anime Owl",
@@ -20540,8 +19393,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDIyMzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-354",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-354",
         },
         {
           source: "Anime Owl",
@@ -20560,8 +19412,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQ0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-355",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-355",
         },
         {
           source: "Anime Owl",
@@ -20576,8 +19427,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDIyMzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-355",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-355",
         },
         {
           source: "Anime Owl",
@@ -20596,8 +19446,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQ1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-356",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-356",
         },
         {
           source: "Anime Owl",
@@ -20612,8 +19461,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDIzMzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-356",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-356",
         },
         {
           source: "Anime Owl",
@@ -20632,8 +19480,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQ2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-357",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-357",
         },
         {
           source: "Anime Owl",
@@ -20648,8 +19495,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDI2MTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-357",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-357",
         },
         {
           source: "Anime Owl",
@@ -20668,8 +19514,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQ3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-358",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-358",
         },
         {
           source: "Anime Owl",
@@ -20684,8 +19529,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDI4NDE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-358",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-358",
         },
         {
           source: "Anime Owl",
@@ -20704,8 +19548,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQ4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-359",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-359",
         },
         {
           source: "Anime Owl",
@@ -20720,8 +19563,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDI5NzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-359",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-359",
         },
         {
           source: "Anime Owl",
@@ -20740,8 +19582,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjQ5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-360",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-360",
         },
         {
           source: "Anime Owl",
@@ -20756,8 +19597,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDMxNDI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-360",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-360",
         },
         {
           source: "Anime Owl",
@@ -20776,8 +19616,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-361",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-361",
         },
         {
           source: "Anime Owl",
@@ -20792,8 +19631,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDMzMDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-361",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-361",
         },
         {
           source: "Anime Owl",
@@ -20812,8 +19650,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-362",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-362",
         },
         {
           source: "Anime Owl",
@@ -20828,8 +19665,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDM1NzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-362",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-362",
         },
         {
           source: "Anime Owl",
@@ -20848,8 +19684,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-363",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-363",
         },
         {
           source: "Anime Owl",
@@ -20864,8 +19699,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDM3MzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-363",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-363",
         },
         {
           source: "Anime Owl",
@@ -20884,8 +19718,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-364",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-364",
         },
         {
           source: "Anime Owl",
@@ -20900,8 +19733,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDQwMzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-364",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-364",
         },
         {
           source: "Anime Owl",
@@ -20920,8 +19752,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-365",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-365",
         },
         {
           source: "Anime Owl",
@@ -20936,8 +19767,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDQyODQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-365",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-365",
         },
         {
           source: "Anime Owl",
@@ -20956,8 +19786,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-366",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-366",
         },
         {
           source: "Anime Owl",
@@ -20972,8 +19801,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDQ2OTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-366",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-366",
         },
         {
           source: "Anime Owl",
@@ -20992,8 +19820,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-367",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-367",
         },
         {
           source: "Anime Owl",
@@ -21008,8 +19835,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDQ3NjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-367",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-367",
         },
         {
           source: "Anime Owl",
@@ -21028,8 +19854,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-368",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-368",
         },
         {
           source: "Anime Owl",
@@ -21044,8 +19869,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDQ5OTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-368",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-368",
         },
         {
           source: "Anime Owl",
@@ -21064,8 +19888,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjU4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-369",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-369",
         },
         {
           source: "Anime Owl",
@@ -21080,8 +19903,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDUxNTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-369",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-369",
         },
         {
           source: "Anime Owl",
@@ -21100,8 +19922,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjU5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-370",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-370",
         },
         {
           source: "Anime Owl",
@@ -21116,8 +19937,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDUzMDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-370",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-370",
         },
         {
           source: "Anime Owl",
@@ -21136,8 +19956,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjYw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-371",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-371",
         },
         {
           source: "Anime Owl",
@@ -21152,8 +19971,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDUzOTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-371",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-371",
         },
         {
           source: "Anime Owl",
@@ -21172,8 +19990,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjYx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-372",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-372",
         },
         {
           source: "Anime Owl",
@@ -21188,8 +20005,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDU3MDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-372",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-372",
         },
         {
           source: "Anime Owl",
@@ -21208,8 +20024,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjYy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-373",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-373",
         },
         {
           source: "Anime Owl",
@@ -21224,8 +20039,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDU5MTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-373",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-373",
         },
         {
           source: "Anime Owl",
@@ -21244,8 +20058,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-374",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-374",
         },
         {
           source: "Anime Owl",
@@ -21260,8 +20073,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDYwMzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-374",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-374",
         },
         {
           source: "Anime Owl",
@@ -21280,8 +20092,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjY0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-375",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-375",
         },
         {
           source: "Anime Owl",
@@ -21296,8 +20107,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDYxNzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-375",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-375",
         },
         {
           source: "Anime Owl",
@@ -21316,8 +20126,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-376",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-376",
         },
         {
           source: "Anime Owl",
@@ -21332,8 +20141,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDY0ODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-376",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-376",
         },
         {
           source: "Anime Owl",
@@ -21352,8 +20160,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-377",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-377",
         },
         {
           source: "Anime Owl",
@@ -21368,8 +20175,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDY0OTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-377",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-377",
         },
         {
           source: "Anime Owl",
@@ -21388,8 +20194,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-378",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-378",
         },
         {
           source: "Anime Owl",
@@ -21404,8 +20209,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDcwNjI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-378",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-378",
         },
         {
           source: "Anime Owl",
@@ -21424,8 +20228,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-379",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-379",
         },
         {
           source: "Anime Owl",
@@ -21440,8 +20243,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDc2MDA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-379",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-379",
         },
         {
           source: "Anime Owl",
@@ -21460,8 +20262,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NjY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-380",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-380",
         },
         {
           source: "Anime Owl",
@@ -21476,8 +20277,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDc3ODA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-380",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-380",
         },
         {
           source: "Anime Owl",
@@ -21496,8 +20296,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-381",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-381",
         },
         {
           source: "Anime Owl",
@@ -21512,8 +20311,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDc5MTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-381",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-381",
         },
         {
           source: "Anime Owl",
@@ -21532,8 +20330,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-382",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-382",
         },
         {
           source: "Anime Owl",
@@ -21548,8 +20345,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDgwMzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-382",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-382",
         },
         {
           source: "Anime Owl",
@@ -21568,8 +20364,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-383",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-383",
         },
         {
           source: "Anime Owl",
@@ -21584,8 +20379,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDgyNjM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-383",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-383",
         },
         {
           source: "Anime Owl",
@@ -21604,8 +20398,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-384",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-384",
         },
         {
           source: "Anime Owl",
@@ -21620,8 +20413,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDgzNTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-384",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-384",
         },
         {
           source: "Anime Owl",
@@ -21640,8 +20432,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-385",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-385",
         },
         {
           source: "Anime Owl",
@@ -21656,8 +20447,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDg0NTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-385",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-385",
         },
         {
           source: "Anime Owl",
@@ -21676,8 +20466,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-386",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-386",
         },
         {
           source: "Anime Owl",
@@ -21692,8 +20481,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDg1Mzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-386",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-386",
         },
         {
           source: "Anime Owl",
@@ -21712,8 +20500,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-387",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-387",
         },
         {
           source: "Anime Owl",
@@ -21728,8 +20515,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDg2MzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-387",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-387",
         },
         {
           source: "Anime Owl",
@@ -21748,8 +20534,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njc3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-388",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-388",
         },
         {
           source: "Anime Owl",
@@ -21764,8 +20549,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDg3NDM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-388",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-388",
         },
         {
           source: "Anime Owl",
@@ -21784,8 +20568,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njc4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-389",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-389",
         },
         {
           source: "Anime Owl",
@@ -21800,8 +20583,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDg4Mjc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-389",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-389",
         },
         {
           source: "Anime Owl",
@@ -21820,8 +20602,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njc5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-390",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-390",
         },
         {
           source: "Anime Owl",
@@ -21836,8 +20617,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDg5MzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-390",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-390",
         },
         {
           source: "Anime Owl",
@@ -21856,8 +20636,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njgw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-391",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-391",
         },
         {
           source: "Anime Owl",
@@ -21872,8 +20651,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDg5Mzc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-391",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-391",
         },
         {
           source: "Anime Owl",
@@ -21892,8 +20670,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-392",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-392",
         },
         {
           source: "Anime Owl",
@@ -21908,8 +20685,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDkwMjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-392",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-392",
         },
         {
           source: "Anime Owl",
@@ -21928,8 +20704,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-393",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-393",
         },
         {
           source: "Anime Owl",
@@ -21944,8 +20719,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDkxMDY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-393",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-393",
         },
         {
           source: "Anime Owl",
@@ -21964,8 +20738,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-394",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-394",
         },
         {
           source: "Anime Owl",
@@ -21980,8 +20753,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDkxNzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-394",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-394",
         },
         {
           source: "Anime Owl",
@@ -22000,8 +20772,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-395",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-395",
         },
         {
           source: "Anime Owl",
@@ -22016,8 +20787,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDkyNTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-395",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-395",
         },
         {
           source: "Anime Owl",
@@ -22036,8 +20806,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-396",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-396",
         },
         {
           source: "Anime Owl",
@@ -22052,8 +20821,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDkzNTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-396",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-396",
         },
         {
           source: "Anime Owl",
@@ -22072,8 +20840,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-397",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-397",
         },
         {
           source: "Anime Owl",
@@ -22088,8 +20855,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDk1MDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-397",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-397",
         },
         {
           source: "Anime Owl",
@@ -22108,8 +20874,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-398",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-398",
         },
         {
           source: "Anime Owl",
@@ -22124,8 +20889,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDk1OTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-398",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-398",
         },
         {
           source: "Anime Owl",
@@ -22144,8 +20908,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-399",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-399",
         },
         {
           source: "Anime Owl",
@@ -22160,8 +20923,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDk2NzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-399",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-399",
         },
         {
           source: "Anime Owl",
@@ -22180,8 +20942,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-400",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-400",
         },
         {
           source: "Anime Owl",
@@ -22196,8 +20957,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDk3NDY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-400",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-400",
         },
         {
           source: "Anime Owl",
@@ -22216,8 +20976,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njkw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-401",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-401",
         },
         {
           source: "Anime Owl",
@@ -22232,8 +20991,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDk4MTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-401",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-401",
         },
         {
           source: "Anime Owl",
@@ -22252,8 +21010,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njkx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-402",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-402",
         },
         {
           source: "Anime Owl",
@@ -22268,8 +21025,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NDk4OTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-402",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-402",
         },
         {
           source: "Anime Owl",
@@ -22288,8 +21044,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njky" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-403",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-403",
         },
         {
           source: "Anime Owl",
@@ -22304,8 +21059,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTAwMzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-403",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-403",
         },
         {
           source: "Anime Owl",
@@ -22324,8 +21078,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-404",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-404",
         },
         {
           source: "Anime Owl",
@@ -22340,8 +21093,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTAyMTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-404",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-404",
         },
         {
           source: "Anime Owl",
@@ -22360,8 +21112,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-405",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-405",
         },
         {
           source: "Anime Owl",
@@ -22376,8 +21127,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTA5MjA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-405",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-405",
         },
         {
           source: "Anime Owl",
@@ -22396,8 +21146,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njk1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-406",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-406",
         },
         {
           source: "Anime Owl",
@@ -22412,8 +21161,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTE5ODE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-406",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-406",
         },
         {
           source: "Anime Owl",
@@ -22432,8 +21180,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njk2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-407",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-407",
         },
         {
           source: "Anime Owl",
@@ -22448,8 +21195,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTMyODA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-407",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-407",
         },
         {
           source: "Anime Owl",
@@ -22468,8 +21214,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njk3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-408",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-408",
         },
         {
           source: "Anime Owl",
@@ -22484,8 +21229,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTQ2Mzc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-408",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-408",
         },
         {
           source: "Anime Owl",
@@ -22504,8 +21248,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njk4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-409",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-409",
         },
         {
           source: "Anime Owl",
@@ -22520,8 +21263,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTUyNzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-409",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-409",
         },
         {
           source: "Anime Owl",
@@ -22540,8 +21282,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3Njk5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-410",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-410",
         },
         {
           source: "Anime Owl",
@@ -22556,8 +21297,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTYwOTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-410",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-410",
         },
         {
           source: "Anime Owl",
@@ -22576,8 +21316,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzAw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-411",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-411",
         },
         {
           source: "Anime Owl",
@@ -22592,8 +21331,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTY3ODM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-411",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-411",
         },
         {
           source: "Anime Owl",
@@ -22612,8 +21350,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzAx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-412",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-412",
         },
         {
           source: "Anime Owl",
@@ -22628,8 +21365,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTcxNjc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-412",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-412",
         },
         {
           source: "Anime Owl",
@@ -22648,8 +21384,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzAy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-413",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-413",
         },
         {
           source: "Anime Owl",
@@ -22664,8 +21399,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTc3NjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-413",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-413",
         },
         {
           source: "Anime Owl",
@@ -22684,8 +21418,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzAz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-414",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-414",
         },
         {
           source: "Anime Owl",
@@ -22700,8 +21433,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTg3MjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-414",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-414",
         },
         {
           source: "Anime Owl",
@@ -22720,8 +21452,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzA0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-415",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-415",
         },
         {
           source: "Anime Owl",
@@ -22736,8 +21467,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NTk2Mjk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-415",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-415",
         },
         {
           source: "Anime Owl",
@@ -22756,8 +21486,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzA1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-416",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-416",
         },
         {
           source: "Anime Owl",
@@ -22772,8 +21501,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjAzMzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-416",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-416",
         },
         {
           source: "Anime Owl",
@@ -22792,8 +21520,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzA2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-417",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-417",
         },
         {
           source: "Anime Owl",
@@ -22808,8 +21535,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjEyNjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-417",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-417",
         },
         {
           source: "Anime Owl",
@@ -22828,8 +21554,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzA3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-418",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-418",
         },
         {
           source: "Anime Owl",
@@ -22844,8 +21569,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjMxMzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-418",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-418",
         },
         {
           source: "Anime Owl",
@@ -22864,8 +21588,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzA4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-419",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-419",
         },
         {
           source: "Anime Owl",
@@ -22880,8 +21603,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjM3NjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-419",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-419",
         },
         {
           source: "Anime Owl",
@@ -22900,8 +21622,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzA5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-420",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-420",
         },
         {
           source: "Anime Owl",
@@ -22916,8 +21637,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjQ3NzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-420",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-420",
         },
         {
           source: "Anime Owl",
@@ -22936,8 +21656,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzEw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-421",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-421",
         },
         {
           source: "Anime Owl",
@@ -22952,8 +21671,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjU5MjA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-421",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-421",
         },
         {
           source: "Anime Owl",
@@ -22972,8 +21690,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzEx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-422",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-422",
         },
         {
           source: "Anime Owl",
@@ -22988,8 +21705,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjY0ODA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-422",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-422",
         },
         {
           source: "Anime Owl",
@@ -23008,8 +21724,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzEy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-423",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-423",
         },
         {
           source: "Anime Owl",
@@ -23024,8 +21739,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjY2OTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-423",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-423",
         },
         {
           source: "Anime Owl",
@@ -23044,8 +21758,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzEz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-424",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-424",
         },
         {
           source: "Anime Owl",
@@ -23060,8 +21773,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjY2OTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-424",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-424",
         },
         {
           source: "Anime Owl",
@@ -23080,8 +21792,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzE0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-425",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-425",
         },
         {
           source: "Anime Owl",
@@ -23096,8 +21807,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjcxMjE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-425",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-425",
         },
         {
           source: "Anime Owl",
@@ -23116,8 +21826,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzE1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-426",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-426",
         },
         {
           source: "Anime Owl",
@@ -23132,8 +21841,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njc0OTA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-426",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-426",
         },
         {
           source: "Anime Owl",
@@ -23152,8 +21860,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzE2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-427",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-427",
         },
         {
           source: "Anime Owl",
@@ -23168,8 +21875,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjgzNzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-427",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-427",
         },
         {
           source: "Anime Owl",
@@ -23188,8 +21894,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzE3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-428",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-428",
         },
         {
           source: "Anime Owl",
@@ -23204,8 +21909,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg1NTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-428",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-428",
         },
         {
           source: "Anime Owl",
@@ -23224,8 +21928,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzE4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-429",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-429",
         },
         {
           source: "Anime Owl",
@@ -23240,8 +21943,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg1NTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-429",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-429",
         },
         {
           source: "Anime Owl",
@@ -23260,8 +21962,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzE5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-430",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-430",
         },
         {
           source: "Anime Owl",
@@ -23276,8 +21977,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg4OTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-430",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-430",
         },
         {
           source: "Anime Owl",
@@ -23296,8 +21996,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzIw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-431",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-431",
         },
         {
           source: "Anime Owl",
@@ -23312,8 +22011,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg5NzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-431",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-431",
         },
         {
           source: "Anime Owl",
@@ -23332,8 +22030,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzIx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-432",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-432",
         },
         {
           source: "Anime Owl",
@@ -23348,8 +22045,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkwMzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-432",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-432",
         },
         {
           source: "Anime Owl",
@@ -23368,8 +22064,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzIy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-433",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-433",
         },
         {
           source: "Anime Owl",
@@ -23384,8 +22079,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkxMDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-433",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-433",
         },
         {
           source: "Anime Owl",
@@ -23404,8 +22098,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzIz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-434",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-434",
         },
         {
           source: "Anime Owl",
@@ -23420,8 +22113,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkyMzI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-434",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-434",
         },
         {
           source: "Anime Owl",
@@ -23440,8 +22132,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzI0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-435",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-435",
         },
         {
           source: "Anime Owl",
@@ -23456,8 +22147,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkzMTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-435",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-435",
         },
         {
           source: "Anime Owl",
@@ -23476,8 +22166,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzI1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-436",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-436",
         },
         {
           source: "Anime Owl",
@@ -23492,8 +22181,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk0MDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-436",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-436",
         },
         {
           source: "Anime Owl",
@@ -23512,8 +22200,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzI2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-437",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-437",
         },
         {
           source: "Anime Owl",
@@ -23528,8 +22215,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk1NzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-437",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-437",
         },
         {
           source: "Anime Owl",
@@ -23548,8 +22234,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzI3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-438",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-438",
         },
         {
           source: "Anime Owl",
@@ -23564,8 +22249,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk2NTM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-438",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-438",
         },
         {
           source: "Anime Owl",
@@ -23584,8 +22268,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzI4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-439",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-439",
         },
         {
           source: "Anime Owl",
@@ -23600,8 +22283,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk3MzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-439",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-439",
         },
         {
           source: "Anime Owl",
@@ -23620,8 +22302,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzI5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-440",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-440",
         },
         {
           source: "Anime Owl",
@@ -23636,8 +22317,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk5NDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-440",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-440",
         },
         {
           source: "Anime Owl",
@@ -23656,8 +22336,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzMw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-441",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-441",
         },
         {
           source: "Anime Owl",
@@ -23672,8 +22351,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAwMjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-441",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-441",
         },
         {
           source: "Anime Owl",
@@ -23692,8 +22370,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzMx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-442",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-442",
         },
         {
           source: "Anime Owl",
@@ -23708,8 +22385,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAxMDQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-442",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-442",
         },
         {
           source: "Anime Owl",
@@ -23728,8 +22404,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzMy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-443",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-443",
         },
         {
           source: "Anime Owl",
@@ -23744,8 +22419,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAxODQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-443",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-443",
         },
         {
           source: "Anime Owl",
@@ -23764,8 +22438,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3NzMz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-444",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-444",
         },
         {
           source: "Anime Owl",
@@ -23780,8 +22453,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAyMzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-444",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-444",
         },
         {
           source: "Anime Owl",
@@ -23800,8 +22472,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTUw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-445",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-445",
         },
         {
           source: "Anime Owl",
@@ -23816,8 +22487,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA0MjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-445",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-445",
         },
         {
           source: "Anime Owl",
@@ -23836,8 +22506,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTUx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-446",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-446",
         },
         {
           source: "Anime Owl",
@@ -23852,8 +22521,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA1MDU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-446",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-446",
         },
         {
           source: "Anime Owl",
@@ -23872,8 +22540,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTUy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-447",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-447",
         },
         {
           source: "Anime Owl",
@@ -23888,8 +22555,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA1Nzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-447",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-447",
         },
         {
           source: "Anime Owl",
@@ -23908,8 +22574,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTUz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-448",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-448",
         },
         {
           source: "Anime Owl",
@@ -23924,8 +22589,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA2NTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-448",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-448",
         },
         {
           source: "Anime Owl",
@@ -23944,8 +22608,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTU0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-449",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-449",
         },
         {
           source: "Anime Owl",
@@ -23960,8 +22623,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA3MzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-449",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-449",
         },
         {
           source: "Anime Owl",
@@ -23980,8 +22642,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTU1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-450",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-450",
         },
         {
           source: "Anime Owl",
@@ -23996,8 +22657,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA4Mjk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-450",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-450",
         },
         {
           source: "Anime Owl",
@@ -24016,8 +22676,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTU2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-451",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-451",
         },
         {
           source: "Anime Owl",
@@ -24032,8 +22691,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA5MjI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-451",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-451",
         },
         {
           source: "Anime Owl",
@@ -24052,8 +22710,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTU3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-452",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-452",
         },
         {
           source: "Anime Owl",
@@ -24068,8 +22725,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEwMzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-452",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-452",
         },
         {
           source: "Anime Owl",
@@ -24088,8 +22744,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTU4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-453",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-453",
         },
         {
           source: "Anime Owl",
@@ -24104,8 +22759,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzExMTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-453",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-453",
         },
         {
           source: "Anime Owl",
@@ -24124,8 +22778,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTU5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-454",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-454",
         },
         {
           source: "Anime Owl",
@@ -24140,8 +22793,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzExODk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-454",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-454",
         },
         {
           source: "Anime Owl",
@@ -24160,8 +22812,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTYw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-455",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-455",
         },
         {
           source: "Anime Owl",
@@ -24176,8 +22827,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEyNjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-455",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-455",
         },
         {
           source: "Anime Owl",
@@ -24196,8 +22846,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTYx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-456",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-456",
         },
         {
           source: "Anime Owl",
@@ -24212,8 +22861,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE0MDY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-456",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-456",
         },
         {
           source: "Anime Owl",
@@ -24232,8 +22880,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTYy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-457",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-457",
         },
         {
           source: "Anime Owl",
@@ -24248,8 +22895,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE0ODU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-457",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-457",
         },
         {
           source: "Anime Owl",
@@ -24268,8 +22914,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMTYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-458",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-458",
         },
         {
           source: "Anime Owl",
@@ -24284,8 +22929,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE1NTQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-458",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-458",
         },
         {
           source: "Anime Owl",
@@ -24304,8 +22948,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDYz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-459",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-459",
         },
         {
           source: "Anime Owl",
@@ -24320,8 +22963,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE2MzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-459",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-459",
         },
         {
           source: "Anime Owl",
@@ -24340,8 +22982,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDY0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-460",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-460",
         },
         {
           source: "Anime Owl",
@@ -24356,8 +22997,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE3MjE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-460",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-460",
         },
         {
           source: "Anime Owl",
@@ -24376,8 +23016,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDY1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-461",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-461",
         },
         {
           source: "Anime Owl",
@@ -24392,8 +23031,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE4MDM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-461",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-461",
         },
         {
           source: "Anime Owl",
@@ -24412,8 +23050,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDY2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-462",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-462",
         },
         {
           source: "Anime Owl",
@@ -24428,8 +23065,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE4Nzc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-462",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-462",
         },
         {
           source: "Anime Owl",
@@ -24448,8 +23084,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDY3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-463",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-463",
         },
         {
           source: "Anime Owl",
@@ -24464,8 +23099,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE5NjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-463",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-463",
         },
         {
           source: "Anime Owl",
@@ -24484,8 +23118,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDY4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-464",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-464",
         },
         {
           source: "Anime Owl",
@@ -24500,8 +23133,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIwNjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-464",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-464",
         },
         {
           source: "Anime Owl",
@@ -24520,8 +23152,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDY5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-465",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-465",
         },
         {
           source: "Anime Owl",
@@ -24536,8 +23167,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIyMTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-465",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-465",
         },
         {
           source: "Anime Owl",
@@ -24556,8 +23186,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDcw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-466",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-466",
         },
         {
           source: "Anime Owl",
@@ -24572,8 +23201,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIzMjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-466",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-466",
         },
         {
           source: "Anime Owl",
@@ -24592,8 +23220,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDcx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-467",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-467",
         },
         {
           source: "Anime Owl",
@@ -24608,8 +23235,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI1NDI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-467",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-467",
         },
         {
           source: "Anime Owl",
@@ -24628,8 +23254,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDcy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-468",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-468",
         },
         {
           source: "Anime Owl",
@@ -24644,8 +23269,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI2MzM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-468",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-468",
         },
         {
           source: "Anime Owl",
@@ -24664,8 +23288,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDcz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-469",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-469",
         },
         {
           source: "Anime Owl",
@@ -24680,8 +23303,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzMzMDA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-469",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-469",
         },
         {
           source: "Anime Owl",
@@ -24700,8 +23322,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDc0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-470",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-470",
         },
         {
           source: "Anime Owl",
@@ -24716,8 +23337,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzM1NzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-470",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-470",
         },
         {
           source: "Anime Owl",
@@ -24736,8 +23356,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDc1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-471",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-471",
         },
         {
           source: "Anime Owl",
@@ -24752,8 +23371,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzM4MjQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-471",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-471",
         },
         {
           source: "Anime Owl",
@@ -24772,8 +23390,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNDc2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-472",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-472",
         },
         {
           source: "Anime Owl",
@@ -24788,8 +23405,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQxNjU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-472",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-472",
         },
         {
           source: "Anime Owl",
@@ -24808,8 +23424,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjMw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-473",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-473",
         },
         {
           source: "Anime Owl",
@@ -24824,8 +23439,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MzE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-473",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-473",
         },
         {
           source: "Anime Owl",
@@ -24844,8 +23458,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjMx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-474",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-474",
         },
         {
           source: "Anime Owl",
@@ -24860,8 +23473,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ4MzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-474",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-474",
         },
         {
           source: "Anime Owl",
@@ -24880,8 +23492,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjMy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-475",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-475",
         },
         {
           source: "Anime Owl",
@@ -24896,8 +23507,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUzOTE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-475",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-475",
         },
         {
           source: "Anime Owl",
@@ -24916,8 +23526,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjMz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-476",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-476",
         },
         {
           source: "Anime Owl",
@@ -24932,8 +23541,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzU4Nzg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-476",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-476",
         },
         {
           source: "Anime Owl",
@@ -24952,8 +23560,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjM0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-477",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-477",
         },
         {
           source: "Anime Owl",
@@ -24968,8 +23575,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY5MTY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-477",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-477",
         },
         {
           source: "Anime Owl",
@@ -24988,8 +23594,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjM1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-478",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-478",
         },
         {
           source: "Anime Owl",
@@ -25004,8 +23609,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Nzc1MzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-478",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-478",
         },
         {
           source: "Anime Owl",
@@ -25024,8 +23628,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjM2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-479",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-479",
         },
         {
           source: "Anime Owl",
@@ -25040,8 +23643,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Nzc1MzU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-479",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-479",
         },
         {
           source: "Anime Owl",
@@ -25060,8 +23662,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjM3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-480",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-480",
         },
         {
           source: "Anime Owl",
@@ -25076,8 +23677,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzkwMTI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-480",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-480",
         },
         {
           source: "Anime Owl",
@@ -25096,8 +23696,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjM4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-481",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-481",
         },
         {
           source: "Anime Owl",
@@ -25112,8 +23711,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODA1MDI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-481",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-481",
         },
         {
           source: "Anime Owl",
@@ -25132,8 +23730,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjM5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-482",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-482",
         },
         {
           source: "Anime Owl",
@@ -25148,8 +23745,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODIzMTU=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-482",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-482",
         },
         {
           source: "Anime Owl",
@@ -25168,8 +23764,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjQw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-483",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-483",
         },
         {
           source: "Anime Owl",
@@ -25184,8 +23779,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODQzMDM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-483",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-483",
         },
         {
           source: "Anime Owl",
@@ -25204,8 +23798,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjQx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-484",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-484",
         },
         {
           source: "Anime Owl",
@@ -25220,8 +23813,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODgzODM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-484",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-484",
         },
         {
           source: "Anime Owl",
@@ -25240,8 +23832,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjQy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-485",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-485",
         },
         {
           source: "Anime Owl",
@@ -25256,8 +23847,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODg0NzQ=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-485",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-485",
         },
         {
           source: "Anime Owl",
@@ -25276,8 +23866,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1NjQz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-486",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-486",
         },
         {
           source: "Anime Owl",
@@ -25292,8 +23881,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODk2OTk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-486",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-486",
         },
         {
           source: "Anime Owl",
@@ -25312,8 +23900,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzgx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-487",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-487",
         },
         {
           source: "Anime Owl",
@@ -25328,8 +23915,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTEzMDc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-487",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-487",
         },
         {
           source: "Anime Owl",
@@ -25348,8 +23934,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzgy" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-488",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-488",
         },
         {
           source: "Anime Owl",
@@ -25364,8 +23949,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTMxNDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-488",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-488",
         },
         {
           source: "Anime Owl",
@@ -25384,8 +23968,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzgz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-489",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-489",
         },
         {
           source: "Anime Owl",
@@ -25400,8 +23983,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTQzMTg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-489",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-489",
         },
         {
           source: "Anime Owl",
@@ -25420,8 +24002,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzg0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-490",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-490",
         },
         {
           source: "Anime Owl",
@@ -25436,8 +24017,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTUzMzk=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-490",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-490",
         },
         {
           source: "Anime Owl",
@@ -25456,8 +24036,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzg1" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-491",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-491",
         },
         {
           source: "Anime Owl",
@@ -25472,8 +24051,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTU0MzY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-491",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-491",
         },
         {
           source: "Anime Owl",
@@ -25492,8 +24070,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzg2" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-492",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-492",
         },
         {
           source: "Anime Owl",
@@ -25508,8 +24085,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTU2MDA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-492",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-492",
         },
         {
           source: "Anime Owl",
@@ -25528,8 +24104,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzg3" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-493",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-493",
         },
         {
           source: "Anime Owl",
@@ -25544,8 +24119,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTU4NDg=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-493",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-493",
         },
         {
           source: "Anime Owl",
@@ -25564,8 +24138,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzg4" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-494",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-494",
         },
         {
           source: "Anime Owl",
@@ -25580,8 +24153,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTYzNDI=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-494",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-494",
         },
         {
           source: "Anime Owl",
@@ -25600,8 +24172,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzg5" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-495",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-495",
         },
         {
           source: "Anime Owl",
@@ -25616,8 +24187,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTYzNDM=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-495",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-495",
         },
         {
           source: "Anime Owl",
@@ -25636,8 +24206,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzkw" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-496",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-496",
         },
         {
           source: "Anime Owl",
@@ -25652,8 +24221,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY2MDA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-496",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-496",
         },
         {
           source: "Anime Owl",
@@ -25672,8 +24240,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzkx" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-497",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-497",
         },
         {
           source: "Anime Owl",
@@ -25688,8 +24255,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY3MDE=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-497",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-497",
         },
         {
           source: "Anime Owl",
@@ -25708,8 +24274,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzky" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-498",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-498",
         },
         {
           source: "Anime Owl",
@@ -25724,8 +24289,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY5NzA=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-498",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-498",
         },
         {
           source: "Anime Owl",
@@ -25744,8 +24308,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzkz" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-499",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-499",
         },
         {
           source: "Anime Owl",
@@ -25760,8 +24323,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTcyMTc=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-499",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-499",
         },
         {
           source: "Anime Owl",
@@ -25780,8 +24342,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzk0" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuuden-dub-episode-500",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuuden-dub-episode-500",
         },
         {
           source: "Anime Owl",
@@ -25796,8 +24357,7 @@ shippuden = {
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc0MjY=" },
         {
           source: "Gogoapi",
-          video:
-            "https://gogoanime.herokuapp.com/vidcdn/watch/naruto-shippuden-episode-500",
+          video: "https://gogoanime.consumet.stream/vidcdn/watch/naruto-shippuden-episode-500",
         },
         {
           source: "Anime Owl",

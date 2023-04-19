@@ -33,18 +33,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cors());
 
-// app.get("/movies/:series/", (req, res) => {
-//   res.json(episodeMasterList.returnMoviesBySeries(req.params.series));
-// });
-
-// app.get("/movie/:series/:number", async (req, res) => {
-//   let result = await episodeMasterList.returnMovie(
-//     req.params.series,
-//     req.params.number
-//   );
-//   res.json(result);
-// });
-
 app.post("/admin", (req, res) => {
   if (req.body.token && req.body.token === process.env.TOKEN) {
     switch (req.body.action) {
@@ -111,27 +99,6 @@ app.get("/:media/:series/:episodeNumber", async (req: express.Request, res: expr
   } else {
     res.status(404).send("Unable to find series");
   }
-
-  // let series;
-  // if (req.params.media.toLowerCase() === "episodes") {
-  //   series = EpisodeHelper.episodes[req.params.series.toLowerCase()];
-  // } else if (req.params.media.toLowerCase() === "movies") {
-  //   series = EpisodeHelper.movies[req.params.series.toLowerCase()];
-  // } else {
-  //   res.status(404).send("Not Found");
-  // }
-
-  // if (series) {
-  //   const episode: episode = series[parseInt(req.params.episodeNumber)];
-  //   if (episode) {
-  //     const files = await EpisodeHelper.getEpisodeFiles(episode);
-  //     res.json({ episodeInfo: episode.episodeInfo, files: files });
-  //   } else {
-  //     res.status(405).send("Unable to find episode");
-  //   }
-  // } else {
-  //   res.status(405).send("Unable to find series");
-  // }
 });
 
 app.use((req, res) => {
