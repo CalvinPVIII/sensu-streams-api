@@ -9,7 +9,7 @@ import cors_proxy from "cors-anywhere";
 import EpisodeHelper from "./src/EpisodeHelper.ts";
 import Stream from "./src/Stream.ts";
 
-import { episode, series } from "./src/Types";
+import { episode, series } from "./senzuTypes";
 
 const host = "0.0.0.0";
 const port = 8080;

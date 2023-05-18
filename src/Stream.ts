@@ -1,5 +1,5 @@
 import EpisodeHelper from "./EpisodeHelper.ts";
-import { episode, file } from "./Types.ts";
+import { episode, file } from "../senzuTypes";
 import playlists from "./episodes/Playlists.ts";
 
 export default class Stream {

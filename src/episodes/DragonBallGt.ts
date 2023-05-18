@@ -1,4 +1,4 @@
-import { series } from "../Types";
+import { series } from "../../senzuTypes";
 
 // look at episodes 22, 36
 

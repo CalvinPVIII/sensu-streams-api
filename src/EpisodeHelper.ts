@@ -10,7 +10,7 @@ import dbsmovies from "./movies/dragonBallMovies.ts";
 
 import Scraper from "./Scraper.ts";
 
-import { episode, file, series } from "./Types";
+import { episode, file, series } from "../senzuTypes";
 
 export default class EpisodeHelper {
   static episodes: { [key: string]: series } = {

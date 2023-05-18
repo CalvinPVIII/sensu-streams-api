@@ -1,5 +1,5 @@
 import axios from "axios";
-import { file } from "./Types.ts";
+import { file } from "../senzuTypes";
 
 export default class Scraper {
   private static proxy = "http://localhost:8080/";

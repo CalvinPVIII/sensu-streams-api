@@ -1,4 +1,4 @@
-import { series } from "../Types";
+import { series } from "../../senzuTypes";
 // look at episode 56, 69, 93, 150, 160. 252
 const dragonBallZ: series = {
   "1": {

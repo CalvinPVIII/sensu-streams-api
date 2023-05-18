@@ -1,4 +1,4 @@
-import { series } from "../Types";
+import { series } from "../../senzuTypes";
 const dbzMovies: series = {
   1: {
     dub: {
