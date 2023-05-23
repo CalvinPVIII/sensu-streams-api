@@ -14,7 +14,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-1" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66433/dragon-ball-super-dub-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -33,7 +33,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-1" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84025/dragon-ball-super-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjM0Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -55,7 +55,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-2" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66431/dragon-ball-super-dub-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -74,7 +74,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-2" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84024/dragon-ball-super-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjM5MDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -96,7 +96,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-3" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66428/dragon-ball-super-dub-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -115,7 +115,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-3" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84023/dragon-ball-super-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjQ5OTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -137,7 +137,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-4" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66426/dragon-ball-super-dub-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -156,7 +156,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-4" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84022/dragon-ball-super-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjU0MjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -178,7 +178,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-5" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66425/dragon-ball-super-dub-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -197,7 +197,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-5" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84021/dragon-ball-super-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjY1OTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -219,7 +219,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-6" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66424/dragon-ball-super-dub-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -238,7 +238,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-6" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84020/dragon-ball-super-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjY4MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -260,7 +260,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-7" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66422/dragon-ball-super-dub-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -279,7 +279,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-7" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84019/dragon-ball-super-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjcxNjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -301,7 +301,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-8" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66421/dragon-ball-super-dub-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -320,7 +320,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-8" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84018/dragon-ball-super-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njc1OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -342,7 +342,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-9" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66420/dragon-ball-super-dub-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -361,7 +361,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-9" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84017/dragon-ball-super-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg0NzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -383,7 +383,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-10" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66419/dragon-ball-super-dub-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -402,7 +402,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-10" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84016/dragon-ball-super-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg1OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -424,7 +424,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-11" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66416/dragon-ball-super-dub-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczNjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -443,7 +443,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-11" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84015/dragon-ball-super-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njg5Mzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -465,7 +465,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-12" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66413/dragon-ball-super-dub-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc1NDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -484,7 +484,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-12" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84014/dragon-ball-super-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkwMTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -506,7 +506,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-13" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66411/dragon-ball-super-dub-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -525,7 +525,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-13" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84013/dragon-ball-super-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkwNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -547,7 +547,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-14" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66409/dragon-ball-super-dub-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc4MDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -566,7 +566,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-14" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84012/dragon-ball-super-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkxNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -588,7 +588,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-15" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66408/dragon-ball-super-dub-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc4Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-15" },
         {
           source: "AllAnime",
           video:
@@ -607,7 +607,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-15" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84011/dragon-ball-super-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkyODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-15" },
         {
           source: "AllAnime",
           video:
@@ -629,7 +629,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-16" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66406/dragon-ball-super-dub-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc5NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -648,7 +648,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-16" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84010/dragon-ball-super-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NjkzNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -670,7 +670,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-17" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66404/dragon-ball-super-dub-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgxOTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -689,7 +689,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-17" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84009/dragon-ball-super-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk0NDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -711,7 +711,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-18" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66402/dragon-ball-super-dub-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgxOTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -730,7 +730,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-18" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84008/dragon-ball-super-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk1Mzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -752,7 +752,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-19" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66400/dragon-ball-super-dub-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg1MjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -771,7 +771,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-19" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84007/dragon-ball-super-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk2MTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -793,7 +793,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-20" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66398/dragon-ball-super-dub-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4MzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -812,7 +812,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-20" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84006/dragon-ball-super-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk2OTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -834,7 +834,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-21" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66396/dragon-ball-super-dub-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4MzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -853,7 +853,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-21" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84005/dragon-ball-super-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk3ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -875,7 +875,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-22" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66394/dragon-ball-super-dub-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4Mzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -894,7 +894,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-22" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84004/dragon-ball-super-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Njk5ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -916,7 +916,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-23" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66392/dragon-ball-super-dub-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkxODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -935,7 +935,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-23" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84003/dragon-ball-super-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAwNjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -957,7 +957,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-24" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66390/dragon-ball-super-dub-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk2MDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -976,7 +976,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-24" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84002/dragon-ball-super-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAxNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -998,7 +998,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-25" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66388/dragon-ball-super-dub-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -1017,7 +1017,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-25" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84001/dragon-ball-super-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAyMTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -1039,7 +1039,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-26" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66386/dragon-ball-super-dub-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -1058,7 +1058,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-26" },
         { source: "KimAnime", video: "https://kimanime.com/episode/84000/dragon-ball-super-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAyNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -1080,7 +1080,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-27" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66384/dragon-ball-super-dub-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -1099,7 +1099,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-27" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83999/dragon-ball-super-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzAzODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -1121,7 +1121,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-28" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66382/dragon-ball-super-dub-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDc5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -1140,7 +1140,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-28" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83998/dragon-ball-super-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA0NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -1162,7 +1162,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-29" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66380/dragon-ball-super-dub-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNTIy" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -1181,7 +1181,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-29" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83997/dragon-ball-super-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA1NDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -1203,7 +1203,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-30" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66378/dragon-ball-super-dub-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNTIz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -1222,7 +1222,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-30" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83996/dragon-ball-super-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA2MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -1244,7 +1244,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-31" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66376/dragon-ball-super-dub-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDE0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -1263,7 +1263,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-31" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83995/dragon-ball-super-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA3MDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -1285,7 +1285,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-32" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66374/dragon-ball-super-dub-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDE1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -1304,7 +1304,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-32" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83994/dragon-ball-super-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA3NzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -1326,7 +1326,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-33" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66372/dragon-ball-super-dub-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDkz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -1345,7 +1345,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-33" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83993/dragon-ball-super-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA4Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -1367,7 +1367,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-34" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66370/dragon-ball-super-dub-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMjEz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -1386,7 +1386,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-34" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83992/dragon-ball-super-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzA5NjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -1408,7 +1408,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-35" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66368/dragon-ball-super-dub-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMjE0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -1427,7 +1427,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-35" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83991/dragon-ball-super-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEwODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -1449,7 +1449,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-36" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66366/dragon-ball-super-dub-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMzc2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -1468,7 +1468,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-36" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83990/dragon-ball-super-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEyMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -1490,7 +1490,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-37" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66364/dragon-ball-super-dub-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNjgw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -1509,7 +1509,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-37" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83989/dragon-ball-super-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEyODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -1531,7 +1531,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-38" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66362/dragon-ball-super-dub-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNjgx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -1550,7 +1550,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-38" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83988/dragon-ball-super-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzEzNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -1572,7 +1572,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-39" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66360/dragon-ball-super-dub-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMDkw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -1591,7 +1591,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-39" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83987/dragon-ball-super-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE0NDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -1613,7 +1613,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-40" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66358/dragon-ball-super-dub-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMjM1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -1632,7 +1632,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-40" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83986/dragon-ball-super-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE1MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -1654,7 +1654,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-41" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66356/dragon-ball-super-dub-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyNDUx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -1673,7 +1673,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-41" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83985/dragon-ball-super-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE1OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -1695,7 +1695,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-42" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66354/dragon-ball-super-dub-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyODAw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -1714,7 +1714,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-42" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83984/dragon-ball-super-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE2Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -1736,7 +1736,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-43" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66352/dragon-ball-super-dub-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMDky" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -1755,7 +1755,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-43" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83983/dragon-ball-super-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE3NjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -1777,7 +1777,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-44" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66350/dragon-ball-super-dub-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMDkz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -1796,7 +1796,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-44" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83982/dragon-ball-super-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE4NDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -1818,7 +1818,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-45" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66348/dragon-ball-super-dub-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMzMw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -1837,7 +1837,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-45" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83981/dragon-ball-super-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzE5MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -1859,7 +1859,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-46" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66346/dragon-ball-super-dub-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNDkz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -1878,7 +1878,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-46" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83980/dragon-ball-super-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIwMDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -1900,7 +1900,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-47" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66344/dragon-ball-super-dub-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNDk0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -1919,7 +1919,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-47" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83979/dragon-ball-super-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIxMTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -1941,7 +1941,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-48" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66342/dragon-ball-super-dub-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNzgw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -1960,7 +1960,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-48" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83978/dragon-ball-super-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIyNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -1982,7 +1982,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-49" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66340/dragon-ball-super-dub-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNzgx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -2001,7 +2001,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-49" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83977/dragon-ball-super-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzIzNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -2023,7 +2023,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-50" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66338/dragon-ball-super-dub-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzOTgw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -2042,7 +2042,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-50" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83976/dragon-ball-super-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI0MTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -2064,7 +2064,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-51" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66336/dragon-ball-super-dub-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzE5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -2083,7 +2083,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-51" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83975/dragon-ball-super-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI1ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -2105,7 +2105,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-52" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66334/dragon-ball-super-dub-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzIw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -2124,7 +2124,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-52" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83974/dragon-ball-super-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzI2NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -2146,7 +2146,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-53" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66332/dragon-ball-super-dub-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzIx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -2165,7 +2165,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-53" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83973/dragon-ball-super-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzMwOTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -2187,7 +2187,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-54" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66330/dragon-ball-super-dub-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MzM0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -2206,7 +2206,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-54" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83972/dragon-ball-super-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzM2OTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -2228,7 +2228,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-55" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66328/dragon-ball-super-dub-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NjI1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -2247,7 +2247,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-55" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83971/dragon-ball-super-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzM5MzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -2269,7 +2269,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-56" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66326/dragon-ball-super-dub-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NjI2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -2288,7 +2288,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-56" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83970/dragon-ball-super-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ3MTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -2310,7 +2310,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-57" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66324/dragon-ball-super-dub-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NzQx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -2329,7 +2329,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-57" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83969/dragon-ball-super-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ5MDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -2351,7 +2351,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-58" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66322/dragon-ball-super-dub-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1MDEx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -2370,7 +2370,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-58" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83968/dragon-ball-super-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzU0NDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -2392,7 +2392,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-59" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66320/dragon-ball-super-dub-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1MDM3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -2411,7 +2411,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-59" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83967/dragon-ball-super-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzU5ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -2433,7 +2433,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-60" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66317/dragon-ball-super-dub-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1MTg1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -2452,7 +2452,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-60" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83966/dragon-ball-super-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY1NjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -2474,7 +2474,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-61" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66316/dragon-ball-super-dub-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1NDU4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -2493,7 +2493,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-61" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83965/dragon-ball-super-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/Nzc2NDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -2515,7 +2515,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-62" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66315/dragon-ball-super-dub-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1NDU5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -2534,7 +2534,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-62" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83964/dragon-ball-super-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzgzNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -2556,7 +2556,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-63" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66314/dragon-ball-super-dub-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1NTgy" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -2575,7 +2575,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-63" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83963/dragon-ball-super-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzkyMjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -2597,7 +2597,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-64" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66313/dragon-ball-super-dub-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1Njc5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -2616,7 +2616,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-64" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83962/dragon-ball-super-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODA3Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -2638,7 +2638,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-65" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66312/dragon-ball-super-dub-episode-065" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA1OTI4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-65" },
         {
           source: "AllAnime",
           video:
@@ -2657,7 +2657,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-65" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83961/dragon-ball-super-episode-065" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODI4Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-65" },
         {
           source: "AllAnime",
           video:
@@ -2679,7 +2679,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-66" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66311/dragon-ball-super-dub-episode-066" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MDA5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-66" },
         {
           source: "AllAnime",
           video:
@@ -2698,7 +2698,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-66" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83960/dragon-ball-super-episode-066" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODQ1Mzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-66" },
         {
           source: "AllAnime",
           video:
@@ -2720,7 +2720,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-67" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66310/dragon-ball-super-dub-episode-067" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MzQ5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-67" },
         {
           source: "AllAnime",
           video:
@@ -2739,7 +2739,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-67" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83959/dragon-ball-super-episode-067" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODY0Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-67" },
         {
           source: "AllAnime",
           video:
@@ -2761,7 +2761,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-68" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66309/dragon-ball-super-dub-episode-068" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MzUw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-68" },
         {
           source: "AllAnime",
           video:
@@ -2780,7 +2780,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-68" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83958/dragon-ball-super-episode-068" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODY0ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-68" },
         {
           source: "AllAnime",
           video:
@@ -2802,7 +2802,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-69" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66308/dragon-ball-super-dub-episode-069" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2MzUx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-69" },
         {
           source: "AllAnime",
           video:
@@ -2821,7 +2821,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-69" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83957/dragon-ball-super-episode-069" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODc3MjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-69" },
         {
           source: "AllAnime",
           video:
@@ -2843,7 +2843,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-70" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66307/dragon-ball-super-dub-episode-070" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2NDc5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-70" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-70" },
         {
           source: "AllAnime",
           video:
@@ -2862,7 +2862,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-70" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83956/dragon-ball-super-episode-070" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/ODg2MTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-70" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-70" },
         {
           source: "AllAnime",
           video:
@@ -2884,7 +2884,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-71" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66306/dragon-ball-super-dub-episode-071" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2NTQ4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-71" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-71" },
         {
           source: "AllAnime",
           video:
@@ -2903,7 +2903,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-71" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83955/dragon-ball-super-episode-071" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTA4ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-71" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-71" },
         {
           source: "AllAnime",
           video:
@@ -2925,7 +2925,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-72" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66305/dragon-ball-super-dub-episode-072" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2Njk5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-72" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-72" },
         {
           source: "AllAnime",
           video:
@@ -2944,7 +2944,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-72" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83954/dragon-ball-super-episode-072" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTE0Mjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-72" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-72" },
         {
           source: "AllAnime",
           video:
@@ -2966,7 +2966,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-73" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66304/dragon-ball-super-dub-episode-073" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA2ODIx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-73" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-73" },
         {
           source: "AllAnime",
           video:
@@ -2985,7 +2985,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-73" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83953/dragon-ball-super-episode-073" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTM1NTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-73" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-73" },
         {
           source: "AllAnime",
           video:
@@ -3007,7 +3007,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-74" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66303/dragon-ball-super-dub-episode-074" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA3MjI0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-74" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-74" },
         {
           source: "AllAnime",
           video:
@@ -3026,7 +3026,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-74" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83952/dragon-ball-super-episode-074" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTQ4MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-74" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-74" },
         {
           source: "AllAnime",
           video:
@@ -3048,7 +3048,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-75" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66302/dragon-ball-super-dub-episode-075" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA4MzIw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-75" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-75" },
         {
           source: "AllAnime",
           video:
@@ -3067,7 +3067,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-75" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83951/dragon-ball-super-episode-075" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTUzNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-75" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-75" },
         {
           source: "AllAnime",
           video:
@@ -3089,7 +3089,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-76" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66301/dragon-ball-super-dub-episode-076" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA4OTAy" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-76" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-76" },
         {
           source: "AllAnime",
           video:
@@ -3108,7 +3108,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-76" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83950/dragon-ball-super-episode-076" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTU0Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-76" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-76" },
         {
           source: "AllAnime",
           video:
@@ -3130,7 +3130,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-77" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66300/dragon-ball-super-dub-episode-077" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA5NjE0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-77" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-77" },
         {
           source: "AllAnime",
           video:
@@ -3149,7 +3149,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-77" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83949/dragon-ball-super-episode-077" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTU2MzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-77" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-77" },
         {
           source: "AllAnime",
           video:
@@ -3171,7 +3171,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-78" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66299/dragon-ball-super-dub-episode-078" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMTQz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-78" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-78" },
         {
           source: "AllAnime",
           video:
@@ -3190,7 +3190,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-78" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83948/dragon-ball-super-episode-078" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTYwNDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-78" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-78" },
         {
           source: "AllAnime",
           video:
@@ -3212,7 +3212,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-79" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66298/dragon-ball-super-dub-episode-079" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMTQ0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-79" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-79" },
         {
           source: "AllAnime",
           video:
@@ -3231,7 +3231,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-79" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83947/dragon-ball-super-episode-079" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY0ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-79" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-79" },
         {
           source: "AllAnime",
           video:
@@ -3253,7 +3253,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-80" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66297/dragon-ball-super-dub-episode-080" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMjQz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-80" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-80" },
         {
           source: "AllAnime",
           video:
@@ -3272,7 +3272,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-80" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83946/dragon-ball-super-episode-080" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY2NDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-80" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-80" },
         {
           source: "AllAnime",
           video:
@@ -3294,7 +3294,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-81" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66296/dragon-ball-super-dub-episode-081" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwMzQ4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-81" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-81" },
         {
           source: "AllAnime",
           video:
@@ -3313,7 +3313,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-81" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83945/dragon-ball-super-episode-081" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTY4NzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-81" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-81" },
         {
           source: "AllAnime",
           video:
@@ -3335,7 +3335,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-82" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66295/dragon-ball-super-dub-episode-082" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwNDcw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-82" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-82" },
         {
           source: "AllAnime",
           video:
@@ -3354,7 +3354,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-82" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83944/dragon-ball-super-episode-082" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTczMDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-82" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-82" },
         {
           source: "AllAnime",
           video:
@@ -3376,7 +3376,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-83" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66294/dragon-ball-super-dub-episode-083" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwNTg3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-83" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-83" },
         {
           source: "AllAnime",
           video:
@@ -3395,7 +3395,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-83" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83943/dragon-ball-super-episode-083" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc0ODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-83" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-83" },
         {
           source: "AllAnime",
           video:
@@ -3417,7 +3417,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-84" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66292/dragon-ball-super-dub-episode-084" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwNjk3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-84" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-84" },
         {
           source: "AllAnime",
           video:
@@ -3436,7 +3436,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-84" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83942/dragon-ball-super-episode-084" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc1OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-84" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-84" },
         {
           source: "AllAnime",
           video:
@@ -3458,7 +3458,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-85" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66291/dragon-ball-super-dub-episode-085" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwODQ0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-85" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-85" },
         {
           source: "AllAnime",
           video:
@@ -3477,7 +3477,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-85" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83941/dragon-ball-super-episode-085" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc2ODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-85" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-85" },
         {
           source: "AllAnime",
           video:
@@ -3499,7 +3499,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-86" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66290/dragon-ball-super-dub-episode-086" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEwOTY2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-86" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-86" },
         {
           source: "AllAnime",
           video:
@@ -3518,7 +3518,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-86" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83940/dragon-ball-super-episode-086" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc3ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-86" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-86" },
         {
           source: "AllAnime",
           video:
@@ -3540,7 +3540,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-87" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66288/dragon-ball-super-dub-episode-087" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExMDg5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-87" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-87" },
         {
           source: "AllAnime",
           video:
@@ -3559,7 +3559,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-87" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83939/dragon-ball-super-episode-087" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc4NzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-87" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-87" },
         {
           source: "AllAnime",
           video:
@@ -3581,7 +3581,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-88" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66287/dragon-ball-super-dub-episode-088" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExMzAz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-88" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-88" },
         {
           source: "AllAnime",
           video:
@@ -3600,7 +3600,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-88" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83938/dragon-ball-super-episode-088" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTc5NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-88" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-88" },
         {
           source: "AllAnime",
           video:
@@ -3622,7 +3622,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-89" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66286/dragon-ball-super-dub-episode-089" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExNDA3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-89" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-89" },
         {
           source: "AllAnime",
           video:
@@ -3641,7 +3641,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-89" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83937/dragon-ball-super-episode-089" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgwNjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-89" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-89" },
         {
           source: "AllAnime",
           video:
@@ -3663,7 +3663,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-90" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66284/dragon-ball-super-dub-episode-090" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExNTE0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-90" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-90" },
         {
           source: "AllAnime",
           video:
@@ -3682,7 +3682,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-90" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83936/dragon-ball-super-episode-090" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgxNTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-90" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-90" },
         {
           source: "AllAnime",
           video:
@@ -3704,7 +3704,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-91" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66283/dragon-ball-super-dub-episode-091" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTExNjc0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-91" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-91" },
         {
           source: "AllAnime",
           video:
@@ -3723,7 +3723,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-91" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83935/dragon-ball-super-episode-091" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTgyNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-91" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-91" },
         {
           source: "AllAnime",
           video:
@@ -3745,7 +3745,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-92" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66282/dragon-ball-super-dub-episode-092" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyMjg5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-92" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-92" },
         {
           source: "AllAnime",
           video:
@@ -3764,7 +3764,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-92" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83934/dragon-ball-super-episode-092" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg0MzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-92" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-92" },
         {
           source: "AllAnime",
           video:
@@ -3786,7 +3786,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-93" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66280/dragon-ball-super-dub-episode-093" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyNDg0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-93" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-93" },
         {
           source: "AllAnime",
           video:
@@ -3805,7 +3805,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-93" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83933/dragon-ball-super-episode-093" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg1MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-93" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-93" },
         {
           source: "AllAnime",
           video:
@@ -3827,7 +3827,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-94" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66279/dragon-ball-super-dub-episode-094" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyNjQ4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-94" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-94" },
         {
           source: "AllAnime",
           video:
@@ -3846,7 +3846,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-94" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83932/dragon-ball-super-episode-094" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg2MDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-94" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-94" },
         {
           source: "AllAnime",
           video:
@@ -3868,7 +3868,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-95" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66278/dragon-ball-super-dub-episode-095" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEyOTAz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-95" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-95" },
         {
           source: "AllAnime",
           video:
@@ -3887,7 +3887,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-95" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83931/dragon-ball-super-episode-095" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTg4Mjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-95" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-95" },
         {
           source: "AllAnime",
           video:
@@ -3909,7 +3909,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-96" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66277/dragon-ball-super-dub-episode-096" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzMjA5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-96" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-96" },
         {
           source: "AllAnime",
           video:
@@ -3928,7 +3928,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-96" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83930/dragon-ball-super-episode-096" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkwNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-96" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-96" },
         {
           source: "AllAnime",
           video:
@@ -3950,7 +3950,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-97" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66275/dragon-ball-super-dub-episode-097" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNjg3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-97" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-97" },
         {
           source: "AllAnime",
           video:
@@ -3969,7 +3969,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-97" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83929/dragon-ball-super-episode-097" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkxNzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-97" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-97" },
         {
           source: "AllAnime",
           video:
@@ -3991,7 +3991,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-98" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66272/dragon-ball-super-dub-episode-098" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTEzNjg4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-98" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-98" },
         {
           source: "AllAnime",
           video:
@@ -4010,7 +4010,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-98" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83928/dragon-ball-super-episode-098" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTkzNzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-98" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-98" },
         {
           source: "AllAnime",
           video:
@@ -4032,7 +4032,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-99" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66270/dragon-ball-super-dub-episode-099" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0MDk4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-99" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-99" },
         {
           source: "AllAnime",
           video:
@@ -4051,7 +4051,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-99" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83927/dragon-ball-super-episode-099" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk0ODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-99" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-99" },
         {
           source: "AllAnime",
           video:
@@ -4073,7 +4073,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-100" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66268/dragon-ball-super-dub-episode-100" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE0NTI2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-100" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-100" },
         {
           source: "AllAnime",
           video:
@@ -4092,7 +4092,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-100" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83926/dragon-ball-super-episode-100" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk1OTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-100" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-100" },
         {
           source: "AllAnime",
           video:
@@ -4114,7 +4114,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-101" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66266/dragon-ball-super-dub-episode-101" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1MDgw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-101" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-101" },
         {
           source: "AllAnime",
           video:
@@ -4133,7 +4133,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-101" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83925/dragon-ball-super-episode-101" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/OTk3NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-101" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-101" },
         {
           source: "AllAnime",
           video:
@@ -4155,7 +4155,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-102" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66265/dragon-ball-super-dub-episode-102" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1Mzk2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-102" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-102" },
         {
           source: "AllAnime",
           video:
@@ -4174,7 +4174,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-102" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83924/dragon-ball-super-episode-102" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMDQz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-102" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-102" },
         {
           source: "AllAnime",
           video:
@@ -4196,7 +4196,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-103" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66263/dragon-ball-super-dub-episode-103" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE1ODE5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-103" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-103" },
         {
           source: "AllAnime",
           video:
@@ -4215,7 +4215,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-103" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83923/dragon-ball-super-episode-103" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwMTc5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-103" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-103" },
         // { source: "AllAnime", video: "error" },
       ],
       episodeLength: 1401.858798,
@@ -4233,7 +4233,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-104" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66260/dragon-ball-super-dub-episode-104" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE2MTk0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-104" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-104" },
         {
           source: "AllAnime",
           video:
@@ -4252,7 +4252,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-104" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83922/dragon-ball-super-episode-104" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNDY4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-104" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-104" },
         {
           source: "AllAnime",
           video:
@@ -4274,7 +4274,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-105" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66258/dragon-ball-super-dub-episode-105" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE2MzM2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-105" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-105" },
         {
           source: "AllAnime",
           video:
@@ -4293,7 +4293,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-105" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83921/dragon-ball-super-episode-105" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNjA2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-105" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-105" },
         {
           source: "AllAnime",
           video:
@@ -4315,7 +4315,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-106" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66256/dragon-ball-super-dub-episode-106" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE3NDg2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-106" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-106" },
         {
           source: "AllAnime",
           video:
@@ -4334,7 +4334,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-106" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83920/dragon-ball-super-episode-106" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwNzIx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-106" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-106" },
         {
           source: "AllAnime",
           video:
@@ -4356,7 +4356,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-107" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66254/dragon-ball-super-dub-episode-107" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE4MzEw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-107" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-107" },
         {
           source: "AllAnime",
           video:
@@ -4375,7 +4375,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-107" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83919/dragon-ball-super-episode-107" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAwOTcx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-107" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-107" },
         {
           source: "AllAnime",
           video:
@@ -4397,7 +4397,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-108" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66252/dragon-ball-super-dub-episode-108" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE4Nzkz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-108" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-108" },
         {
           source: "AllAnime",
           video:
@@ -4416,7 +4416,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-108" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83918/dragon-ball-super-episode-108" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMDgz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-108" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-108" },
         {
           source: "AllAnime",
           video:
@@ -4438,7 +4438,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-109" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66250/dragon-ball-super-dub-episode-109" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE5Mjg3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-109" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-109" },
         {
           source: "AllAnime",
           video:
@@ -4457,7 +4457,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-109" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83917/dragon-ball-super-episode-109" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMzQ3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-109" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-109" },
         {
           source: "AllAnime",
           video:
@@ -4479,7 +4479,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-110" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66248/dragon-ball-super-dub-episode-110" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTE5ODM5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-110" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-110" },
         {
           source: "AllAnime",
           video:
@@ -4498,7 +4498,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-110" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83916/dragon-ball-super-episode-110" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxMzQ4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-110" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-110" },
         {
           source: "AllAnime",
           video:
@@ -4520,7 +4520,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-111" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66246/dragon-ball-super-dub-episode-111" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIwNDQz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-111" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-111" },
         {
           source: "AllAnime",
           video:
@@ -4539,7 +4539,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-111" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83915/dragon-ball-super-episode-111" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNDY5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-111" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-111" },
         {
           source: "AllAnime",
           video:
@@ -4561,7 +4561,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-112" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66244/dragon-ball-super-dub-episode-112" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxMTAw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-112" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-112" },
         {
           source: "AllAnime",
           video:
@@ -4580,7 +4580,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-112" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83914/dragon-ball-super-episode-112" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxNjQ3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-112" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-112" },
         {
           source: "AllAnime",
           video:
@@ -4602,7 +4602,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-113" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66242/dragon-ball-super-dub-episode-113" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIxNzE3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-113" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-113" },
         {
           source: "AllAnime",
           video:
@@ -4621,7 +4621,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-113" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83913/dragon-ball-super-episode-113" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAxODEx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-113" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-113" },
         {
           source: "AllAnime",
           video:
@@ -4643,7 +4643,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-114" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66240/dragon-ball-super-dub-episode-114" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIyMjE3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-114" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-114" },
         {
           source: "AllAnime",
           video:
@@ -4662,7 +4662,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-114" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83912/dragon-ball-super-episode-114" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMDgz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-114" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-114" },
         {
           source: "AllAnime",
           video:
@@ -4684,7 +4684,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-115" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66238/dragon-ball-super-dub-episode-115" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIyNjQy" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-115" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-115" },
         {
           source: "AllAnime",
           video:
@@ -4703,7 +4703,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-115" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83911/dragon-ball-super-episode-115" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMjEz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-115" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-115" },
         {
           source: "AllAnime",
           video:
@@ -4725,7 +4725,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-116" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66236/dragon-ball-super-dub-episode-116" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIzMTI0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-116" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-116" },
         {
           source: "AllAnime",
           video:
@@ -4744,7 +4744,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-116" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83910/dragon-ball-super-episode-116" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyMzM0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-116" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-116" },
         {
           source: "AllAnime",
           video:
@@ -4766,7 +4766,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-117" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66234/dragon-ball-super-dub-episode-117" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTIzNzY2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-117" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-117" },
         {
           source: "AllAnime",
           video:
@@ -4785,7 +4785,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-117" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83909/dragon-ball-super-episode-117" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyNDMx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-117" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-117" },
         {
           source: "AllAnime",
           video:
@@ -4807,7 +4807,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-118" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66232/dragon-ball-super-dub-episode-118" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI0MDY4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-118" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-118" },
         {
           source: "AllAnime",
           video:
@@ -4826,7 +4826,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-118" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83908/dragon-ball-super-episode-118" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyNzUx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-118" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-118" },
         {
           source: "AllAnime",
           video:
@@ -4848,7 +4848,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-119" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66230/dragon-ball-super-dub-episode-119" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI0NTIw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-119" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-119" },
         {
           source: "AllAnime",
           video:
@@ -4867,7 +4867,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-119" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83907/dragon-ball-super-episode-119" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyODQy" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-119" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-119" },
         {
           source: "AllAnime",
           video:
@@ -4889,7 +4889,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-120" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66228/dragon-ball-super-dub-episode-120" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI0OTQ1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-120" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-120" },
         {
           source: "AllAnime",
           video:
@@ -4908,7 +4908,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-120" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83906/dragon-ball-super-episode-120" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAyOTk4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-120" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-120" },
         {
           source: "AllAnime",
           video:
@@ -4930,7 +4930,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-121" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66226/dragon-ball-super-dub-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI1Mjcw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-121" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-121" },
         {
           source: "AllAnime",
           video:
@@ -4949,7 +4949,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-121" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83905/dragon-ball-super-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMDg0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-121" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-121" },
         {
           source: "AllAnime",
           video:
@@ -4971,7 +4971,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-122" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66224/dragon-ball-super-dub-episode-122" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI1NjAw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-122" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-122" },
         {
           source: "AllAnime",
           video:
@@ -4990,7 +4990,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-122" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83904/dragon-ball-super-episode-122" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMjk0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-122" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-122" },
         {
           source: "AllAnime",
           video:
@@ -5012,7 +5012,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-123" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66222/dragon-ball-super-dub-episode-123" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI2MTE1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-123" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-123" },
         {
           source: "AllAnime",
           video:
@@ -5031,7 +5031,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-123" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83903/dragon-ball-super-episode-123" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzMzg1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-123" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-123" },
         {
           source: "AllAnime",
           video:
@@ -5053,7 +5053,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-124" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66220/dragon-ball-super-dub-episode-124" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI2NTM2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-124" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-124" },
         {
           source: "AllAnime",
           video:
@@ -5072,7 +5072,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-124" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83902/dragon-ball-super-episode-124" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNDY5" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-124" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-124" },
         {
           source: "AllAnime",
           video:
@@ -5094,7 +5094,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-125" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66218/dragon-ball-super-dub-episode-125" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI3MjAw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-125" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-125" },
         {
           source: "AllAnime",
           video:
@@ -5113,7 +5113,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-125" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83901/dragon-ball-super-episode-125" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNTY4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-125" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-125" },
         {
           source: "AllAnime",
           video:
@@ -5135,7 +5135,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-126" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66216/dragon-ball-super-dub-episode-126" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI3ODI0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-126" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-126" },
         {
           source: "AllAnime",
           video:
@@ -5154,7 +5154,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-126" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83900/dragon-ball-super-episode-126" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzNzA2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-126" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-126" },
         {
           source: "AllAnime",
           video:
@@ -5176,7 +5176,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-127" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66214/dragon-ball-super-dub-episode-127" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI4MjY2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-127" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-127" },
         {
           source: "AllAnime",
           video:
@@ -5195,7 +5195,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-127" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83899/dragon-ball-super-episode-127" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzODM4" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-127" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-127" },
         {
           source: "AllAnime",
           video:
@@ -5217,7 +5217,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-128" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66212/dragon-ball-super-dub-episode-128" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI4Nzg2" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-128" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-128" },
         {
           source: "AllAnime",
           video:
@@ -5236,7 +5236,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-128" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83898/dragon-ball-super-episode-128" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTAzOTMw" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-128" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-128" },
         {
           source: "AllAnime",
           video:
@@ -5258,7 +5258,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-129" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66210/dragon-ball-super-dub-episode-129" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTI5NjA1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-129" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-129" },
         {
           source: "AllAnime",
           video:
@@ -5277,7 +5277,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-129" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83897/dragon-ball-super-episode-129" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0MTk3" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-129" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-129" },
         {
           source: "AllAnime",
           video:
@@ -5299,7 +5299,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-130" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66208/dragon-ball-super-dub-episode-130" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTMwMDk1" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-130" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-130" },
         {
           source: "AllAnime",
           video:
@@ -5318,7 +5318,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-130" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83896/dragon-ball-super-episode-130" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NDUx" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-130" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-130" },
         {
           source: "AllAnime",
           video:
@@ -5340,7 +5340,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-dub-episode-131" },
         { source: "KimAnime", video: "https://kimanime.com/episode/66206/dragon-ball-super-dub-episode-131" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTMwNzY0" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-dub-episode-131" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-dub-episode-131" },
         {
           source: "AllAnime",
           video:
@@ -5359,7 +5359,7 @@ const dragonBallSuper: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-super-episode-131" },
         { source: "KimAnime", video: "https://kimanime.com/episode/83895/dragon-ball-super-episode-131" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTA0NTkz" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-episode-131" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-episode-131" },
         {
           source: "AllAnime",
           video:

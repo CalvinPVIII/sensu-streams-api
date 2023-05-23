@@ -11,7 +11,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-1" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -29,7 +29,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-1" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-1" },
         { source: "Enime", video: "clfvjt2gb00h2pkor55971d5u" },
         {
           source: "AllAnime",
@@ -51,7 +51,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-2" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -69,7 +69,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-2" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-2" },
         { source: "Enime", video: "clfvjt2g400h0pkorx4muupyw" },
         {
           source: "AllAnime",
@@ -91,7 +91,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-3" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -109,7 +109,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-3" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-3" },
         { source: "Enime", video: "clfvjt2fx00gzpkorfbv7dk2d" },
         {
           source: "AllAnime",
@@ -131,7 +131,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-4" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -149,7 +149,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-4" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-4" },
         { source: "Enime", video: "clfvjt2fr00gxpkortmvfl9zu" },
         {
           source: "AllAnime",
@@ -171,7 +171,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-5" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -189,7 +189,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-5" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-5" },
         { source: "Enime", video: "clfvjt2fj00gvpkorxh0exfd6" },
         {
           source: "AllAnime",
@@ -211,7 +211,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-6" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -229,7 +229,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-6" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-6" },
         { source: "Enime", video: "clfvjt2fd00gupkorkclqjfkn" },
         {
           source: "AllAnime",
@@ -251,7 +251,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-7" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -269,7 +269,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-7" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-7" },
         { source: "Enime", video: "clfvjt2f600gspkoroz5x3kh7" },
         {
           source: "AllAnime",
@@ -291,7 +291,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-8" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -309,7 +309,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-8" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-8" },
         { source: "Enime", video: "clfvjt2ez00grpkorveqo1o5s" },
         {
           source: "AllAnime",
@@ -331,7 +331,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-9" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -349,7 +349,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-9" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5Mjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-9" },
         { source: "Enime", video: "clfvjt2et00gppkor9rq8pmxq" },
         {
           source: "AllAnime",
@@ -371,7 +371,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-10" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -389,7 +389,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-10" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-10" },
         { source: "Enime", video: "clfvjt2el00gnpkorpnci9rwq" },
         {
           source: "AllAnime",
@@ -411,7 +411,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-11" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -429,7 +429,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-11" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-11" },
         { source: "Enime", video: "clfvjt2ee00gmpkorfvmpige2" },
         {
           source: "AllAnime",
@@ -451,7 +451,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-12" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -469,7 +469,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-12" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5MzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-12" },
         { source: "Enime", video: "clfvjt2e700glpkorflg253yn" },
         {
           source: "AllAnime",
@@ -491,7 +491,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-13" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -509,7 +509,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-13" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5Mzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-13" },
         { source: "Enime", video: "clfvjt2e000gkpkor0sbilvc5" },
         {
           source: "AllAnime",
@@ -531,7 +531,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-14" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -549,7 +549,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-14" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-14" },
         { source: "Enime", video: "clfvjt2du00gjpkorkwvaj8h9" },
         {
           source: "AllAnime",
@@ -571,7 +571,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-15" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-15" },
         {
           source: "AllAnime",
           video:
@@ -589,7 +589,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-15" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-15" },
         { source: "Enime", video: "clfvjt2dn00gipkor2y132v70" },
         {
           source: "AllAnime",
@@ -611,7 +611,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-16" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -629,7 +629,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-16" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-16" },
         { source: "Enime", video: "clfvjt2dh00ghpkorikrgfl9x" },
         {
           source: "AllAnime",
@@ -651,7 +651,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-17" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -669,7 +669,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-17" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-17" },
         { source: "Enime", video: "clfvjt2da00gfpkorf56mewjv" },
         {
           source: "AllAnime",
@@ -691,7 +691,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-18" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -709,7 +709,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-18" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-18" },
         { source: "Enime", video: "clfvjt2d400gdpkor5b3i1gtc" },
         {
           source: "AllAnime",
@@ -731,7 +731,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-19" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -749,7 +749,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-19" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-19" },
         { source: "Enime", video: "clfvjt2cw00gbpkor6uarivli" },
         {
           source: "AllAnime",
@@ -771,7 +771,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-20" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -789,7 +789,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-20" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-20" },
         { source: "Enime", video: "clfvjt2cq00gapkor02axo42e" },
         {
           source: "AllAnime",
@@ -811,7 +811,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-21" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -829,7 +829,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-21" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-21" },
         { source: "Enime", video: "clfvjt2cj00g9pkor323a8na0" },
         {
           source: "AllAnime",
@@ -851,7 +851,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-22" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -869,7 +869,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-22" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-22" },
         { source: "Enime", video: "clfvjt2cc00g7pkorjkxfz30d" },
         {
           source: "AllAnime",
@@ -891,7 +891,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-23" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -909,7 +909,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-23" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-23" },
         { source: "Enime", video: "clfvjt2c500g6pkortafasc4r" },
         {
           source: "AllAnime",
@@ -931,7 +931,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-24" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -949,7 +949,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-24" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5Njg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-24" },
         { source: "Enime", video: "clfvjt2by00g4pkorqh19dgct" },
         {
           source: "AllAnime",
@@ -971,7 +971,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-25" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -989,7 +989,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-25" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-25" },
         { source: "Enime", video: "clfvjt2bs00g3pkorswqjqkk9" },
         {
           source: "AllAnime",
@@ -1011,7 +1011,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-26" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -1029,7 +1029,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-26" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-26" },
         { source: "Enime", video: "clfvjt2bl00g2pkorg70ij6h9" },
         {
           source: "AllAnime",
@@ -1051,7 +1051,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-27" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -1069,7 +1069,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-27" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5NzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-27" },
         { source: "Enime", video: "clfvjt2be00g1pkorg4glhktd" },
         {
           source: "AllAnime",
@@ -1091,7 +1091,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-28" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -1109,7 +1109,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-28" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-28" },
         { source: "Enime", video: "clfvjt2b700g0pkor5zla6yb8" },
         {
           source: "AllAnime",
@@ -1131,7 +1131,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-29" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -1149,7 +1149,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-29" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-29" },
         { source: "Enime", video: "clfvjt2b000fzpkor2s96eo19" },
         {
           source: "AllAnime",
@@ -1171,7 +1171,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-30" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -1189,7 +1189,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-30" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-30" },
         { source: "Enime", video: "clfvjt2at00fxpkorxvz57maq" },
         {
           source: "AllAnime",
@@ -1211,7 +1211,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-31" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -1229,7 +1229,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-31" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-31" },
         { source: "Enime", video: "clfvjt2am00fwpkor9i7ydfi6" },
         {
           source: "AllAnime",
@@ -1251,7 +1251,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-32" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxMzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -1269,7 +1269,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-32" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-32" },
         { source: "Enime", video: "clfvjt2ae00fupkori9kmdz3k" },
         {
           source: "AllAnime",
@@ -1291,7 +1291,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-33" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -1309,7 +1309,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-33" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-33" },
         { source: "Enime", video: "clfvjt2a600ftpkorutiguwn4" },
         {
           source: "AllAnime",
@@ -1331,7 +1331,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-34" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -1349,7 +1349,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-34" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-34" },
         { source: "Enime", video: "clfvjt29z00fspkorqhiz7l9e" },
         {
           source: "AllAnime",
@@ -1371,7 +1371,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-35" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -1389,7 +1389,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-35" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-35" },
         { source: "Enime", video: "clfvjt29s00fqpkorx65ves8v" },
         {
           source: "AllAnime",
@@ -1411,7 +1411,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-36" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -1429,7 +1429,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-36" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-36" },
         { source: "Enime", video: "clfvjt29l00fppkor7ccideti" },
         {
           source: "AllAnime",
@@ -1451,7 +1451,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-37" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -1469,7 +1469,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-37" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-37" },
         { source: "Enime", video: "clfvjt29e00fnpkorwdo6mimg" },
         {
           source: "AllAnime",
@@ -1491,7 +1491,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-38" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -1509,7 +1509,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-38" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-38" },
         { source: "Enime", video: "clfvjt29700fmpkorbkf7nl93" },
         {
           source: "AllAnime",
@@ -1531,7 +1531,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-39" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -1549,7 +1549,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-39" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-39" },
         { source: "Enime", video: "clfvjt28z00fkpkorqtazuvrb" },
         {
           source: "AllAnime",
@@ -1571,7 +1571,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-40" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -1589,7 +1589,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-40" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5OTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-40" },
         { source: "Enime", video: "clfvjt28s00fjpkor6sjd6zuu" },
         {
           source: "AllAnime",
@@ -1611,7 +1611,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-41" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -1629,7 +1629,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-41" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ5OTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-41" },
         { source: "Enime", video: "clfvjt28k00fhpkornxfs3ci3" },
         {
           source: "AllAnime",
@@ -1651,7 +1651,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-42" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -1669,7 +1669,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-42" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-42" },
         { source: "Enime", video: "clfvjt28a00fgpkor7cmn86yt" },
         {
           source: "AllAnime",
@@ -1691,7 +1691,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-43" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -1709,7 +1709,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-43" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-43" },
         { source: "Enime", video: "clfvjt28300fepkorrox1p9p1" },
         {
           source: "AllAnime",
@@ -1731,7 +1731,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-44" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -1749,7 +1749,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-44" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-44" },
         { source: "Enime", video: "clfvjt27v00fcpkorlz7szp2z" },
         {
           source: "AllAnime",
@@ -1771,7 +1771,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-45" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -1789,7 +1789,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-45" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-45" },
         { source: "Enime", video: "clfvjt27k00fapkorjvcu9y6v" },
         {
           source: "AllAnime",
@@ -1811,7 +1811,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-46" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -1829,7 +1829,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-46" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-46" },
         { source: "Enime", video: "clfvjt27900f9pkorowh9obq4" },
         {
           source: "AllAnime",
@@ -1851,7 +1851,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-47" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -1869,7 +1869,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-47" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-47" },
         { source: "Enime", video: "clfvjt27100f8pkorbecbvmr8" },
         {
           source: "AllAnime",
@@ -1891,7 +1891,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-48" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -1909,7 +1909,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-48" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-48" },
         { source: "Enime", video: "clfvjt26u00f7pkorr91u7msb" },
         {
           source: "AllAnime",
@@ -1931,7 +1931,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-49" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -1949,7 +1949,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-49" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-49" },
         { source: "Enime", video: "clfvjt26l00f6pkortndm31ou" },
         {
           source: "AllAnime",
@@ -1971,7 +1971,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-50" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -1989,7 +1989,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-50" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-50" },
         { source: "Enime", video: "clfvjt26a00f4pkorwzs9l6jp" },
         {
           source: "AllAnime",
@@ -2011,7 +2011,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-51" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -2029,7 +2029,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-51" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-51" },
         { source: "Enime", video: "clfvjt26200f2pkorp9pl02y4" },
         {
           source: "AllAnime",
@@ -2051,7 +2051,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-52" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -2069,7 +2069,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-52" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-52" },
         { source: "Enime", video: "clfvjt25u00f1pkorbh6rx7b1" },
         {
           source: "AllAnime",
@@ -2091,7 +2091,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-53" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -2109,7 +2109,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-53" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-53" },
         { source: "Enime", video: "clfvjt25m00f0pkorjb5wiysw" },
         {
           source: "AllAnime",
@@ -2131,7 +2131,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-54" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -2149,7 +2149,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-54" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwMzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-54" },
         { source: "Enime", video: "clfvjt25d00eypkorv9xa6qrt" },
         {
           source: "AllAnime",
@@ -2171,7 +2171,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-55" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -2189,7 +2189,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-55" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-55" },
         { source: "Enime", video: "clfvjt25400ewpkor9w7ezqw5" },
         {
           source: "AllAnime",
@@ -2211,7 +2211,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-56" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -2225,7 +2225,7 @@ const dragonBallZ: series = {
         // { source: "Anime Owl" },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-56" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-56" },
         { source: "Enime", video: "clfvjt24u00eupkorffl3ef82" },
         {
           source: "AllAnime",
@@ -2247,7 +2247,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-57" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -2265,7 +2265,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-57" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-57" },
         { source: "Enime", video: "clfvjt24l00etpkor7rvzfxxp" },
         {
           source: "AllAnime",
@@ -2287,7 +2287,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-58" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -2305,7 +2305,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-58" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-58" },
         { source: "Enime", video: "clfvjt24c00erpkorvdw0csxr" },
         {
           source: "AllAnime",
@@ -2327,7 +2327,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-59" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -2345,7 +2345,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-59" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-59" },
         { source: "Enime", video: "clfvjt24400eppkorkqqsagxn" },
         {
           source: "AllAnime",
@@ -2367,7 +2367,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-60" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -2385,7 +2385,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-60" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-60" },
         { source: "Enime", video: "clfvjt23x00enpkor2k4pfk3w" },
         {
           source: "AllAnime",
@@ -2407,7 +2407,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-61" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -2425,7 +2425,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-61" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-61" },
         { source: "Enime", video: "clfvjt23q00elpkortq17ggvc" },
         {
           source: "AllAnime",
@@ -2447,7 +2447,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-62" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -2465,7 +2465,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-62" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-62" },
         { source: "Enime", video: "clfvjt23i00ejpkora5a7zcdh" },
         {
           source: "AllAnime",
@@ -2487,7 +2487,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-63" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -2505,7 +2505,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-63" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-63" },
         { source: "Enime", video: "clfvjt23b00eipkorecfpixsn" },
         {
           source: "AllAnime",
@@ -2527,7 +2527,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-64" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -2545,7 +2545,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-64" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-64" },
         { source: "Enime", video: "clfvjt23400egpkorh4805z00" },
         {
           source: "AllAnime",
@@ -2567,7 +2567,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-65" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-65" },
         {
           source: "AllAnime",
           video:
@@ -2585,7 +2585,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-65" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-65" },
         { source: "Enime", video: "clfvjt22y00eepkormh8hnlfb" },
         {
           source: "AllAnime",
@@ -2607,7 +2607,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-66" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-66" },
         {
           source: "AllAnime",
           video:
@@ -2625,7 +2625,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-66" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-66" },
         { source: "Enime", video: "clfvjt22s00ecpkorya5suqyz" },
         {
           source: "AllAnime",
@@ -2647,7 +2647,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-67" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-67" },
         {
           source: "AllAnime",
           video:
@@ -2665,7 +2665,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-67" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-67" },
         { source: "Enime", video: "clfvjt22l00eapkor2gjlgcms" },
         {
           source: "AllAnime",
@@ -2687,7 +2687,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-68" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-68" },
         {
           source: "AllAnime",
           video:
@@ -2705,7 +2705,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-68" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-68" },
         { source: "Enime", video: "clfvjt22f00e8pkorqtkm6rtz" },
         {
           source: "AllAnime",
@@ -2727,7 +2727,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-69" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-69" },
         {
           source: "AllAnime",
           video:
@@ -2741,7 +2741,7 @@ const dragonBallZ: series = {
         // { source: "Anime Owl" },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-69" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-69" },
         { source: "Enime", video: "clfvjt22900e7pkorfe7ctlie" },
         {
           source: "AllAnime",
@@ -2763,7 +2763,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-70" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-70" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-70" },
         {
           source: "AllAnime",
           video:
@@ -2781,7 +2781,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-70" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-70" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-70" },
         { source: "Enime", video: "clfvjt22100e5pkor4lqu9xzm" },
         {
           source: "AllAnime",
@@ -2803,7 +2803,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-71" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-71" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-71" },
         {
           source: "AllAnime",
           video:
@@ -2821,7 +2821,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-71" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-71" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-71" },
         { source: "Enime", video: "clfvjt21t00e3pkorfwxrwbz2" },
         {
           source: "AllAnime",
@@ -2843,7 +2843,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-72" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxNzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-72" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-72" },
         {
           source: "AllAnime",
           video:
@@ -2861,7 +2861,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-72" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-72" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-72" },
         { source: "Enime", video: "clfvjt21h00e1pkorl6clhwl5" },
         {
           source: "AllAnime",
@@ -2883,7 +2883,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-73" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-73" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-73" },
         {
           source: "AllAnime",
           video:
@@ -2901,7 +2901,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-73" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-73" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-73" },
         { source: "Enime", video: "clfvjt21900e0pkor1u5f486p" },
         {
           source: "AllAnime",
@@ -2923,7 +2923,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-74" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-74" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-74" },
         {
           source: "AllAnime",
           video:
@@ -2941,7 +2941,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-74" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-74" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-74" },
         { source: "Enime", video: "clfvjt21000dypkor0tudfwgc" },
         {
           source: "AllAnime",
@@ -2963,7 +2963,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-75" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-75" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-75" },
         {
           source: "AllAnime",
           video:
@@ -2981,7 +2981,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-75" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-75" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-75" },
         { source: "Enime", video: "clfvjt20q00dxpkorq67c541i" },
         {
           source: "AllAnime",
@@ -3003,7 +3003,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-76" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-76" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-76" },
         {
           source: "AllAnime",
           video:
@@ -3021,7 +3021,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-76" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-76" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-76" },
         { source: "Enime", video: "clfvjt20h00dvpkorbfhynou2" },
         {
           source: "AllAnime",
@@ -3043,7 +3043,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-77" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-77" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-77" },
         {
           source: "AllAnime",
           video:
@@ -3061,7 +3061,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-77" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwNzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-77" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-77" },
         { source: "Enime", video: "clfvjt20700dtpkorbbjvv1k4" },
         {
           source: "AllAnime",
@@ -3083,7 +3083,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-78" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-78" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-78" },
         {
           source: "AllAnime",
           video:
@@ -3101,7 +3101,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-78" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-78" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-78" },
         { source: "Enime", video: "clfvjt1zy00drpkor96cr53sj" },
         {
           source: "AllAnime",
@@ -3123,7 +3123,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-79" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-79" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-79" },
         {
           source: "AllAnime",
           video:
@@ -3141,7 +3141,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-79" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-79" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-79" },
         { source: "Enime", video: "clfvjt1zq00dppkorg0e276br" },
         {
           source: "AllAnime",
@@ -3163,7 +3163,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-80" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-80" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-80" },
         {
           source: "AllAnime",
           video:
@@ -3181,7 +3181,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-80" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-80" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-80" },
         { source: "Enime", video: "clfvjt1zh00dnpkoro0eir3ka" },
         {
           source: "AllAnime",
@@ -3203,7 +3203,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-81" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-81" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-81" },
         {
           source: "AllAnime",
           video:
@@ -3221,7 +3221,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-81" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-81" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-81" },
         { source: "Enime", video: "clfvjt1z600dlpkor61d88xj3" },
         {
           source: "AllAnime",
@@ -3243,7 +3243,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-82" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-82" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-82" },
         {
           source: "AllAnime",
           video:
@@ -3261,7 +3261,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-82" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwOTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-82" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-82" },
         { source: "Enime", video: "clfvjt1yv00djpkorypqer73q" },
         {
           source: "AllAnime",
@@ -3283,7 +3283,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-83" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-83" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-83" },
         {
           source: "AllAnime",
           video:
@@ -3301,7 +3301,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-83" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwOTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-83" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-83" },
         { source: "Enime", video: "clfvjt1yl00dipkorj82zqy9n" },
         {
           source: "AllAnime",
@@ -3323,7 +3323,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-84" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-84" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-84" },
         {
           source: "AllAnime",
           video:
@@ -3341,7 +3341,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-84" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwOTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-84" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-84" },
         { source: "Enime", video: "clfvjt1yc00dgpkorpnvzltlk" },
         {
           source: "AllAnime",
@@ -3363,7 +3363,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-85" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-85" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-85" },
         {
           source: "AllAnime",
           video:
@@ -3381,7 +3381,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-85" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwOTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-85" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-85" },
         { source: "Enime", video: "clfvjt1y400dfpkor97ql4jz5" },
         {
           source: "AllAnime",
@@ -3403,7 +3403,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-86" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-86" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-86" },
         {
           source: "AllAnime",
           video:
@@ -3421,7 +3421,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-86" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwOTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-86" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-86" },
         { source: "Enime", video: "clfvjt1xv00ddpkorjmf1ht4w" },
         {
           source: "AllAnime",
@@ -3443,7 +3443,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-87" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-87" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-87" },
         {
           source: "AllAnime",
           video:
@@ -3461,7 +3461,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-87" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwOTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-87" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-87" },
         { source: "Enime", video: "clfvjt1xm00dbpkoraaqmy1yp" },
         {
           source: "AllAnime",
@@ -3483,7 +3483,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-88" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-88" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-88" },
         {
           source: "AllAnime",
           video:
@@ -3501,7 +3501,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-88" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUwOTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-88" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-88" },
         { source: "Enime", video: "clfvjt1xd00d9pkorli3njwz0" },
         {
           source: "AllAnime",
@@ -3523,7 +3523,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-89" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-89" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-89" },
         {
           source: "AllAnime",
           video:
@@ -3541,7 +3541,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-89" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-89" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-89" },
         { source: "Enime", video: "clfvjt1x400d8pkormvdxqr70" },
         {
           source: "AllAnime",
@@ -3563,7 +3563,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-90" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-90" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-90" },
         {
           source: "AllAnime",
           video:
@@ -3581,7 +3581,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-90" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-90" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-90" },
         { source: "Enime", video: "clfvjt1wv00d7pkorvm5aowm6" },
         {
           source: "AllAnime",
@@ -3603,7 +3603,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-91" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-91" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-91" },
         {
           source: "AllAnime",
           video:
@@ -3621,7 +3621,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-91" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-91" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-91" },
         { source: "Enime", video: "clfvjt1wn00d5pkor2id80rdy" },
         {
           source: "AllAnime",
@@ -3643,7 +3643,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-92" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYxOTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-92" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-92" },
         {
           source: "AllAnime",
           video:
@@ -3661,7 +3661,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-92" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-92" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-92" },
         { source: "Enime", video: "clfvjt1we00d4pkorjeq5rk2v" },
         {
           source: "AllAnime",
@@ -3679,7 +3679,7 @@ const dragonBallZ: series = {
         // { source: "Anime Owl" },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-93" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-93" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-93" },
         {
           source: "AllAnime",
           video:
@@ -3697,7 +3697,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-93" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-93" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-93" },
         { source: "Enime", video: "clfvjt1w500d2pkornc89qiqj" },
         {
           source: "AllAnime",
@@ -3719,7 +3719,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-94" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-94" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-94" },
         {
           source: "AllAnime",
           video:
@@ -3737,7 +3737,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-94" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-94" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-94" },
         { source: "Enime", video: "clfvjt1vw00d1pkorjpl576wu" },
         {
           source: "AllAnime",
@@ -3759,7 +3759,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-95" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-95" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-95" },
         {
           source: "AllAnime",
           video:
@@ -3777,7 +3777,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-95" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-95" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-95" },
         { source: "Enime", video: "clfvjt1vm00d0pkorw9sk723h" },
         {
           source: "AllAnime",
@@ -3799,7 +3799,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-96" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-96" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-96" },
         {
           source: "AllAnime",
           video:
@@ -3817,7 +3817,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-96" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-96" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-96" },
         { source: "Enime", video: "clfvjt1vd00cypkorpwm095c5" },
         {
           source: "AllAnime",
@@ -3839,7 +3839,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-97" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-97" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-97" },
         {
           source: "AllAnime",
           video:
@@ -3857,7 +3857,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-97" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-97" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-97" },
         { source: "Enime", video: "clfvjt1v300cwpkorkaip1sox" },
         {
           source: "AllAnime",
@@ -3879,7 +3879,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-98" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-98" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-98" },
         {
           source: "AllAnime",
           video:
@@ -3897,7 +3897,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-98" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-98" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-98" },
         { source: "Enime", video: "clfvjt1us00cvpkorlpp9vkiw" },
         {
           source: "AllAnime",
@@ -3919,7 +3919,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-99" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-99" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-99" },
         {
           source: "AllAnime",
           video:
@@ -3937,7 +3937,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-99" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-99" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-99" },
         { source: "Enime", video: "clfvjt1ui00ctpkorhkehrj5u" },
         {
           source: "AllAnime",
@@ -3959,7 +3959,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-100" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-100" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-100" },
         {
           source: "AllAnime",
           video:
@@ -3977,7 +3977,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-100" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-100" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-100" },
         { source: "Enime", video: "clfvjt1u800cspkoruanz9tig" },
         {
           source: "AllAnime",
@@ -3999,7 +3999,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-101" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-101" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-101" },
         {
           source: "AllAnime",
           video:
@@ -4017,7 +4017,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-101" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-101" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-101" },
         { source: "Enime", video: "clfvjt1tx00cqpkorrn1afyio" },
         {
           source: "AllAnime",
@@ -4039,7 +4039,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-102" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-102" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-102" },
         {
           source: "AllAnime",
           video:
@@ -4057,7 +4057,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-102" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-102" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-102" },
         { source: "Enime", video: "clfvjt1tm00copkor9cr0nldf" },
         {
           source: "AllAnime",
@@ -4079,7 +4079,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-103" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-103" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-103" },
         {
           source: "AllAnime",
           video:
@@ -4097,7 +4097,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-103" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxMzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-103" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-103" },
         { source: "Enime", video: "clfvjt1tb00cnpkorsifgd9hl" },
         {
           source: "AllAnime",
@@ -4119,7 +4119,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-104" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-104" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-104" },
         {
           source: "AllAnime",
           video:
@@ -4137,7 +4137,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-104" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-104" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-104" },
         { source: "Enime", video: "clfvjt1t100clpkorcxokbnns" },
         {
           source: "AllAnime",
@@ -4159,7 +4159,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-105" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-105" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-105" },
         {
           source: "AllAnime",
           video:
@@ -4177,7 +4177,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-105" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-105" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-105" },
         { source: "Enime", video: "clfvjt1sq00cjpkorirzadzkl" },
         {
           source: "AllAnime",
@@ -4199,7 +4199,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-106" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-106" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-106" },
         {
           source: "AllAnime",
           video:
@@ -4217,7 +4217,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-106" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-106" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-106" },
         { source: "Enime", video: "clfvjt1sc00chpkords8f2g6f" },
         {
           source: "AllAnime",
@@ -4239,7 +4239,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-107" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-107" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-107" },
         {
           source: "AllAnime",
           video:
@@ -4257,7 +4257,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-107" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-107" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-107" },
         { source: "Enime", video: "clfvjt1s300cfpkorn09fhbwa" },
         {
           source: "AllAnime",
@@ -4279,7 +4279,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-108" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-108" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-108" },
         {
           source: "AllAnime",
           video:
@@ -4297,7 +4297,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-108" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-108" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-108" },
         { source: "Enime", video: "clfvjt1rt00cepkoraj8gue1d" },
         {
           source: "AllAnime",
@@ -4319,7 +4319,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-109" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-109" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-109" },
         {
           source: "AllAnime",
           video:
@@ -4337,7 +4337,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-109" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-109" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-109" },
         { source: "Enime", video: "clfvjt1rk00ccpkordz2fod77" },
         {
           source: "AllAnime",
@@ -4359,7 +4359,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-110" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-110" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-110" },
         {
           source: "AllAnime",
           video:
@@ -4377,7 +4377,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-110" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-110" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-110" },
         { source: "Enime", video: "clfvjt1ra00cbpkor82be88le" },
         {
           source: "AllAnime",
@@ -4399,7 +4399,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-111" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-111" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-111" },
         {
           source: "AllAnime",
           video:
@@ -4417,7 +4417,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-111" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-111" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-111" },
         { source: "Enime", video: "clfvjt1r100capkorrcsbbtq8" },
         {
           source: "AllAnime",
@@ -4439,7 +4439,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-112" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-112" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-112" },
         {
           source: "AllAnime",
           video:
@@ -4457,7 +4457,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-112" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-112" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-112" },
         { source: "Enime", video: "clfvjt1qs00c9pkorxfpzsy1j" },
         {
           source: "AllAnime",
@@ -4479,7 +4479,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-113" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-113" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-113" },
         {
           source: "AllAnime",
           video:
@@ -4497,7 +4497,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-113" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-113" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-113" },
         { source: "Enime", video: "clfvjt1qk00c7pkor8142118x" },
         {
           source: "AllAnime",
@@ -4519,7 +4519,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-114" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-114" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-114" },
         {
           source: "AllAnime",
           video:
@@ -4537,7 +4537,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-114" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-114" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-114" },
         { source: "Enime", video: "clfvjt1qc00c6pkorrgjv8lmq" },
         {
           source: "AllAnime",
@@ -4559,7 +4559,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-115" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-115" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-115" },
         {
           source: "AllAnime",
           video:
@@ -4577,7 +4577,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-115" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-115" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-115" },
         { source: "Enime", video: "clfvjt1q400c5pkoro547kcwn" },
         {
           source: "AllAnime",
@@ -4599,7 +4599,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-116" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-116" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-116" },
         {
           source: "AllAnime",
           video:
@@ -4617,7 +4617,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-116" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-116" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-116" },
         { source: "Enime", video: "clfvjt1px00c4pkorsujobxq2" },
         {
           source: "AllAnime",
@@ -4639,7 +4639,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-117" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-117" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-117" },
         {
           source: "AllAnime",
           video:
@@ -4657,7 +4657,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-117" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-117" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-117" },
         { source: "Enime", video: "clfvjt1pp00c2pkor1nfunxrl" },
         {
           source: "AllAnime",
@@ -4679,7 +4679,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-118" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-118" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-118" },
         {
           source: "AllAnime",
           video:
@@ -4697,7 +4697,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-118" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxNzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-118" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-118" },
         { source: "Enime", video: "clfvjt1ph00c0pkorfm2rvaxg" },
         {
           source: "AllAnime",
@@ -4719,7 +4719,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-119" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-119" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-119" },
         {
           source: "AllAnime",
           video:
@@ -4737,7 +4737,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-119" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-119" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-119" },
         { source: "Enime", video: "clfvjt1p700bzpkorsw4a5h5n" },
         {
           source: "AllAnime",
@@ -4759,7 +4759,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-120" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-120" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-120" },
         {
           source: "AllAnime",
           video:
@@ -4777,7 +4777,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-120" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-120" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-120" },
         { source: "Enime", video: "clfvjt1oy00bypkorbjomd8zi" },
         {
           source: "AllAnime",
@@ -4799,7 +4799,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-121" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-121" },
         {
           source: "AllAnime",
           video:
@@ -4817,7 +4817,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-121" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-121" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-121" },
         { source: "Enime", video: "clfvjt1oq00bxpkoriyud7qsl" },
         {
           source: "AllAnime",
@@ -4839,7 +4839,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-122" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-122" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-122" },
         {
           source: "AllAnime",
           video:
@@ -4857,7 +4857,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-122" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxOTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-122" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-122" },
         { source: "Enime", video: "clfvjt1og00bwpkoru0zuz53a" },
         {
           source: "AllAnime",
@@ -4879,7 +4879,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-123" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-123" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-123" },
         {
           source: "AllAnime",
           video:
@@ -4897,7 +4897,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-123" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxOTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-123" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-123" },
         { source: "Enime", video: "clftn6r6r00ltpk0o3hkov9i0" },
         {
           source: "AllAnime",
@@ -4919,7 +4919,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-124" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-124" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-124" },
         {
           source: "AllAnime",
           video:
@@ -4937,7 +4937,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-124" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxOTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-124" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-124" },
         { source: "Enime", video: "clftn6r6h00lrpk0oex9qas57" },
         {
           source: "AllAnime",
@@ -4959,7 +4959,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-125" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-125" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-125" },
         {
           source: "AllAnime",
           video:
@@ -4977,7 +4977,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-125" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUxOTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-125" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-125" },
         { source: "Enime", video: "clftn6r6800lppk0o1zf8mwzj" },
         {
           source: "AllAnime",
@@ -4999,7 +4999,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-126" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-126" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-126" },
         {
           source: "AllAnime",
           video:
@@ -5017,7 +5017,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-126" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-126" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-126" },
         { source: "Enime", video: "clftn6r6000lnpk0ohcxolxqz" },
         {
           source: "AllAnime",
@@ -5039,7 +5039,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-127" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-127" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-127" },
         {
           source: "AllAnime",
           video:
@@ -5057,7 +5057,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-127" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-127" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-127" },
         { source: "Enime", video: "clftn6r5s00llpk0o853r8sfj" },
         {
           source: "AllAnime",
@@ -5079,7 +5079,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-128" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-128" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-128" },
         {
           source: "AllAnime",
           video:
@@ -5097,7 +5097,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-128" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-128" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-128" },
         { source: "Enime", video: "clftn6r5k00lkpk0ozfsi0y5d" },
         {
           source: "AllAnime",
@@ -5119,7 +5119,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-129" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-129" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-129" },
         {
           source: "AllAnime",
           video:
@@ -5137,7 +5137,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-129" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-129" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-129" },
         { source: "Enime", video: "clftn6r5c00ljpk0oqxjhhzby" },
         {
           source: "AllAnime",
@@ -5159,7 +5159,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-130" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-130" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-130" },
         {
           source: "AllAnime",
           video:
@@ -5177,7 +5177,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-130" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-130" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-130" },
         { source: "Enime", video: "clftn6r5300lhpk0o839y4wzg" },
         {
           source: "AllAnime",
@@ -5199,7 +5199,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-131" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-131" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-131" },
         {
           source: "AllAnime",
           video:
@@ -5217,7 +5217,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-131" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-131" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-131" },
         { source: "Enime", video: "clftn6r4u00lfpk0o3yendl2p" },
         {
           source: "AllAnime",
@@ -5239,7 +5239,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-132" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyMzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-132" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-132" },
         {
           source: "AllAnime",
           video:
@@ -5257,7 +5257,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-132" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-132" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-132" },
         { source: "Enime", video: "clftn6r4l00ldpk0ordu4qm7w" },
         {
           source: "AllAnime",
@@ -5279,7 +5279,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-133" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-133" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-133" },
         {
           source: "AllAnime",
           video:
@@ -5297,7 +5297,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-133" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-133" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-133" },
         { source: "Enime", video: "clftn6r4c00lcpk0optwe855p" },
         {
           source: "AllAnime",
@@ -5319,7 +5319,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-134" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-134" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-134" },
         {
           source: "AllAnime",
           video:
@@ -5337,7 +5337,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-134" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-134" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-134" },
         { source: "Enime", video: "clftn6r4400lapk0olt54bi2i" },
         {
           source: "AllAnime",
@@ -5359,7 +5359,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-135" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-135" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-135" },
         {
           source: "AllAnime",
           video:
@@ -5377,7 +5377,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-135" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-135" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-135" },
         { source: "Enime", video: "clftn6r3v00l9pk0o5r272ot3" },
         {
           source: "AllAnime",
@@ -5399,7 +5399,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-136" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-136" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-136" },
         {
           source: "AllAnime",
           video:
@@ -5417,7 +5417,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-136" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-136" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-136" },
         { source: "Enime", video: "clftn6r3j00l8pk0oyn6jk9w4" },
         {
           source: "AllAnime",
@@ -5439,7 +5439,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-137" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-137" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-137" },
         {
           source: "AllAnime",
           video:
@@ -5457,7 +5457,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-137" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-137" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-137" },
         { source: "Enime", video: "clftn6r3800l7pk0owmdik8o3" },
         {
           source: "AllAnime",
@@ -5479,7 +5479,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-138" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-138" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-138" },
         {
           source: "AllAnime",
           video:
@@ -5497,7 +5497,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-138" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-138" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-138" },
         { source: "Enime", video: "clftn6r2x00l5pk0o4tlxjhc5" },
         {
           source: "AllAnime",
@@ -5519,7 +5519,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-139" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-139" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-139" },
         {
           source: "AllAnime",
           video:
@@ -5537,7 +5537,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-139" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-139" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-139" },
         { source: "Enime", video: "clftn6r2l00l3pk0ochbafdco" },
         {
           source: "AllAnime",
@@ -5559,7 +5559,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-140" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-140" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-140" },
         {
           source: "AllAnime",
           video:
@@ -5577,7 +5577,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-140" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-140" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-140" },
         { source: "Enime", video: "clftn6r2c00l1pk0okfydeq5e" },
         {
           source: "AllAnime",
@@ -5599,7 +5599,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-141" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-141" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-141" },
         {
           source: "AllAnime",
           video:
@@ -5617,7 +5617,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-141" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-141" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-141" },
         { source: "Enime", video: "clftn6r2200kzpk0o4ptkztxj" },
         {
           source: "AllAnime",
@@ -5639,7 +5639,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-142" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-142" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-142" },
         {
           source: "AllAnime",
           video:
@@ -5657,7 +5657,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-142" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyMzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-142" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-142" },
         { source: "Enime", video: "clftn6r1t00kxpk0o0kwmp5ic" },
         {
           source: "AllAnime",
@@ -5679,7 +5679,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-143" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-143" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-143" },
         {
           source: "AllAnime",
           video:
@@ -5697,7 +5697,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-143" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-143" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-143" },
         { source: "Enime", video: "clftn6r1k00kvpk0o5ctb0vig" },
         {
           source: "AllAnime",
@@ -5719,7 +5719,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-144" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-144" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-144" },
         {
           source: "AllAnime",
           video:
@@ -5737,7 +5737,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-144" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-144" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-144" },
         { source: "Enime", video: "clftn6r1900ktpk0od9semj23" },
         {
           source: "AllAnime",
@@ -5759,7 +5759,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-145" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-145" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-145" },
         {
           source: "AllAnime",
           video:
@@ -5777,7 +5777,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-145" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-145" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-145" },
         { source: "Enime", video: "clftn6r1100kspk0odz51yw5l" },
         {
           source: "AllAnime",
@@ -5799,7 +5799,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-146" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-146" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-146" },
         {
           source: "AllAnime",
           video:
@@ -5817,7 +5817,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-146" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-146" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-146" },
         { source: "Enime", video: "clftn6r0s00kqpk0od3fsm4cl" },
         {
           source: "AllAnime",
@@ -5839,7 +5839,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-147" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-147" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-147" },
         {
           source: "AllAnime",
           video:
@@ -5857,7 +5857,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-147" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-147" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-147" },
         { source: "Enime", video: "clftn6r0i00kopk0oa9z4v6ej" },
         {
           source: "AllAnime",
@@ -5879,7 +5879,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-148" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-148" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-148" },
         {
           source: "AllAnime",
           video:
@@ -5897,7 +5897,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-148" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-148" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-148" },
         { source: "Enime", video: "clftn6r0700knpk0oktropy0l" },
         {
           source: "AllAnime",
@@ -5919,7 +5919,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-149" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-149" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-149" },
         {
           source: "AllAnime",
           video:
@@ -5937,7 +5937,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-149" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-149" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-149" },
         { source: "Enime", video: "clftn6qzx00klpk0ox11gcouk" },
         {
           source: "AllAnime",
@@ -5959,7 +5959,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-150" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-150" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-150" },
         {
           source: "AllAnime",
           video:
@@ -5973,7 +5973,7 @@ const dragonBallZ: series = {
         // { source: "Anime Owl" },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-150" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-150" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-150" },
         { source: "Enime", video: "clftn6qzo00kkpk0otvo75v19" },
         {
           source: "AllAnime",
@@ -5995,7 +5995,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-151" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzYyNTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-151" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-151" },
         {
           source: "AllAnime",
           video:
@@ -6013,7 +6013,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-151" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-151" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-151" },
         { source: "Enime", video: "clftn6qzd00kjpk0o7oidq1wy" },
         {
           source: "AllAnime",
@@ -6035,7 +6035,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-152" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-152" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-152" },
         {
           source: "AllAnime",
           video:
@@ -6053,7 +6053,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-152" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-152" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-152" },
         { source: "Enime", video: "clftn6qz400khpk0ogjtru81t" },
         {
           source: "AllAnime",
@@ -6075,7 +6075,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-153" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-153" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-153" },
         {
           source: "AllAnime",
           video:
@@ -6093,7 +6093,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-153" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-153" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-153" },
         { source: "Enime", video: "clftn6qyw00kgpk0oaltakytk" },
         {
           source: "AllAnime",
@@ -6115,7 +6115,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-154" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-154" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-154" },
         {
           source: "AllAnime",
           video:
@@ -6133,7 +6133,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-154" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-154" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-154" },
         { source: "Enime", video: "clftn6qyo00kfpk0o45kq1v7p" },
         {
           source: "AllAnime",
@@ -6155,7 +6155,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-155" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-155" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-155" },
         {
           source: "AllAnime",
           video:
@@ -6173,7 +6173,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-155" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-155" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-155" },
         { source: "Enime", video: "clftn6qyg00kdpk0o4kr03gqn" },
         {
           source: "AllAnime",
@@ -6195,7 +6195,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-156" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-156" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-156" },
         {
           source: "AllAnime",
           video:
@@ -6213,7 +6213,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-156" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-156" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-156" },
         { source: "Enime", video: "clftn6qy700kbpk0olukidqq2" },
         {
           source: "AllAnime",
@@ -6235,7 +6235,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-157" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-157" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-157" },
         {
           source: "AllAnime",
           video:
@@ -6253,7 +6253,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-157" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-157" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-157" },
         { source: "Enime", video: "clftn6qxy00kapk0o6qbj30a3" },
         {
           source: "AllAnime",
@@ -6275,7 +6275,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-158" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-158" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-158" },
         {
           source: "AllAnime",
           video:
@@ -6293,7 +6293,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-158" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-158" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-158" },
         { source: "Enime", video: "clftn6qxq00k9pk0obx3pf08f" },
         {
           source: "AllAnime",
@@ -6315,7 +6315,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-159" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-159" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-159" },
         {
           source: "AllAnime",
           video:
@@ -6333,7 +6333,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-159" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-159" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-159" },
         { source: "Enime", video: "clftn6qxh00k8pk0oh56pex2w" },
         {
           source: "AllAnime",
@@ -6355,7 +6355,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-160" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2Njc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-160" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-160" },
         {
           source: "AllAnime",
           video:
@@ -6369,7 +6369,7 @@ const dragonBallZ: series = {
         // { source: "Anime Owl" },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-160" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-160" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-160" },
         { source: "Enime", video: "clftn6qx600k6pk0odvj7s56a" },
         {
           source: "AllAnime",
@@ -6391,7 +6391,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-161" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2Njg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-161" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-161" },
         {
           source: "AllAnime",
           video:
@@ -6409,7 +6409,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-161" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-161" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-161" },
         { source: "Enime", video: "clftn6qwz00k5pk0o2ybv5677" },
         {
           source: "AllAnime",
@@ -6431,7 +6431,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-162" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2Njk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-162" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-162" },
         {
           source: "AllAnime",
           video:
@@ -6449,7 +6449,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-162" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-162" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-162" },
         { source: "Enime", video: "clftn6qwr00k3pk0o3bk6y5j6" },
         {
           source: "AllAnime",
@@ -6471,7 +6471,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-163" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-163" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-163" },
         {
           source: "AllAnime",
           video:
@@ -6489,7 +6489,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-163" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-163" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-163" },
         { source: "Enime", video: "clftn6qwj00k2pk0olb7a1ldr" },
         {
           source: "AllAnime",
@@ -6511,7 +6511,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-164" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-164" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-164" },
         {
           source: "AllAnime",
           video:
@@ -6529,7 +6529,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-164" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-164" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-164" },
         { source: "Enime", video: "clftn6qwa00k1pk0okp4rr2n6" },
         {
           source: "AllAnime",
@@ -6551,7 +6551,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-165" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-165" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-165" },
         {
           source: "AllAnime",
           video:
@@ -6569,7 +6569,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-165" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-165" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-165" },
         { source: "Enime", video: "clftn6qw300k0pk0osx31oqbo" },
         {
           source: "AllAnime",
@@ -6591,7 +6591,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-166" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-166" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-166" },
         {
           source: "AllAnime",
           video:
@@ -6609,7 +6609,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-166" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-166" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-166" },
         { source: "Enime", video: "clftn6qvv00jypk0o7uz52wvj" },
         {
           source: "AllAnime",
@@ -6631,7 +6631,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-167" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-167" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-167" },
         {
           source: "AllAnime",
           video:
@@ -6649,7 +6649,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-167" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-167" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-167" },
         { source: "Enime", video: "clftn6qvn00jxpk0ow28g5zji" },
         {
           source: "AllAnime",
@@ -6671,7 +6671,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-168" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-168" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-168" },
         {
           source: "AllAnime",
           video:
@@ -6689,7 +6689,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-168" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-168" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-168" },
         { source: "Enime", video: "clftn6qve00jvpk0oomv28cec" },
         {
           source: "AllAnime",
@@ -6711,7 +6711,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-169" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2NzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-169" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-169" },
         {
           source: "AllAnime",
           video:
@@ -6729,7 +6729,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-169" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-169" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-169" },
         { source: "Enime", video: "clftn6quy00jupk0oz2sefobh" },
         {
           source: "AllAnime",
@@ -6751,7 +6751,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-170" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-170" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-170" },
         {
           source: "AllAnime",
           video:
@@ -6769,7 +6769,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-170" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-170" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-170" },
         { source: "Enime", video: "clftn6quk00jtpk0o5a1xj1t2" },
         {
           source: "AllAnime",
@@ -6791,7 +6791,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-171" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-171" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-171" },
         {
           source: "AllAnime",
           video:
@@ -6809,7 +6809,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-171" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-171" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-171" },
         { source: "Enime", video: "clftn6qu900jspk0oggnvjyzu" },
         {
           source: "AllAnime",
@@ -6831,7 +6831,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-172" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-172" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-172" },
         {
           source: "AllAnime",
           video:
@@ -6849,7 +6849,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-172" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-172" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-172" },
         { source: "Enime", video: "clftn6qtz00jrpk0o1rq0fdd0" },
         {
           source: "AllAnime",
@@ -6871,7 +6871,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-173" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-173" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-173" },
         {
           source: "AllAnime",
           video:
@@ -6889,7 +6889,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-173" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-173" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-173" },
         { source: "Enime", video: "clftn6qtq00jppk0omqsx4iu0" },
         {
           source: "AllAnime",
@@ -6911,7 +6911,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-174" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-174" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-174" },
         {
           source: "AllAnime",
           video:
@@ -6929,7 +6929,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-174" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyNzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-174" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-174" },
         { source: "Enime", video: "clftn6qtg00jopk0ojs4lcqmv" },
         {
           source: "AllAnime",
@@ -6951,7 +6951,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-175" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-175" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-175" },
         {
           source: "AllAnime",
           video:
@@ -6969,7 +6969,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-175" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-175" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-175" },
         { source: "Enime", video: "clftn6qt800jmpk0ouag0sxkn" },
         {
           source: "AllAnime",
@@ -6991,7 +6991,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-176" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-176" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-176" },
         {
           source: "AllAnime",
           video:
@@ -7009,7 +7009,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-176" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-176" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-176" },
         { source: "Enime", video: "clftn6qsz00jkpk0oilv40he0" },
         {
           source: "AllAnime",
@@ -7031,7 +7031,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-177" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-177" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-177" },
         {
           source: "AllAnime",
           video:
@@ -7049,7 +7049,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-177" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-177" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-177" },
         { source: "Enime", video: "clftn6qsq00jipk0omjp0x709" },
         {
           source: "AllAnime",
@@ -7071,7 +7071,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-178" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-178" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-178" },
         {
           source: "AllAnime",
           video:
@@ -7089,7 +7089,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-178" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-178" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-178" },
         { source: "Enime", video: "clftn6qsg00jhpk0orpr97sjz" },
         {
           source: "AllAnime",
@@ -7111,7 +7111,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-179" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-179" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-179" },
         {
           source: "AllAnime",
           video:
@@ -7129,7 +7129,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-179" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyOTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-179" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-179" },
         { source: "Enime", video: "clftn6qs800jfpk0orvw7tczd" },
         {
           source: "AllAnime",
@@ -7151,7 +7151,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-180" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-180" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-180" },
         {
           source: "AllAnime",
           video:
@@ -7169,7 +7169,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-180" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyOTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-180" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-180" },
         { source: "Enime", video: "clftn6qs000jepk0ogiwuxdle" },
         {
           source: "AllAnime",
@@ -7191,7 +7191,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-181" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-181" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-181" },
         {
           source: "AllAnime",
           video:
@@ -7209,7 +7209,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-181" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUyOTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-181" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-181" },
         { source: "Enime", video: "clftn6qrp00jdpk0oezubwirf" },
         {
           source: "AllAnime",
@@ -7231,7 +7231,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-182" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-182" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-182" },
         {
           source: "AllAnime",
           video:
@@ -7249,7 +7249,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-182" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-182" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-182" },
         { source: "Enime", video: "clftn6qrf00jbpk0oo6v9fvk1" },
         {
           source: "AllAnime",
@@ -7271,7 +7271,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-183" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-183" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-183" },
         {
           source: "AllAnime",
           video:
@@ -7289,7 +7289,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-183" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-183" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-183" },
         { source: "Enime", video: "clftn6qr700japk0onpqie7oq" },
         {
           source: "AllAnime",
@@ -7311,7 +7311,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-184" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-184" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-184" },
         {
           source: "AllAnime",
           video:
@@ -7329,7 +7329,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-184" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-184" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-184" },
         { source: "Enime", video: "clftn6qqx00j8pk0o8riy9qhe" },
         {
           source: "AllAnime",
@@ -7351,7 +7351,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-185" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-185" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-185" },
         {
           source: "AllAnime",
           video:
@@ -7369,7 +7369,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-185" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-185" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-185" },
         { source: "Enime", video: "clftn6qqn00j6pk0o8ud2kt5t" },
         {
           source: "AllAnime",
@@ -7391,7 +7391,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-186" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-186" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-186" },
         {
           source: "AllAnime",
           video:
@@ -7409,7 +7409,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-186" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-186" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-186" },
         { source: "Enime", video: "clftn6qqe00j5pk0oz77v6t8e" },
         {
           source: "AllAnime",
@@ -7431,7 +7431,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-187" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-187" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-187" },
         {
           source: "AllAnime",
           video:
@@ -7449,7 +7449,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-187" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-187" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-187" },
         { source: "Enime", video: "clftn6qq500j4pk0oa0ref7ji" },
         {
           source: "AllAnime",
@@ -7471,7 +7471,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-188" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-188" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-188" },
         {
           source: "AllAnime",
           video:
@@ -7489,7 +7489,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-188" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-188" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-188" },
         { source: "Enime", video: "clftn6qpv00j3pk0ofgb2plr0" },
         {
           source: "AllAnime",
@@ -7511,7 +7511,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-189" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-189" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-189" },
         {
           source: "AllAnime",
           video:
@@ -7529,7 +7529,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-189" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-189" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-189" },
         { source: "Enime", video: "clftn6qpl00j1pk0on7yw7bye" },
         {
           source: "AllAnime",
@@ -7551,7 +7551,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-190" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-190" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-190" },
         {
           source: "AllAnime",
           video:
@@ -7569,7 +7569,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-190" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-190" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-190" },
         { source: "Enime", video: "clftn6qpb00j0pk0on4tvmbq3" },
         {
           source: "AllAnime",
@@ -7591,7 +7591,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-191" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-191" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-191" },
         {
           source: "AllAnime",
           video:
@@ -7609,7 +7609,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-191" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-191" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-191" },
         { source: "Enime", video: "clftn6qp100iypk0or0ozkoyw" },
         {
           source: "AllAnime",
@@ -7631,7 +7631,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-192" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY2OTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-192" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-192" },
         {
           source: "AllAnime",
           video:
@@ -7649,7 +7649,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-192" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-192" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-192" },
         { source: "Enime", video: "clftn6qos00iwpk0ouuyjzd6x" },
         {
           source: "AllAnime",
@@ -7671,7 +7671,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-193" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-193" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-193" },
         {
           source: "AllAnime",
           video:
@@ -7689,7 +7689,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-193" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-193" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-193" },
         { source: "Enime", video: "clftn6qoi00ivpk0oxko02wfg" },
         {
           source: "AllAnime",
@@ -7711,7 +7711,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-194" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-194" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-194" },
         {
           source: "AllAnime",
           video:
@@ -7729,7 +7729,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-194" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-194" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-194" },
         { source: "Enime", video: "clftn6qo900itpk0oyzqthsvy" },
         {
           source: "AllAnime",
@@ -7751,7 +7751,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-195" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-195" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-195" },
         {
           source: "AllAnime",
           video:
@@ -7769,7 +7769,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-195" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-195" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-195" },
         { source: "Enime", video: "clftn6qo000irpk0o1xg9qyzh" },
         {
           source: "AllAnime",
@@ -7791,7 +7791,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-196" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-196" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-196" },
         {
           source: "AllAnime",
           video:
@@ -7809,7 +7809,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-196" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-196" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-196" },
         { source: "Enime", video: "clftn6qnr00iqpk0og7xwb8dx" },
         {
           source: "AllAnime",
@@ -7831,7 +7831,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-197" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-197" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-197" },
         {
           source: "AllAnime",
           video:
@@ -7849,7 +7849,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-197" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzMzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-197" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-197" },
         { source: "Enime", video: "clftn6qnh00iopk0osxf8h3gw" },
         {
           source: "AllAnime",
@@ -7871,7 +7871,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-198" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-198" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-198" },
         {
           source: "AllAnime",
           video:
@@ -7889,7 +7889,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-198" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-198" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-198" },
         { source: "Enime", video: "clftn6qn700inpk0o0tg5q13u" },
         {
           source: "AllAnime",
@@ -7911,7 +7911,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-199" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-199" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-199" },
         {
           source: "AllAnime",
           video:
@@ -7929,7 +7929,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-199" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-199" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-199" },
         { source: "Enime", video: "clftn6qmw00impk0oqrduznys" },
         {
           source: "AllAnime",
@@ -7951,7 +7951,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-200" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-200" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-200" },
         {
           source: "AllAnime",
           video:
@@ -7969,7 +7969,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-200" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-200" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-200" },
         { source: "Enime", video: "clftn6qmn00ilpk0o77wlwuu0" },
         {
           source: "AllAnime",
@@ -7991,7 +7991,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-201" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-201" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-201" },
         {
           source: "AllAnime",
           video:
@@ -8009,7 +8009,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-201" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-201" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-201" },
         { source: "Enime", video: "clftn6qme00ikpk0o0ng2j9mw" },
         {
           source: "AllAnime",
@@ -8031,7 +8031,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-202" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-202" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-202" },
         {
           source: "AllAnime",
           video:
@@ -8049,7 +8049,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-202" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-202" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-202" },
         { source: "Enime", video: "clftn6qm400ijpk0oxan2772o" },
         {
           source: "AllAnime",
@@ -8071,7 +8071,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-203" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-203" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-203" },
         {
           source: "AllAnime",
           video:
@@ -8089,7 +8089,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-203" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-203" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-203" },
         { source: "Enime", video: "clftn6qlv00iipk0ogwjctnxu" },
         {
           source: "AllAnime",
@@ -8111,7 +8111,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-204" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-204" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-204" },
         {
           source: "AllAnime",
           video:
@@ -8129,7 +8129,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-204" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-204" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-204" },
         { source: "Enime", video: "clftn6qlk00ihpk0o81cdx5i4" },
         {
           source: "AllAnime",
@@ -8151,7 +8151,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-205" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-205" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-205" },
         {
           source: "AllAnime",
           video:
@@ -8169,7 +8169,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-205" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-205" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-205" },
         { source: "Enime", video: "clftn6qla00ifpk0o92nlgwuo" },
         {
           source: "AllAnime",
@@ -8191,7 +8191,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-206" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-206" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-206" },
         {
           source: "AllAnime",
           video:
@@ -8209,7 +8209,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-206" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-206" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-206" },
         { source: "Enime", video: "clftn6ql100idpk0o04go0r5z" },
         {
           source: "AllAnime",
@@ -8231,7 +8231,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-207" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-207" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-207" },
         {
           source: "AllAnime",
           video:
@@ -8249,7 +8249,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-207" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-207" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-207" },
         { source: "Enime", video: "clftn6qkq00icpk0ovko9drkp" },
         {
           source: "AllAnime",
@@ -8271,7 +8271,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-208" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-208" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-208" },
         {
           source: "AllAnime",
           video:
@@ -8289,7 +8289,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-208" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-208" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-208" },
         { source: "Enime", video: "clftn6qkg00iapk0oo2c445sx" },
         {
           source: "AllAnime",
@@ -8311,7 +8311,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-209" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-209" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-209" },
         {
           source: "AllAnime",
           video:
@@ -8329,7 +8329,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-209" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-209" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-209" },
         { source: "Enime", video: "clftn6qk500i8pk0ohgsw079r" },
         {
           source: "AllAnime",
@@ -8351,7 +8351,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-210" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-210" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-210" },
         {
           source: "AllAnime",
           video:
@@ -8369,7 +8369,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-210" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-210" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-210" },
         { source: "Enime", video: "clftn6qju00i6pk0ouydvwemq" },
         {
           source: "AllAnime",
@@ -8391,7 +8391,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-211" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-211" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-211" },
         {
           source: "AllAnime",
           video:
@@ -8409,7 +8409,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-211" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-211" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-211" },
         { source: "Enime", video: "clftn6qjk00i5pk0o8kngy43h" },
         {
           source: "AllAnime",
@@ -8431,7 +8431,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-212" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-212" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-212" },
         {
           source: "AllAnime",
           video:
@@ -8449,7 +8449,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-212" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-212" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-212" },
         { source: "Enime", video: "clftn6qja00i4pk0olsb3xokm" },
         {
           source: "AllAnime",
@@ -8471,7 +8471,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-213" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-213" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-213" },
         {
           source: "AllAnime",
           video:
@@ -8489,7 +8489,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-213" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-213" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-213" },
         { source: "Enime", video: "clftn6qj000i2pk0o50al11c3" },
         {
           source: "AllAnime",
@@ -8511,7 +8511,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-214" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Mjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-214" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-214" },
         {
           source: "AllAnime",
           video:
@@ -8529,7 +8529,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-214" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzNzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-214" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-214" },
         { source: "Enime", video: "clftn6qio00i0pk0o93d5mkft" },
         {
           source: "AllAnime",
@@ -8551,7 +8551,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-215" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Mjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-215" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-215" },
         {
           source: "AllAnime",
           video:
@@ -8569,7 +8569,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-215" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-215" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-215" },
         { source: "Enime", video: "clftn6qif00hypk0o6e35vux1" },
         {
           source: "AllAnime",
@@ -8591,7 +8591,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-216" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Mjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-216" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-216" },
         {
           source: "AllAnime",
           video:
@@ -8609,7 +8609,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-216" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-216" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-216" },
         { source: "Enime", video: "clftn6qi500hwpk0oibcduav9" },
         {
           source: "AllAnime",
@@ -8631,7 +8631,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-217" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-217" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-217" },
         {
           source: "AllAnime",
           video:
@@ -8649,7 +8649,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-217" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzOTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-217" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-217" },
         { source: "Enime", video: "clftn6qhu00hupk0o7why82zb" },
         {
           source: "AllAnime",
@@ -8671,7 +8671,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-218" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-218" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-218" },
         {
           source: "AllAnime",
           video:
@@ -8689,7 +8689,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-218" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzOTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-218" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-218" },
         { source: "Enime", video: "clftn6qhi00htpk0o9h4vhvyl" },
         {
           source: "AllAnime",
@@ -8711,7 +8711,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-219" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-219" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-219" },
         {
           source: "AllAnime",
           video:
@@ -8729,7 +8729,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-219" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzOTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-219" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-219" },
         { source: "Enime", video: "clftn6qh500hspk0ob7faxgfe" },
         {
           source: "AllAnime",
@@ -8751,7 +8751,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-220" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-220" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-220" },
         {
           source: "AllAnime",
           video:
@@ -8769,7 +8769,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-220" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzOTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-220" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-220" },
         { source: "Enime", video: "clftn6qgs00hrpk0o6e7s2p71" },
         {
           source: "AllAnime",
@@ -8791,7 +8791,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-221" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-221" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-221" },
         {
           source: "AllAnime",
           video:
@@ -8809,7 +8809,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-221" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzOTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-221" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-221" },
         { source: "Enime", video: "clftn6qgg00hppk0onkfmwc5h" },
         {
           source: "AllAnime",
@@ -8831,7 +8831,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-222" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-222" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-222" },
         {
           source: "AllAnime",
           video:
@@ -8849,7 +8849,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-222" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTUzOTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-222" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-222" },
         { source: "Enime", video: "clftn6qg100hnpk0o6capd1gv" },
         {
           source: "AllAnime",
@@ -8871,7 +8871,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-223" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3MzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-223" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-223" },
         {
           source: "AllAnime",
           video:
@@ -8889,7 +8889,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-223" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-223" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-223" },
         { source: "Enime", video: "clftn6qfr00hmpk0oc7uf89za" },
         {
           source: "AllAnime",
@@ -8911,7 +8911,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-224" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Mzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-224" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-224" },
         {
           source: "AllAnime",
           video:
@@ -8929,7 +8929,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-224" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-224" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-224" },
         { source: "Enime", video: "clftn6qfh00hkpk0oxm05k0gs" },
         {
           source: "AllAnime",
@@ -8951,7 +8951,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-225" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Mzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-225" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-225" },
         {
           source: "AllAnime",
           video:
@@ -8969,7 +8969,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-225" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-225" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-225" },
         { source: "Enime", video: "clftn6qf700hipk0ohubobci4" },
         {
           source: "AllAnime",
@@ -8991,7 +8991,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-226" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Mzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-226" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-226" },
         {
           source: "AllAnime",
           video:
@@ -9009,7 +9009,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-226" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-226" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-226" },
         { source: "Enime", video: "clftn6qey00hgpk0opr53iejg" },
         {
           source: "AllAnime",
@@ -9031,7 +9031,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-227" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-227" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-227" },
         {
           source: "AllAnime",
           video:
@@ -9049,7 +9049,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-227" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-227" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-227" },
         { source: "Enime", video: "clftn6qeo00hepk0ok0wl4zv9" },
         {
           source: "AllAnime",
@@ -9071,7 +9071,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-228" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-228" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-228" },
         {
           source: "AllAnime",
           video:
@@ -9089,7 +9089,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-228" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-228" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-228" },
         { source: "Enime", video: "clftn6qef00hdpk0oi6sxy5ff" },
         {
           source: "AllAnime",
@@ -9111,7 +9111,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-229" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-229" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-229" },
         {
           source: "AllAnime",
           video:
@@ -9129,7 +9129,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-229" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-229" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-229" },
         { source: "Enime", video: "clftn6qe500hcpk0o2f3jo1ho" },
         {
           source: "AllAnime",
@@ -9151,7 +9151,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-230" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-230" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-230" },
         {
           source: "AllAnime",
           video:
@@ -9169,7 +9169,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-230" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-230" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-230" },
         { source: "Enime", video: "clftn6qdv00hapk0owzqe03yt" },
         {
           source: "AllAnime",
@@ -9191,7 +9191,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-231" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-231" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-231" },
         {
           source: "AllAnime",
           video:
@@ -9209,7 +9209,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-231" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-231" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-231" },
         { source: "Enime", video: "clftn6qdm00h8pk0okhnixcdv" },
         {
           source: "AllAnime",
@@ -9231,7 +9231,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-232" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-232" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-232" },
         {
           source: "AllAnime",
           video:
@@ -9249,7 +9249,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-232" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-232" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-232" },
         { source: "Enime", video: "clftn6qdc00h7pk0ocdaifrb5" },
         {
           source: "AllAnime",
@@ -9271,7 +9271,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-233" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-233" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-233" },
         {
           source: "AllAnime",
           video:
@@ -9289,7 +9289,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-233" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-233" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-233" },
         { source: "Enime", video: "clftn6qd200h5pk0ovmpn6ukt" },
         {
           source: "AllAnime",
@@ -9311,7 +9311,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-234" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-234" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-234" },
         {
           source: "AllAnime",
           video:
@@ -9329,7 +9329,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-234" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-234" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-234" },
         { source: "Enime", video: "clftn6qcq00h3pk0o61t3txjm" },
         {
           source: "AllAnime",
@@ -9351,7 +9351,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-235" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-235" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-235" },
         {
           source: "AllAnime",
           video:
@@ -9369,7 +9369,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-235" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-235" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-235" },
         { source: "Enime", video: "clftn6qcg00h1pk0oba2a2nwo" },
         {
           source: "AllAnime",
@@ -9391,7 +9391,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-236" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-236" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-236" },
         {
           source: "AllAnime",
           video:
@@ -9409,7 +9409,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-236" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0Mjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-236" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-236" },
         { source: "Enime", video: "clftn6qc200gzpk0o3wkv9qrw" },
         {
           source: "AllAnime",
@@ -9431,7 +9431,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-237" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-237" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-237" },
         {
           source: "AllAnime",
           video:
@@ -9449,7 +9449,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-237" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0MzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-237" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-237" },
         { source: "Enime", video: "clftn6qbq00gypk0oddcguawf" },
         {
           source: "AllAnime",
@@ -9471,7 +9471,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-238" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-238" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-238" },
         {
           source: "AllAnime",
           video:
@@ -9489,7 +9489,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-238" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0Mzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-238" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-238" },
         { source: "Enime", video: "clftn6qbh00gxpk0obrju9yyw" },
         {
           source: "AllAnime",
@@ -9511,7 +9511,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-239" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-239" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-239" },
         {
           source: "AllAnime",
           video:
@@ -9529,7 +9529,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-239" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-239" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-239" },
         { source: "Enime", video: "clftn6qb500gwpk0o0csbfdbc" },
         {
           source: "AllAnime",
@@ -9551,7 +9551,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-240" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-240" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-240" },
         {
           source: "AllAnime",
           video:
@@ -9569,7 +9569,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-240" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-240" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-240" },
         { source: "Enime", video: "clftn6qav00gvpk0ok6ury6q8" },
         {
           source: "AllAnime",
@@ -9591,7 +9591,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-241" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-241" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-241" },
         {
           source: "AllAnime",
           video:
@@ -9609,7 +9609,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-241" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-241" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-241" },
         { source: "Enime", video: "clftn6qaj00gtpk0o85cwxhc9" },
         {
           source: "AllAnime",
@@ -9631,7 +9631,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-242" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-242" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-242" },
         {
           source: "AllAnime",
           video:
@@ -9649,7 +9649,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-242" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-242" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-242" },
         { source: "Enime", video: "clftn6qa300grpk0o20iw8hi2" },
         {
           source: "AllAnime",
@@ -9671,7 +9671,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-243" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-243" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-243" },
         {
           source: "AllAnime",
           video:
@@ -9689,7 +9689,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-243" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-243" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-243" },
         { source: "Enime", video: "clftn6q9q00gppk0o4ybx7gr4" },
         {
           source: "AllAnime",
@@ -9711,7 +9711,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-244" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-244" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-244" },
         {
           source: "AllAnime",
           video:
@@ -9729,7 +9729,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-244" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-244" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-244" },
         { source: "Enime", video: "clftn6q9d00gnpk0ozi12oycp" },
         {
           source: "AllAnime",
@@ -9751,7 +9751,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-245" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-245" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-245" },
         {
           source: "AllAnime",
           video:
@@ -9769,7 +9769,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-245" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-245" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-245" },
         { source: "Enime", video: "clftn6q9100glpk0o8d3ultc7" },
         {
           source: "AllAnime",
@@ -9791,7 +9791,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-246" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-246" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-246" },
         {
           source: "AllAnime",
           video:
@@ -9809,7 +9809,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-246" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-246" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-246" },
         { source: "Enime", video: "clftn6q8p00gjpk0oxatmnxnw" },
         {
           source: "AllAnime",
@@ -9831,7 +9831,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-247" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-247" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-247" },
         {
           source: "AllAnime",
           video:
@@ -9849,7 +9849,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-247" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-247" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-247" },
         { source: "Enime", video: "clftn6q8f00ghpk0o0eyzrz6c" },
         {
           source: "AllAnime",
@@ -9871,7 +9871,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-248" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-248" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-248" },
         {
           source: "AllAnime",
           video:
@@ -9889,7 +9889,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-248" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-248" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-248" },
         { source: "Enime", video: "clftn6q8000gfpk0o0wmvj0p0" },
         {
           source: "AllAnime",
@@ -9911,7 +9911,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-249" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-249" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-249" },
         {
           source: "AllAnime",
           video:
@@ -9929,7 +9929,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-249" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-249" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-249" },
         { source: "Enime", video: "clftn6q7r00gepk0obxgi1u46" },
         {
           source: "AllAnime",
@@ -9951,7 +9951,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-250" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-250" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-250" },
         {
           source: "AllAnime",
           video:
@@ -9969,7 +9969,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-250" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0Njc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-250" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-250" },
         { source: "Enime", video: "clftn6q7i00gdpk0olxlroepa" },
         {
           source: "AllAnime",
@@ -9991,7 +9991,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-251" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-251" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-251" },
         {
           source: "AllAnime",
           video:
@@ -10009,7 +10009,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-251" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0Njg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-251" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-251" },
         { source: "Enime", video: "clftn6q7700gbpk0oebj908sw" },
         {
           source: "AllAnime",
@@ -10031,7 +10031,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-252" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-252" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-252" },
         {
           source: "AllAnime",
           video:
@@ -10045,7 +10045,7 @@ const dragonBallZ: series = {
         // { source: "Anime Owl" },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-252" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-252" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-252" },
         { source: "Enime", video: "clftn6q6u00gapk0o645ut35j" },
         {
           source: "AllAnime",
@@ -10067,7 +10067,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-253" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-253" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-253" },
         {
           source: "AllAnime",
           video:
@@ -10085,7 +10085,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-253" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-253" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-253" },
         { source: "Enime", video: "clftn6q6e00g8pk0os1hm8pzo" },
         {
           source: "AllAnime",
@@ -10107,7 +10107,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-254" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Njc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-254" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-254" },
         {
           source: "AllAnime",
           video:
@@ -10125,7 +10125,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-254" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-254" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-254" },
         { source: "Enime", video: "clftn6q5s00g7pk0oslz6r4zd" },
         {
           source: "AllAnime",
@@ -10147,7 +10147,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-255" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Njg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-255" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-255" },
         {
           source: "AllAnime",
           video:
@@ -10165,7 +10165,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-255" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-255" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-255" },
         { source: "Enime", video: "clftn6q5g00g6pk0ok3tv211t" },
         {
           source: "AllAnime",
@@ -10187,7 +10187,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-256" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Njk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-256" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-256" },
         {
           source: "AllAnime",
           video:
@@ -10205,7 +10205,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-256" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-256" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-256" },
         { source: "Enime", video: "clftn6q5500g5pk0o7peot6d0" },
         {
           source: "AllAnime",
@@ -10227,7 +10227,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-257" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-257" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-257" },
         {
           source: "AllAnime",
           video:
@@ -10245,7 +10245,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-257" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-257" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-257" },
         { source: "Enime", video: "clftn6q4v00g3pk0ondvaifhy" },
         {
           source: "AllAnime",
@@ -10267,7 +10267,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-258" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-258" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-258" },
         {
           source: "AllAnime",
           video:
@@ -10285,7 +10285,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-258" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0ODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-258" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-258" },
         { source: "Enime", video: "clftn6q4j00g1pk0o98o0r23i" },
         {
           source: "AllAnime",
@@ -10307,7 +10307,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-259" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-259" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-259" },
         {
           source: "AllAnime",
           video:
@@ -10325,7 +10325,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-259" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-259" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-259" },
         { source: "Enime", video: "clftn6q4a00fzpk0o82f79fcz" },
         {
           source: "AllAnime",
@@ -10347,7 +10347,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-260" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-260" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-260" },
         {
           source: "AllAnime",
           video:
@@ -10365,7 +10365,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-260" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-260" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-260" },
         { source: "Enime", video: "clftn6q4000fypk0o8xrslou0" },
         {
           source: "AllAnime",
@@ -10387,7 +10387,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-261" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-261" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-261" },
         {
           source: "AllAnime",
           video:
@@ -10405,7 +10405,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-261" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-261" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-261" },
         { source: "Enime", video: "clftn6q3p00fwpk0o5atefihx" },
         {
           source: "AllAnime",
@@ -10427,7 +10427,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-262" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-262" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-262" },
         {
           source: "AllAnime",
           video:
@@ -10445,7 +10445,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-262" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0OTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-262" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-262" },
         { source: "Enime", video: "clftn6q3f00fvpk0oh69nj9lh" },
         {
           source: "AllAnime",
@@ -10467,7 +10467,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-263" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3NzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-263" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-263" },
         {
           source: "AllAnime",
           video:
@@ -10485,7 +10485,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-263" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0OTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-263" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-263" },
         { source: "Enime", video: "clftn6q3600ftpk0ogkwgp2h0" },
         {
           source: "AllAnime",
@@ -10507,7 +10507,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-264" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-264" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-264" },
         {
           source: "AllAnime",
           video:
@@ -10525,7 +10525,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-264" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0OTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-264" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-264" },
         { source: "Enime", video: "clftn6q2z00fspk0o7m75zwtg" },
         {
           source: "AllAnime",
@@ -10547,7 +10547,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-265" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-265" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-265" },
         {
           source: "AllAnime",
           video:
@@ -10565,7 +10565,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-265" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU0OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-265" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-265" },
         { source: "Enime", video: "clftn6q2r00frpk0o2frphbns" },
         {
           source: "AllAnime",
@@ -10587,7 +10587,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-266" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-266" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-266" },
         {
           source: "AllAnime",
           video:
@@ -10605,7 +10605,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-266" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-266" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-266" },
         { source: "Enime", video: "clftn6q2j00fppk0olewa04w1" },
         {
           source: "AllAnime",
@@ -10627,7 +10627,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-267" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-267" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-267" },
         {
           source: "AllAnime",
           video:
@@ -10645,7 +10645,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-267" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-267" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-267" },
         { source: "Enime", video: "clftn6q2900fopk0ou23jnhiw" },
         {
           source: "AllAnime",
@@ -10667,7 +10667,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-268" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-268" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-268" },
         {
           source: "AllAnime",
           video:
@@ -10685,7 +10685,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-268" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-268" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-268" },
         { source: "Enime", video: "clftn6q2000fmpk0om53yqqc8" },
         {
           source: "AllAnime",
@@ -10707,7 +10707,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-269" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-269" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-269" },
         {
           source: "AllAnime",
           video:
@@ -10725,7 +10725,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-269" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-269" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-269" },
         { source: "Enime", video: "clftn6q1p00flpk0ovnyy4e73" },
         {
           source: "AllAnime",
@@ -10747,7 +10747,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-270" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-270" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-270" },
         {
           source: "AllAnime",
           video:
@@ -10765,7 +10765,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-270" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-270" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-270" },
         { source: "Enime", video: "clftn6q1g00fkpk0oqhqhf1sx" },
         {
           source: "AllAnime",
@@ -10787,7 +10787,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-271" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-271" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-271" },
         {
           source: "AllAnime",
           video:
@@ -10805,7 +10805,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-271" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-271" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-271" },
         { source: "Enime", video: "clftn6q1700fjpk0o8fditk9d" },
         {
           source: "AllAnime",
@@ -10827,7 +10827,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-272" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-272" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-272" },
         {
           source: "AllAnime",
           video:
@@ -10845,7 +10845,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-272" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-272" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-272" },
         { source: "Enime", video: "clftn6q0x00fipk0oyixege26" },
         {
           source: "AllAnime",
@@ -10867,7 +10867,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-273" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-273" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-273" },
         {
           source: "AllAnime",
           video:
@@ -10885,7 +10885,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-273" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-273" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-273" },
         { source: "Enime", video: "clftn6q0n00fhpk0osvxo785d" },
         {
           source: "AllAnime",
@@ -10907,7 +10907,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-274" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-274" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-274" },
         {
           source: "AllAnime",
           video:
@@ -10925,7 +10925,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-274" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-274" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-274" },
         { source: "Enime", video: "clftn6q0e00fgpk0ohdue96mz" },
         {
           source: "AllAnime",
@@ -10947,7 +10947,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-275" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-275" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-275" },
         {
           source: "AllAnime",
           video:
@@ -10965,7 +10965,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-275" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-275" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-275" },
         { source: "Enime", video: "clftn6q0500fepk0o22cz44ur" },
         {
           source: "AllAnime",
@@ -10987,7 +10987,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-276" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-276" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-276" },
         {
           source: "AllAnime",
           video:
@@ -11005,7 +11005,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-276" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-276" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-276" },
         { source: "Enime", video: "clftn6pzx00fdpk0o20brr4m9" },
         {
           source: "AllAnime",
@@ -11027,7 +11027,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-277" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-277" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-277" },
         {
           source: "AllAnime",
           video:
@@ -11045,7 +11045,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-277" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-277" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-277" },
         { source: "Enime", video: "clftn6pzn00fcpk0o3kc49a5g" },
         {
           source: "AllAnime",
@@ -11067,7 +11067,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-278" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-278" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-278" },
         {
           source: "AllAnime",
           video:
@@ -11085,7 +11085,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-278" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-278" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-278" },
         { source: "Enime", video: "clftn6pzd00fapk0oli7xexai" },
         {
           source: "AllAnime",
@@ -11107,7 +11107,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-279" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-279" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-279" },
         {
           source: "AllAnime",
           video:
@@ -11125,7 +11125,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-279" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-279" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-279" },
         { source: "Enime", video: "clftn6pz100f9pk0of5cuf2c8" },
         {
           source: "AllAnime",
@@ -11147,7 +11147,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-280" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-280" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-280" },
         {
           source: "AllAnime",
           video:
@@ -11165,7 +11165,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-280" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-280" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-280" },
         { source: "Enime", video: "clftn6pyf00f8pk0o48himxs9" },
         {
           source: "AllAnime",
@@ -11187,7 +11187,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-281" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-281" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-281" },
         {
           source: "AllAnime",
           video:
@@ -11205,7 +11205,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-281" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-281" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-281" },
         { source: "Enime", video: "clftn6py700f6pk0o251xg6jz" },
         {
           source: "AllAnime",
@@ -11227,7 +11227,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-282" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-282" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-282" },
         {
           source: "AllAnime",
           video:
@@ -11245,7 +11245,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-282" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1Mjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-282" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-282" },
         { source: "Enime", video: "clftn6pxz00f5pk0onm9flg90" },
         {
           source: "AllAnime",
@@ -11267,7 +11267,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-283" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-283" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-283" },
         {
           source: "AllAnime",
           video:
@@ -11285,7 +11285,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-283" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1Mjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-283" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-283" },
         { source: "Enime", video: "clftn6pxs00f4pk0oui2zn6xi" },
         {
           source: "AllAnime",
@@ -11307,7 +11307,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-284" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-284" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-284" },
         {
           source: "AllAnime",
           video:
@@ -11325,7 +11325,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-284" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1Mjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-284" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-284" },
         { source: "Enime", video: "clftn6pxk00f3pk0osfsdv934" },
         {
           source: "AllAnime",
@@ -11347,7 +11347,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-285" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-285" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-285" },
         {
           source: "AllAnime",
           video:
@@ -11365,7 +11365,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-285" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-285" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-285" },
         { source: "Enime", video: "clftn6pxc00f2pk0op20dtk7c" },
         {
           source: "AllAnime",
@@ -11387,7 +11387,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-286" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY3OTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-286" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-286" },
         {
           source: "AllAnime",
           video:
@@ -11405,7 +11405,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-286" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-286" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-286" },
         { source: "Enime", video: "clftn6px300f1pk0ote3i63y6" },
         {
           source: "AllAnime",
@@ -11427,7 +11427,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-287" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY4MDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-287" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-287" },
         {
           source: "AllAnime",
           video:
@@ -11445,7 +11445,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-287" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-287" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-287" },
         { source: "Enime", video: "clftn6pwv00f0pk0ozlv1anxw" },
         {
           source: "AllAnime",
@@ -11467,7 +11467,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-288" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY4MDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-288" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-288" },
         {
           source: "AllAnime",
           video:
@@ -11485,7 +11485,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-288" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1MzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-288" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-288" },
         { source: "Enime", video: "clftn6pwo00ezpk0os0ojzewf" },
         {
           source: "AllAnime",
@@ -11507,7 +11507,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-289" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY4MDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-289" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-289" },
         {
           source: "AllAnime",
           video:
@@ -11525,7 +11525,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-289" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1Mzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-289" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-289" },
         { source: "Enime", video: "clftn6pwf00expk0o3tqpeohg" },
         {
           source: "AllAnime",
@@ -11547,7 +11547,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-290" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY4MDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-290" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-290" },
         {
           source: "AllAnime",
           video:
@@ -11565,7 +11565,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-290" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1NDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-290" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-290" },
         { source: "Enime", video: "clftn6pw800evpk0ougpkdlf2" },
         {
           source: "AllAnime",
@@ -11587,7 +11587,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dub-episode-291" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzY4MDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-dub-episode-291" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-dub-episode-291" },
         {
           source: "AllAnime",
           video:
@@ -11605,7 +11605,7 @@ const dragonBallZ: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-episode-291" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTU1NDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-z-episode-291" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-episode-291" },
         { source: "Enime", video: "clftn6pvx00eupk0o7z04k1ls" },
         {
           source: "AllAnime",

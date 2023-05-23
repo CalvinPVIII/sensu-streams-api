@@ -13,22 +13,32 @@ export default class Scraper {
     ];
   }
 
-  static async enimeScrape(episodeId: string): Promise<file | Array<file>> {
-    const response = await axios.get(`${Scraper.proxy}https://api.consumet.org/anime/enime/watch?episodeId=${episodeId}`);
-    const output = response.data.sources.map((source: any) => ({
-      file: source.url,
-      label: source.quality,
-      type: "hls",
-    }));
+  static async enimeScrape(episodeId: string): Promise<file | Array<file> | string> {
+    try {
+      const response = await axios.get(`${Scraper.proxy}https://api.consumet.org/anime/enime/watch?episodeId=${episodeId}`);
+      const output = response.data.sources.map((source: any) => ({
+        file: source.url,
+        label: source.quality,
+        type: "hls",
+      }));
 
-    return output;
+      return output;
+    } catch (error) {
+      console.log(error);
+      return "Error";
+    }
   }
 
   static async gogoApiScrape(url: string): Promise<file | Array<file> | string> {
-    const response = await axios.get(Scraper.proxy + url);
-    if (response.data.sources) {
-      return response.data.sources;
-    } else {
+    try {
+      const response = await axios.get(Scraper.proxy + url);
+      if (response.data.sources) {
+        return response.data.sources;
+      } else {
+        return "Error";
+      }
+    } catch (error) {
+      console.log(error);
       return "Error";
     }
   }

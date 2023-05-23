@@ -15,7 +15,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-dub-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-dub-episode-1",
         },
       ],
       episodeLength: 3015.506,
@@ -34,7 +34,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-episode-1",
         },
       ],
       episodeLength: 3016.017,
@@ -56,7 +56,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-dub-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-dub-episode-1",
         },
       ],
       episodeLength: 2555.96,
@@ -75,7 +75,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-episode-1",
         },
       ],
       episodeLength: 2689,
@@ -97,7 +97,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-3-mystical-adventure-dub-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-3-mystical-adventure-dub-episode-1",
         },
       ],
       episodeLength: 2644.173,
@@ -116,7 +116,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-3-mystical-adventure-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-3-mystical-adventure-episode-1",
         },
       ],
       episodeLength: 2750,
@@ -138,7 +138,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-4-the-path-to-power-dub-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-4-the-path-to-power-dub-episode-1",
         },
       ],
       episodeLength: 4782.197,
@@ -157,7 +157,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-movie-4-the-path-to-power-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-4-the-path-to-power-episode-1",
         },
       ],
       episodeLength: 4776.949,

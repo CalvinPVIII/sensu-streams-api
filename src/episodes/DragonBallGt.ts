@@ -14,7 +14,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-1" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133815/dragon-ball-gt-dub-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -33,7 +33,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-1" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17634/dragon-ball-gt-episode-001" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-1" },
         { source: "Enime", video: "clfsz8dnj013qpkp6w7kq6xo4" },
         {
           source: "AllAnime",
@@ -56,7 +56,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-2" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133804/dragon-ball-gt-dub-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -75,7 +75,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-2" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17632/dragon-ball-gt-episode-002" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-2" },
         { source: "Enime", video: "clfsz8dnb013ppkp6zhvdazvn" },
         {
           source: "AllAnime",
@@ -98,7 +98,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-3" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133795/dragon-ball-gt-dub-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -117,7 +117,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-3" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17630/dragon-ball-gt-episode-003" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2Njk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-3" },
         { source: "Enime", video: "clfsz8dn3013npkp6vwx2cc9a" },
         {
           source: "AllAnime",
@@ -140,7 +140,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-4" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133787/dragon-ball-gt-dub-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -159,7 +159,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-4" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17628/dragon-ball-gt-episode-004" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-4" },
         { source: "Enime", video: "clfsz8dmw013mpkp6enhdjma4" },
         {
           source: "AllAnime",
@@ -182,7 +182,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-5" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133776/dragon-ball-gt-dub-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -201,7 +201,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-5" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17627/dragon-ball-gt-episode-005" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-5" },
         { source: "Enime", video: "clfsz8dmo013lpkp6w7sszf72" },
         {
           source: "AllAnime",
@@ -224,7 +224,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-6" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133767/dragon-ball-gt-dub-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -243,7 +243,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-6" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17626/dragon-ball-gt-episode-006" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2NzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-6" },
         { source: "Enime", video: "clfsz8dmg013kpkp6kdnaunto" },
         {
           source: "AllAnime",
@@ -266,7 +266,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-7" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133757/dragon-ball-gt-dub-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -285,7 +285,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-7" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17624/dragon-ball-gt-episode-007" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-7" },
         { source: "Enime", video: "clfsz8dm9013ipkp6nroujlce" },
         {
           source: "AllAnime",
@@ -308,7 +308,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-8" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133745/dragon-ball-gt-dub-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -327,7 +327,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-8" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17622/dragon-ball-gt-episode-008" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-8" },
         { source: "Enime", video: "clfsz8dm2013gpkp6o4zvsu6h" },
         {
           source: "AllAnime",
@@ -350,7 +350,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-9" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133735/dragon-ball-gt-dub-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -369,7 +369,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-9" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17619/dragon-ball-gt-episode-009" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-9" },
         { source: "Enime", video: "clfsz8dlv013epkp6emmsy430" },
         {
           source: "AllAnime",
@@ -392,7 +392,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-10" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133724/dragon-ball-gt-dub-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -411,7 +411,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-10" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17618/dragon-ball-gt-episode-010" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-10" },
         { source: "Enime", video: "clfsz8dlo013cpkp64wmozj7j" },
         {
           source: "AllAnime",
@@ -434,7 +434,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-11" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133712/dragon-ball-gt-dub-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -453,7 +453,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-11" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17616/dragon-ball-gt-episode-011" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-11" },
         { source: "Enime", video: "clfsz8dlg013apkp6qb2zx5nn" },
         {
           source: "AllAnime",
@@ -476,7 +476,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-12" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133701/dragon-ball-gt-dub-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -495,7 +495,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-12" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17614/dragon-ball-gt-episode-012" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-12" },
         { source: "Enime", video: "clfsz8dl90138pkp61j9e08ho" },
         {
           source: "AllAnime",
@@ -518,7 +518,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-13" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133688/dragon-ball-gt-dub-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -537,7 +537,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-13" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17612/dragon-ball-gt-episode-013" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-13" },
         { source: "Enime", video: "clfsz8dl10136pkp6whh5h4wa" },
         {
           source: "AllAnime",
@@ -560,7 +560,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-14" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133679/dragon-ball-gt-dub-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -579,7 +579,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-14" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17610/dragon-ball-gt-episode-014" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-14" },
         { source: "Enime", video: "clfsz8dkt0135pkp68y5vpzju" },
         {
           source: "AllAnime",
@@ -602,7 +602,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-15" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133667/dragon-ball-gt-dub-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-15" },
         {
           source: "AllAnime",
           video:
@@ -621,7 +621,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-15" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17608/dragon-ball-gt-episode-015" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-15" },
         { source: "Enime", video: "clfsz8dkl0133pkp68wm4tmtv" },
         {
           source: "AllAnime",
@@ -644,7 +644,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-16" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133654/dragon-ball-gt-dub-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -663,7 +663,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-16" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17606/dragon-ball-gt-episode-016" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-16" },
         { source: "Enime", video: "clfsz8dk80132pkp61h9ttrid" },
         {
           source: "AllAnime",
@@ -686,7 +686,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-17" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133632/dragon-ball-gt-dub-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -705,7 +705,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-17" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17603/dragon-ball-gt-episode-017" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-17" },
         { source: "Enime", video: "clfsz8dk00130pkp6cy0hf04p" },
         {
           source: "AllAnime",
@@ -728,7 +728,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-18" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133619/dragon-ball-gt-dub-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -747,7 +747,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-18" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17601/dragon-ball-gt-episode-018" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-18" },
         { source: "Enime", video: "clfsz8djs012ypkp6yqweqhap" },
         {
           source: "AllAnime",
@@ -770,7 +770,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-19" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133607/dragon-ball-gt-dub-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -789,7 +789,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-19" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17599/dragon-ball-gt-episode-019" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ2OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-19" },
         { source: "Enime", video: "clfsz8djk012wpkp6ed3gf7k4" },
         {
           source: "AllAnime",
@@ -812,7 +812,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-20" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133594/dragon-ball-gt-dub-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1MzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -831,7 +831,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-20" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17597/dragon-ball-gt-episode-020" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-20" },
         { source: "Enime", video: "clfsz8djc012vpkp63275q7vr" },
         {
           source: "AllAnime",
@@ -854,7 +854,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-21" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133582/dragon-ball-gt-dub-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -873,7 +873,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-21" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17595/dragon-ball-gt-episode-021" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-21" },
         { source: "Enime", video: "clfsz8dj4012tpkp61fx5zq2s" },
         {
           source: "AllAnime",
@@ -892,7 +892,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-22" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133568/dragon-ball-gt-dub-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -911,7 +911,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-22" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17593/dragon-ball-gt-episode-022" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-22" },
         { source: "Enime", video: "clfsz8diw012spkp6ehe8qgof" },
         {
           source: "AllAnime",
@@ -934,7 +934,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-23" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133556/dragon-ball-gt-dub-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Mzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -953,7 +953,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-23" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17591/dragon-ball-gt-episode-023" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-23" },
         { source: "Enime", video: "clfsz8dio012qpkp6grb0hgpk" },
         {
           source: "AllAnime",
@@ -976,7 +976,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-24" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133541/dragon-ball-gt-dub-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -995,7 +995,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-24" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17589/dragon-ball-gt-episode-024" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-24" },
         { source: "Enime", video: "clfsz8dif012ppkp67pdz8hqe" },
         {
           source: "AllAnime",
@@ -1018,7 +1018,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-25" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133526/dragon-ball-gt-dub-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -1037,7 +1037,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-25" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17587/dragon-ball-gt-episode-025" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-25" },
         { source: "Enime", video: "clfsz8di7012npkp61teo8bxj" },
         {
           source: "AllAnime",
@@ -1060,7 +1060,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-26" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133511/dragon-ball-gt-dub-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -1079,7 +1079,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-26" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17585/dragon-ball-gt-episode-026" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-26" },
         { source: "Enime", video: "clfsz8dhy012mpkp69s36sakz" },
         {
           source: "AllAnime",
@@ -1102,7 +1102,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-27" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133495/dragon-ball-gt-dub-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -1121,7 +1121,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-27" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17583/dragon-ball-gt-episode-027" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-27" },
         { source: "Enime", video: "clfsz8dhp012kpkp63dppfvvx" },
         {
           source: "AllAnime",
@@ -1144,7 +1144,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-28" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133478/dragon-ball-gt-dub-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -1163,7 +1163,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-28" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17580/dragon-ball-gt-episode-028" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-28" },
         { source: "Enime", video: "clfsz8dhh012ipkp6gk653md7" },
         {
           source: "AllAnime",
@@ -1186,7 +1186,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-29" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133461/dragon-ball-gt-dub-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -1205,7 +1205,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-29" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17578/dragon-ball-gt-episode-029" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-29" },
         { source: "Enime", video: "clfsz8dh8012hpkp65xry2mxu" },
         {
           source: "AllAnime",
@@ -1228,7 +1228,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-30" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133444/dragon-ball-gt-dub-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -1247,7 +1247,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-30" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17576/dragon-ball-gt-episode-030" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-30" },
         { source: "Enime", video: "clfsz8dgz012gpkp6kufz1a2k" },
         {
           source: "AllAnime",
@@ -1270,7 +1270,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-31" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133427/dragon-ball-gt-dub-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -1289,7 +1289,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-31" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17574/dragon-ball-gt-episode-031" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-31" },
         { source: "Enime", video: "clfsz8dgr012epkp6uwf4qmlj" },
         {
           source: "AllAnime",
@@ -1312,7 +1312,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-32" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133409/dragon-ball-gt-dub-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -1331,7 +1331,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-32" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17572/dragon-ball-gt-episode-032" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-32" },
         { source: "Enime", video: "clfsz8dgh012cpkp6k7w8z1gm" },
         {
           source: "AllAnime",
@@ -1354,7 +1354,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-33" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133385/dragon-ball-gt-dub-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -1373,7 +1373,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-33" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17570/dragon-ball-gt-episode-033" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3Mjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-33" },
         { source: "Enime", video: "clfsz8dg8012apkp6y7fukulu" },
         {
           source: "AllAnime",
@@ -1396,7 +1396,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-34" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133365/dragon-ball-gt-dub-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -1415,7 +1415,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-34" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17568/dragon-ball-gt-episode-034" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-34" },
         { source: "Enime", video: "clfsz8dfw0129pkp65txnmuso" },
         {
           source: "AllAnime",
@@ -1438,7 +1438,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-35" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133341/dragon-ball-gt-dub-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -1457,7 +1457,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-35" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17565/dragon-ball-gt-episode-035" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-35" },
         { source: "Enime", video: "clfsz8dfk0128pkp6qsrd51p4" },
         {
           source: "AllAnime",
@@ -1476,7 +1476,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-36" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133317/dragon-ball-gt-dub-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -1495,7 +1495,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-36" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17563/dragon-ball-gt-episode-036" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-36" },
         { source: "Enime", video: "clfsz8dfb0126pkp6cb7dsach" },
         {
           source: "AllAnime",
@@ -1518,7 +1518,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-37" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133287/dragon-ball-gt-dub-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -1537,7 +1537,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-37" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17561/dragon-ball-gt-episode-037" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3MzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-37" },
         { source: "Enime", video: "clfsz8df20125pkp6bp67b1q0" },
         {
           source: "AllAnime",
@@ -1560,7 +1560,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-38" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133257/dragon-ball-gt-dub-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -1579,7 +1579,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-38" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17559/dragon-ball-gt-episode-038" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3Mzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-38" },
         { source: "Enime", video: "clfsz8des0124pkp60dxhv5et" },
         {
           source: "AllAnime",
@@ -1602,7 +1602,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-39" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133224/dragon-ball-gt-dub-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -1621,7 +1621,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-39" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17557/dragon-ball-gt-episode-039" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-39" },
         { source: "Enime", video: "clfsz8deh0122pkp6jhfipkxh" },
         {
           source: "AllAnime",
@@ -1644,7 +1644,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-40" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133188/dragon-ball-gt-dub-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -1663,7 +1663,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-40" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17555/dragon-ball-gt-episode-040" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-40" },
         { source: "Enime", video: "clfsz8de40120pkp6ratfau5p" },
         {
           source: "AllAnime",
@@ -1686,7 +1686,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-41" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133150/dragon-ball-gt-dub-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -1705,7 +1705,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-41" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17553/dragon-ball-gt-episode-041" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-41" },
         { source: "Enime", video: "clfsz8ddr011zpkp63wxxkod0" },
         {
           source: "AllAnime",
@@ -1728,7 +1728,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-42" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133120/dragon-ball-gt-dub-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -1747,7 +1747,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-42" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17551/dragon-ball-gt-episode-042" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-42" },
         { source: "Enime", video: "clfsz8ddh011xpkp6em97nfix" },
         {
           source: "AllAnime",
@@ -1770,7 +1770,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-43" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133075/dragon-ball-gt-dub-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -1789,7 +1789,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-43" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17549/dragon-ball-gt-episode-043" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-43" },
         { source: "Enime", video: "clfsz8dd6011vpkp6iplji6jr" },
         {
           source: "AllAnime",
@@ -1812,7 +1812,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-44" },
         { source: "KimAnime", video: "https://kimanime.com/episode/133030/dragon-ball-gt-dub-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -1831,7 +1831,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-44" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17547/dragon-ball-gt-episode-044" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-44" },
         { source: "Enime", video: "clfsz8dcv011tpkp6v48cpmyi" },
         {
           source: "AllAnime",
@@ -1854,7 +1854,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-45" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132985/dragon-ball-gt-dub-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -1873,7 +1873,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-45" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17545/dragon-ball-gt-episode-045" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-45" },
         { source: "Enime", video: "clfsz8dcj011spkp6owiurc4v" },
         {
           source: "AllAnime",
@@ -1896,7 +1896,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-46" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132935/dragon-ball-gt-dub-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -1915,7 +1915,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-46" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17544/dragon-ball-gt-episode-046" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-46" },
         { source: "Enime", video: "clfsz8dca011qpkp6y02tpw8p" },
         {
           source: "AllAnime",
@@ -1938,7 +1938,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-47" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132876/dragon-ball-gt-dub-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -1957,7 +1957,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-47" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17542/dragon-ball-gt-episode-047" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-47" },
         { source: "Enime", video: "clfsz8dc0011ppkp62x3okgnh" },
         {
           source: "AllAnime",
@@ -1980,7 +1980,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-48" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132814/dragon-ball-gt-dub-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -1999,7 +1999,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-48" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17540/dragon-ball-gt-episode-048" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-48" },
         { source: "Enime", video: "clfsz8dbo011opkp6o3p0qywj" },
         {
           source: "AllAnime",
@@ -2022,7 +2022,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-49" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132751/dragon-ball-gt-dub-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -2041,7 +2041,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-49" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17538/dragon-ball-gt-episode-049" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3NzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-49" },
         { source: "Enime", video: "clfsz8db8011npkp6dre5wwnu" },
         {
           source: "AllAnime",
@@ -2064,7 +2064,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-50" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132684/dragon-ball-gt-dub-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -2083,7 +2083,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-50" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17537/dragon-ball-gt-episode-050" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-50" },
         { source: "Enime", video: "clfsz8dav011mpkp6dh98eth3" },
         {
           source: "AllAnime",
@@ -2106,7 +2106,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-51" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132612/dragon-ball-gt-dub-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Njc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -2125,7 +2125,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-51" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17534/dragon-ball-gt-episode-051" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-51" },
         { source: "Enime", video: "clfsz8dah011kpkp6h34nqb5g" },
         {
           source: "AllAnime",
@@ -2148,7 +2148,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-52" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132516/dragon-ball-gt-dub-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Njg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -2167,7 +2167,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-52" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17532/dragon-ball-gt-episode-052" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-52" },
         { source: "Enime", video: "clfsz8da0011ipkp6ujdqxcnb" },
         {
           source: "AllAnime",
@@ -2190,7 +2190,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-53" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132415/dragon-ball-gt-dub-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Njk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -2209,7 +2209,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-53" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17530/dragon-ball-gt-episode-053" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-53" },
         { source: "Enime", video: "clfsz8d9s011hpkp6xajbm3md" },
         {
           source: "AllAnime",
@@ -2232,7 +2232,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-54" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132311/dragon-ball-gt-dub-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -2251,7 +2251,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-54" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17528/dragon-ball-gt-episode-054" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-54" },
         { source: "Enime", video: "clfsz8d9j011gpkp6o9vfp7t8" },
         {
           source: "AllAnime",
@@ -2274,7 +2274,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-55" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132203/dragon-ball-gt-dub-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -2293,7 +2293,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-55" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17526/dragon-ball-gt-episode-055" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-55" },
         { source: "Enime", video: "clfsz8d9b011epkp68clgjvia" },
         {
           source: "AllAnime",
@@ -2316,7 +2316,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-56" },
         { source: "KimAnime", video: "https://kimanime.com/episode/132098/dragon-ball-gt-dub-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -2335,7 +2335,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-56" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17524/dragon-ball-gt-episode-056" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-56" },
         { source: "Enime", video: "clfsz8d8t011dpkp6a7uplek7" },
         {
           source: "AllAnime",
@@ -2358,7 +2358,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-57" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131986/dragon-ball-gt-dub-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -2377,7 +2377,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-57" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17522/dragon-ball-gt-episode-057" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-57" },
         { source: "Enime", video: "clfsz8d8l011bpkp6bgg5pbp1" },
         {
           source: "AllAnime",
@@ -2400,7 +2400,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-58" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131874/dragon-ball-gt-dub-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -2419,7 +2419,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-58" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17520/dragon-ball-gt-episode-058" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ3OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-58" },
         { source: "Enime", video: "clfsz8d8c011apkp6ueqooj47" },
         {
           source: "AllAnime",
@@ -2442,7 +2442,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-59" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131764/dragon-ball-gt-dub-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -2461,7 +2461,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-59" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17519/dragon-ball-gt-episode-059" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-59" },
         { source: "Enime", video: "clfsz8d840119pkp6ljn4lwrq" },
         {
           source: "AllAnime",
@@ -2484,7 +2484,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-60" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131657/dragon-ball-gt-dub-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1NzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -2503,7 +2503,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-60" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17517/dragon-ball-gt-episode-060" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-60" },
         { source: "Enime", video: "clfsz8d7u0118pkp6wsa3bu2o" },
         {
           source: "AllAnime",
@@ -2526,7 +2526,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-61" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131559/dragon-ball-gt-dub-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -2545,7 +2545,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-61" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17516/dragon-ball-gt-episode-061" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-61" },
         { source: "Enime", video: "clfsz8d7k0117pkp6tkqwafu5" },
         {
           source: "AllAnime",
@@ -2568,7 +2568,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-62" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131460/dragon-ball-gt-dub-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -2587,7 +2587,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-62" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17514/dragon-ball-gt-episode-062" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-62" },
         { source: "Enime", video: "clfsz8d7a0115pkp6wtfgzbx3" },
         {
           source: "AllAnime",
@@ -2610,7 +2610,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-63" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131345/dragon-ball-gt-dub-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -2629,7 +2629,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-63" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17512/dragon-ball-gt-episode-063" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-63" },
         { source: "Enime", video: "clfsz8d710113pkp6lsio6xsw" },
         {
           source: "AllAnime",
@@ -2652,7 +2652,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-dub-episode-64" },
         { source: "KimAnime", video: "https://kimanime.com/episode/131231/dragon-ball-gt-dub-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-dub-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-dub-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -2671,7 +2671,7 @@ const dragonBallGt: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-gt-episode-64" },
         { source: "KimAnime", video: "https://kimanime.com/episode/17510/dragon-ball-gt-episode-064" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQ4MDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-gt-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-gt-episode-64" },
         { source: "Enime", video: "clfsz8d6b0111pkp60227xr24" },
         {
           source: "AllAnime",

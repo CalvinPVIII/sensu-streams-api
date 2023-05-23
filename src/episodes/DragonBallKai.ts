@@ -13,7 +13,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-1" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -31,7 +31,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-1" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -52,7 +52,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-2" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -70,7 +70,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-2" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -91,7 +91,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-3" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -109,7 +109,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-3" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -130,7 +130,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-4" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -148,7 +148,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-4" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -169,7 +169,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-5" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -187,7 +187,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-5" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -208,7 +208,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-6" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -226,7 +226,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-6" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -247,7 +247,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-7" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -265,7 +265,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-7" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -286,7 +286,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-8" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -304,7 +304,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-8" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -325,7 +325,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-9" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -343,7 +343,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-9" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -364,7 +364,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-10" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -382,7 +382,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-10" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -403,7 +403,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-11" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -421,7 +421,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-11" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -442,7 +442,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-12" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -460,7 +460,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-12" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -481,7 +481,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-13" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -499,7 +499,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-13" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -520,7 +520,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-14" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -538,7 +538,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-14" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -559,7 +559,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-15" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-15" },
         {
           source: "AllAnime",
           video:
@@ -577,7 +577,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-15" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-15" },
         {
           source: "AllAnime",
           video:
@@ -598,7 +598,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-16" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -616,7 +616,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-16" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -637,7 +637,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-17" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -655,7 +655,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-17" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -676,7 +676,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-18" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -694,7 +694,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-18" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -715,7 +715,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-19" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -733,7 +733,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-19" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -754,7 +754,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-20" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -772,7 +772,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-20" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -793,7 +793,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-21" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -811,7 +811,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-21" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -832,7 +832,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-22" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -850,7 +850,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-22" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -871,7 +871,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-23" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -889,7 +889,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-23" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -910,7 +910,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-24" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -928,7 +928,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-24" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -949,7 +949,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-25" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -967,7 +967,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-25" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -988,7 +988,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-26" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -1006,7 +1006,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-26" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -1027,7 +1027,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-27" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -1045,7 +1045,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-27" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -1066,7 +1066,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-28" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -1084,7 +1084,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-28" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -1105,7 +1105,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-29" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -1118,7 +1118,7 @@ const dragonBallKai: series = {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-29" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/jsonundefined" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -1139,7 +1139,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-30" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -1157,7 +1157,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-30" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -1178,7 +1178,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-31" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -1196,7 +1196,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-31" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -1217,7 +1217,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-32" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -1235,7 +1235,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-32" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -1256,7 +1256,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-33" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -1274,7 +1274,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-33" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -1295,7 +1295,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-34" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -1313,7 +1313,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-34" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -1334,7 +1334,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-35" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -1352,7 +1352,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-35" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -1373,7 +1373,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-36" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -1391,7 +1391,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-36" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -1412,7 +1412,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-37" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -1430,7 +1430,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-37" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -1451,7 +1451,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-38" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -1469,7 +1469,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-38" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -1490,7 +1490,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-39" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -1508,7 +1508,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-39" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -1529,7 +1529,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-40" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -1547,7 +1547,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-40" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -1568,7 +1568,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-41" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -1586,7 +1586,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-41" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -1607,7 +1607,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-42" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -1625,7 +1625,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-42" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -1646,7 +1646,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-43" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -1664,7 +1664,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-43" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -1685,7 +1685,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-44" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -1703,7 +1703,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-44" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -1724,7 +1724,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-45" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -1742,7 +1742,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-45" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -1763,7 +1763,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-46" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -1781,7 +1781,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-46" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -1802,7 +1802,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-47" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -1820,7 +1820,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-47" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -1841,7 +1841,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-48" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -1859,7 +1859,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-48" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -1880,7 +1880,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-49" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -1898,7 +1898,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-49" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -1919,7 +1919,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-50" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -1937,7 +1937,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-50" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -1958,7 +1958,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-51" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -1976,7 +1976,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-51" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -1997,7 +1997,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-52" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -2015,7 +2015,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-52" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -2036,7 +2036,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-53" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -2054,7 +2054,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-53" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -2075,7 +2075,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-54" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -2093,7 +2093,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-54" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -2114,7 +2114,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-55" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -2132,7 +2132,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-55" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -2153,7 +2153,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-56" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -2171,7 +2171,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-56" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -2187,7 +2187,7 @@ const dragonBallKai: series = {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-57" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/jsonundefined" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -2205,7 +2205,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-57" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -2226,7 +2226,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-58" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -2244,7 +2244,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-58" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -2265,7 +2265,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-59" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -2283,7 +2283,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-59" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -2304,7 +2304,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-60" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -2322,7 +2322,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-60" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -2343,7 +2343,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-61" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -2361,7 +2361,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-61" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -2382,7 +2382,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-62" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -2400,7 +2400,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-62" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -2421,7 +2421,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-63" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -2439,7 +2439,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-63" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -2460,7 +2460,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-64" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -2478,7 +2478,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-64" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -2499,7 +2499,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-65" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-65" },
         {
           source: "AllAnime",
           video:
@@ -2517,7 +2517,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-65" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-65" },
         {
           source: "AllAnime",
           video:
@@ -2538,7 +2538,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-66" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-66" },
         {
           source: "AllAnime",
           video:
@@ -2556,7 +2556,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-66" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-66" },
         {
           source: "AllAnime",
           video:
@@ -2577,7 +2577,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-67" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-67" },
         {
           source: "AllAnime",
           video:
@@ -2595,7 +2595,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-67" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-67" },
         {
           source: "AllAnime",
           video:
@@ -2616,7 +2616,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-68" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-68" },
         {
           source: "AllAnime",
           video:
@@ -2634,7 +2634,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-68" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-68" },
         {
           source: "AllAnime",
           video:
@@ -2655,7 +2655,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-69" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-69" },
         {
           source: "AllAnime",
           video:
@@ -2673,7 +2673,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-69" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-69" },
         {
           source: "AllAnime",
           video:
@@ -2694,7 +2694,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-70" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-70" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-70" },
         {
           source: "AllAnime",
           video:
@@ -2712,7 +2712,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-70" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-70" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-70" },
         {
           source: "AllAnime",
           video:
@@ -2733,7 +2733,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-71" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-71" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-71" },
         {
           source: "AllAnime",
           video:
@@ -2751,7 +2751,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-71" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-71" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-71" },
         {
           source: "AllAnime",
           video:
@@ -2772,7 +2772,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-72" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-72" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-72" },
         {
           source: "AllAnime",
           video:
@@ -2790,7 +2790,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-72" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-72" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-72" },
         {
           source: "AllAnime",
           video:
@@ -2811,7 +2811,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-73" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-73" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-73" },
         {
           source: "AllAnime",
           video:
@@ -2829,7 +2829,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-73" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-73" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-73" },
         {
           source: "AllAnime",
           video:
@@ -2850,7 +2850,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-74" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-74" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-74" },
         {
           source: "AllAnime",
           video:
@@ -2868,7 +2868,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-74" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-74" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-74" },
         {
           source: "AllAnime",
           video:
@@ -2889,7 +2889,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-75" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-75" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-75" },
         {
           source: "AllAnime",
           video:
@@ -2907,7 +2907,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-75" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-75" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-75" },
         {
           source: "AllAnime",
           video:
@@ -2928,7 +2928,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-76" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-76" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-76" },
         {
           source: "AllAnime",
           video:
@@ -2946,7 +2946,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-76" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-76" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-76" },
         {
           source: "AllAnime",
           video:
@@ -2967,7 +2967,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-77" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-77" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-77" },
         {
           source: "AllAnime",
           video:
@@ -2985,7 +2985,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-77" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-77" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-77" },
         {
           source: "AllAnime",
           video:
@@ -3006,7 +3006,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-78" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-78" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-78" },
         {
           source: "AllAnime",
           video:
@@ -3024,7 +3024,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-78" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMDA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-78" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-78" },
         {
           source: "AllAnime",
           video:
@@ -3045,7 +3045,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-79" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-79" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-79" },
         {
           source: "AllAnime",
           video:
@@ -3063,7 +3063,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-79" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-79" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-79" },
         {
           source: "AllAnime",
           video:
@@ -3084,7 +3084,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-80" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-80" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-80" },
         {
           source: "AllAnime",
           video:
@@ -3102,7 +3102,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-80" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-80" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-80" },
         {
           source: "AllAnime",
           video:
@@ -3123,7 +3123,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-81" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-81" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-81" },
         {
           source: "AllAnime",
           video:
@@ -3141,7 +3141,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-81" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-81" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-81" },
         {
           source: "AllAnime",
           video:
@@ -3162,7 +3162,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-82" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-82" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-82" },
         {
           source: "AllAnime",
           video:
@@ -3180,7 +3180,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-82" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-82" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-82" },
         {
           source: "AllAnime",
           video:
@@ -3201,7 +3201,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-83" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-83" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-83" },
         {
           source: "AllAnime",
           video:
@@ -3219,7 +3219,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-83" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-83" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-83" },
         {
           source: "AllAnime",
           video:
@@ -3240,7 +3240,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-84" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-84" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-84" },
         {
           source: "AllAnime",
           video:
@@ -3258,7 +3258,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-84" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-84" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-84" },
         {
           source: "AllAnime",
           video:
@@ -3279,7 +3279,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-85" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-85" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-85" },
         {
           source: "AllAnime",
           video:
@@ -3297,7 +3297,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-85" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-85" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-85" },
         {
           source: "AllAnime",
           video:
@@ -3318,7 +3318,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-86" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-86" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-86" },
         {
           source: "AllAnime",
           video:
@@ -3336,7 +3336,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-86" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-86" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-86" },
         {
           source: "AllAnime",
           video:
@@ -3357,7 +3357,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-87" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-87" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-87" },
         {
           source: "AllAnime",
           video:
@@ -3375,7 +3375,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-87" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-87" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-87" },
         {
           source: "AllAnime",
           video:
@@ -3396,7 +3396,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-88" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-88" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-88" },
         {
           source: "AllAnime",
           video:
@@ -3414,7 +3414,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-88" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-88" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-88" },
         {
           source: "AllAnime",
           video:
@@ -3435,7 +3435,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-89" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-89" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-89" },
         {
           source: "AllAnime",
           video:
@@ -3453,7 +3453,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-89" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-89" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-89" },
         {
           source: "AllAnime",
           video:
@@ -3474,7 +3474,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-90" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-90" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-90" },
         {
           source: "AllAnime",
           video:
@@ -3492,7 +3492,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-90" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-90" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-90" },
         {
           source: "AllAnime",
           video:
@@ -3513,7 +3513,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-91" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-91" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-91" },
         {
           source: "AllAnime",
           video:
@@ -3531,7 +3531,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-91" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-91" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-91" },
         {
           source: "AllAnime",
           video:
@@ -3552,7 +3552,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-92" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjM=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-92" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-92" },
         {
           source: "AllAnime",
           video:
@@ -3570,7 +3570,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-92" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-92" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-92" },
         {
           source: "AllAnime",
           video:
@@ -3591,7 +3591,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-93" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjQ=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-93" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-93" },
         {
           source: "AllAnime",
           video:
@@ -3609,7 +3609,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-93" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-93" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-93" },
         {
           source: "AllAnime",
           video:
@@ -3630,7 +3630,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-94" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-94" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-94" },
         {
           source: "AllAnime",
           video:
@@ -3648,7 +3648,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-94" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzA=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-94" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-94" },
         {
           source: "AllAnime",
           video:
@@ -3669,7 +3669,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-95" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjY=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-95" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-95" },
         {
           source: "AllAnime",
           video:
@@ -3687,7 +3687,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-95" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzI=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-95" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-95" },
         {
           source: "AllAnime",
           video:
@@ -3708,7 +3708,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-96" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjc=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-96" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-96" },
         {
           source: "AllAnime",
           video:
@@ -3726,7 +3726,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-96" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzU=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-96" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-96" },
         {
           source: "AllAnime",
           video:
@@ -3747,7 +3747,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-97" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-97" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-97" },
         {
           source: "AllAnime",
           video:
@@ -3765,7 +3765,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-97" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzg=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-97" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-97" },
         {
           source: "AllAnime",
           video:
@@ -3786,7 +3786,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-98" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjk=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-dub-episode-98" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-98" },
       ],
       episodeLength: 1387.177426,
     },
@@ -3799,7 +3799,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-98" },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxODE=" },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-episode-98" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-98" },
       ],
       episodeLength: 1387.094015,
     },
@@ -3815,7 +3815,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd4IiwidGltZXN0YW1wIjoxNjQ3NDEwNDY1MzY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ2NX0.yGlr8PYy4t5tNgWFERLwaZMJ_g9cJayiFcJ7TyqAeaI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -3833,7 +3833,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd4IiwidGltZXN0YW1wIjoxNjQ3NDEwNDY1MzY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ2NX0.yGlr8PYy4t5tNgWFERLwaZMJ_g9cJayiFcJ7TyqAeaI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-1" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-1" },
         {
           source: "AllAnime",
           video:
@@ -3854,7 +3854,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd5IiwidGltZXN0YW1wIjoxNjQ3NDEwNDc2MDM1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ3Nn0.elc_QzcvhXWn5BaJLVZxgyFfmfMMTI7Lkkyc4RqAN50",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -3872,7 +3872,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd5IiwidGltZXN0YW1wIjoxNjQ3NDEwNDc2MDM1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ3Nn0.elc_QzcvhXWn5BaJLVZxgyFfmfMMTI7Lkkyc4RqAN50",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-2" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-2" },
         {
           source: "AllAnime",
           video:
@@ -3893,7 +3893,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd6IiwidGltZXN0YW1wIjoxNjQ3NDEwNDg1NTU1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ4NX0.baVjFLzfFjGWncSKkBsggPFFnBCIN3yFSLzRORjdo7I",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -3911,7 +3911,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGd6IiwidGltZXN0YW1wIjoxNjQ3NDEwNDg1NTU1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ4NX0.baVjFLzfFjGWncSKkBsggPFFnBCIN3yFSLzRORjdo7I",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-3" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-3" },
         {
           source: "AllAnime",
           video:
@@ -3932,7 +3932,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcwIiwidGltZXN0YW1wIjoxNjQ3NDEwNDk1MTQ3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ5NX0.3cmIKW3tWHpAwdh4RqehKwGFeMJkdfhZSUGTizDhLNc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -3950,7 +3950,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcwIiwidGltZXN0YW1wIjoxNjQ3NDEwNDk1MTQ3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDQ5NX0.3cmIKW3tWHpAwdh4RqehKwGFeMJkdfhZSUGTizDhLNc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-4" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-4" },
         {
           source: "AllAnime",
           video:
@@ -3971,7 +3971,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcxIiwidGltZXN0YW1wIjoxNjQ3NDEwNTA0NTE1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUwNH0.WgU9dRPIZti46EUSc-xAmT5l24i30bpLnmzEATM8fqg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -3989,7 +3989,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcxIiwidGltZXN0YW1wIjoxNjQ3NDEwNTA0NTE1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUwNH0.WgU9dRPIZti46EUSc-xAmT5l24i30bpLnmzEATM8fqg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-5" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-5" },
         {
           source: "AllAnime",
           video:
@@ -4010,7 +4010,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcyIiwidGltZXN0YW1wIjoxNjQ3NDEwNTE1ODM4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUxNX0.SQqTeJkymqqyXmNvDgvlFMn4iWkuXLpl_3RkWkPlnxk",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -4028,7 +4028,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGcyIiwidGltZXN0YW1wIjoxNjQ3NDEwNTE1ODM4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUxNX0.SQqTeJkymqqyXmNvDgvlFMn4iWkuXLpl_3RkWkPlnxk",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-6" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-6" },
         {
           source: "AllAnime",
           video:
@@ -4049,7 +4049,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGczIiwidGltZXN0YW1wIjoxNjQ3NDEwNTI1NjQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUyNX0.cHPz-EMly51-_gKJ5SJf5mAyfjbQfyYaUKxol6VXZnI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -4067,7 +4067,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGczIiwidGltZXN0YW1wIjoxNjQ3NDEwNTI1NjQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUyNX0.cHPz-EMly51-_gKJ5SJf5mAyfjbQfyYaUKxol6VXZnI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-7" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-7" },
         {
           source: "AllAnime",
           video:
@@ -4088,7 +4088,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc0IiwidGltZXN0YW1wIjoxNjQ3NDEwNTM0OTEyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUzNH0.-gIvIK0JOU5PNlCX9pBgLu1FIbCHJ1UhjAxaHKrGnmI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -4106,7 +4106,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc0IiwidGltZXN0YW1wIjoxNjQ3NDEwNTM0OTEyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDUzNH0.-gIvIK0JOU5PNlCX9pBgLu1FIbCHJ1UhjAxaHKrGnmI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-8" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-8" },
         {
           source: "AllAnime",
           video:
@@ -4127,7 +4127,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc1IiwidGltZXN0YW1wIjoxNjQ3NDEwNTQ2MTcyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU0Nn0.6a_PM7pghaRgBBTI3LBkVhOyywGnv6lU7vjJ4OGg8KU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -4145,7 +4145,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGc1IiwidGltZXN0YW1wIjoxNjQ3NDEwNTQ2MTcyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU0Nn0.6a_PM7pghaRgBBTI3LBkVhOyywGnv6lU7vjJ4OGg8KU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-9" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-9" },
         {
           source: "AllAnime",
           video:
@@ -4166,7 +4166,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt3IiwidGltZXN0YW1wIjoxNjQ3NDEwNTU2MDY4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU1Nn0.G6f8jGGWafFFRfXr4uNnFCa1ZH5HiiKwJJYbkJ_mjUU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -4184,7 +4184,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt3IiwidGltZXN0YW1wIjoxNjQ3NDEwNTU2MDY4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU1Nn0.G6f8jGGWafFFRfXr4uNnFCa1ZH5HiiKwJJYbkJ_mjUU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-10" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-10" },
         {
           source: "AllAnime",
           video:
@@ -4205,7 +4205,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt4IiwidGltZXN0YW1wIjoxNjQ3NDEwNTY1OTA0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU2NX0.zbzhza-PkqZr24-JJWcw3Bq3kOAHP17XphXORj0we0E",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -4223,7 +4223,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt4IiwidGltZXN0YW1wIjoxNjQ3NDEwNTY1OTA0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU2NX0.zbzhza-PkqZr24-JJWcw3Bq3kOAHP17XphXORj0we0E",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-11" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-11" },
         {
           source: "AllAnime",
           video:
@@ -4244,7 +4244,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt5IiwidGltZXN0YW1wIjoxNjQ3NDEwNTc1NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU3NX0.PATlx8Tb2s7FxsPct6n7Jx2QB-rPxwvnklfA8mQ0KAo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -4262,7 +4262,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt5IiwidGltZXN0YW1wIjoxNjQ3NDEwNTc1NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU3NX0.PATlx8Tb2s7FxsPct6n7Jx2QB-rPxwvnklfA8mQ0KAo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-12" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-12" },
         {
           source: "AllAnime",
           video:
@@ -4283,7 +4283,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt6IiwidGltZXN0YW1wIjoxNjQ3NDEwNTg1MTk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU4NX0.Y9MsBELmUAqb8YwOR7j-SjAK5ZM5icelgne0jOrF8sc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -4301,7 +4301,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGt6IiwidGltZXN0YW1wIjoxNjQ3NDEwNTg1MTk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU4NX0.Y9MsBELmUAqb8YwOR7j-SjAK5ZM5icelgne0jOrF8sc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-13" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-13" },
         {
           source: "AllAnime",
           video:
@@ -4322,7 +4322,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGswIiwidGltZXN0YW1wIjoxNjQ3NDEwNTk0NjU4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU5NH0.OaASWfjPnRZ_mLsht8M4YzMi8LmKIClVJDkAwphiMPk",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -4340,7 +4340,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGswIiwidGltZXN0YW1wIjoxNjQ3NDEwNTk0NjU4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDU5NH0.OaASWfjPnRZ_mLsht8M4YzMi8LmKIClVJDkAwphiMPk",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-14" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-14" },
         {
           source: "AllAnime",
           video:
@@ -4361,7 +4361,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsxIiwidGltZXN0YW1wIjoxNjQ3NDEwNjA1MjQwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYwNX0.X_Q6e8ZHX3KDyZHmtZC3db1TPotjjnqkfeNo8O-RrDw",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-15" },
         {
           source: "AllAnime",
           video:
@@ -4379,7 +4379,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsxIiwidGltZXN0YW1wIjoxNjQ3NDEwNjA1MjQwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYwNX0.X_Q6e8ZHX3KDyZHmtZC3db1TPotjjnqkfeNo8O-RrDw",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-15" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-15" },
         // { source: "AllAnime", video: "error" },
       ],
       episodeLength: 1387.094024,
@@ -4396,7 +4396,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsyIiwidGltZXN0YW1wIjoxNjQ3NDEwNjE1NDc2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYxNX0.ipdzT0ZhwLQhVCJU9Byb9niLdmDLivugB5pojCHH_vQ",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -4414,7 +4414,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGsyIiwidGltZXN0YW1wIjoxNjQ3NDEwNjE1NDc2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYxNX0.ipdzT0ZhwLQhVCJU9Byb9niLdmDLivugB5pojCHH_vQ",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-16" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-16" },
         {
           source: "AllAnime",
           video:
@@ -4435,7 +4435,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGszIiwidGltZXN0YW1wIjoxNjQ3NDEwNjI0ODA1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYyNH0.1n6yjf1itZNQ3C_Xcs8mSnMInilAiEWUoAavBqk3M0M",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -4453,7 +4453,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGszIiwidGltZXN0YW1wIjoxNjQ3NDEwNjI0ODA1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYyNH0.1n6yjf1itZNQ3C_Xcs8mSnMInilAiEWUoAavBqk3M0M",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-17" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-17" },
         {
           source: "AllAnime",
           video:
@@ -4474,7 +4474,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs0IiwidGltZXN0YW1wIjoxNjQ3NDEwNjM0NDAzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYzNH0.Ky_Vwf96PKMc4CtCIkx0exGxGMZossvxs7sevy4wAic",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -4492,7 +4492,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs0IiwidGltZXN0YW1wIjoxNjQ3NDEwNjM0NDAzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDYzNH0.Ky_Vwf96PKMc4CtCIkx0exGxGMZossvxs7sevy4wAic",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-18" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-18" },
         {
           source: "AllAnime",
           video:
@@ -4513,7 +4513,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs1IiwidGltZXN0YW1wIjoxNjQ3NDEwNjQ0NjIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY0NH0.FbGkTdvvhbBtdhwTV9UWjMhVdgiZ4o-EC-X3Yik2gh4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -4531,7 +4531,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXhPVGs1IiwidGltZXN0YW1wIjoxNjQ3NDEwNjQ0NjIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY0NH0.FbGkTdvvhbBtdhwTV9UWjMhVdgiZ4o-EC-X3Yik2gh4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-19" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-19" },
         {
           source: "AllAnime",
           video:
@@ -4552,7 +4552,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF3IiwidGltZXN0YW1wIjoxNjQ3NDEwNjU0NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY1NH0.eBBsZOaAYyRGKHolN6zRHx8S1LG93WCSb6xGD7MLyPo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -4570,7 +4570,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF3IiwidGltZXN0YW1wIjoxNjQ3NDEwNjU0NjQ2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY1NH0.eBBsZOaAYyRGKHolN6zRHx8S1LG93WCSb6xGD7MLyPo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-20" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-20" },
         {
           source: "AllAnime",
           video:
@@ -4591,7 +4591,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF4IiwidGltZXN0YW1wIjoxNjQ3NDEwNjYzOTI0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY2M30.afHRjWoM7ydkG5_LUU9S9vPDF55HI9ionpkZAJaUKBw",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -4609,7 +4609,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF4IiwidGltZXN0YW1wIjoxNjQ3NDEwNjYzOTI0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY2M30.afHRjWoM7ydkG5_LUU9S9vPDF55HI9ionpkZAJaUKBw",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-21" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-21" },
         {
           source: "AllAnime",
           video:
@@ -4630,7 +4630,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF5IiwidGltZXN0YW1wIjoxNjQ3NDEwNjczOTkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY3M30.MRadqBNiL2VKaxfnPgXXOug3V46DkbDFRfwpQqx-EL4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -4648,7 +4648,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF5IiwidGltZXN0YW1wIjoxNjQ3NDEwNjczOTkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY3M30.MRadqBNiL2VKaxfnPgXXOug3V46DkbDFRfwpQqx-EL4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-22" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-22" },
         {
           source: "AllAnime",
           video:
@@ -4669,7 +4669,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF6IiwidGltZXN0YW1wIjoxNjQ3NDEwNjgzNDYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY4M30.jQ_2I1RR9CdVKatLuyr5XvKJlEFN0CcectAvZz6Off0",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -4687,7 +4687,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREF6IiwidGltZXN0YW1wIjoxNjQ3NDEwNjgzNDYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY4M30.jQ_2I1RR9CdVKatLuyr5XvKJlEFN0CcectAvZz6Off0",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-23" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-23" },
         {
           source: "AllAnime",
           video:
@@ -4708,7 +4708,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEwIiwidGltZXN0YW1wIjoxNjQ3NDEwNjkyNzg5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY5Mn0.VIiKP--8Sy8wKEWhxfoRqAKYTlg4-NVm1DLeWY3t6D0",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -4726,7 +4726,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEwIiwidGltZXN0YW1wIjoxNjQ3NDEwNjkyNzg5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDY5Mn0.VIiKP--8Sy8wKEWhxfoRqAKYTlg4-NVm1DLeWY3t6D0",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-24" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-24" },
         {
           source: "AllAnime",
           video:
@@ -4747,7 +4747,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREExIiwidGltZXN0YW1wIjoxNjQ3NDEwNzA0MjM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcwNH0.m_CfLc6PS9cn62oAYjTlj-qci5_uUv5QIvU8gpc-Ahc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -4765,7 +4765,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREExIiwidGltZXN0YW1wIjoxNjQ3NDEwNzA0MjM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcwNH0.m_CfLc6PS9cn62oAYjTlj-qci5_uUv5QIvU8gpc-Ahc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-25" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-25" },
         {
           source: "AllAnime",
           video:
@@ -4786,7 +4786,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEyIiwidGltZXN0YW1wIjoxNjQ3NDEwNzEzOTQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcxM30.q2tCXtxggBAIVj1KhNLw7UbmKuVxh-jW_Wp0Sd1MT5g",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -4804,7 +4804,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEyIiwidGltZXN0YW1wIjoxNjQ3NDEwNzEzOTQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcxM30.q2tCXtxggBAIVj1KhNLw7UbmKuVxh-jW_Wp0Sd1MT5g",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-26" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-26" },
         {
           source: "AllAnime",
           video:
@@ -4825,7 +4825,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEzIiwidGltZXN0YW1wIjoxNjQ3NDEwNzI0MDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcyNH0.M6NJgdtyogvqCTrDK8U0h2rN_jQT1jmWwBJI2MkVMfw",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -4843,7 +4843,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREEzIiwidGltZXN0YW1wIjoxNjQ3NDEwNzI0MDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDcyNH0.M6NJgdtyogvqCTrDK8U0h2rN_jQT1jmWwBJI2MkVMfw",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-27" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-27" },
         {
           source: "AllAnime",
           video:
@@ -4864,7 +4864,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE0IiwidGltZXN0YW1wIjoxNjQ3NDEwNzMzODIwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDczM30.MEtt8KFkNDjc36DVm9go4G0gaQ9aR3tM1uFkA5h6QfM",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -4882,7 +4882,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE0IiwidGltZXN0YW1wIjoxNjQ3NDEwNzMzODIwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDczM30.MEtt8KFkNDjc36DVm9go4G0gaQ9aR3tM1uFkA5h6QfM",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-28" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-28" },
         {
           source: "AllAnime",
           video:
@@ -4903,7 +4903,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE1IiwidGltZXN0YW1wIjoxNjQ3NDEwNzQ0NDkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc0NH0.gvyGmWdOiFyuqkzsVt3PToYfWTvobrUk0pk0bhKa05c",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -4921,7 +4921,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREE1IiwidGltZXN0YW1wIjoxNjQ3NDEwNzQ0NDkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc0NH0.gvyGmWdOiFyuqkzsVt3PToYfWTvobrUk0pk0bhKa05c",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-29" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-29" },
         {
           source: "AllAnime",
           video:
@@ -4942,7 +4942,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV3IiwidGltZXN0YW1wIjoxNjQ3NDEwNzU0NzgwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc1NH0.Ui3mKqgPCL3iEvzf7XQfZ3L_sWGPyV_dwld-m5t9YNU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -4960,7 +4960,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV3IiwidGltZXN0YW1wIjoxNjQ3NDEwNzU0NzgwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc1NH0.Ui3mKqgPCL3iEvzf7XQfZ3L_sWGPyV_dwld-m5t9YNU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-30" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-30" },
         {
           source: "AllAnime",
           video:
@@ -4981,7 +4981,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV4IiwidGltZXN0YW1wIjoxNjQ3NDEwNzY0Mjk2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc2NH0.wKPDKg1BGXC3YxSRyohsJGc2F7uREBEeIfa0736CfTg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -4999,7 +4999,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV4IiwidGltZXN0YW1wIjoxNjQ3NDEwNzY0Mjk2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc2NH0.wKPDKg1BGXC3YxSRyohsJGc2F7uREBEeIfa0736CfTg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-31" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-31" },
         {
           source: "AllAnime",
           video:
@@ -5020,7 +5020,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV5IiwidGltZXN0YW1wIjoxNjQ3NDEwNzc0NDU3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc3NH0.I737opeK0_2zlPNaU41Qw2c_sPXdaeiha_357QiHb3M",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -5038,7 +5038,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV5IiwidGltZXN0YW1wIjoxNjQ3NDEwNzc0NDU3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc3NH0.I737opeK0_2zlPNaU41Qw2c_sPXdaeiha_357QiHb3M",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-32" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-32" },
         {
           source: "AllAnime",
           video:
@@ -5059,7 +5059,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV6IiwidGltZXN0YW1wIjoxNjQ3NDEwNzg0OTU5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc4NH0.Mqd1vwCHYuMjgWDhFpxiyTJzpWV2x9pp48D1vLPX_q0",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -5077,7 +5077,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREV6IiwidGltZXN0YW1wIjoxNjQ3NDEwNzg0OTU5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc4NH0.Mqd1vwCHYuMjgWDhFpxiyTJzpWV2x9pp48D1vLPX_q0",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-33" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-33" },
         {
           source: "AllAnime",
           video:
@@ -5098,7 +5098,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUwIiwidGltZXN0YW1wIjoxNjQ3NDEwNzk1Mzc4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc5NX0.wUdea8kXYjZ4PHyKfJ-kmM8pDCsYWPDN2avaD98CPxo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -5116,7 +5116,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUwIiwidGltZXN0YW1wIjoxNjQ3NDEwNzk1Mzc4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDc5NX0.wUdea8kXYjZ4PHyKfJ-kmM8pDCsYWPDN2avaD98CPxo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-34" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-34" },
         {
           source: "AllAnime",
           video:
@@ -5137,7 +5137,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUxIiwidGltZXN0YW1wIjoxNjQ3NDEwODA1MzIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgwNX0.Y9b1ta6iZ_kW8pf_YhWc2HtbZG5wBHSJOjMmwxAkOSY",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -5155,7 +5155,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUxIiwidGltZXN0YW1wIjoxNjQ3NDEwODA1MzIxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgwNX0.Y9b1ta6iZ_kW8pf_YhWc2HtbZG5wBHSJOjMmwxAkOSY",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-35" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-35" },
         {
           source: "AllAnime",
           video:
@@ -5176,7 +5176,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUyIiwidGltZXN0YW1wIjoxNjQ3NDEwODE1NTczLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgxNX0.2bfknF_KkWx1oAAWPkRl9SRQF6Xn9jbENLPgVctbdjA",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -5194,7 +5194,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUyIiwidGltZXN0YW1wIjoxNjQ3NDEwODE1NTczLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgxNX0.2bfknF_KkWx1oAAWPkRl9SRQF6Xn9jbENLPgVctbdjA",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-36" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-36" },
         {
           source: "AllAnime",
           video:
@@ -5215,7 +5215,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUzIiwidGltZXN0YW1wIjoxNjQ3NDEwODI1Nzg2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgyNX0.yUWbk3IbQuHZQGOp_xxHMUAMdI0slOTDIn6-q2kK5ek",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -5233,7 +5233,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREUzIiwidGltZXN0YW1wIjoxNjQ3NDEwODI1Nzg2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgyNX0.yUWbk3IbQuHZQGOp_xxHMUAMdI0slOTDIn6-q2kK5ek",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-37" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-37" },
         {
           source: "AllAnime",
           video:
@@ -5254,7 +5254,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU0IiwidGltZXN0YW1wIjoxNjQ3NDEwODM1MTcwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgzNX0.k0lvMJf1zojqzz87W5GxypVvSIWYfWMIRlba9CnDdLc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -5272,7 +5272,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU0IiwidGltZXN0YW1wIjoxNjQ3NDEwODM1MTcwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDgzNX0.k0lvMJf1zojqzz87W5GxypVvSIWYfWMIRlba9CnDdLc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-38" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-38" },
         {
           source: "AllAnime",
           video:
@@ -5293,7 +5293,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU1IiwidGltZXN0YW1wIjoxNjQ3NDEwODQzODgxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg0M30.oBusTR_oZuY_CQbjhxWpHj2LYigS0WwbqDBjRAMQGaU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -5311,7 +5311,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREU1IiwidGltZXN0YW1wIjoxNjQ3NDEwODQzODgxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg0M30.oBusTR_oZuY_CQbjhxWpHj2LYigS0WwbqDBjRAMQGaU",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-39" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-39" },
         {
           source: "AllAnime",
           video:
@@ -5332,7 +5332,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl3IiwidGltZXN0YW1wIjoxNjQ3NDEwODUzMjY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg1M30.Nd6_ZzPXRkYKYnJuurR_zmbQCG-7ciQHRzEGnuFfvhE",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -5350,7 +5350,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl3IiwidGltZXN0YW1wIjoxNjQ3NDEwODUzMjY1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg1M30.Nd6_ZzPXRkYKYnJuurR_zmbQCG-7ciQHRzEGnuFfvhE",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-40" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-40" },
         {
           source: "AllAnime",
           video:
@@ -5371,7 +5371,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl4IiwidGltZXN0YW1wIjoxNjQ3NDEwODYyODYxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg2Mn0.Wckcdn3ljTH5r8UQHvTBAu0xTbZoKRSMi-enhNKNjLs",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -5389,7 +5389,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl4IiwidGltZXN0YW1wIjoxNjQ3NDEwODYyODYxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg2Mn0.Wckcdn3ljTH5r8UQHvTBAu0xTbZoKRSMi-enhNKNjLs",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-41" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-41" },
         {
           source: "AllAnime",
           video:
@@ -5410,7 +5410,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl5IiwidGltZXN0YW1wIjoxNjQ3NDEwODcyMTYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg3Mn0.jsXk9OmYtRfvEQecdAgB9QXEgkkHgVJ2lxsEe54mqpo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -5428,7 +5428,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl5IiwidGltZXN0YW1wIjoxNjQ3NDEwODcyMTYyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg3Mn0.jsXk9OmYtRfvEQecdAgB9QXEgkkHgVJ2lxsEe54mqpo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-42" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-42" },
         {
           source: "AllAnime",
           video:
@@ -5449,7 +5449,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl6IiwidGltZXN0YW1wIjoxNjQ3NDEwODgxNDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg4MX0.jqdk5TmugQMKRpfe_zUBIFUVaiRSl8O-EPIru0bjpfE",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -5467,7 +5467,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREl6IiwidGltZXN0YW1wIjoxNjQ3NDEwODgxNDkzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg4MX0.jqdk5TmugQMKRpfe_zUBIFUVaiRSl8O-EPIru0bjpfE",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-43" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-43" },
         {
           source: "AllAnime",
           video:
@@ -5488,7 +5488,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkwIiwidGltZXN0YW1wIjoxNjQ3NDEwODkwMDM0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5MH0.j-Bx7bZ8IoIJrREoWXNE-kWknq_X22dr95yp_EmQnLo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -5506,7 +5506,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkwIiwidGltZXN0YW1wIjoxNjQ3NDEwODkwMDM0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5MH0.j-Bx7bZ8IoIJrREoWXNE-kWknq_X22dr95yp_EmQnLo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-44" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-44" },
         {
           source: "AllAnime",
           video:
@@ -5527,7 +5527,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkxIiwidGltZXN0YW1wIjoxNjQ3NDEwODk4Mjg0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5OH0.EyT7vuRlw7bdwljZXNPIC1Qy8mgHJZ-ymht_1fJUyYo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -5545,7 +5545,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkxIiwidGltZXN0YW1wIjoxNjQ3NDEwODk4Mjg0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDg5OH0.EyT7vuRlw7bdwljZXNPIC1Qy8mgHJZ-ymht_1fJUyYo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-45" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-45" },
         {
           source: "AllAnime",
           video:
@@ -5566,7 +5566,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkyIiwidGltZXN0YW1wIjoxNjQ3NDEwOTA3NjA4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkwN30.UNhW5IV8xeuZCi49gVTXqpAU1WcvUmZ4TShOPdbJgeY",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -5584,7 +5584,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkyIiwidGltZXN0YW1wIjoxNjQ3NDEwOTA3NjA4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkwN30.UNhW5IV8xeuZCi49gVTXqpAU1WcvUmZ4TShOPdbJgeY",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-46" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-46" },
         {
           source: "AllAnime",
           video:
@@ -5605,7 +5605,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkzIiwidGltZXN0YW1wIjoxNjQ3NDEwOTE3MDk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkxN30.m0w8p0m6_GKjben2Z93KDhnac-lbQwBPaU_4UaTorE4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -5623,7 +5623,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREkzIiwidGltZXN0YW1wIjoxNjQ3NDEwOTE3MDk0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkxN30.m0w8p0m6_GKjben2Z93KDhnac-lbQwBPaU_4UaTorE4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-47" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-47" },
         {
           source: "AllAnime",
           video:
@@ -5644,7 +5644,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk0IiwidGltZXN0YW1wIjoxNjQ3NDEwOTI1NDM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkyNX0.LfOdDYHP4LJE8233-P1_ytTYWJhx5liQ6FI0TE0Qa_Q",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -5662,7 +5662,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk0IiwidGltZXN0YW1wIjoxNjQ3NDEwOTI1NDM5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkyNX0.LfOdDYHP4LJE8233-P1_ytTYWJhx5liQ6FI0TE0Qa_Q",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-48" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-48" },
         {
           source: "AllAnime",
           video:
@@ -5683,7 +5683,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk1IiwidGltZXN0YW1wIjoxNjQ3NDEwOTM0NzkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkzNH0.YeBBGxGH4Rq5fFFu4O3kXAihYDBeOs0huYBtv6orv80",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -5701,7 +5701,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNREk1IiwidGltZXN0YW1wIjoxNjQ3NDEwOTM0NzkwLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDkzNH0.YeBBGxGH4Rq5fFFu4O3kXAihYDBeOs0huYBtv6orv80",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-49" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-49" },
         {
           source: "AllAnime",
           video:
@@ -5722,7 +5722,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE13IiwidGltZXN0YW1wIjoxNjQ3NDEwOTQ0MjExLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk0NH0.8Wcx0-JudbZr8ENvFTOU_IBZWEsxgtmO8KiuOFSLnYM",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -5740,7 +5740,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE13IiwidGltZXN0YW1wIjoxNjQ3NDEwOTQ0MjExLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk0NH0.8Wcx0-JudbZr8ENvFTOU_IBZWEsxgtmO8KiuOFSLnYM",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-50" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-50" },
         {
           source: "AllAnime",
           video:
@@ -5761,7 +5761,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE14IiwidGltZXN0YW1wIjoxNjQ3NDEwOTUzNTM2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk1M30.UrxF8wlMWzP5mxOFrgE52E29WBVPpRkkImRFodSl9YM",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -5779,7 +5779,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE14IiwidGltZXN0YW1wIjoxNjQ3NDEwOTUzNTM2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk1M30.UrxF8wlMWzP5mxOFrgE52E29WBVPpRkkImRFodSl9YM",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-51" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-51" },
         {
           source: "AllAnime",
           video:
@@ -5800,7 +5800,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE15IiwidGltZXN0YW1wIjoxNjQ3NDEwOTYyOTc5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk2Mn0.O09KxYkotHkZW4ekCeTpY4DpGHDC5evTQ_YokQkdNAI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -5818,7 +5818,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE15IiwidGltZXN0YW1wIjoxNjQ3NDEwOTYyOTc5LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk2Mn0.O09KxYkotHkZW4ekCeTpY4DpGHDC5evTQ_YokQkdNAI",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-52" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-52" },
         {
           source: "AllAnime",
           video:
@@ -5839,7 +5839,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE16IiwidGltZXN0YW1wIjoxNjQ3NDEwOTc0NzQ0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk3NH0.yPE64saghCc0Ns663w4i6oJGeDeAr3TLNJJqt85ioZg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -5857,7 +5857,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE16IiwidGltZXN0YW1wIjoxNjQ3NDEwOTc0NzQ0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk3NH0.yPE64saghCc0Ns663w4i6oJGeDeAr3TLNJJqt85ioZg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-53" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-53" },
         {
           source: "AllAnime",
           video:
@@ -5878,7 +5878,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0wIiwidGltZXN0YW1wIjoxNjQ3NDEwOTg1NjEzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk4NX0.YpeXk6XCuOOEA8_7xVNcPWsHd4GrCAC6yAukYLyTnAg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -5896,7 +5896,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0wIiwidGltZXN0YW1wIjoxNjQ3NDEwOTg1NjEzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk4NX0.YpeXk6XCuOOEA8_7xVNcPWsHd4GrCAC6yAukYLyTnAg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-54" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-54" },
         {
           source: "AllAnime",
           video:
@@ -5917,7 +5917,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0xIiwidGltZXN0YW1wIjoxNjQ3NDEwOTk0NjMyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk5NH0.kOJq2Vfp1lrdq7QaHE7scFsMOfbnMgY5ute742LQUPc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -5935,7 +5935,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0xIiwidGltZXN0YW1wIjoxNjQ3NDEwOTk0NjMyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMDk5NH0.kOJq2Vfp1lrdq7QaHE7scFsMOfbnMgY5ute742LQUPc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-55" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-55" },
         {
           source: "AllAnime",
           video:
@@ -5956,7 +5956,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0yIiwidGltZXN0YW1wIjoxNjQ3NDExMDA0MjQzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAwNH0.oREfHgZhplFOJlUAgQ_hWrWP_BczvAmIf6MxBrXokSY",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -5974,7 +5974,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0yIiwidGltZXN0YW1wIjoxNjQ3NDExMDA0MjQzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAwNH0.oREfHgZhplFOJlUAgQ_hWrWP_BczvAmIf6MxBrXokSY",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-56" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-56" },
         {
           source: "AllAnime",
           video:
@@ -5995,7 +5995,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0zIiwidGltZXN0YW1wIjoxNjQ3NDExMDEzOTIyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAxM30.Rqr7Zzx6EkxPf9hQi_HxvscigChN7809WRbZzn0m8SE",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -6013,7 +6013,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE0zIiwidGltZXN0YW1wIjoxNjQ3NDExMDEzOTIyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAxM30.Rqr7Zzx6EkxPf9hQi_HxvscigChN7809WRbZzn0m8SE",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-57" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-57" },
         {
           source: "AllAnime",
           video:
@@ -6034,7 +6034,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE00IiwidGltZXN0YW1wIjoxNjQ3NDExMDIzMjM3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAyM30.6CmOGvqcBqjcf8D9yahsTaAfzGJ0KwuquDbEYPOBT7A",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -6052,7 +6052,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE00IiwidGltZXN0YW1wIjoxNjQ3NDExMDIzMjM3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAyM30.6CmOGvqcBqjcf8D9yahsTaAfzGJ0KwuquDbEYPOBT7A",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-58" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-58" },
         {
           source: "AllAnime",
           video:
@@ -6073,7 +6073,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE01IiwidGltZXN0YW1wIjoxNjQ3NDExMDMzNjE3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAzM30.Q6YJs6DjCYpXDhd81IAYLS-qHUaNiNUFc3DGa-xIJNk",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -6091,7 +6091,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRE01IiwidGltZXN0YW1wIjoxNjQ3NDExMDMzNjE3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTAzM30.Q6YJs6DjCYpXDhd81IAYLS-qHUaNiNUFc3DGa-xIJNk",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-59" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-59" },
         {
           source: "AllAnime",
           video:
@@ -6112,7 +6112,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF3IiwidGltZXN0YW1wIjoxNjQ3NDExMDQ0NzI1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA0NH0.5p2N-H4LRZV-IMLrOFGdlfBvWFys9EdWfpmEwSHxW2w",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -6130,7 +6130,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF3IiwidGltZXN0YW1wIjoxNjQ3NDExMDQ0NzI1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA0NH0.5p2N-H4LRZV-IMLrOFGdlfBvWFys9EdWfpmEwSHxW2w",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-60" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-60" },
         {
           source: "AllAnime",
           video:
@@ -6151,7 +6151,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF4IiwidGltZXN0YW1wIjoxNjQ3NDExMDU0NzU0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA1NH0.mkaa7wypdoulcbaKo1xuFWGw-L0DI48_Aa9nQ6XXGyo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -6169,7 +6169,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF4IiwidGltZXN0YW1wIjoxNjQ3NDExMDU0NzU0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA1NH0.mkaa7wypdoulcbaKo1xuFWGw-L0DI48_Aa9nQ6XXGyo",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-61" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-61" },
         {
           source: "AllAnime",
           video:
@@ -6190,7 +6190,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF5IiwidGltZXN0YW1wIjoxNjQ3NDExMDY0NTY2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA2NH0.pPAzKEgy143FmOS9DYhUSGZYxrqu394cTd-Bn3q58zs",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -6208,7 +6208,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGcyIiwidGltZXN0YW1wIjoxNjQ3NDExNzIzMTg3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTcyM30.lirI5KxsgtmqwmjzolojMScU84lMbsUaOox-cn3Vo-Q",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-62" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-62" },
         {
           source: "AllAnime",
           video:
@@ -6229,7 +6229,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFF6IiwidGltZXN0YW1wIjoxNjQ3NDExMDc0Njc0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA3NH0.FhSmkMhZzgLl_4kz4A7dWgLpmuzx5DDSwfPBUFtduKw",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -6247,7 +6247,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGczIiwidGltZXN0YW1wIjoxNjQ3NDExNzMyMzE3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTczMn0.4uK0YoS-GBsDiHEptNU_o4jxsC2xg8TeuC1Xa5BLnsg",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-63" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-63" },
         {
           source: "AllAnime",
           video:
@@ -6268,7 +6268,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFEwIiwidGltZXN0YW1wIjoxNjQ3NDExMDg0MTY0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA4NH0.wErU_7zaEhdv8qMPNg8uW-P-wu-IhsZ5b_VG4ICrKrc",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -6286,7 +6286,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGc0IiwidGltZXN0YW1wIjoxNjQ3NDExNzQyOTMyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc0Mn0.7-0El9yfvu57ll0tQE_ZqYUA12zXU8VklDfKjOct_Mk",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-64" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-64" },
         {
           source: "AllAnime",
           video:
@@ -6307,7 +6307,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFExIiwidGltZXN0YW1wIjoxNjQ3NDExMDkzNTQ4LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTA5M30.mJcOgq1C-C8wLo7Wsv3n8TS5ApYDxdNMiZKIavMTR5o",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-65" },
         {
           source: "AllAnime",
           video:
@@ -6325,7 +6325,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGc1IiwidGltZXN0YW1wIjoxNjQ3NDExNzUyNjc2LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc1Mn0.2mRGT3Yhz7FlHjUB-M02mnDTZWoRjoiQax3zVEZm1XA",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-65" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-65" },
         {
           source: "AllAnime",
           video:
@@ -6346,7 +6346,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFEyIiwidGltZXN0YW1wIjoxNjQ3NDExMTAyODAxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTEwMn0.BRTvmC7YRbbE9LZ-obYzAYYGdqEZIeD3Vx6p-TfVcfE",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-66" },
         {
           source: "AllAnime",
           video:
@@ -6364,7 +6364,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt3IiwidGltZXN0YW1wIjoxNjQ3NDExNzYyNzgzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc2Mn0.nnyjm7pf2sXQdbUHD2Biy50Azyab8y-7rebsYGvQ03E",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-66" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-66" },
         {
           source: "AllAnime",
           video:
@@ -6385,7 +6385,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFEzIiwidGltZXN0YW1wIjoxNjQ3NDExMTEyNjMzLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTExMn0.57AvMcTXWpDhdEGsKeJcMT-9rysW_WroJwn8WhAPKo4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-67" },
         {
           source: "AllAnime",
           video:
@@ -6403,7 +6403,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt4IiwidGltZXN0YW1wIjoxNjQ3NDExNzcyNDAyLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc3Mn0.OqC42xB0nsS18kl5CnV7IR4YigNjuW7UIvQK-V-Kvto",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-67" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-67" },
         {
           source: "AllAnime",
           video:
@@ -6424,7 +6424,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFE0IiwidGltZXN0YW1wIjoxNjQ3NDExMTIyMDgxLCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTEyMn0.XIdYXNJeVYFSulqAia4uOrnkk0KsHeSpj7bnkw7NEmA",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-68" },
         {
           source: "AllAnime",
           video:
@@ -6442,7 +6442,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt5IiwidGltZXN0YW1wIjoxNjQ3NDExNzgxNjc0LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc4MX0.GfhKHhdRkWRvfOmvNwoP69KhVAEWyapeCQJpvV8VfEQ",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-68" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-68" },
         {
           source: "AllAnime",
           video:
@@ -6463,7 +6463,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1USXlNRFE1IiwidGltZXN0YW1wIjoxNjQ3NDExMTMxNDM3LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTEzMX0.lfLHVl8-nN6VtX806b4vBa4NMnckfsd1vDxOIR2N-Ak",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-dub-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-69" },
         {
           source: "AllAnime",
           video:
@@ -6481,7 +6481,7 @@ const dragonBallKai: series = {
           video:
             "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1UWTFNVGt6IiwidGltZXN0YW1wIjoxNjQ3NDExNzkxMTk1LCJpcCI6IjI2MDE6MWMwOjY5MDA6MjhkMDo6M2RmYSIsImlhdCI6MTY0NzQxMTc5MX0.GYuYyiHfPGbIg9ihr3pYw3Cvd1BNGzlkAp4aYNjyRZ4",
         },
-        { source: "Gogoapi", video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-kai-2014-episode-69" },
+        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-69" },
         {
           source: "AllAnime",
           video:

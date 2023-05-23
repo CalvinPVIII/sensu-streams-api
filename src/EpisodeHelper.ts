@@ -72,7 +72,9 @@ export default class EpisodeHelper {
             const scrapeMethod = Scraper.scraperMethods[episode.source];
             const files = await scrapeMethod(episode.video);
             console.log(files);
-            subFiles.push(files);
+            if (files && files !== "Error") {
+              subFiles.push(files);
+            }
           }
         })
       );
@@ -81,7 +83,9 @@ export default class EpisodeHelper {
           if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
             const scrapeMethod = Scraper.scraperMethods[episode.source];
             const files = await scrapeMethod(episode.video);
-            dubFiles.push(files);
+            if (files && files !== "Error") {
+              dubFiles.push(files);
+            }
           }
         })
       );

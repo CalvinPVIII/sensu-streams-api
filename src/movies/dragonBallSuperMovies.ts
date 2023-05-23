@@ -11,7 +11,7 @@ const dbsMovies: series = {
 
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-movie-broly-dub-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-movie-broly-dub-episode-1",
         },
       ],
       episodeLength: 6085.584,
@@ -26,7 +26,7 @@ const dbsMovies: series = {
 
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-movie-broly-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-movie-broly-episode-1",
         },
       ],
       episodeLength: 6085.584,
@@ -44,7 +44,7 @@ const dbsMovies: series = {
 
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-super-hero-dub-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-super-hero-dub-episode-1",
         },
       ],
       episodeLength: 5986,
@@ -58,7 +58,7 @@ const dbsMovies: series = {
         // },
         {
           source: "Gogoapi",
-          video: "https://gogoanime.consumet.stream/vidcdn/watch/dragon-ball-super-super-hero-camrip-episode-1",
+          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-super-super-hero-camrip-episode-1",
         },
       ],
       episodeLength: 5986,
