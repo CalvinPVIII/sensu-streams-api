@@ -3,6 +3,8 @@ import bodyParser from "body-parser";
 import cors from "cors";
 import dotenv from "dotenv";
 
+import cron from "node-cron";
+
 // @ts-ignore
 import cors_proxy from "cors-anywhere";
 
@@ -10,6 +12,7 @@ import EpisodeHelper from "./src/EpisodeHelper.ts";
 import Stream from "./src/Stream.ts";
 
 import { episode, series } from "./senzuTypes";
+import axios from "axios";
 
 const host = "0.0.0.0";
 const port = 8080;
@@ -109,4 +112,8 @@ app.listen(3001, "0.0.0.0", () => {
   console.log("Server running locally on port 3001");
 });
 
-// run server using ts-node-esm local.ts
+cron.schedule("*/10 * * * *", () => {
+  if (process.env.CRONURL) {
+    axios.get(process.env.CRONRUL as string);
+  }
+});
