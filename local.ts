@@ -3,8 +3,6 @@ import bodyParser from "body-parser";
 import cors from "cors";
 import dotenv from "dotenv";
 
-import cron from "node-cron";
-
 // @ts-ignore
 import cors_proxy from "cors-anywhere";
 
@@ -110,10 +108,4 @@ app.use((req, res) => {
 
 app.listen(3001, "0.0.0.0", () => {
   console.log("Server running locally on port 3001");
-});
-
-cron.schedule("*/10 * * * *", () => {
-  if (process.env.CRONURL) {
-    axios.get(process.env.CRONRUL as string);
-  }
 });

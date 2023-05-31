@@ -33,7 +33,7 @@ export default class Stream {
     this.failedToLoadVideo = false;
     this.dubLoadError = false;
     this.subLoadError = false;
-    this.streamPlaylist = playlists.test;
+    this.streamPlaylist = playlists.main;
   }
 
   //   this should be the method responsible for updating the current info of the stream when a new episode starts. It should set the episodeDuration based on the sub/dub length, call the method(s) from EpisodeHelper to get the video sources for the current episode, return the duration of the episode, based on what is longer, sub or dub.
