@@ -102,6 +102,10 @@ app.get("/:media/:series/:episodeNumber", async (req: express.Request, res: expr
   }
 });
 
+app.get("/ping", async (req: express.Request, res: express.Response) => {
+  res.status(200).send("Pinged");
+});
+
 app.use((req, res) => {
   res.status(404).send("Not Found");
 });
