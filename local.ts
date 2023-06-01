@@ -34,6 +34,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cors());
 
+app.get("/ping", async (req: express.Request, res: express.Response) => {
+  res.json(200).send("Pinged");
+});
+
 app.post("/admin", (req, res) => {
   if (req.body.token && req.body.token === process.env.TOKEN) {
     switch (req.body.action) {
@@ -100,10 +104,6 @@ app.get("/:media/:series/:episodeNumber", async (req: express.Request, res: expr
   } else {
     res.status(404).send("Unable to find series");
   }
-});
-
-app.get("/ping", async (req: express.Request, res: express.Response) => {
-  res.status(200).send("Pinged");
 });
 
 app.use((req, res) => {
