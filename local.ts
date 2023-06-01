@@ -35,7 +35,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.get("/ping", async (req: express.Request, res: express.Response) => {
-  res.json(200).send("Pinged");
+  res.json({ message: "ping" });
 });
 
 app.post("/admin", (req, res) => {
