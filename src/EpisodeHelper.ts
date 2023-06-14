@@ -30,7 +30,7 @@ export default class EpisodeHelper {
   static getMedia(mediaType: string, seriesName?: string): { [key: string]: series } | null | series {
     if (mediaType.toLowerCase() === "movies") {
       if (seriesName) {
-        const series = EpisodeHelper.movies[seriesName];
+        const series = EpisodeHelper.movies[seriesName.toLowerCase()];
         if (series) {
           return series;
         }
@@ -38,7 +38,7 @@ export default class EpisodeHelper {
       return EpisodeHelper.movies;
     } else if (mediaType.toLowerCase() === "episodes") {
       if (seriesName) {
-        const series = EpisodeHelper.episodes[seriesName];
+        const series = EpisodeHelper.episodes[seriesName.toLowerCase()];
         if (series) {
           return series;
         }
