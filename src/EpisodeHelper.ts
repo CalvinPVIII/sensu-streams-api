@@ -6,7 +6,7 @@ import dragonBallGt from "./episodes/DragonBallGt.ts";
 
 import dbMovies from "./movies/dragonBallMovies.ts";
 import dbzMovies from "./movies/dragonBallZMovies.ts";
-import dbsmovies from "./movies/dragonBallMovies.ts";
+import dbsmovies from "./movies/dragonBallSuperMovies.ts";
 
 import Scraper from "./Scraper.ts";
 
@@ -85,7 +85,7 @@ export default class EpisodeHelper {
             const files = await scrapeMethod(episode.video);
             console.log(files);
             if (files && files !== "Error") {
-              output.sub[episode.source].push(files);
+              output.sub[episode.source] = files;
             }
           }
         })
@@ -99,7 +99,7 @@ export default class EpisodeHelper {
             const scrapeMethod = Scraper.scraperMethods[episode.source];
             const files = await scrapeMethod(episode.video);
             if (files && files !== "Error") {
-              output.dub[episode.source].push(files);
+              output.dub[episode.source] = files;
             }
           }
         })
