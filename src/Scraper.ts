@@ -33,7 +33,13 @@ export default class Scraper {
     try {
       const response = await axios.get(Scraper.proxy + url);
       if (response.data.sources) {
-        return response.data.sources;
+        const output = response.data.sources.map((source: any) => ({
+          file: source.url,
+          label: source.quality,
+          type: source.isM3U8 ? "hls" : "mp4",
+        }));
+
+        return output;
       } else {
         return "Error";
       }

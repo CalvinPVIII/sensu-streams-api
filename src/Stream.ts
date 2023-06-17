@@ -1,12 +1,10 @@
 import EpisodeHelper from "./EpisodeHelper.ts";
-import { episode, file } from "../senzuTypes";
+import { episode, file, StructuredFileInfo } from "../senzuTypes";
 import playlists from "./episodes/Playlists.ts";
 
 export default class Stream {
   isActive: boolean;
-
-  currentSubFiles: Array<file>;
-  currentDubFiles: Array<file>;
+  currentFiles: StructuredFileInfo | "";
   currentEpisode: number;
   currentTime: number;
   episodeInfo: string;
@@ -21,8 +19,7 @@ export default class Stream {
 
   constructor() {
     this.isActive = false;
-    this.currentSubFiles = [];
-    this.currentDubFiles = [];
+    this.currentFiles = "";
     this.currentEpisode = 0;
     this.currentTime = 0;
     this.episodeInfo = "";
@@ -50,10 +47,9 @@ export default class Stream {
       this.episodeInfo = this.streamPlaylist[this.currentEpisode].episodeInfo;
 
       // this gets and organizes the files for each source
-      const episodeFiles: any = await EpisodeHelper.getEpisodeFiles(this.streamPlaylist[this.currentEpisode]);
+      const episodeFiles: StructuredFileInfo = await EpisodeHelper.getEpisodeFiles(this.streamPlaylist[this.currentEpisode]);
 
-      this.currentDubFiles = episodeFiles.dub;
-      this.currentSubFiles = episodeFiles.sub;
+      this.currentFiles = episodeFiles;
 
       // this sets the episode duration
       if (subEpisodeDuration >= dubEpisodeDuration) {
@@ -121,7 +117,6 @@ export default class Stream {
       if (!this.isEpisodeInitialized) {
         console.log("Handle video stream: streamStatus is not initialized");
         this.episodeDuration = await this.initializeEpisode();
-        console.log(this.currentDubFiles);
       }
       console.log(`episode duration ${this.episodeDuration}`);
       console.log(`episode number ${this.currentEpisode}`);

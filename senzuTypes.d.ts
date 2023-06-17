@@ -23,3 +23,11 @@ export interface file {
   label: string;
   type: string;
 }
+
+export interface StructuredFileInfo {
+  dub: { [key: string]: Array<file> };
+  sub: { [key: string]: Array<file> };
+  episodeInfo: string;
+  dubLength: number;
+  subLength: number;
+}

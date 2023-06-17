@@ -10,7 +10,6 @@ import EpisodeHelper from "./src/EpisodeHelper.ts";
 import Stream from "./src/Stream.ts";
 
 import { episode, series } from "./senzuTypes";
-import axios from "axios";
 
 const host = "0.0.0.0";
 const port = 8080;
@@ -94,7 +93,7 @@ app.get("/:media/:series/:episodeNumber", async (req: express.Request, res: expr
     if (episode) {
       const files = await EpisodeHelper.getEpisodeFiles(episode);
       if (files) {
-        res.json({ episodeInfo: episode.episodeInfo, files: files });
+        res.json(files);
       } else {
         res.status(500).send("There was an error getting files");
       }

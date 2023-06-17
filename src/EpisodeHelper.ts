@@ -10,7 +10,7 @@ import dbsmovies from "./movies/dragonBallMovies.ts";
 
 import Scraper from "./Scraper.ts";
 
-import { episode, file, series } from "../senzuTypes";
+import { episode, file, series, StructuredFileInfo } from "../senzuTypes";
 
 export default class EpisodeHelper {
   static episodes: { [key: string]: series } = {
@@ -62,18 +62,30 @@ export default class EpisodeHelper {
     }
   }
 
-  static async getEpisodeFiles(episode: episode) {
-    const files = new Promise(async (resolve, reject) => {
-      let subFiles: Array<file> = [];
-      let dubFiles: Array<file> = [];
+  static async getEpisodeFiles(episode: episode): Promise<StructuredFileInfo> {
+    console.log("EPISODE -----");
+    console.log(episode);
+    console.log("---------");
+    const files = new Promise<StructuredFileInfo>(async (resolve, reject) => {
+      let output: StructuredFileInfo = {
+        dubLength: episode.dub.episodeLength,
+        subLength: episode.sub.episodeLength,
+        episodeInfo: episode.episodeInfo,
+        dub: {},
+        sub: {},
+      };
+
       await Promise.all(
         episode.sub.sources.map(async (episode) => {
           if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
+            if (!output.sub[episode.source]) {
+              output.sub[episode.source] = [];
+            }
             const scrapeMethod = Scraper.scraperMethods[episode.source];
             const files = await scrapeMethod(episode.video);
             console.log(files);
             if (files && files !== "Error") {
-              subFiles.push(files);
+              output.sub[episode.source].push(files);
             }
           }
         })
@@ -81,15 +93,18 @@ export default class EpisodeHelper {
       await Promise.all(
         episode.dub.sources.map(async (episode) => {
           if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
+            if (!output.dub[episode.source]) {
+              output.dub[episode.source] = [];
+            }
             const scrapeMethod = Scraper.scraperMethods[episode.source];
             const files = await scrapeMethod(episode.video);
             if (files && files !== "Error") {
-              dubFiles.push(files);
+              output.dub[episode.source].push(files);
             }
           }
         })
       );
-      resolve({ dub: dubFiles, sub: subFiles });
+      resolve(output);
     });
     return files;
   }
