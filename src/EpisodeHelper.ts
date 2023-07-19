@@ -49,7 +49,7 @@ export default class EpisodeHelper {
     }
   }
 
-  static nonWorkingSources: Array<string> = ["Gogo", "Gogoanime", "KimAnime"];
+  static nonWorkingSources: Array<string> = ["Gogo", "Gogoanime", "KimAnime", "AllAnime"];
 
   static updateNonWorkingSources(sourceName: string): string {
     if (this.nonWorkingSources.includes(sourceName)) {

@@ -5,7 +5,7 @@ import dragonBallSuper from "./DragonBallSuper.ts";
 import dragonBallZ from "./DragonBallZ.ts";
 
 const playlists = {
-  main: [...Object.values(dragonBall), ...Object.values(dragonBallKai), ...Object.values(dragonBallSuper)],
+  main: [...Object.values(dragonBallKai), ...Object.values(dragonBallSuper), ...Object.values(dragonBall)],
   test: [Object.values(dragonBallZ)[0], Object.values(dragonBallGt)[0]],
 };
 
