@@ -6,7 +6,7 @@ import dragonBallGt from "./episodes/DragonBallGt.ts";
 
 import dbMovies from "./movies/dragonBallMovies.ts";
 import dbzMovies from "./movies/dragonBallZMovies.ts";
-import dbsmovies from "./movies/dragonBallSuperMovies.ts";
+import dbsMovies from "./movies/dragonBallSuperMovies.ts";
 
 import Scraper from "./Scraper.ts";
 
@@ -24,7 +24,7 @@ export default class EpisodeHelper {
   static movies: { [key: string]: series } = {
     dragonball: dbMovies,
     dragonballz: dbzMovies,
-    dragonballsuper: dbsmovies,
+    dragonballsuper: dbsMovies,
   };
 
   static getMedia(mediaType: string, seriesName?: string): { [key: string]: series } | null | series {
