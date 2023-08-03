@@ -16,7 +16,7 @@ export default class Scraper {
   static async enimeScrape(episodeId: string): Promise<file | Array<file> | string> {
     try {
       const response = await axios.get(`${Scraper.proxy}https://api.consumet.org/anime/enime/watch?episodeId=${episodeId}`);
-      const output = response.data.sources.map((source: any) => ({
+      const output: file[] = response.data.sources.map((source: any) => ({
         file: source.url,
         label: source.quality,
         type: "hls",
@@ -33,7 +33,7 @@ export default class Scraper {
     try {
       const response = await axios.get(Scraper.proxy + url);
       if (response.data.sources) {
-        const output = response.data.sources.map((source: any) => ({
+        const output: file[] = response.data.sources.map((source: any) => ({
           file: source.url,
           label: source.quality,
           type: source.isM3U8 ? "hls" : "mp4",

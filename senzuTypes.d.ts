@@ -1,6 +1,8 @@
 export interface source {
   source: string;
   video: string;
+  introOffset: number;
+  outroOffset: number;
 }
 
 export interface languageOption {
@@ -24,9 +26,15 @@ export interface file {
   type: string;
 }
 
+export interface sourceFiles {
+  files: Array<file>;
+  introOffset: number;
+  outroOffset: number;
+}
+
 export interface StructuredFileInfo {
-  dub: { [key: string]: Array<file> };
-  sub: { [key: string]: Array<file> };
+  dub: { [key: string]: sourceFiles };
+  sub: { [key: string]: sourceFiles };
   episodeInfo: string;
   dubLength: number;
   subLength: number;

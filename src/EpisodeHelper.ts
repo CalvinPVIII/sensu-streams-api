@@ -10,7 +10,7 @@ import dbsMovies from "./movies/dragonBallSuperMovies.ts";
 
 import Scraper from "./Scraper.ts";
 
-import { episode, file, series, StructuredFileInfo } from "../senzuTypes";
+import { episode, file, sourceFiles, series, StructuredFileInfo } from "../senzuTypes";
 
 export default class EpisodeHelper {
   static episodes: { [key: string]: series } = {
@@ -27,6 +27,7 @@ export default class EpisodeHelper {
     dragonballsuper: dbsMovies,
   };
 
+  // This method returns the episodes/links for a given series or movie, it does not return the usable files
   static getMedia(mediaType: string, seriesName?: string): { [key: string]: series } | null | series {
     if (mediaType.toLowerCase() === "movies") {
       if (seriesName) {
@@ -62,10 +63,11 @@ export default class EpisodeHelper {
     }
   }
 
+  // This method does return the direct streamable files for a given episode
   static async getEpisodeFiles(episode: episode): Promise<StructuredFileInfo> {
-    console.log("EPISODE -----");
-    console.log(episode);
-    console.log("---------");
+    // console.log("EPISODE -----");
+    // console.log(episode);
+    // console.log("---------");
     const files = new Promise<StructuredFileInfo>(async (resolve, reject) => {
       let output: StructuredFileInfo = {
         dubLength: episode.dub.episodeLength,
@@ -74,18 +76,18 @@ export default class EpisodeHelper {
         dub: {},
         sub: {},
       };
-
       await Promise.all(
         episode.sub.sources.map(async (episode) => {
           if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
-            if (!output.sub[episode.source]) {
-              output.sub[episode.source] = [];
-            }
+            // if (output.sub[episode.source]) {
             const scrapeMethod = Scraper.scraperMethods[episode.source];
-            const files = await scrapeMethod(episode.video);
-            console.log(files);
+            const files: file[] | "Error" = await scrapeMethod(episode.video);
+
             if (files && files !== "Error") {
-              output.sub[episode.source] = files;
+              const result: sourceFiles = { files: files, introOffset: episode.introOffset, outroOffset: episode.outroOffset };
+              console.log(result);
+              output.sub[episode.source] = result;
+              // }
             }
           }
         })
@@ -93,14 +95,14 @@ export default class EpisodeHelper {
       await Promise.all(
         episode.dub.sources.map(async (episode) => {
           if (!EpisodeHelper.nonWorkingSources.includes(episode.source)) {
-            if (!output.dub[episode.source]) {
-              output.dub[episode.source] = [];
-            }
+            // if (output.dub[episode.source]) {
             const scrapeMethod = Scraper.scraperMethods[episode.source];
-            const files = await scrapeMethod(episode.video);
+            const files: file[] | "Error" = await scrapeMethod(episode.video);
             if (files && files !== "Error") {
-              output.dub[episode.source] = files;
+              const result: sourceFiles = { files: files, introOffset: episode.introOffset, outroOffset: episode.outroOffset };
+              output.dub[episode.source] = result;
             }
+            // }
           }
         })
       );

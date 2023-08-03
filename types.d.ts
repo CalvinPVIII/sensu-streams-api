@@ -1,6 +1,10 @@
 interface source {
   source: string;
   video: string;
+  source: string;
+  video: string;
+  introOffset: number;
+  outroOffset: number;
 }
 
 interface languageOption {
