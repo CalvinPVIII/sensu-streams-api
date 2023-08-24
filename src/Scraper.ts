@@ -15,7 +15,7 @@ export default class Scraper {
 
   static async enimeScrape(episodeId: string): Promise<file | Array<file> | string> {
     try {
-      const response = await axios.get(`${Scraper.proxy}https://api.consumet.org/anime/enime/watch?episodeId=${episodeId}`);
+      const response = await axios.get(`${Scraper.proxy}https://api.consumet.org/anime/enime/watch?episodeId=${episodeId}`, { timeout: 3000 });
       const output: file[] = response.data.sources.map((source: any) => ({
         file: source.url,
         label: source.quality,
@@ -31,7 +31,7 @@ export default class Scraper {
 
   static async gogoApiScrape(url: string): Promise<file | Array<file> | string> {
     try {
-      const response = await axios.get(Scraper.proxy + url);
+      const response = await axios.get(Scraper.proxy + url, { timeout: 3000 });
       if (response.data.sources) {
         const output: file[] = response.data.sources.map((source: any) => ({
           file: source.url,
