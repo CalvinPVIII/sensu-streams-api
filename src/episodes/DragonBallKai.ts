@@ -15,7 +15,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-1", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-1", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-1", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -37,7 +37,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-1", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-1", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-1", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -62,7 +62,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-2", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-2", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-2", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -84,7 +84,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-2", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-2", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-2", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -109,7 +109,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-3", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-3", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-3", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -131,7 +131,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-3", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5Nzk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-3", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-3", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -156,7 +156,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-4", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-4", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-4", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -178,7 +178,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-4", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-4", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-4", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -203,7 +203,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-5", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-5", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-5", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -225,7 +225,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-5", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-5", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-5", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -250,7 +250,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-6", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-6", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-6", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -272,7 +272,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-6", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-6", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-6", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -297,7 +297,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-7", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-7", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-7", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -319,7 +319,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-7", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-7", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-7", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -344,7 +344,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-8", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-8", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-8", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -366,7 +366,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-8", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-8", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-8", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -391,7 +391,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-9", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1ODk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-9", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-9", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -413,7 +413,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-9", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5ODk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-9", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-9", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -438,7 +438,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-10", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-10", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-10", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -460,7 +460,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-10", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-10", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-10", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -485,7 +485,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-11", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-11", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-11", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -507,7 +507,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-11", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-11", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-11", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -532,7 +532,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-12", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-12", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-12", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -554,7 +554,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-12", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-12", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-12", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -579,7 +579,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-13", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-13", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-13", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -601,7 +601,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-13", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-13", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-13", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -626,7 +626,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-14", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-14", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-14", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -648,7 +648,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-14", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTM5OTg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-14", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-14", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -673,7 +673,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-15", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-15", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-15", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -695,7 +695,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-15", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-15", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-15", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -720,7 +720,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-16", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-16", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-16", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -742,7 +742,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-16", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-16", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-16", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -767,7 +767,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-17", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-17", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-17", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -789,7 +789,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-17", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-17", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-17", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -814,7 +814,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-18", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-18", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-18", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -836,7 +836,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-18", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-18", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-18", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -861,7 +861,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-19", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ1OTk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-19", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-19", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -883,7 +883,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-19", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-19", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-19", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -908,7 +908,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-20", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-20", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-20", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -930,7 +930,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-20", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-20", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-20", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -955,7 +955,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-21", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-21", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-21", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -977,7 +977,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-21", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-21", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-21", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1002,7 +1002,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-22", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-22", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-22", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1024,7 +1024,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-22", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-22", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-22", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1049,7 +1049,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-23", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-23", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-23", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1071,7 +1071,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-23", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-23", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-23", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1096,7 +1096,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-24", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-24", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-24", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1118,7 +1118,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-24", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMDk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-24", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-24", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1143,7 +1143,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-25", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-25", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-25", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1165,7 +1165,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-25", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-25", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-25", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1190,7 +1190,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-26", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-26", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-26", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1212,7 +1212,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-26", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-26", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-26", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1237,7 +1237,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-27", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-27", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-27", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1259,7 +1259,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-27", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-27", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-27", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1284,7 +1284,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-28", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-28", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-28", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1306,7 +1306,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-28", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-28", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-28", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1331,7 +1331,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-29", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MDk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-29", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-29", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1346,7 +1346,7 @@ const dragonBallKai: series = {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-29", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/jsonundefined", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-29", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-29", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1371,7 +1371,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-30", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-30", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-30", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1393,7 +1393,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-30", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMTg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-30", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-30", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1418,7 +1418,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-31", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-31", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-31", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1440,7 +1440,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-31", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-31", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-31", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1465,7 +1465,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-32", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-32", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-32", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1487,7 +1487,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-32", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-32", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-32", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1512,7 +1512,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-33", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-33", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-33", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1534,7 +1534,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-33", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-33", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-33", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1559,7 +1559,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-34", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-34", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-34", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1581,7 +1581,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-34", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-34", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-34", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1606,7 +1606,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-35", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-35", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-35", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1628,7 +1628,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-35", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-35", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-35", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1653,7 +1653,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-36", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-36", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-36", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1675,7 +1675,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-36", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMjk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-36", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-36", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1700,7 +1700,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-37", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-37", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-37", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1722,7 +1722,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-37", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-37", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-37", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1747,7 +1747,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-38", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-38", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-38", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1769,7 +1769,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-38", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-38", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-38", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1794,7 +1794,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-39", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MTk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-39", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-39", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1816,7 +1816,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-39", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-39", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-39", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1841,7 +1841,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-40", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-40", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-40", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1863,7 +1863,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-40", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwMzk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-40", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-40", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1888,7 +1888,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-41", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-41", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-41", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1910,7 +1910,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-41", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-41", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-41", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1935,7 +1935,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-42", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-42", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-42", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1957,7 +1957,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-42", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-42", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-42", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -1982,7 +1982,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-43", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-43", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-43", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2004,7 +2004,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-43", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-43", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-43", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2029,7 +2029,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-44", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-44", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-44", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2051,7 +2051,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-44", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-44", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-44", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2076,7 +2076,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-45", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-45", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-45", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2098,7 +2098,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-45", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-45", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-45", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2123,7 +2123,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-46", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MjY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-46", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-46", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2145,7 +2145,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-46", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-46", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-46", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2170,7 +2170,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-47", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-47", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-47", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2192,7 +2192,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-47", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-47", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-47", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2217,7 +2217,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-48", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-48", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-48", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2239,7 +2239,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-48", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-48", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-48", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2264,7 +2264,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-49", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2Mjk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-49", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-49", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2286,7 +2286,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-49", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNDk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-49", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-49", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2311,7 +2311,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-50", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzQ2MzA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-50", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-50", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2333,7 +2333,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-50", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-50", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-50", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2358,7 +2358,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-51", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-51", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-51", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2380,7 +2380,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-51", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-51", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-51", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2405,7 +2405,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-52", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-52", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-52", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2427,7 +2427,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-52", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-52", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-52", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2452,7 +2452,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-53", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-53", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-53", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2474,7 +2474,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-53", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-53", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-53", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2499,7 +2499,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-54", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-54", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-54", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2521,7 +2521,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-54", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNTk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-54", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-54", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2546,7 +2546,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-55", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-55", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-55", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2568,7 +2568,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-55", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-55", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-55", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2593,7 +2593,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-56", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-56", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-56", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2615,7 +2615,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-56", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-56", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-56", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2633,7 +2633,7 @@ const dragonBallKai: series = {
       sources: [
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-57", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/jsonundefined", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-57", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-57", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2655,7 +2655,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-57", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-57", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-57", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2680,7 +2680,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-58", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMjk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-58", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-58", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2702,7 +2702,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-58", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-58", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-58", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2727,7 +2727,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-59", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-59", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-59", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2749,7 +2749,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-59", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNjk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-59", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-59", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2774,7 +2774,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-60", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-60", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-60", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2796,7 +2796,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-60", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-60", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-60", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2821,7 +2821,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-61", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-61", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-61", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2843,7 +2843,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-61", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-61", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-61", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2868,7 +2868,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-62", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-62", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-62", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2890,7 +2890,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-62", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-62", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-62", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2915,7 +2915,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-63", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-63", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-63", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2937,7 +2937,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-63", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwNzc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-63", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-63", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2962,7 +2962,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-64", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-64", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-64", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -2984,7 +2984,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-64", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-64", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-64", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3009,7 +3009,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-65", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-65", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-65", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3031,7 +3031,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-65", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-65", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-65", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3056,7 +3056,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-66", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-66", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-66", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3078,7 +3078,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-66", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-66", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-66", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3103,7 +3103,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-67", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-67", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-67", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3125,7 +3125,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-67", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-67", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-67", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3150,7 +3150,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-68", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwMzk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-68", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-68", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3172,7 +3172,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-68", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-68", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-68", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3197,7 +3197,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-69", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-69", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-69", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3219,7 +3219,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-69", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-69", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-69", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3244,7 +3244,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-70", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-70", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-70", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3266,7 +3266,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-70", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-70", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-70", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3291,7 +3291,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-71", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-71", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-71", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3313,7 +3313,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-71", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwODk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-71", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-71", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3338,7 +3338,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-72", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-72", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-72", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3360,7 +3360,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-72", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-72", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-72", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3385,7 +3385,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-73", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-73", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-73", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3407,7 +3407,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-73", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-73", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-73", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3432,7 +3432,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-74", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-74", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-74", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3454,7 +3454,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-74", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-74", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-74", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3479,7 +3479,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-75", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-75", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-75", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3501,7 +3501,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-75", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-75", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-75", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3526,7 +3526,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-76", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-76", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-76", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3548,7 +3548,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-76", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-76", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-76", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3573,7 +3573,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-77", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-77", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-77", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3595,7 +3595,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-77", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQwOTg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-77", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-77", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3620,7 +3620,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-78", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNDk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-78", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-78", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3642,7 +3642,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-78", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMDA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-78", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-78", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3667,7 +3667,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-79", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-79", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-79", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3689,7 +3689,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-79", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMjY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-79", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-79", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3714,7 +3714,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-80", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-80", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-80", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3736,7 +3736,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-80", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMjk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-80", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-80", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3761,7 +3761,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-81", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-81", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-81", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3783,7 +3783,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-81", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-81", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-81", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3808,7 +3808,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-82", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-82", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-82", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3830,7 +3830,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-82", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-82", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-82", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3855,7 +3855,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-83", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-83", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-83", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3877,7 +3877,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-83", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-83", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-83", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3902,7 +3902,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-84", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-84", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-84", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3924,7 +3924,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-84", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-84", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-84", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3949,7 +3949,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-85", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-85", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-85", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3971,7 +3971,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-85", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxMzg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-85", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-85", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -3996,7 +3996,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-86", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-86", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-86", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4018,7 +4018,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-86", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-86", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-86", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4043,7 +4043,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-87", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-87", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-87", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4065,7 +4065,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-87", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-87", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-87", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4090,7 +4090,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-88", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNTk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-88", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-88", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4112,7 +4112,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-88", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNDc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-88", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-88", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4137,7 +4137,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-89", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-89", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-89", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4159,7 +4159,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-89", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-89", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-89", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4184,7 +4184,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-90", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-90", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-90", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4206,7 +4206,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-90", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-90", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-90", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4231,7 +4231,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-91", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-91", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-91", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4253,7 +4253,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-91", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-91", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-91", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4278,7 +4278,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-92", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjM=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-92", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-92", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4300,7 +4300,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-92", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNTk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-92", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-92", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4325,7 +4325,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-93", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjQ=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-93", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-93", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4347,7 +4347,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-93", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNjU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-93", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-93", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4372,7 +4372,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-94", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-94", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-94", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4394,7 +4394,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-94", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzA=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-94", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-94", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4419,7 +4419,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-95", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjY=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-95", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-95", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4441,7 +4441,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-95", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzI=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-95", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-95", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4466,7 +4466,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-96", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjc=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-96", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-96", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4488,7 +4488,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-96", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzU=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-96", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-96", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4513,7 +4513,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-97", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-97", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-97", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4535,7 +4535,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-97", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxNzg=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-97", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-97", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4560,7 +4560,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-dub-episode-98", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/NzUwNjk=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-dub-episode-98", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-dub-episode-98", introOffset: 0, outroOffset: 0 },
       ],
       episodeLength: 1387.177426,
     },
@@ -4575,7 +4575,7 @@ const dragonBallKai: series = {
         },
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-kai-episode-98", introOffset: 0, outroOffset: 0 },
         { source: "Gogo", video: "https://ygnv2.drive.moe/json/MTQxODE=", introOffset: 0, outroOffset: 0 },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-episode-98", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-episode-98", introOffset: 0, outroOffset: 0 },
       ],
       episodeLength: 1387.094015,
     },
@@ -4595,7 +4595,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-1",
+          video: "dragon-ball-kai-2014-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4620,7 +4620,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-1", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-1", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4647,7 +4647,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-2",
+          video: "dragon-ball-kai-2014-dub-episode-2",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4672,7 +4672,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-2", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-2", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4699,7 +4699,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-3",
+          video: "dragon-ball-kai-2014-dub-episode-3",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4724,7 +4724,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-3", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-3", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4751,7 +4751,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-4",
+          video: "dragon-ball-kai-2014-dub-episode-4",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4776,7 +4776,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-4", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-4", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4803,7 +4803,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-5",
+          video: "dragon-ball-kai-2014-dub-episode-5",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4828,7 +4828,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-5", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-5", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4855,7 +4855,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-6",
+          video: "dragon-ball-kai-2014-dub-episode-6",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4880,7 +4880,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-6", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-6", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4907,7 +4907,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-7",
+          video: "dragon-ball-kai-2014-dub-episode-7",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4932,7 +4932,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-7", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-7", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -4959,7 +4959,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-8",
+          video: "dragon-ball-kai-2014-dub-episode-8",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -4984,7 +4984,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-8", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-8", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -5011,7 +5011,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-9",
+          video: "dragon-ball-kai-2014-dub-episode-9",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5036,7 +5036,7 @@ const dragonBallKai: series = {
           introOffset: 0,
           outroOffset: 0,
         },
-        { source: "Gogoapi", video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-9", introOffset: 0, outroOffset: 0 },
+        { source: "Gogoapi", video: "dragon-ball-kai-2014-episode-9", introOffset: 0, outroOffset: 0 },
         {
           source: "AllAnime",
           video:
@@ -5063,7 +5063,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-10",
+          video: "dragon-ball-kai-2014-dub-episode-10",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5090,7 +5090,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-10",
+          video: "dragon-ball-kai-2014-episode-10",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5120,7 +5120,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-11",
+          video: "dragon-ball-kai-2014-dub-episode-11",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5147,7 +5147,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-11",
+          video: "dragon-ball-kai-2014-episode-11",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5177,7 +5177,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-12",
+          video: "dragon-ball-kai-2014-dub-episode-12",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5204,7 +5204,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-12",
+          video: "dragon-ball-kai-2014-episode-12",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5234,7 +5234,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-13",
+          video: "dragon-ball-kai-2014-dub-episode-13",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5261,7 +5261,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-13",
+          video: "dragon-ball-kai-2014-episode-13",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5291,7 +5291,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-14",
+          video: "dragon-ball-kai-2014-dub-episode-14",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5318,7 +5318,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-14",
+          video: "dragon-ball-kai-2014-episode-14",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5348,7 +5348,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-15",
+          video: "dragon-ball-kai-2014-dub-episode-15",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5375,7 +5375,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-15",
+          video: "dragon-ball-kai-2014-episode-15",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5398,7 +5398,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-16",
+          video: "dragon-ball-kai-2014-dub-episode-16",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5425,7 +5425,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-16",
+          video: "dragon-ball-kai-2014-episode-16",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5455,7 +5455,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-17",
+          video: "dragon-ball-kai-2014-dub-episode-17",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5482,7 +5482,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-17",
+          video: "dragon-ball-kai-2014-episode-17",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5512,7 +5512,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-18",
+          video: "dragon-ball-kai-2014-dub-episode-18",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5539,7 +5539,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-18",
+          video: "dragon-ball-kai-2014-episode-18",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5569,7 +5569,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-19",
+          video: "dragon-ball-kai-2014-dub-episode-19",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5596,7 +5596,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-19",
+          video: "dragon-ball-kai-2014-episode-19",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5626,7 +5626,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-20",
+          video: "dragon-ball-kai-2014-dub-episode-20",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5653,7 +5653,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-20",
+          video: "dragon-ball-kai-2014-episode-20",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5683,7 +5683,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-21",
+          video: "dragon-ball-kai-2014-dub-episode-21",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5710,7 +5710,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-21",
+          video: "dragon-ball-kai-2014-episode-21",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5740,7 +5740,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-22",
+          video: "dragon-ball-kai-2014-dub-episode-22",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5767,7 +5767,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-22",
+          video: "dragon-ball-kai-2014-episode-22",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5797,7 +5797,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-23",
+          video: "dragon-ball-kai-2014-dub-episode-23",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5824,7 +5824,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-23",
+          video: "dragon-ball-kai-2014-episode-23",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5854,7 +5854,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-24",
+          video: "dragon-ball-kai-2014-dub-episode-24",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5881,7 +5881,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-24",
+          video: "dragon-ball-kai-2014-episode-24",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5911,7 +5911,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-25",
+          video: "dragon-ball-kai-2014-dub-episode-25",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5938,7 +5938,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-25",
+          video: "dragon-ball-kai-2014-episode-25",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5968,7 +5968,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-26",
+          video: "dragon-ball-kai-2014-dub-episode-26",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -5995,7 +5995,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-26",
+          video: "dragon-ball-kai-2014-episode-26",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6025,7 +6025,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-27",
+          video: "dragon-ball-kai-2014-dub-episode-27",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6052,7 +6052,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-27",
+          video: "dragon-ball-kai-2014-episode-27",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6082,7 +6082,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-28",
+          video: "dragon-ball-kai-2014-dub-episode-28",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6109,7 +6109,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-28",
+          video: "dragon-ball-kai-2014-episode-28",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6139,7 +6139,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-29",
+          video: "dragon-ball-kai-2014-dub-episode-29",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6166,7 +6166,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-29",
+          video: "dragon-ball-kai-2014-episode-29",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6196,7 +6196,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-30",
+          video: "dragon-ball-kai-2014-dub-episode-30",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6223,7 +6223,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-30",
+          video: "dragon-ball-kai-2014-episode-30",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6253,7 +6253,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-31",
+          video: "dragon-ball-kai-2014-dub-episode-31",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6280,7 +6280,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-31",
+          video: "dragon-ball-kai-2014-episode-31",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6310,7 +6310,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-32",
+          video: "dragon-ball-kai-2014-dub-episode-32",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6337,7 +6337,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-32",
+          video: "dragon-ball-kai-2014-episode-32",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6367,7 +6367,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-33",
+          video: "dragon-ball-kai-2014-dub-episode-33",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6394,7 +6394,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-33",
+          video: "dragon-ball-kai-2014-episode-33",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6424,7 +6424,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-34",
+          video: "dragon-ball-kai-2014-dub-episode-34",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6451,7 +6451,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-34",
+          video: "dragon-ball-kai-2014-episode-34",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6481,7 +6481,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-35",
+          video: "dragon-ball-kai-2014-dub-episode-35",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6508,7 +6508,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-35",
+          video: "dragon-ball-kai-2014-episode-35",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6538,7 +6538,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-36",
+          video: "dragon-ball-kai-2014-dub-episode-36",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6565,7 +6565,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-36",
+          video: "dragon-ball-kai-2014-episode-36",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6595,7 +6595,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-37",
+          video: "dragon-ball-kai-2014-dub-episode-37",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6622,7 +6622,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-37",
+          video: "dragon-ball-kai-2014-episode-37",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6652,7 +6652,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-38",
+          video: "dragon-ball-kai-2014-dub-episode-38",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6679,7 +6679,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-38",
+          video: "dragon-ball-kai-2014-episode-38",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6709,7 +6709,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-39",
+          video: "dragon-ball-kai-2014-dub-episode-39",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6736,7 +6736,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-39",
+          video: "dragon-ball-kai-2014-episode-39",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6766,7 +6766,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-40",
+          video: "dragon-ball-kai-2014-dub-episode-40",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6793,7 +6793,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-40",
+          video: "dragon-ball-kai-2014-episode-40",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6823,7 +6823,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-41",
+          video: "dragon-ball-kai-2014-dub-episode-41",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6850,7 +6850,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-41",
+          video: "dragon-ball-kai-2014-episode-41",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6880,7 +6880,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-42",
+          video: "dragon-ball-kai-2014-dub-episode-42",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6907,7 +6907,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-42",
+          video: "dragon-ball-kai-2014-episode-42",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6937,7 +6937,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-43",
+          video: "dragon-ball-kai-2014-dub-episode-43",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6964,7 +6964,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-43",
+          video: "dragon-ball-kai-2014-episode-43",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -6994,7 +6994,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-44",
+          video: "dragon-ball-kai-2014-dub-episode-44",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7021,7 +7021,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-44",
+          video: "dragon-ball-kai-2014-episode-44",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7051,7 +7051,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-45",
+          video: "dragon-ball-kai-2014-dub-episode-45",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7078,7 +7078,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-45",
+          video: "dragon-ball-kai-2014-episode-45",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7108,7 +7108,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-46",
+          video: "dragon-ball-kai-2014-dub-episode-46",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7135,7 +7135,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-46",
+          video: "dragon-ball-kai-2014-episode-46",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7165,7 +7165,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-47",
+          video: "dragon-ball-kai-2014-dub-episode-47",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7192,7 +7192,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-47",
+          video: "dragon-ball-kai-2014-episode-47",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7222,7 +7222,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-48",
+          video: "dragon-ball-kai-2014-dub-episode-48",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7249,7 +7249,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-48",
+          video: "dragon-ball-kai-2014-episode-48",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7279,7 +7279,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-49",
+          video: "dragon-ball-kai-2014-dub-episode-49",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7306,7 +7306,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-49",
+          video: "dragon-ball-kai-2014-episode-49",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7336,7 +7336,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-50",
+          video: "dragon-ball-kai-2014-dub-episode-50",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7363,7 +7363,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-50",
+          video: "dragon-ball-kai-2014-episode-50",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7393,7 +7393,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-51",
+          video: "dragon-ball-kai-2014-dub-episode-51",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7420,7 +7420,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-51",
+          video: "dragon-ball-kai-2014-episode-51",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7450,7 +7450,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-52",
+          video: "dragon-ball-kai-2014-dub-episode-52",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7477,7 +7477,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-52",
+          video: "dragon-ball-kai-2014-episode-52",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7507,7 +7507,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-53",
+          video: "dragon-ball-kai-2014-dub-episode-53",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7534,7 +7534,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-53",
+          video: "dragon-ball-kai-2014-episode-53",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7564,7 +7564,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-54",
+          video: "dragon-ball-kai-2014-dub-episode-54",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7591,7 +7591,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-54",
+          video: "dragon-ball-kai-2014-episode-54",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7621,7 +7621,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-55",
+          video: "dragon-ball-kai-2014-dub-episode-55",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7648,7 +7648,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-55",
+          video: "dragon-ball-kai-2014-episode-55",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7678,7 +7678,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-56",
+          video: "dragon-ball-kai-2014-dub-episode-56",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7705,7 +7705,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-56",
+          video: "dragon-ball-kai-2014-episode-56",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7735,7 +7735,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-57",
+          video: "dragon-ball-kai-2014-dub-episode-57",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7762,7 +7762,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-57",
+          video: "dragon-ball-kai-2014-episode-57",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7792,7 +7792,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-58",
+          video: "dragon-ball-kai-2014-dub-episode-58",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7819,7 +7819,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-58",
+          video: "dragon-ball-kai-2014-episode-58",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7849,7 +7849,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-59",
+          video: "dragon-ball-kai-2014-dub-episode-59",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7876,7 +7876,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-59",
+          video: "dragon-ball-kai-2014-episode-59",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7906,7 +7906,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-60",
+          video: "dragon-ball-kai-2014-dub-episode-60",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7933,7 +7933,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-60",
+          video: "dragon-ball-kai-2014-episode-60",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7963,7 +7963,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-61",
+          video: "dragon-ball-kai-2014-dub-episode-61",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -7990,7 +7990,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-61",
+          video: "dragon-ball-kai-2014-episode-61",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8020,7 +8020,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-62",
+          video: "dragon-ball-kai-2014-dub-episode-62",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8047,7 +8047,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-62",
+          video: "dragon-ball-kai-2014-episode-62",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8077,7 +8077,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-63",
+          video: "dragon-ball-kai-2014-dub-episode-63",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8104,7 +8104,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-63",
+          video: "dragon-ball-kai-2014-episode-63",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8134,7 +8134,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-64",
+          video: "dragon-ball-kai-2014-dub-episode-64",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8161,7 +8161,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-64",
+          video: "dragon-ball-kai-2014-episode-64",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8191,7 +8191,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-65",
+          video: "dragon-ball-kai-2014-dub-episode-65",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8218,7 +8218,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-65",
+          video: "dragon-ball-kai-2014-episode-65",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8248,7 +8248,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-66",
+          video: "dragon-ball-kai-2014-dub-episode-66",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8275,7 +8275,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-66",
+          video: "dragon-ball-kai-2014-episode-66",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8305,7 +8305,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-67",
+          video: "dragon-ball-kai-2014-dub-episode-67",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8332,7 +8332,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-67",
+          video: "dragon-ball-kai-2014-episode-67",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8362,7 +8362,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-68",
+          video: "dragon-ball-kai-2014-dub-episode-68",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8389,7 +8389,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-68",
+          video: "dragon-ball-kai-2014-episode-68",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8419,7 +8419,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-dub-episode-69",
+          video: "dragon-ball-kai-2014-dub-episode-69",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -8446,7 +8446,7 @@ const dragonBallKai: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-kai-2014-episode-69",
+          video: "dragon-ball-kai-2014-episode-69",
           introOffset: 0,
           outroOffset: 0,
         },

@@ -1,6 +1,6 @@
 import axios from "axios";
 import { file } from "../senzuTypes";
-
+import { ANIME } from "@consumet/extensions";
 export default class Scraper {
   private static proxy = "http://localhost:8080/";
   static urlOrganizer(url: string) {
@@ -29,13 +29,14 @@ export default class Scraper {
     }
   }
 
-  static async gogoApiScrape(url: string): Promise<file | Array<file> | string> {
+  static async gogoApiScrape(episodeId: string): Promise<file | Array<file> | string> {
     try {
-      const response = await axios.get(Scraper.proxy + url, { timeout: 3000 });
-      if (response.data.sources) {
-        const output: file[] = response.data.sources.map((source: any) => ({
+      const gogoanime = new ANIME.Gogoanime();
+      const response = await gogoanime.fetchEpisodeSources(episodeId);
+      if (response.sources) {
+        const output: file[] = response.sources.map((source) => ({
           file: source.url,
-          label: source.quality,
+          label: source.quality || "",
           type: source.isM3U8 ? "hls" : "mp4",
         }));
 

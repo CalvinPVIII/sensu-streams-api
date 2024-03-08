@@ -14,7 +14,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dead-zone-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-01-the-dead-zone-dub-episode-1",
+          video: "dragon-ball-z-movie-01-the-dead-zone-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -34,7 +34,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-dead-zone/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-1-dead-zone-episode-1",
+          video: "dragon-ball-z-movie-1-dead-zone-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -57,7 +57,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-the-worlds-strongest-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-02-the-worlds-strongest-dub-episode-1",
+          video: "dragon-ball-z-movie-02-the-worlds-strongest-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -77,7 +77,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-the-worlds-strongest/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-2-worlds-strongest-episode-1",
+          video: "dragon-ball-z-movie-2-worlds-strongest-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -100,7 +100,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-the-tree-of-might-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-03-the-tree-of-might-dub-episode-1",
+          video: "dragon-ball-z-movie-03-the-tree-of-might-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -120,7 +120,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-the-tree-of-might/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-3-tree-of-might-episode-1",
+          video: "dragon-ball-z-movie-3-tree-of-might-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -143,7 +143,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-lord-slug-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-04-lord-slug-dub-episode-1",
+          video: "dragon-ball-z-movie-04-lord-slug-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -163,7 +163,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-lord-slug/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-4-lord-slug-episode-1",
+          video: "dragon-ball-z-movie-4-lord-slug-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -186,7 +186,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-bardock-the-father-of-goku-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen-dub-episode-1",
+          video: "dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -206,7 +206,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-bardock-the-father-of-goku/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen-episode-1",
+          video: "dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -229,7 +229,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-coolers-revenge-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-05-coolers-revenge-dub-episode-1",
+          video: "dragon-ball-z-movie-05-coolers-revenge-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -249,7 +249,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-coolers-revenge/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-5-coolers-revenge-episode-1",
+          video: "dragon-ball-z-movie-5-coolers-revenge-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -272,7 +272,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-the-return-of-cooler-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-06-the-return-of-cooler-dub-episode-1",
+          video: "dragon-ball-z-movie-06-the-return-of-cooler-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -292,7 +292,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-the-return-of-cooler/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-6-the-return-of-cooler-episode-1",
+          video: "dragon-ball-z-movie-6-the-return-of-cooler-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -315,7 +315,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-super-android-13-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-07-super-android-13-dub-episode-1",
+          video: "dragon-ball-z-movie-07-super-android-13-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -335,7 +335,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-super-android-13/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-7-super-android-13-episode-1",
+          video: "dragon-ball-z-movie-7-super-android-13-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -359,7 +359,7 @@ const dbzMovies: series = {
         {
           source: "Gogoapi",
           video:
-            "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks-dub-episode-1",
+            "dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -380,7 +380,7 @@ const dbzMovies: series = {
         {
           source: "Gogoapi",
           video:
-            "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks-episode-1",
+            "dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -408,7 +408,7 @@ const dbzMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-08-broly-the-legendary-super-saiyan-dub-episode-1",
+          video: "dragon-ball-z-movie-08-broly-the-legendary-super-saiyan-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -428,7 +428,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-broly-the-legendary-super-saiyan/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-8-broly-the-legendary-super-saiyan-episode-1",
+          video: "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -451,7 +451,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-bojack-unbound-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-09-bojack-unbound-dub-episode-1",
+          video: "dragon-ball-z-movie-09-bojack-unbound-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -471,7 +471,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-bojack-unbound/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-9-bojack-unbound-episode-1",
+          video: "dragon-ball-z-movie-9-bojack-unbound-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -494,7 +494,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-broly-second-coming-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-10-broly-second-coming-dub-episode-1",
+          video: "dragon-ball-z-movie-10-broly-second-coming-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -514,7 +514,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-broly-second-coming/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-10-broly-second-coming-episode-1",
+          video: "dragon-ball-z-movie-10-broly-second-coming-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -537,7 +537,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-bio-broly-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-11-bio-broly-dub-episode-1",
+          video: "dragon-ball-z-movie-11-bio-broly-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -557,7 +557,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-bio-broly/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-11-bio-broly-episode-1",
+          video: "dragon-ball-z-movie-11-bio-broly-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -580,7 +580,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-fusion-reborn-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-12-fusion-reborn-dub-episode-1",
+          video: "dragon-ball-z-movie-12-fusion-reborn-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -600,7 +600,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-fusion-reborn/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-12-fusion-reborn-episode-1",
+          video: "dragon-ball-z-movie-12-fusion-reborn-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -623,7 +623,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-wrath-of-the-dragon-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-13-wrath-of-the-dragon-dub-episode-1",
+          video: "dragon-ball-z-movie-13-wrath-of-the-dragon-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -643,7 +643,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-wrath-of-the-dragon/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-13-wrath-of-the-dragon-episode-1",
+          video: "dragon-ball-z-movie-13-wrath-of-the-dragon-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -666,7 +666,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-battle-of-gods-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-14-battle-of-gods-dub-episode-1",
+          video: "dragon-ball-z-movie-14-battle-of-gods-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -686,7 +686,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-battle-of-gods/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-14-kami-to-kami-episode-1",
+          video: "dragon-ball-z-movie-14-kami-to-kami-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -709,7 +709,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-resurrection-f-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-15-fukkatsu-no-f-dub-episode-1",
+          video: "dragon-ball-z-movie-15-fukkatsu-no-f-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -729,7 +729,7 @@ const dbzMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-z-resurrection-f/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-z-movie-15-fukkatsu-no-f-episode-1",
+          video: "dragon-ball-z-movie-15-fukkatsu-no-f-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },

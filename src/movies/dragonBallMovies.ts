@@ -14,7 +14,7 @@ const dbMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-curse-of-the-blood-rubies-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-dub-episode-1",
+          video: "dragon-ball-movie-1-curse-of-the-blood-rubies-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -34,7 +34,7 @@ const dbMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-curse-of-the-blood-rubies/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-1-curse-of-the-blood-rubies-episode-1",
+          video: "dragon-ball-movie-1-curse-of-the-blood-rubies-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -62,7 +62,7 @@ const dbMovies: series = {
         },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-dub-episode-1",
+          video: "dragon-ball-movie-2-sleeping-princess-in-devils-castle-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -82,7 +82,7 @@ const dbMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-sleeping-princess-in-devils-castle/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-2-sleeping-princess-in-devils-castle-episode-1",
+          video: "dragon-ball-movie-2-sleeping-princess-in-devils-castle-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -105,7 +105,7 @@ const dbMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-mystical-adventure-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-3-mystical-adventure-dub-episode-1",
+          video: "dragon-ball-movie-3-mystical-adventure-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -125,7 +125,7 @@ const dbMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-mystical-adventure/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-3-mystical-adventure-episode-1",
+          video: "dragon-ball-movie-3-mystical-adventure-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
@@ -148,7 +148,7 @@ const dbMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-the-path-to-power-dub/full", introOffset: 0, outroOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-4-the-path-to-power-dub-episode-1",
+          video: "dragon-ball-movie-4-the-path-to-power-dub-episode-1",
           introOffset: 0,
           outroOffset: 0,
         },
@@ -168,7 +168,7 @@ const dbMovies: series = {
         { source: "Gogoanime", video: "https://gogoanime.lol/dragon-ball-the-path-to-power/full", outroOffset: 0, introOffset: 0 },
         {
           source: "Gogoapi",
-          video: "https://api.consumet.org/anime/gogoanime/watch/dragon-ball-movie-4-the-path-to-power-episode-1",
+          video: "dragon-ball-movie-4-the-path-to-power-episode-1",
           outroOffset: 0,
           introOffset: 0,
         },
